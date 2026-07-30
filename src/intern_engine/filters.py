@@ -27,7 +27,7 @@ _INCLUDE_RE = re.compile(
     r"software|developer|swe|full[\s-]?stack|front[\s-]?end|back[\s-]?end|"
     r"web developer|web engineer|mobile|ios|android|devops|sre|site reliability|"
     r"infrastructure|platform engineer|platform engineering|distributed systems|"
-    r"operating system|compiler|embedded|firmware|"
+    r"operating system|compiler|embedded|firmware|structural|mechanical|robotics"
     r"cyber|cybersecurity|appsec|application security|information security|infosec|"
     r"security engineer|"
     r"data science|data scientist|data engineer|data analyst|analytics engineer|"
@@ -39,9 +39,9 @@ _INCLUDE_RE = re.compile(
 )
 _EXCLUDE_RE = re.compile(
     r"\b("
-    r"mechanical|aerospace|aeronautical|astrodynamics|aerodynamic|propulsion|avionics|"
+    r"aerospace|aeronautical|astrodynamics|aerodynamic|propulsion|avionics|"
     r"guidance|navigation|gnc|naval|civil engineer|chemical|chemistry|chemist|"
-    r"biology|biological|materials|structural|thermal|fluid|manufacturing|"
+    r"biology|biological|materials|thermal|fluid|manufacturing|"
     r"industrial engineer|electrical|fpga|asic|pcb|analog|photonics|optical|"
     r"hardware|physical design|silicon|semiconductor|vlsi|rtl|"
     r"recruit|recruiting|recruiter|sales|account executive|account manager|"

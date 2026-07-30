@@ -17510,6 +17510,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Rollout",
+    "slug": "rollout",
+    "ats": "ashby"
+  },
+  {
     "name": "Rolls-Royce",
     "slug": "rollsroyce",
     "ats": "workday",

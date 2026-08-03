@@ -22,12 +22,13 @@ A posting must pass all of:
 
 1. **It's an internship or co-op** — whole-word match on intern/internship/co-op
    in the title, and *not* a senior/staff/manager title.
-2. **It's a tech role** — software, data, ML/AI, or security. A bare "engineer"
-   isn't enough (that admits mechanical, civil, aerospace). Two adjacent
-   categories are kept deliberately: **Quant** (quant dev / trading tech, which
-   is software work students filter for) and a small number of **Hardware**
-   roles whose titles are software-first (embedded, firmware). The dashboard's
-   category filter separates all of them, so you can exclude either.
+2. **It's a tech / ME role** — software, data, ML/AI, security, mechanical,
+   robotics, aerospace, manufacturing, and related ME specialties. A bare
+   "engineer" isn't enough (that admits civil, chemical, and other fields we
+   don't track). Two adjacent categories are kept deliberately: **Quant**
+   (quant dev / trading tech) and **Hardware** (mechanical, robotics,
+   embedded, firmware, aero). The dashboard's category filter separates all
+   of them, so you can exclude either.
 3. **It's in the configured region** — United States by default.
 4. **It maps to a tracked cycle** — see below.
 

@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    "greenhouse:databricks:6883068002",
+    "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f",
+    "greenhouse:gemini:8041452",
+    "greenhouse:lilasciences:4286512009",
+    "ashby:maticrobots:a923166f-ddce-4b4c-9797-0a30ef56b9a5",
+    "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
+    "smartrecruiters:BoschGroup:744000140457960",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1006349",
+    "greenhouse:toshibaglobalcommercesolutions:5195826007"
+  ]
 }

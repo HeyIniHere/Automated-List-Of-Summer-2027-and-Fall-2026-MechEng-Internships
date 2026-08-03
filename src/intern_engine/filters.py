@@ -17,33 +17,39 @@ _SENIOR_RE = re.compile(
 )
 
 # --- tech-role detection -----------------------------------------------------
-# We keep ONLY software / data / ML / security roles. A role must match an
-# INCLUDE term and must NOT match an EXCLUDE term. The exclude list removes
-# non-software engineering (mechanical, aerospace, electrical/hardware, etc.)
-# and non-technical roles (recruiting, sales, marketing, ...). Note we do NOT
-# treat a bare "engineer" as tech — that word alone lets in mech/aero/civil.
+# A role must match an INCLUDE term and must NOT match an EXCLUDE term.
+# INCLUDE covers software / data / ML / security plus mechanical / robotics /
+# structural (and related ME specialties). EXCLUDE drops civil/chem/bio and
+# non-technical roles (recruiting, sales, marketing, ...). Note we do NOT
+# treat a bare "engineer" as tech — that word alone is too broad.
 _INCLUDE_RE = re.compile(
     r"\b("
     r"software|developer|swe|full[\s-]?stack|front[\s-]?end|back[\s-]?end|"
     r"web developer|web engineer|mobile|ios|android|devops|sre|site reliability|"
     r"infrastructure|platform engineer|platform engineering|distributed systems|"
-    r"operating system|compiler|embedded|firmware|structural|mechanical|robotics"
+    r"operating system|compiler|embedded|firmware|"
+    r"mechanical|structural|robotics|mechatronics|aerospace|aeronautical|"
+    r"manufacturing|thermal|fluid|"
+    r"materials engineer|materials engineering|"
+    r"industrial engineer|industrial engineering|"
     r"cyber|cybersecurity|appsec|application security|information security|infosec|"
     r"security engineer|"
     r"data science|data scientist|data engineer|data analyst|analytics engineer|"
     r"machine learning|ml|deep learning|ai|artificial intelligence|nlp|computer vision|"
     r"research scientist|applied scientist|research engineer|ml engineer|ai engineer|"
-    r"quantitative developer|quant developer|computer science|programming"
+    r"quantitative developer|quant developer|computer science|product manager|product management|programming"
     r")\b",
     re.IGNORECASE,
 )
 _EXCLUDE_RE = re.compile(
     r"\b("
-    r"aerospace|aeronautical|astrodynamics|aerodynamic|propulsion|avionics|"
-    r"guidance|navigation|gnc|naval|civil engineer|chemical|chemistry|chemist|"
-    r"biology|biological|materials|thermal|fluid|manufacturing|"
-    r"industrial engineer|electrical|fpga|asic|pcb|analog|photonics|optical|"
-    r"hardware|physical design|silicon|semiconductor|vlsi|rtl|"
+    # Non-ME adjacent engineering and pure silicon/EE specialties. ME terms
+    # (mechanical, robotics, manufacturing, materials, thermal, fluid, aero)
+    # live in INCLUDE instead — exclude used to kill those titles.
+    r"naval|civil engineer|chemical|chemistry|chemist|"
+    r"biology|biological|"
+    r"fpga|asic|pcb|analog|photonics|optical|"
+    r"physical design|silicon|semiconductor|vlsi|rtl|"
     r"recruit|recruiting|recruiter|sales|account executive|account manager|"
     r"account management|marketing|marketer|unpaid|"
     r"legal|counsel|accounting|human resources|people operations|people team|"
@@ -53,7 +59,7 @@ _EXCLUDE_RE = re.compile(
     r"talent acquisition|talent management|talent partner|talent sourcing|"
     r"talent operations|talent development|"
     r"communications|supply chain|business development|product design|product designer|"
-    r"product manager|product management|ux design|graphic design|industrial design|"
+    r"ux design|graphic design|industrial design|"
     r"phd|ph\.d|doctoral"
     r")\b",
     re.IGNORECASE,
@@ -76,7 +82,7 @@ def is_internship(title: str) -> bool:
 
 
 def is_tech(title: str) -> bool:
-    """Keep software/data/ML/security roles; reject hardware/mech/non-tech."""
+    """Keep software/data/ML/security/ME/robotics roles; reject non-tech."""
     if _EXCLUDE_RE.search(title):
         return False
     return bool(_INCLUDE_RE.search(title))
@@ -543,8 +549,9 @@ _CATEGORY_PATTERNS = [
     (
         "Hardware",
         re.compile(
-            r"\b(hardware|electrical|firmware|asic|fpga|robotics|mechanical|"
-            r"chip|silicon|manufacturing|industrial|analog|photonics|optical)\b",
+            r"\b(hardware|electrical|structural|firmware|asic|fpga|robotics|mechanical|"
+            r"mechatronics|aerospace|aeronautical|chip|silicon|manufacturing|"
+            r"industrial|analog|photonics|optical|materials|thermal|fluid)\b",
             re.IGNORECASE,
         ),
     ),
@@ -552,9 +559,9 @@ _CATEGORY_PATTERNS = [
     (
         "Software",
         re.compile(
-            r"\b(software|developer|swe|backend|frontend|full[\s-]?stack|"
+            r"\b(software|developer|swe|backend|frontend|full[\s-]?stack|product manager|"
             r"mobile|ios|android|devops|sre|infrastructure|platform|systems|"
-            r"cloud|web|compiler|embedded|firmware|engineer|engineering|"
+            r"cloud|web|compiler|embedded|firmware|engineer|engineering|product management|"
             r"programming|computer science)\b",
             re.IGNORECASE,
         ),

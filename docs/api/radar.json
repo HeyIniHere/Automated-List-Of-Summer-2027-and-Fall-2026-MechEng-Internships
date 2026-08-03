@@ -1,8 +1,22 @@
 {
- "generated_at": "2026-07-30T19:25:20Z",
+ "generated_at": "2026-07-30T20:42:50Z",
  "cycle": "Summer 2027",
- "source": "https://github.com/zshah101/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships",
+ "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
+  {
+   "company": "Databricks",
+   "last_cycle_posted": "",
+   "posted_on": "2023-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2023-08-17",
+   "days_until": -1078,
+   "status": "open",
+   "url": "https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002",
+   "note": "rolling from Aug"
+  },
   {
    "company": "Ellipsis Labs",
    "last_cycle_posted": "",
@@ -242,6 +256,20 @@
    "note": ""
   },
   {
+   "company": "Mosaic",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-22",
+   "days_until": -8,
+   "status": "open",
+   "url": "https://mosaic.wd5.myworkdayjobs.com/mosaic/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448",
+   "note": ""
+  },
+  {
    "company": "Anthelion Capital",
    "last_cycle_posted": "",
    "posted_on": "2026-07-23",
@@ -352,20 +380,6 @@
    "status": "waiting",
    "url": "",
    "note": "Aug-Oct"
-  },
-  {
-   "company": "Databricks",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": 2,
-   "status": "waiting",
-   "url": "",
-   "note": "rolling from Aug"
   },
   {
    "company": "DoorDash",
@@ -830,5 +844,5 @@
    "note": "rolling from mid-summer, very early"
   }
  ],
- "count": 59
+ "count": 60
 }

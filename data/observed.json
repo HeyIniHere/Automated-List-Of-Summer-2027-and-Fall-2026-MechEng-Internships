@@ -259,6 +259,18 @@
     }
    }
   },
+  "databricks": {
+   "name": "Databricks",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2023-08-17",
+     "role_ids": [
+      "greenhouse:databricks:6883068002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "deepgram": {
    "name": "Deepgram",
    "cycles": {
@@ -314,6 +326,18 @@
     }
    }
   },
+  "field ai": {
+   "name": "Field AI",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-02-17",
+     "role_ids": [
+      "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "figure": {
    "name": "Figure",
    "cycles": {
@@ -355,9 +379,10 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-05-01",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:gemini:7875125"
+      "greenhouse:gemini:7875125",
+      "greenhouse:gemini:8041452"
      ]
     }
    }
@@ -493,6 +518,13 @@
      "first_posted": "2026-07-27",
      "role_ids": [
       "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-07-22",
+     "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448"
      ],
      "count": 1
     }
@@ -766,6 +798,18 @@
     }
    }
   },
+  "stantec": {
+   "name": "Stantec",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-06-18",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
+     ],
+     "count": 1
+    }
+   }
+  },
   "state street": {
    "name": "State Street",
    "cycles": {
@@ -845,9 +889,10 @@
      "role_ids": [
       "greenhouse:toshibaglobalcommercesolutions:5177892007",
       "greenhouse:toshibaglobalcommercesolutions:5190937007",
-      "greenhouse:toshibaglobalcommercesolutions:5192820007"
+      "greenhouse:toshibaglobalcommercesolutions:5192820007",
+      "greenhouse:toshibaglobalcommercesolutions:5195826007"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -989,5 +1034,5 @@
    }
   }
  },
- "updated_at": "2026-07-30T19:25:19Z"
+ "updated_at": "2026-07-30T20:42:49Z"
 }

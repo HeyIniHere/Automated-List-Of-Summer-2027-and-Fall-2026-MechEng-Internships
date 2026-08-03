@@ -11,14 +11,14 @@ REFRESH-INTERVAL;VALUE=DURATION:PT12H
 X-PUBLISHED-TTL:PT12H
 BEGIN:VEVENT
 UID:radar-citadel-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Citadel — typically opens (Summer 2027)
 DESCRIPTION:Citadel typically opens around this date.  hand-checked typical
-  opening month (month-level\, not a day)  Aug-Oct  Radar: https://zshah101
- .github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#r
- adar
+  opening month (month-level\, not a day)  Aug-Oct  Radar: https://heyinihe
+ re.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internshi
+ ps/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -28,14 +28,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-citadel securities-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Citadel Securities — typically opens (Summer 2027)
 DESCRIPTION:Citadel Securities typically opens around this date.  hand-chec
  ked typical opening month (month-level\, not a day)  Aug-Oct  Radar: https
- ://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Int
- ernships/#radar
+ ://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEn
+ g-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -44,32 +44,15 @@ DESCRIPTION:Citadel Securities internships open soon
 END:VALARM
 END:VEVENT
 BEGIN:VEVENT
-UID:radar-databricks-20260801@intern-engine
-DTSTAMP:20260730T192521Z
-DTSTART;VALUE=DATE:20260801
-DTEND;VALUE=DATE:20260802
-SUMMARY:Databricks — typically opens (Summer 2027)
-DESCRIPTION:Databricks typically opens around this date.  hand-checked typi
- cal opening month (month-level\, not a day)  rolling from Aug  Radar: http
- s://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-In
- ternships/#radar
-TRANSP:TRANSPARENT
-BEGIN:VALARM
-TRIGGER:-P7D
-ACTION:DISPLAY
-DESCRIPTION:Databricks internships open soon
-END:VALARM
-END:VEVENT
-BEGIN:VEVENT
 UID:radar-doordash-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:DoorDash — typically opens (Summer 2027)
 DESCRIPTION:DoorDash typically opens around this date.  hand-checked typica
  l opening month (month-level\, not a day)  opens ~Aug-Sep  Radar: https://
- zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Intern
- ships/#radar
+ heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-I
+ nternships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -79,14 +62,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-drw-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:DRW — typically opens (Summer 2027)
 DESCRIPTION:DRW typically opens around this date.  hand-checked typical ope
  ning month (month-level\, not a day)  opens ~Aug\, early mover  Radar: htt
- ps://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-I
- nternships/#radar
+ ps://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Mech
+ Eng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -96,14 +79,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-google-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Google — typically opens (Summer 2027)
 DESCRIPTION:Google typically opens around this date.  hand-checked typical 
  opening month (month-level\, not a day)  Aug-Oct main window  Radar: https
- ://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Int
- ernships/#radar
+ ://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEn
+ g-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -113,14 +96,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-jane street-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Jane Street — typically opens (Summer 2027)
 DESCRIPTION:Jane Street typically opens around this date.  hand-checked typ
  ical opening month (month-level\, not a day)  opens ~Aug\, rolling  Radar:
-  https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Te
- ch-Internships/#radar
+  https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
+ MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -130,14 +113,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-meta-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Meta — typically opens (Summer 2027)
 DESCRIPTION:Meta typically opens around this date.  hand-checked typical op
  ening month (month-level\, not a day)  late Aug\, rolling into Nov  Radar:
-  https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Te
- ch-Internships/#radar
+  https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
+ MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -147,14 +130,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-optiver-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Optiver — typically opens (Summer 2027)
 DESCRIPTION:Optiver typically opens around this date.  hand-checked typical
   opening month (month-level\, not a day)  opens ~Aug for next summer  Rada
- r: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
- Tech-Internships/#radar
+ r: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-202
+ 6-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -164,14 +147,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-pinterest-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Pinterest — typically opens (Summer 2027)
 DESCRIPTION:Pinterest typically opens around this date.  hand-checked typic
  al opening month (month-level\, not a day)  opens late summer for next yea
- r  Radar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fal
- l-2026-Tech-Internships/#radar
+ r  Radar: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-F
+ all-2026-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -181,14 +164,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-salesforce-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Salesforce — typically opens (Summer 2027)
 DESCRIPTION:Salesforce typically opens around this date.  hand-checked typi
  cal opening month (month-level\, not a day)  Futureforce\, opens late summ
- er  Radar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fa
- ll-2026-Tech-Internships/#radar
+ er  Radar: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-
+ Fall-2026-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -198,14 +181,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-sig-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:SIG — typically opens (Summer 2027)
 DESCRIPTION:SIG typically opens around this date.  hand-checked typical ope
  ning month (month-level\, not a day)  Susquehanna\, opens ~Aug  Radar: htt
- ps://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-I
- nternships/#radar
+ ps://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Mech
+ Eng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -215,14 +198,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-snowflake-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Snowflake — typically opens (Summer 2027)
 DESCRIPTION:Snowflake typically opens around this date.  hand-checked typic
  al opening month (month-level\, not a day)  opens ~Aug\, rolling  Radar: h
- ttps://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech
- -Internships/#radar
+ ttps://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Me
+ chEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -232,14 +215,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-uber-20260801@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260801
 DTEND;VALUE=DATE:20260802
 SUMMARY:Uber — typically opens (Summer 2027)
 DESCRIPTION:Uber typically opens around this date.  hand-checked typical op
  ening month (month-level\, not a day)  opens late summer\, rolling  Radar:
-  https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Te
- ch-Internships/#radar
+  https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
+ MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -249,14 +232,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-adobe-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Adobe — typically opens (Summer 2027)
 DESCRIPTION:Adobe typically opens around this date.  hand-checked typical o
  pening month (month-level\, not a day)  Sep-Oct main window  Radar: https:
- //zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Inte
- rnships/#radar
+ //heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng
+ -Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -266,14 +249,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-airbnb-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Airbnb — typically opens (Summer 2027)
 DESCRIPTION:Airbnb typically opens around this date.  hand-checked typical 
- opening month (month-level\, not a day)  opens ~Sep  Radar: https://zshah1
- 01.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/
- #radar
+ opening month (month-level\, not a day)  opens ~Sep  Radar: https://heyini
+ here.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Interns
+ hips/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -283,14 +266,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-bloomberg-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Bloomberg — typically opens (Summer 2027)
 DESCRIPTION:Bloomberg typically opens around this date.  hand-checked typic
  al opening month (month-level\, not a day)  opens early fall\, rolling rev
- iew  Radar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-F
- all-2026-Tech-Internships/#radar
+ iew  Radar: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and
+ -Fall-2026-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -300,14 +283,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-dropbox-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Dropbox — typically opens (Summer 2027)
 DESCRIPTION:Dropbox typically opens around this date.  hand-checked typical
-  opening month (month-level\, not a day)  opens ~Sep  Radar: https://zshah
- 101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships
- /#radar
+  opening month (month-level\, not a day)  opens ~Sep  Radar: https://heyin
+ ihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Intern
+ ships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -317,14 +300,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-plaid-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Plaid — typically opens (Summer 2027)
 DESCRIPTION:Plaid typically opens around this date.  hand-checked typical o
- pening month (month-level\, not a day)  opens fall  Radar: https://zshah10
- 1.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internships/#
- radar
+ pening month (month-level\, not a day)  opens fall  Radar: https://heyinih
+ ere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internsh
+ ips/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -334,14 +317,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-point72-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Point72 — typically opens (Summer 2027)
 DESCRIPTION:Point72 typically opens around this date.  hand-checked typical
   opening month (month-level\, not a day)  Cubist/academy\, opens fall  Rad
- ar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026
- -Tech-Internships/#radar
+ ar: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-20
+ 26-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -351,14 +334,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-robinhood-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Robinhood — typically opens (Summer 2027)
 DESCRIPTION:Robinhood typically opens around this date.  hand-checked typic
- al opening month (month-level\, not a day)  opens fall  Radar: https://zsh
- ah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Internshi
- ps/#radar
+ al opening month (month-level\, not a day)  opens fall  Radar: https://hey
+ inihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Inte
+ rnships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -368,14 +351,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-roblox-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Roblox — typically opens (Summer 2027)
 DESCRIPTION:Roblox typically opens around this date.  hand-checked typical 
  opening month (month-level\, not a day)  opens fall for next summer  Radar
- : https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-T
- ech-Internships/#radar
+ : https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026
+ -MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -385,14 +368,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-stripe-20260901@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20260901
 DTEND;VALUE=DATE:20260902
 SUMMARY:Stripe — typically opens (Summer 2027)
 DESCRIPTION:Stripe typically opens around this date.  hand-checked typical 
  opening month (month-level\, not a day)  early Sept\, closes mid-Nov  Rada
- r: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
- Tech-Internships/#radar
+ r: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-202
+ 6-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -402,14 +385,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-d e shaw-20261001@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20261001
 DTEND;VALUE=DATE:20261002
 SUMMARY:D.E. Shaw — typically opens (Summer 2027)
 DESCRIPTION:D.E. Shaw typically opens around this date.  hand-checked typic
  al opening month (month-level\, not a day)  apply by end of prior year\; c
- lass set early Q1  Radar: https://zshah101.github.io/Automated-List-Of-Sum
- mer-2027-and-Fall-2026-Tech-Internships/#radar
+ lass set early Q1  Radar: https://heyinihere.github.io/Automated-List-Of-S
+ ummer-2027-and-Fall-2026-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -419,14 +402,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-coinbase-20261201@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Coinbase — typically opens (Summer 2027)
 DESCRIPTION:Coinbase typically opens around this date.  hand-checked typica
  l opening month (month-level\, not a day)  Dec-Jan\, peak hiring Feb  Rada
- r: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-
- Tech-Internships/#radar
+ r: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-202
+ 6-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -436,14 +419,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-ramp-20261201@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Ramp — typically opens (Summer 2027)
 DESCRIPTION:Ramp typically opens around this date.  hand-checked typical op
  ening month (month-level\, not a day)  Dec-Jan early movers  Radar: https:
- //zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-Tech-Inte
- rnships/#radar
+ //heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng
+ -Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D
@@ -453,14 +436,14 @@ END:VALARM
 END:VEVENT
 BEGIN:VEVENT
 UID:radar-two sigma-20261201@intern-engine
-DTSTAMP:20260730T192521Z
+DTSTAMP:20260803T191659Z
 DTSTART;VALUE=DATE:20261201
 DTEND;VALUE=DATE:20261202
 SUMMARY:Two Sigma — typically opens (Summer 2027)
 DESCRIPTION:Two Sigma typically opens around this date.  hand-checked typic
  al opening month (month-level\, not a day)  opens ~Dec\, deadline late Feb
-   Radar: https://zshah101.github.io/Automated-List-Of-Summer-2027-and-Fall
- -2026-Tech-Internships/#radar
+   Radar: https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fa
+ ll-2026-MechEng-Internships/#radar
 TRANSP:TRANSPARENT
 BEGIN:VALARM
 TRIGGER:-P7D

@@ -58,7 +58,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2025-10-08",
-     "count": 19,
+     "count": 20,
      "role_ids": [
       "amazon:amazon:10375983",
       "amazon:amazon:10375998",
@@ -76,6 +76,7 @@
       "amazon:amazon:3122111",
       "amazon:amazon:3132414",
       "amazon:amazon:3136266",
+      "amazon:amazon:3145033",
       "amazon:amazon:3147202",
       "amazon:amazon:3149133",
       "amazon:amazon:3204846"
@@ -97,9 +98,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 1,
+     "count": 3,
      "role_ids": [
-      "greenhouse:andurilindustries:5148079007"
+      "greenhouse:andurilindustries:5148079007",
+      "greenhouse:andurilindustries:5153187007",
+      "greenhouse:andurilindustries:5153218007"
      ]
     }
    }
@@ -126,6 +129,19 @@
       "greenhouse:appian:8041237",
       "greenhouse:appian:8088496"
      ]
+    }
+   }
+  },
+  "applied materials": {
+   "name": "Applied Materials",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-01",
+     "role_ids": [
+      "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503",
+      "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"
+     ],
+     "count": 2
     }
    }
   },
@@ -240,8 +256,9 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-20",
-     "count": 1,
+     "count": 2,
      "role_ids": [
+      "greenhouse:chicagotradingcampus:4716932005",
       "greenhouse:ctccampusboard:4708230005"
      ]
     }
@@ -256,6 +273,18 @@
      "role_ids": [
       "ashby:creatify:75a1f1ad-13d2-4513-952c-71b6dfcaa84f"
      ]
+    }
+   }
+  },
+  "databricks": {
+   "name": "Databricks",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2023-08-17",
+     "role_ids": [
+      "greenhouse:databricks:6883068002"
+     ],
+     "count": 1
     }
    }
   },
@@ -314,13 +343,26 @@
     }
    }
   },
+  "field ai": {
+   "name": "Field AI",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-02-17",
+     "role_ids": [
+      "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "figure": {
    "name": "Figure",
    "cycles": {
     "Fall 2026": {
-     "first_posted": "2026-06-22",
-     "count": 1,
+     "first_posted": "2023-11-09",
+     "count": 2,
      "role_ids": [
+      "greenhouse:figureai:4303098006",
       "greenhouse:figureai:4691070006"
      ]
     }
@@ -335,6 +377,18 @@
      "role_ids": [
       "greenhouse:fiveringsllc:5349707008"
      ]
+    }
+   }
+  },
+  "flextronics international": {
+   "name": "Flextronics International",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-30",
+     "role_ids": [
+      "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"
+     ],
+     "count": 1
     }
    }
   },
@@ -355,9 +409,10 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-05-01",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:gemini:7875125"
+      "greenhouse:gemini:7875125",
+      "greenhouse:gemini:8041452"
      ]
     }
    }
@@ -374,18 +429,44 @@
     }
    }
   },
+  "heliux": {
+   "name": "Heliux",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "ashby:heliux:ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hermeus": {
    "name": "Hermeus",
    "cycles": {
     "Fall 2026": {
-     "first_posted": "2026-03-04",
-     "count": 4,
+     "first_posted": "2025-09-30",
+     "count": 6,
      "role_ids": [
       "lever:hermeus:10d69ef6-a754-42ab-833c-76adf01367bf",
       "lever:hermeus:49f7cf3f-bf66-44ca-bf97-ee0f7180a68d",
       "lever:hermeus:51378fa0-0327-45fd-9420-b6e7d8b56440",
+      "lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98",
+      "lever:hermeus:922ee234-94aa-473b-8464-03f28a709872",
       "lever:hermeus:a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67"
      ]
+    }
+   }
+  },
+  "hpr hyannis port research": {
+   "name": "HPR (Hyannis Port Research)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-01",
+     "role_ids": [
+      "greenhouse:hyannisportresearch:7822989003"
+     ],
+     "count": 1
     }
    }
   },
@@ -426,6 +507,20 @@
     }
    }
   },
+  "jpmorganchase": {
+   "name": "JPMorganChase",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "oracle:jpmc.fa.oraclecloud.com:210773759",
+      "oracle:jpmc.fa.oraclecloud.com:210773869",
+      "oracle:jpmc.fa.oraclecloud.com:210775223"
+     ],
+     "count": 3
+    }
+   }
+  },
   "junior": {
    "name": "Junior",
    "cycles": {
@@ -435,6 +530,32 @@
      "role_ids": [
       "ashby:junior:23ee686b-d305-4ac9-860d-16c99ddb4891"
      ]
+    }
+   }
+  },
+  "kairos power": {
+   "name": "Kairos Power",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-23",
+     "role_ids": [
+      "greenhouse:kairospower:6123676004"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "kraft heinz": {
+   "name": "Kraft Heinz",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
+      "workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
+      "workday:heinz:/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276"
+     ],
+     "count": 3
     }
    }
   },
@@ -474,6 +595,25 @@
     }
    }
   },
+  "melius": {
+   "name": "Melius",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-30",
+     "role_ids": [
+      "ashby:melius:6a944911-dbbf-44c7-ba52-7866f7b433cf"
+     ],
+     "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-07-31",
+     "role_ids": [
+      "ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280"
+     ],
+     "count": 1
+    }
+   }
+  },
   "moog": {
    "name": "Moog",
    "cycles": {
@@ -495,6 +635,13 @@
       "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Co-op-Student-Admin_64613-1"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-07-22",
+     "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448"
+     ],
+     "count": 1
     }
    }
   },
@@ -511,6 +658,18 @@
     }
    }
   },
+  "netsmart": {
+   "name": "Netsmart",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:ntst:/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
@@ -521,6 +680,13 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
      ]
+    },
+    "Fall 2026": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -603,6 +769,18 @@
     }
    }
   },
+  "quera computing": {
+   "name": "QuEra Computing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-24",
+     "role_ids": [
+      "greenhouse:queracomputinginc:5370312008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "redwood materials": {
    "name": "Redwood Materials",
    "cycles": {
@@ -633,9 +811,11 @@
     "Fall 2026": {
      "first_posted": "2026-07-22",
      "role_ids": [
-      "greenhouse:rendezvousrobotics:4328555009"
+      "greenhouse:rendezvousrobotics:4328555009",
+      "greenhouse:rendezvousrobotics:4329113009",
+      "greenhouse:rendezvousrobotics:4332076009"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -643,9 +823,11 @@
    "name": "Rocket Lab",
    "cycles": {
     "Fall 2026": {
-     "first_posted": "2026-05-21",
-     "count": 1,
+     "first_posted": "2026-05-19",
+     "count": 3,
      "role_ids": [
+      "greenhouse:rocketlab:7728969003",
+      "greenhouse:rocketlab:7733900003",
       "greenhouse:rocketlab:7736776003"
      ]
     }
@@ -766,6 +948,18 @@
     }
    }
   },
+  "stantec": {
+   "name": "Stantec",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-06-18",
+     "role_ids": [
+      "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
+     ],
+     "count": 1
+    }
+   }
+  },
   "state street": {
    "name": "State Street",
    "cycles": {
@@ -775,6 +969,18 @@
      "role_ids": [
       "workday:statestreet:/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548"
      ]
+    }
+   }
+  },
+  "sunday robotics": {
+   "name": "Sunday Robotics",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-07",
+     "role_ids": [
+      "ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8"
+     ],
+     "count": 1
     }
    }
   },
@@ -844,10 +1050,12 @@
      "first_posted": "2026-07-26",
      "role_ids": [
       "greenhouse:toshibaglobalcommercesolutions:5177892007",
+      "greenhouse:toshibaglobalcommercesolutions:5187159007",
       "greenhouse:toshibaglobalcommercesolutions:5190937007",
-      "greenhouse:toshibaglobalcommercesolutions:5192820007"
+      "greenhouse:toshibaglobalcommercesolutions:5192820007",
+      "greenhouse:toshibaglobalcommercesolutions:5195826007"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -892,10 +1100,24 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-03-23",
-     "count": 1,
+     "count": 2,
      "role_ids": [
+      "greenhouse:vardaspace:7670782003",
       "greenhouse:vardaspace:7676465003"
      ]
+    }
+   }
+  },
+  "vast": {
+   "name": "VAST",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-07-07",
+     "role_ids": [
+      "greenhouse:vast:4694238006",
+      "greenhouse:vast:4694905006"
+     ],
+     "count": 2
     }
    }
   },
@@ -976,6 +1198,18 @@
     }
    }
   },
+  "westlake": {
+   "name": "Westlake",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-22",
+     "role_ids": [
+      "workday:westlake:/job/US---Houston-TX/XMLNAME-2026-Intern---Mechanical-Engineer_R30240"
+     ],
+     "count": 1
+    }
+   }
+  },
   "zip": {
    "name": "Zip",
    "cycles": {
@@ -989,5 +1223,5 @@
    }
   }
  },
- "updated_at": "2026-07-30T19:25:19Z"
+ "updated_at": "2026-08-03T19:16:58Z"
 }

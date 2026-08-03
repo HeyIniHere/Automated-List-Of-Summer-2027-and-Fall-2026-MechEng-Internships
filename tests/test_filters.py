@@ -25,13 +25,25 @@ class TestTech:
         assert filters.is_tech("Machine Learning Intern")
         assert filters.is_tech("Backend Developer Intern")
 
-    def test_drops_non_tech_and_hardware(self):
-        assert not filters.is_tech("Mechanical Engineering Intern")
+    def test_keeps_mech_and_robotics(self):
+        assert filters.is_tech("Mechanical Engineering Intern")
+        assert filters.is_tech("Robotics Intern")
+        assert filters.is_tech("Mechatronics Engineer Intern")
+        assert filters.is_tech("Aerospace Engineering Intern")
+        assert filters.is_tech("Manufacturing Engineering Intern")
+        assert filters.is_tech("Structural Engineering Intern")
+
+    def test_drops_non_tech(self):
         assert not filters.is_tech("Technical Recruiting Intern")
-        assert not filters.is_tech("FPGA Hardware Intern")
+        assert not filters.is_tech("Civil Engineering Intern")
+        assert not filters.is_tech("Chemical Engineering Intern")
+        # Pure silicon/EE titles still need an INCLUDE hit (none of these have one).
+        assert not filters.is_tech("FPGA Intern")
+        assert not filters.is_tech("ASIC Design Intern")
 
     def test_drops_phd(self):
         assert not filters.is_tech("PhD Machine Learning Intern")
+        assert not filters.is_tech("PhD Mechanical Engineering Intern")
 
 
 class TestSeason:
@@ -216,6 +228,8 @@ class TestCategory:
         assert filters.categorize("Software Engineer Intern") == "Software"
         assert filters.categorize("Machine Learning Intern") == "Data & ML/AI"
         assert filters.categorize("Cybersecurity Intern") == "Security"
+        assert filters.categorize("Mechanical Engineering Intern") == "Hardware"
+        assert filters.categorize("Robotics Intern") == "Hardware"
 
 
 class TestCycleUnstatedOk:

@@ -544,6 +544,18 @@
     }
    }
   },
+  "johnson johnson": {
+   "name": "Johnson & Johnson",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
+     ],
+     "count": 1
+    }
+   }
+  },
   "jpmorganchase": {
    "name": "JPMorganChase",
    "cycles": {
@@ -1337,5 +1349,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T15:04:55Z"
+ "updated_at": "2026-08-07T16:10:42Z"
 }

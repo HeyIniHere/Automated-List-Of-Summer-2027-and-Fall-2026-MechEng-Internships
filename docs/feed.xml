@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T15:04:56Z</updated>
+  <updated>2026-08-07T16:10:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
+    <title>Johnson &amp; Johnson: Software Engineer Coop</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
+    <title>Moog: Intern, Industrial Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
+    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
     <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
@@ -672,14 +696,6 @@
     <summary>Fall 2026 · Software · San Francisco, California, United States · C++, Rust, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1</id>
-    <title>Leidos: Application Developer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Indianapolis-IN/Application-Developer-Intern_R-00188193-1"/>
-    <updated>2026-07-29T19:13:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Indianapolis, IN · Python, JavaScript, SQL, React, Flask · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140462550</id>
     <title>Bosch: Autonomous Driving – Internship in Machine Learning</title>
     <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140462550"/>
@@ -790,21 +806,5 @@
     <updated>2026-07-24T18:20:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Saint Louis, MO 63146 · Python, SQL, scikit-learn, Pandas, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000139649345</id>
-    <title>Bosch: Autonomous Driving – Internship in Machine Learning</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000139649345"/>
-    <updated>2026-07-24T16:37:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:magna:/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1</id>
-    <title>Magna International: R&amp;D- Computer Vision Engineering Intern</title>
-    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1"/>
-    <updated>2026-07-24T16:37:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, PyTorch, TensorFlow, Computer Vision, ROS</summary>
   </entry>
 </feed>

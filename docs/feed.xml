@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T21:50:49Z</updated>
+  <updated>2026-08-07T22:49:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
+    <title>Axon: US Software Engineering Internship</title>
+    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003"/>
+    <updated>2026-08-07T22:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597</id>
+    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"/>
+    <updated>2026-08-07T22:49:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5383163008</id>
     <title>The Nuclear Company: Fall 2026 AI/ML Engineering Intern 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-07-29T11:28:56Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
-    <title>Modal: ML Research Intern</title>
-    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
-    <updated>2026-07-28T23:15:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140317669</id>
-    <title>Bosch: ADAS Software Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140317669"/>
-    <updated>2026-07-28T18:17:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
   </entry>
 </feed>

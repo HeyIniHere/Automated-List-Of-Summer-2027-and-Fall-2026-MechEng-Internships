@@ -187,11 +187,20 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-20",
-     "count": 2,
+     "count": 3,
+     "role_ids": [
+      "greenhouse:axontalentcommunity:7800617003",
+      "greenhouse:axontalentcommunity:7800628003",
+      "greenhouse:axontalentcommunity:7837133003"
+     ]
+    },
+    "Fall 2026": {
+     "first_posted": "2026-07-20",
      "role_ids": [
       "greenhouse:axontalentcommunity:7800617003",
       "greenhouse:axontalentcommunity:7800628003"
-     ]
+     ],
+     "count": 2
     }
    }
   },
@@ -773,8 +782,9 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 4,
+     "count": 5,
      "role_ids": [
+      "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
@@ -1408,5 +1418,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T21:50:48Z"
+ "updated_at": "2026-08-07T22:49:19Z"
 }

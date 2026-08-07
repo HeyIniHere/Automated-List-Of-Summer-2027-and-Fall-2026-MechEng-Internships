@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T19:10:50Z</updated>
+  <updated>2026-08-07T20:55:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863</id>
-    <title>Duke Energy: Asc Cybersecurity Gov&amp;Risk Analyst - Intern/Co-op Conversion 2027 (Souza)</title>
-    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Charlotte, NC</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5383163008</id>
     <title>The Nuclear Company: Fall 2026 AI/ML Engineering Intern 🇺🇸</title>
@@ -32,6 +24,14 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch, LLMs, AWS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383236008</id>
+    <title>The Nuclear Company: Summer 2027 Software Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"/>
+    <updated>2026-08-07T19:10:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5383244008</id>
     <title>The Nuclear Company: Summer 2027 Data Science Intern 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"/>
@@ -40,12 +40,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383236008</id>
-    <title>The Nuclear Company: Summer 2027 Software Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"/>
+    <id>urn:intern-engine:workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863</id>
+    <title>Duke Energy: Asc Cybersecurity Gov&amp;Risk Analyst - Intern/Co-op Conversion 2027 (Souza)</title>
+    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863"/>
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · Charlotte, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5383113008</id>

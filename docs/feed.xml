@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T03:59:17Z</updated>
+  <updated>2026-08-07T05:51:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
@@ -520,14 +520,6 @@
     <summary>Not stated · Hardware · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210775223</id>
-    <title>JPMorganChase: 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
     <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-24T16:37:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1</id>
+    <title>Magna International: R&amp;D- Computer Vision Engineering Intern</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1"/>
+    <updated>2026-07-24T16:37:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, PyTorch, TensorFlow, Computer Vision, ROS</summary>
   </entry>
 </feed>

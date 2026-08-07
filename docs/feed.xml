@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T22:49:21Z</updated>
+  <updated>2026-08-07T23:45:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:7837133003</id>
@@ -456,14 +456,6 @@
     <summary>Summer 2027 · Hardware · Winchester, VA · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26</id>
-    <title>Microchip Technology: Intern-Engineering (Firmware Development)</title>
-    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · TX - Houston - Compaq Center Dr · Python, Java, C++, C#, JavaScript · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ntst:/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667</id>
     <title>Netsmart: Software Engineer Intern (Summer 2027 Internship)</title>
     <link href="https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-29T11:28:56Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
+    <title>Modal: ML Research Intern</title>
+    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
+    <updated>2026-07-28T23:15:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
   </entry>
 </feed>

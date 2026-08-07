@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-07T22:49:21Z",
+ "generated_at": "2026-08-07T23:45:46Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 181,
+ "count": 180,
  "jobs": [
   {
    "id": "greenhouse:axontalentcommunity:7837133003",
@@ -1134,34 +1134,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:microchiphr:/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-   "company": "Microchip Technology",
-   "title": "Intern-Engineering (Firmware Development)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "TX - Houston - Compaq Center Dr",
-   "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/TX---Houston---Compaq-Center-Dr/Intern-Engineering--Firmware-Development-_R3372-26",
-   "posted_at": "2026-08-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T19:16:58Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "C#",
-    "JavaScript",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 143,
    "program": "Internship",
    "remote": false
   },

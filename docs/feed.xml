@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T13:23:06Z</updated>
+  <updated>2026-08-07T15:04:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
@@ -696,14 +696,6 @@
     <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Software-Engineer-Intern_JR-050991</id>
-    <title>Brunswick: Software Engineer Intern 🛂</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991"/>
-    <updated>2026-07-29T02:16:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Champaign, IL · $26/hr · Python, Rust, TypeScript, Azure, Git · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
     <title>Modal: ML Research Intern</title>
     <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-24T16:37:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1</id>
+    <title>Magna International: R&amp;D- Computer Vision Engineering Intern</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1"/>
+    <updated>2026-07-24T16:37:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, PyTorch, TensorFlow, Computer Vision, ROS</summary>
   </entry>
 </feed>

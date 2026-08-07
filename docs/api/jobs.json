@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-07T13:23:06Z",
+ "generated_at": "2026-08-07T15:04:56Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 167,
+ "count": 166,
  "jobs": [
   {
    "id": "ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
@@ -1335,33 +1335,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
-   "company": "Brunswick",
-   "title": "Software Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Champaign, IL",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineer-Intern_JR-050991",
-   "posted_at": "2026-07-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-29T02:16:06Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$26/hr",
-   "skills": [
-    "Python",
-    "Rust",
-    "TypeScript",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 54,
    "program": "Internship",
    "remote": false
   },

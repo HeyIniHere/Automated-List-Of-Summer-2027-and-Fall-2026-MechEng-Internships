@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T20:55:40Z</updated>
+  <updated>2026-08-07T21:50:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5383163008</id>
@@ -624,6 +624,22 @@
     <summary>Not stated · Hardware · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210773869</id>
+    <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Analyst - United States</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869"/>
+    <updated>2026-08-03T15:51:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210775223</id>
+    <title>JPMorganChase: 2027 Data for Good Hackathon - Data &amp; AI Program - Summer Internship</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223"/>
+    <updated>2026-08-03T15:51:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
     <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
@@ -790,21 +806,5 @@
     <updated>2026-07-28T18:17:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140089589</id>
-    <title>Bosch: Powertrain Controls Software Engineering Intern (6-Months)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140089589"/>
-    <updated>2026-07-27T20:41:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:appian:8088496</id>
-    <title>Appian: Information Security Engineer Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/appian/jobs/8088496"/>
-    <updated>2026-07-27T16:20:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · McLean, Virginia · $50/hr · LLMs · sponsorship: no-sponsorship · H-1B track record: ~44 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

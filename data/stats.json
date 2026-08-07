@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T05:51:38Z",
-  "duration_seconds": 423.9,
+  "generated_at": "2026-08-07T07:29:59Z",
+  "duration_seconds": 344.9,
   "companies_total": 4055,
   "companies_by_source": {
     "greenhouse": 1019,
@@ -16,23 +16,23 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 189,
-  "fetched_ok": 3813,
-  "fetch_errors": 53,
+  "quarantined": 187,
+  "fetched_ok": 3838,
+  "fetch_errors": 30,
   "errors_by_source": {
-    "workday": 48,
-    "ashby": 2,
-    "greenhouse": 2,
+    "workday": 23,
+    "greenhouse": 5,
+    "ashby": 1,
     "lever": 1
   },
-  "fetch_success_rate": 0.986,
-  "fetch_success_rate_registry": 0.94,
-  "snapshots_complete": 3714,
-  "snapshots_partial": 99,
-  "roles_matched": 159,
-  "dropped_no_year_in_title": 391,
+  "fetch_success_rate": 0.992,
+  "fetch_success_rate_registry": 0.946,
+  "snapshots_complete": 3727,
+  "snapshots_partial": 111,
+  "roles_matched": 158,
+  "dropped_no_year_in_title": 403,
   "dropped_offcycle_by_text": 36,
-  "roles_cycle_inferred": 68,
+  "roles_cycle_inferred": 67,
   "roles_by_source": {
     "amazon": 6,
     "ashby": 17,
@@ -41,18 +41,18 @@
     "oracle": 7,
     "smartrecruiters": 8,
     "workable": 5,
-    "workday": 51
+    "workday": 50
   },
   "roles_by_cycle": {
     "Fall 2026": 53,
     "Summer 2027": 47,
-    "Not stated": 68
+    "Not stated": 67
   },
   "roles_by_region": {
-    "US": 167
+    "US": 166
   },
   "sponsorship_counts": {
-    "unknown": 121,
+    "unknown": 120,
     "citizens-only": 31,
     "no-sponsorship": 11,
     "offers": 4
@@ -62,7 +62,7 @@
   "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 167,
+  "open_total": 166,
   "detection_latency": {
     "median_minutes": 2409.0,
     "p95_minutes": 4864.6,
@@ -71,7 +71,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 27.0,
-    "sample_size": 166
+    "median_days": 28,
+    "sample_size": 167
   }
 }

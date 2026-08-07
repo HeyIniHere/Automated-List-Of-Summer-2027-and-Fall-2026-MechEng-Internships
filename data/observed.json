@@ -53,6 +53,18 @@
     }
    }
   },
+  "alloy enterprises": {
+   "name": "Alloy Enterprises",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-03-25",
+     "role_ids": [
+      "ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd"
+     ],
+     "count": 1
+    }
+   }
+  },
   "amazon": {
    "name": "Amazon",
    "cycles": {
@@ -264,6 +276,19 @@
     }
    }
   },
+  "cno financial group": {
+   "name": "CNO Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
+      "workday:cnoinc:/job/Carmel-IN/Cyber-Security-IT-Intern---REMOTE_JR170419"
+     ],
+     "count": 2
+    }
+   }
+  },
   "creatify lab": {
    "name": "Creatify Lab",
    "cycles": {
@@ -302,6 +327,18 @@
      "first_posted": "2026-07-17",
      "role_ids": [
       "ashby:deepgram:dc8693b5-72ce-4ca3-ab15-9c8434d35da1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "densityai": {
+   "name": "Densityai",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-03",
+     "role_ids": [
+      "greenhouse:densityai:4336452009"
      ],
      "count": 1
     }
@@ -614,6 +651,19 @@
     }
    }
   },
+  "merck": {
+   "name": "Merck",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Manufacturing-and-Reliability-Engineering-Co-Op_R395901",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2026-Future-Talent-Program---Vaccine-Manufacturing-Co-op_R395900"
+     ],
+     "count": 2
+    }
+   }
+  },
   "moog": {
    "name": "Moog",
    "cycles": {
@@ -675,9 +725,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 2,
+     "count": 4,
      "role_ids": [
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
      ]
     },
@@ -707,7 +759,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-24",
-     "count": 8,
+     "count": 9,
      "role_ids": [
       "workday:nvidia:/job/China-Beijing/Solution-Architecture-Intern--AI-Infra---2026_JR2019909",
       "workday:nvidia:/job/China-Beijing/Solution-Architecture-Intern--AI-in-Industry---2026_JR2014186",
@@ -715,6 +767,7 @@
       "workday:nvidia:/job/US-CA-Remote/Quantum-Error-Correction-Research-Scientist-Intern---Fall-2026_JR2018628",
       "workday:nvidia:/job/US-CA-Remote/Quantum-Research-Scientist-Intern---Fall-2026_JR2018244",
       "workday:nvidia:/job/US-CA-Santa-Clara/Applied-Research-Intern--NLP---Fall-2026_JR2010488",
+      "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295",
       "workday:nvidia:/job/US-CA-Santa-Clara/Software-Engineering-Intern--JAX---Fall-2026_JR2009745",
       "workday:nvidia:/job/US-MO-St-Louis/Performance-Engineer-Intern--Systems-Software---Fall-2026_JR2015779"
      ]
@@ -757,6 +810,30 @@
     }
    }
   },
+  "pentair": {
+   "name": "Pentair",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "phoenix contact": {
+   "name": "Phoenix Contact",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "greenhouse:phoenixcontact:7817228003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "quadrillion": {
    "name": "Quadrillion",
    "cycles": {
@@ -793,6 +870,18 @@
     }
    }
   },
+  "regions bank": {
+   "name": "Regions Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-05",
+     "role_ids": [
+      "workday:regions:/job/Mobile-AL---RSA-Tower/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Mobile--AL_R104975"
+     ],
+     "count": 1
+    }
+   }
+  },
   "reliable robotics": {
    "name": "Reliable Robotics",
    "cycles": {
@@ -816,6 +905,18 @@
       "greenhouse:rendezvousrobotics:4332076009"
      ],
      "count": 3
+    }
+   }
+  },
+  "roblox": {
+   "name": "Roblox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-05",
+     "role_ids": [
+      "greenhouse:roblox:8072713"
+     ],
+     "count": 1
     }
    }
   },
@@ -889,9 +990,10 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-04-02",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:sharkninjaoperatingllc:4669676006"
+      "greenhouse:sharkninjaoperatingllc:4669676006",
+      "greenhouse:sharkninjaoperatingllc:4695627006"
      ]
     }
    }
@@ -1184,6 +1286,18 @@
     }
    }
   },
+  "warner bros": {
+   "name": "Warner Bros.",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "workday:warnerbros:/job/CA-Burbank-Bldg-700-Second-Century-Tower-1/Bleacher-Report-Social-Programming-Intern--LA---Fall-2026_R000107469"
+     ],
+     "count": 1
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -1223,5 +1337,5 @@
    }
   }
  },
- "updated_at": "2026-08-03T19:16:58Z"
+ "updated_at": "2026-08-07T00:29:47Z"
 }

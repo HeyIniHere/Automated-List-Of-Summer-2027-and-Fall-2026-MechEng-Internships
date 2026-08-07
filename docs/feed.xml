@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T07:30:00Z</updated>
+  <updated>2026-08-07T09:11:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
@@ -640,14 +640,6 @@
     <summary>Not stated · Software · Dallas, TX - Headquarters · JavaScript · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893</id>
-    <title>Sony Pictures Entertainment: Current Programming Intern, Sony Pictures Television – Fall 2026</title>
-    <link href="https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893"/>
-    <updated>2026-07-30T00:09:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Culver City, California · $19/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:virtu:8657500002</id>
     <title>Virtu Financial: 2027 Internship - Frontend Engineer (UI)</title>
     <link href="https://job-boards.greenhouse.io/virtu/jobs/8657500002"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-24T16:37:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Troy, Michigan, US · Python, PyTorch, TensorFlow, Computer Vision, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:anthelioncap:5e2ea37b-2369-474e-b717-c24c60976e96</id>
+    <title>Anthelion Capital: Quant Developer / Quant Research Intern - 2026/2027</title>
+    <link href="https://jobs.ashbyhq.com/anthelioncap/5e2ea37b-2369-474e-b717-c24c60976e96"/>
+    <updated>2026-07-24T11:11:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York City · $1.8K – $2K per week · Python, C++, Rust, Azure</summary>
   </entry>
 </feed>

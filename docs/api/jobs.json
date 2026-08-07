@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-07T07:30:01Z",
+ "generated_at": "2026-08-07T09:11:53Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 166,
+ "count": 165,
  "jobs": [
   {
    "id": "ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
@@ -1184,27 +1184,6 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893",
-   "company": "Sony Pictures Entertainment",
-   "title": "Current Programming Intern, Sony Pictures Television – Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Culver City, California",
-   "url": "https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893",
-   "posted_at": "2026-07-29T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-30T00:09:49Z",
-   "sponsorship": "unknown",
-   "salary": "$19/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 29,
    "program": "Internship",
    "remote": false
   },

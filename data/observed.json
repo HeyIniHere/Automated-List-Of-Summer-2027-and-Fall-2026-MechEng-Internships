@@ -170,6 +170,18 @@
     }
    }
   },
+  "atoms": {
+   "name": "Atoms",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "greenhouse:cssmerge:8687896002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "axon": {
    "name": "Axon",
    "cycles": {
@@ -201,6 +213,18 @@
     "Fall 2026": {
      "first_posted": "2026-06-02",
      "count": 0
+    }
+   }
+  },
+  "belvedere trading": {
+   "name": "Belvedere Trading",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-04",
+     "role_ids": [
+      "lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0"
+     ],
+     "count": 1
     }
    }
   },
@@ -766,6 +790,18 @@
     }
    }
   },
+  "nuclear": {
+   "name": "The Nuclear Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-07",
+     "role_ids": [
+      "greenhouse:thenuclearcompany:5383113008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "nvidia": {
    "name": "NVIDIA",
    "cycles": {
@@ -1056,9 +1092,10 @@
     "Fall 2026": {
      "first_posted": "2026-07-29",
      "role_ids": [
-      "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893"
+      "workday:spe:/job/Culver-City-California/Current-Programming-Intern--Sony-Pictures-Television---Fall-2026_JR113893",
+      "workday:spe:/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1349,5 +1386,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T16:10:42Z"
+ "updated_at": "2026-08-07T17:58:18Z"
 }

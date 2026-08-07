@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T16:10:43Z",
+ "generated_at": "2026-08-07T17:58:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -424,6 +424,20 @@
    "note": ""
   },
   {
+   "company": "Belvedere Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-04",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
+   "note": ""
+  },
+  {
    "company": "Pentair",
    "last_cycle_posted": "",
    "posted_on": "2026-08-04",
@@ -464,6 +478,20 @@
    "status": "open",
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "note": "opens fall for next summer"
+  },
+  {
+   "company": "Atoms",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-06",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+   "note": ""
   },
   {
    "company": "Citadel",
@@ -984,5 +1012,5 @@
    "note": ""
   }
  ],
- "count": 70
+ "count": 72
 }

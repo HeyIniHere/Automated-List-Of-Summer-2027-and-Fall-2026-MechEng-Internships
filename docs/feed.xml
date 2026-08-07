@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-07T16:10:43Z</updated>
+  <updated>2026-08-07T17:58:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acds:e468d15b-69c3-4534-8072-7ff3f85fbf83</id>
+    <title>ACDS: AI Operations Engineer Intern</title>
+    <link href="https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Lowell, AR · 15 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cssmerge:8687896002</id>
+    <title>Atoms: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8687896002"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $70/hr · Python, Java, C++, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0</id>
+    <title>Belvedere Trading: Software Engineer Intern - Summer 2027</title>
+    <link href="https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, Illinois · 130,000 USD/yr · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510</id>
+    <title>Copart: Software Engineering Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:spe:/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988</id>
+    <title>Sony Pictures Entertainment: Intern, Insights, Strategy &amp; Analytics, Product Management – Data Science – Fall 2026</title>
+    <link href="https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Culver City, California · $19/hr · Python, SQL, LLMs, Tableau · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383113008</id>
+    <title>The Nuclear Company: Fall 2026 AI Software Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
+    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
     <title>Johnson &amp; Johnson: Software Engineer Coop</title>
@@ -22,14 +78,6 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
-    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
@@ -758,53 +806,5 @@
     <updated>2026-07-27T16:20:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Florida-Melbourne · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xsolla:5d5fd6b3-d82f-437a-b251-abf4674ac874</id>
-    <title>Xsolla: AI-First Engineering Intern</title>
-    <link href="https://jobs.lever.co/xsolla/5d5fd6b3-d82f-437a-b251-abf4674ac874"/>
-    <updated>2026-07-27T06:47:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Raleigh, United States · 20–25 USD/hr · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109689"/>
-    <updated>2026-07-27T06:47:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Java, JavaScript, SQL, Angular, Spring · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110079"/>
-    <updated>2026-07-27T06:47:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109673"/>
-    <updated>2026-07-26T08:29:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Java, JavaScript, SQL, Angular, Spring · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pdtpartners:8077685</id>
-    <title>PDT Partners: Summer 2027 Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/pdtpartners/jobs/8077685"/>
-    <updated>2026-07-25T10:40:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:coreandmain:/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804</id>
-    <title>Core &amp; Main: Intern - AI/ML Data Engineering  -  Onsite - St. Louis</title>
-    <link href="https://coreandmain.wd1.myworkdayjobs.com/coreandmain/job/Saint-Louis-MO-63146/Intern---Data-Engineering----Corp_45804"/>
-    <updated>2026-07-24T18:20:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Saint Louis, MO 63146 · Python, SQL, scikit-learn, Pandas, Azure</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-07T17:58:19Z",
+ "generated_at": "2026-08-07T19:10:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -480,17 +480,31 @@
    "note": "opens fall for next summer"
   },
   {
-   "company": "Atoms",
+   "company": "Duke Energy",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-06",
+   "posted_on": "2026-08-07",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-06",
-   "days_until": -1,
+   "expected": "2026-08-07",
+   "days_until": 0,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8687896002",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
+   "note": ""
+  },
+  {
+   "company": "The Nuclear Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
    "note": ""
   },
   {
@@ -1010,7 +1024,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Atoms",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-06",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 72
+ "count": 74
 }

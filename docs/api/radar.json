@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-08T07:04:30Z",
+ "generated_at": "2026-08-08T08:55:56Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -424,20 +424,6 @@
    "note": ""
   },
   {
-   "company": "Netsmart",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-   "note": ""
-  },
-  {
    "company": "Belvedere Trading",
    "last_cycle_posted": "",
    "posted_on": "2026-08-04",
@@ -492,20 +478,6 @@
    "status": "open",
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "note": "opens fall for next summer"
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-07",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
-   "note": ""
   },
   {
    "company": "The Nuclear Company",
@@ -1026,6 +998,20 @@
    "note": ""
   },
   {
+   "company": "Netsmart",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Atoms",
    "last_cycle_posted": "",
    "posted_on": "2026-08-06",
@@ -1035,6 +1021,20 @@
    "source": "engine",
    "expected": "2026-08-06",
    "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-07",
+   "days_until": -1,
    "status": "dropped",
    "url": "",
    "note": ""

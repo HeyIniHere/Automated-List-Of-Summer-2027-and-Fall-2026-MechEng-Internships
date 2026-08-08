@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-08T07:04:30Z",
+ "generated_at": "2026-08-08T08:55:56Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 179,
+ "count": 178,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -180,27 +180,6 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
-   "company": "Duke Energy",
-   "title": "Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security",
-   "location": "Charlotte, NC",
-   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
-   "posted_at": "2026-08-07T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T19:10:49Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 5,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {
@@ -1042,6 +1021,27 @@
    "remote": false
   },
   {
+   "id": "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "company": "Kraft Heinz",
+   "title": "2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Garland, TX",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T08:55:55Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 27,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "greenhouse:densityai:4336452009",
    "company": "Densityai",
    "title": "Technical Intern- Software  (Fall 2026)",
@@ -1155,31 +1155,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:ntst:/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-   "company": "Netsmart",
-   "title": "Software Engineer Intern (Summer 2027 Internship)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Overland Park, KS",
-   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-   "posted_at": "2026-08-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T19:16:58Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "C++",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 3,
    "program": "Internship",
    "remote": false
   },

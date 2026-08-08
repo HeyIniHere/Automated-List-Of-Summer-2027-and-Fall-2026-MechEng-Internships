@@ -8,7 +8,7 @@
 
 ### 178 open roles (159 listed below) · 88 new this week
 
-3,973 employers tracked · updated Aug 08, 2026 at 08:55 UTC
+4,002 employers tracked · updated Aug 08, 2026 at 09:49 UTC
 
 _111 have a cycle the employer stated · 67 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -36,7 +36,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 - **A date on nearly every role** - taken from the job portal itself where the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run.
 - **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/), included in the CSV and API.
 - **Alerts your way** - [email digests](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe) or [RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml) (point any reader, or a Slack/Discord RSS integration, at it) - plus a [live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/) with search, filters, and a saved-roles list that never leaves your browser.
-- **An engine, not a spreadsheet** - 4,070 job-board endpoints (3,973 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
+- **An engine, not a spreadsheet** - 4,099 job-board endpoints (4,002 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
 
 ## Scope
 
@@ -356,7 +356,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,771 of 4,070 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 387.0s · 96 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,777 of 4,099 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 423.2s · 94 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

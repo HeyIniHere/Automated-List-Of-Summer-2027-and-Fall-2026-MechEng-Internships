@@ -468,9 +468,10 @@
     "Fall 2026": {
      "first_posted": "2026-07-30",
      "role_ids": [
-      "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"
+      "workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357",
+      "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1418,5 +1419,5 @@
    }
   }
  },
- "updated_at": "2026-08-07T23:45:44Z"
+ "updated_at": "2026-08-08T02:05:34Z"
 }

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-09T05:57:21Z",
+ "generated_at": "2026-08-09T07:10:39Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 177,
+ "count": 176,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -3015,32 +3015,6 @@
    "source": "lever",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:manh:/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
-   "company": "Manhattan Associates",
-   "title": "A.I. Developer Co-Op (Boston, MA)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "US - Home Office",
-   "url": "https://manh.wd5.myworkdayjobs.com/campus/job/US---Home-Office/AI-Developer-Co-Op--Boston--MA-_16931",
-   "posted_at": "2026-07-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": 153,
-   "program": "Co-op",
    "remote": false
   },
   {

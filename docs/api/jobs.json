@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-09T21:44:49Z",
+ "generated_at": "2026-08-09T22:42:05Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 176,
+ "count": 175,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -1168,32 +1168,6 @@
    "category": "Data & ML/AI",
    "location": "Chicago, IL, United States",
    "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869",
-   "posted_at": "2026-08-03",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "AWS"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 4656,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:jpmc.fa.oraclecloud.com:210775223",
-   "company": "JPMorganChase",
-   "title": "2027 Data for Good Hackathon - Data & AI Program - Summer Internship",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Chicago, IL, United States",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210775223",
    "posted_at": "2026-08-03",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-03T15:51:32Z",

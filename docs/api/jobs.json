@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-08T23:40:09Z",
+ "generated_at": "2026-08-09T02:12:05Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 178,
+ "count": 177,
  "jobs": [
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
@@ -3486,33 +3486,6 @@
    "source": "greenhouse",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "lever:palantir:75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-   "company": "Palantir",
-   "title": "Year at Palantir - Forward Deployed Software Engineer, Internship - Commercial",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Chicago, IL",
-   "url": "https://jobs.lever.co/palantir/75cc1c09-8ebd-44c8-b3bc-d122cd1fecb3",
-   "posted_at": "2026-06-24T19:13:14Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "TypeScript",
-    "JavaScript"
-   ],
-   "source": "lever",
-   "h1b_approvals": 88,
-   "program": "Internship",
    "remote": false
   },
   {

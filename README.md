@@ -8,7 +8,7 @@
 
 ### 175 open roles (156 listed below) · 87 new this week
 
-4,003 employers tracked · updated Aug 09, 2026 at 22:42 UTC
+4,003 employers tracked · updated Aug 09, 2026 at 23:42 UTC
 
 _110 have a cycle the employer stated · 65 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -75,8 +75,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
-| Axon ✓ | US Software Engineering Internship 🆕 | Software | Seattle, Washington, United States | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
-| Northrop Grumman | 2027 Operations Manufacturing Engineering Intern 🇺🇸 🆕 | Hardware | United States-California-Palmdale | Aug 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597) |
+| Axon ✓ | US Software Engineering Internship | Software | Seattle, Washington, United States | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
+| Northrop Grumman | 2027 Operations Manufacturing Engineering Intern 🇺🇸 | Hardware | United States-California-Palmdale | Aug 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597) |
 | The Nuclear Company | Summer 2027 AI/ML Engineering Intern 🇺🇸 | Data & ML/AI | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
 | The Nuclear Company | Summer 2027 Software Engineering Intern 🇺🇸 | Software | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
 | The Nuclear Company | Summer 2027 Data Science Intern 🇺🇸 | Data & ML/AI | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008) |
@@ -353,7 +353,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,830 of 4,100 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 93% of the full registry) · completed in 327.3s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,788 of 4,100 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 379.6s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

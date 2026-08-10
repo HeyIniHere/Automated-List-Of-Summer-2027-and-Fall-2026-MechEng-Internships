@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-10T19:15:33Z",
+ "generated_at": "2026-08-10T20:57:15Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 178,
+ "count": 177,
  "jobs": [
   {
    "id": "greenhouse:heartaerospace:4361702009",
@@ -2064,27 +2064,6 @@
    "source": "greenhouse",
    "h1b_approvals": 3,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501",
-   "company": "Applied Materials",
-   "title": "2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Gloucester,MA",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501",
-   "posted_at": "2026-07-23T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "unknown",
-   "salary": "$31–$41/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 650,
-   "program": "Co-op",
    "remote": false
   },
   {

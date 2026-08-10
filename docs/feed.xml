@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T19:15:33Z</updated>
+  <updated>2026-08-10T20:57:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
@@ -680,14 +680,6 @@
     <summary>Fall 2026 · Hardware · Gloucester,MA · $41–$50/hr · H-1B track record: ~650 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501</id>
-    <title>Applied Materials: 2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Gloucester,MA · $31–$41/hr · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>
     <title>Flextronics International: Industrial Engineering Co-Op - Fall 2026</title>
     <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-29T14:07:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4328555009</id>
+    <title>Rendezvous Robotics: Software Engineering Intern (Fall 2026) 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009"/>
+    <updated>2026-07-29T11:28:56Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

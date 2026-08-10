@@ -1,9 +1,33 @@
 {
- "generated_at": "2026-08-09T23:42:33Z",
+ "generated_at": "2026-08-10T02:17:16Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 175,
+ "count": 176,
  "jobs": [
+  {
+   "id": "lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
+   "company": "Field AI",
+   "title": "Mechanical Engineer, Robotics Hardware - Part-Time Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Irvine, CA",
+   "url": "https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
+   "posted_at": "2026-08-10T00:24:50Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-10T02:17:15Z",
+   "sponsorship": "unknown",
+   "salary": "35–45 USD/hr",
+   "skills": [
+    "Linux",
+    "Airflow"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049",
    "company": "Flextronics International",

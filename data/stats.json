@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-09T23:42:32Z",
-  "duration_seconds": 379.6,
+  "generated_at": "2026-08-10T02:17:15Z",
+  "duration_seconds": 383.7,
   "companies_total": 4100,
   "companies_by_source": {
     "greenhouse": 1023,
@@ -16,25 +16,29 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 269,
-  "fetched_ok": 3788,
-  "fetch_errors": 43,
+  "quarantined": 50,
+  "fetched_ok": 3849,
+  "fetch_errors": 201,
   "errors_by_source": {
-    "workday": 43
+    "workday": 68,
+    "greenhouse": 49,
+    "lever": 35,
+    "ashby": 48,
+    "rippling": 1
   },
-  "fetch_success_rate": 0.989,
-  "fetch_success_rate_registry": 0.924,
-  "snapshots_complete": 3699,
-  "snapshots_partial": 89,
-  "roles_matched": 164,
-  "dropped_no_year_in_title": 401,
+  "fetch_success_rate": 0.95,
+  "fetch_success_rate_registry": 0.939,
+  "snapshots_complete": 3751,
+  "snapshots_partial": 98,
+  "roles_matched": 165,
+  "dropped_no_year_in_title": 412,
   "dropped_offcycle_by_text": 44,
-  "roles_cycle_inferred": 65,
+  "roles_cycle_inferred": 66,
   "roles_by_source": {
     "amazon": 6,
     "ashby": 17,
     "greenhouse": 63,
-    "lever": 17,
+    "lever": 18,
     "oracle": 8,
     "smartrecruiters": 9,
     "workable": 4,
@@ -43,27 +47,27 @@
   "roles_by_cycle": {
     "Fall 2026": 58,
     "Summer 2027": 53,
-    "Not stated": 65
+    "Not stated": 66
   },
   "roles_by_region": {
-    "US": 175
+    "US": 176
   },
   "sponsorship_counts": {
-    "unknown": 125,
+    "unknown": 126,
     "citizens-only": 35,
     "no-sponsorship": 10,
     "offers": 5
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 0,
+  "enriched_this_run": 1,
   "enrichment_detail_fetches": 1,
   "purged_this_run": 0,
-  "new_this_run": 0,
-  "open_total": 175,
+  "new_this_run": 1,
+  "open_total": 176,
   "detection_latency": {
-    "median_minutes": 171.6,
+    "median_minutes": 138.1,
     "p95_minutes": 4376.6,
-    "sample_size": 22,
+    "sample_size": 23,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },

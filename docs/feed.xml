@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-09T23:42:33Z</updated>
+  <updated>2026-08-10T02:17:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc</id>
+    <title>Field AI: Mechanical Engineer, Robotics Hardware - Part-Time Internship</title>
+    <link href="https://jobs.lever.co/field-ai/88f05d6e-ee93-4fc5-80cd-efe6854e22bc"/>
+    <updated>2026-08-10T02:17:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Irvine, CA · 35–45 USD/hr · Linux, Airflow</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
     <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
@@ -798,13 +806,5 @@
     <updated>2026-07-28T23:15:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140317669</id>
-    <title>Bosch: ADAS Software Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140317669"/>
-    <updated>2026-07-28T18:17:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
   </entry>
 </feed>

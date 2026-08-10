@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T11:59:31Z</updated>
+  <updated>2026-08-10T13:27:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620</id>
+    <title>ING: Summer 2027 Internship - Tech (Information Security)</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620"/>
+    <updated>2026-08-10T13:27:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · New York · $35/hr · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621</id>
+    <title>ING: Summer 2027 Internship - Tech (Infrastructure)</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"/>
+    <updated>2026-08-10T13:27:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York · $35/hr · Python, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247</id>
+    <title>Jabil: Industrial Engineer Intern</title>
+    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247"/>
+    <updated>2026-08-10T13:27:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Jose, CA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562</id>
     <title>Teledyne: Mechanical Engineering Intern 🇺🇸</title>
@@ -782,29 +806,5 @@
     <updated>2026-07-29T20:57:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · San Francisco, California, United States · C++, Rust, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140462550</id>
-    <title>Bosch: Autonomous Driving – Internship in Machine Learning</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140462550"/>
-    <updated>2026-07-29T14:07:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4328555009</id>
-    <title>Rendezvous Robotics: Software Engineering Intern (Fall 2026) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009"/>
-    <updated>2026-07-29T11:28:56Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
-    <title>Modal: ML Research Intern</title>
-    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
-    <updated>2026-07-28T23:15:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
   </entry>
 </feed>

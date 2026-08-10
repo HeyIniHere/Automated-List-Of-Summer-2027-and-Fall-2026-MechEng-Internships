@@ -578,6 +578,19 @@
     }
    }
   },
+  "ing": {
+   "name": "ING",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-10",
+     "role_ids": [
+      "workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
+      "workday:ing:/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621"
+     ],
+     "count": 2
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -1420,5 +1433,5 @@
    }
   }
  },
- "updated_at": "2026-08-10T11:59:29Z"
+ "updated_at": "2026-08-10T13:27:12Z"
 }

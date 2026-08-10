@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T21:54:31Z",
+ "generated_at": "2026-08-10T22:50:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -463,6 +463,20 @@
    "days_until": -3,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008",
+   "note": ""
+  },
+  {
+   "company": "DV Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/dvtrading/jobs/4719119005",
    "note": ""
   },
   {
@@ -1068,5 +1082,5 @@
    "note": ""
   }
  ],
- "count": 76
+ "count": 77
 }

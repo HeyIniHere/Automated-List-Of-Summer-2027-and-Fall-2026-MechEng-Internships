@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T22:50:41Z</updated>
+  <updated>2026-08-10T23:46:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:dvtrading:4719119005</id>
@@ -78,14 +78,6 @@
     <updated>2026-08-10T02:17:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Irvine, CA · 35–45 USD/hr · Linux, Airflow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
-    <updated>2026-08-08T08:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
@@ -806,5 +798,13 @@
     <updated>2026-07-28T23:15:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140317669</id>
+    <title>Bosch: ADAS Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140317669"/>
+    <updated>2026-07-28T18:17:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
   </entry>
 </feed>

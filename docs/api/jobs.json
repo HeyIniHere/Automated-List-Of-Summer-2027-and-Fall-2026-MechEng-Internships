@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-10T22:50:41Z",
+ "generated_at": "2026-08-10T23:46:38Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 176,
+ "count": 175,
  "jobs": [
   {
    "id": "greenhouse:dvtrading:4719119005",
@@ -1197,27 +1197,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
-   "company": "Kraft Heinz",
-   "title": "2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Garland, TX",
-   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
-   "posted_at": "2026-08-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-08T08:55:55Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 27,
    "program": "Internship",
    "remote": false
   },

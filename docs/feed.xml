@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T15:11:38Z</updated>
+  <updated>2026-08-10T17:05:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
+    <title>Canadian Solar: Intern, IT Infrastructure Support</title>
+    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
+    <updated>2026-08-10T17:05:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Walnut Creek, CA · $20–$25/hr · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339</id>
+    <title>Montenson: AI Intern 🛂</title>
+    <link href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339"/>
+    <updated>2026-08-10T17:05:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · MN, United States · LLMs, Computer Vision · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620</id>
     <title>ING: Summer 2027 Internship - Tech (Information Security)</title>
@@ -310,14 +326,6 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Arlington, TX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cnoinc:/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389</id>
-    <title>CNO Financial Group: Artificial Intelligence (AI) IT Intern 2027 - REMOTE</title>
-    <link href="https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718</id>
@@ -686,14 +694,6 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Gloucester,MA · $31–$41/hr · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR110353"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>

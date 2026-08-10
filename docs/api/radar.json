@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-10T15:11:38Z",
+ "generated_at": "2026-08-10T17:05:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -396,20 +396,6 @@
    "note": ""
   },
   {
-   "company": "CNO Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://cnoinc.wd5.myworkdayjobs.com/Careers/job/Carmel-IN/Artificial-Intelligence--AI--IT-Intern-2027---REMOTE_JR170389",
-   "note": ""
-  },
-  {
    "company": "Belvedere Trading",
    "last_cycle_posted": "",
    "posted_on": "2026-08-04",
@@ -491,6 +477,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
+   "note": ""
+  },
+  {
+   "company": "Montenson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
    "note": ""
   },
   {
@@ -998,6 +998,20 @@
    "note": ""
   },
   {
+   "company": "CNO Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "JPMorganChase",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1054,5 +1068,5 @@
    "note": ""
   }
  ],
- "count": 75
+ "count": 76
 }

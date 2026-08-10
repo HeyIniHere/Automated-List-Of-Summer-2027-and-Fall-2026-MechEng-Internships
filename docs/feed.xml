@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T17:05:17Z</updated>
+  <updated>2026-08-10T18:03:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
-    <title>Canadian Solar: Intern, IT Infrastructure Support</title>
-    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
-    <updated>2026-08-10T17:05:16Z</updated>
+    <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
+    <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
+    <link href="https://job-boards.greenhouse.io/heartaerospace/jobs/4361702009"/>
+    <updated>2026-08-10T18:03:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Walnut Creek, CA · $20–$25/hr · Azure</summary>
+    <summary>Not stated · Hardware · Los Angeles, CA · $30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339</id>
@@ -22,6 +22,14 @@
     <updated>2026-08-10T17:05:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · MN, United States · LLMs, Computer Vision · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
+    <title>Canadian Solar: Intern, IT Infrastructure Support</title>
+    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
+    <updated>2026-08-10T17:05:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Walnut Creek, CA · $20–$25/hr · Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620</id>
@@ -158,14 +166,6 @@
     <updated>2026-08-07T17:58:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:spe:/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988</id>
-    <title>Sony Pictures Entertainment: Intern, Insights, Strategy &amp; Analytics, Product Management – Data Science – Fall 2026</title>
-    <link href="https://spe.wd1.myworkdayjobs.com/SonyPicturesEntertainment/job/Culver-City-California/Intern--Insights--Strategy---Analytics--Product-Management---Data-Science---Fall-2026_JR113988"/>
-    <updated>2026-08-07T17:58:18Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Culver City, California · $19/hr · Python, SQL, LLMs, Tableau · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
@@ -624,14 +624,6 @@
     <summary>Fall 2026 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5187159007</id>
-    <title>Toshiba Global Commerce: Mechanical Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5187159007"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Durham, NC · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:vardaspace:7670782003</id>
     <title>Varda Space: Mechanical Engineering Internship - Fall 2026 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7670782003"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-29T20:57:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · San Francisco, California, United States · C++, Rust, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140462550</id>
+    <title>Bosch: Autonomous Driving – Internship in Machine Learning</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140462550"/>
+    <updated>2026-07-29T14:07:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
   </entry>
 </feed>

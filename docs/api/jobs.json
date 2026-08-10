@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-10T10:30:04Z",
+ "generated_at": "2026-08-10T11:59:31Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 175,
+ "count": 176,
  "jobs": [
+  {
+   "id": "workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+   "company": "Teledyne",
+   "title": "Mechanical Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "US - Miamisburg, OH",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562",
+   "posted_at": "2026-08-10T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-10T11:59:29Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 5,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "lever:field-ai:88f05d6e-ee93-4fc5-80cd-efe6854e22bc",
    "company": "Field AI",

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-10T20:57:15Z</updated>
+  <updated>2026-08-10T21:54:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:1x:7d93444c-01f5-485c-89ef-24164f30441d</id>
+    <title>1X: Internship - Manufacturing Engineering (Fall)</title>
+    <link href="https://jobs.ashbyhq.com/1x/7d93444c-01f5-485c-89ef-24164f30441d"/>
+    <updated>2026-08-10T21:54:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Carlos, CA · $25 – $35 per hour</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
     <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
@@ -46,14 +54,6 @@
     <updated>2026-08-10T13:27:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York · $35/hr · Python, Azure, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247</id>
-    <title>Jabil: Industrial Engineer Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/San-Jose-CA/Industrial-Engineer-Intern_J2460247"/>
-    <updated>2026-08-10T13:27:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, CA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:flir:/job/US---Miamisburg-OH/Mechanical-Engineering-Intern_REQ35562</id>
@@ -632,22 +632,6 @@
     <summary>Fall 2026 · Hardware · El Segundo, California, United States · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:vast:4694238006</id>
-    <title>VAST: 2026 Fall Internship - Manufacturing 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4694238006?gh_jid=4694238006"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Long Beach, California, United States · $35/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vast:4694905006</id>
-    <title>VAST: 2026 Fall Internship - Mechanical / Aerospace 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4694905006?gh_jid=4694905006"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Long Beach, California, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98</id>
     <title>Hermeus: Mechanical Engineering Intern  - Fall 2026 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98"/>
@@ -806,5 +790,21 @@
     <updated>2026-07-29T11:28:56Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
+    <title>Modal: ML Research Intern</title>
+    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
+    <updated>2026-07-28T23:15:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140317669</id>
+    <title>Bosch: ADAS Software Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140317669"/>
+    <updated>2026-07-28T18:17:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
   </entry>
 </feed>

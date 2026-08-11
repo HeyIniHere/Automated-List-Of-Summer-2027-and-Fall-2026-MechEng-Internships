@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-11T15:10:44Z</updated>
+  <updated>2026-08-11T17:09:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:chamberlain:/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309</id>
+    <title>Chamberlain Group: Intern, Community Product Management (Summer 2027)</title>
+    <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"/>
+    <updated>2026-08-11T17:09:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Oak Brook, IL · H-1B track record: ~33 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744</id>
+    <title>MKS Instruments: 2027 Summer Mechanical Automation Engineering Intern 🇺🇸</title>
+    <link href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744"/>
+    <updated>2026-08-11T17:09:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Milpitas, CA · $27–$31/hr · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
+    <title>WSP: Structural Engineering Co-Op - Fall 2026</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007"/>
+    <updated>2026-08-11T17:09:30Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Boston, MA, United States · $24.76–$32.22/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142898574</id>
     <title>Bosch: Powertrain Controls Software Engineering Intern (6-Months, Full-Time)</title>
@@ -46,14 +70,6 @@
     <updated>2026-08-10T21:54:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Carlos, CA · $25 – $35 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:heartaerospace:4361702009</id>
-    <title>Heart Aerospace: Mechanical Design Intern, Structures (Summer / Fall)</title>
-    <link href="https://job-boards.greenhouse.io/heartaerospace/jobs/4361702009"/>
-    <updated>2026-08-10T18:03:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Los Angeles, CA · $30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339</id>
@@ -680,6 +696,14 @@
     <summary>Not stated · Hardware · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210773869</id>
+    <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Analyst - United States</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869"/>
+    <updated>2026-08-03T15:51:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
     <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
@@ -782,29 +806,5 @@
     <updated>2026-07-29T22:03:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:redwoodmaterials:6126784004</id>
-    <title>Redwood Materials: Embedded Software Engineer Intern - Fall 2026</title>
-    <link href="https://boards.greenhouse.io/redwoodmaterials/jobs/6126784004?gh_jid=6126784004"/>
-    <updated>2026-07-29T20:57:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · San Francisco, California, United States · C++, Rust, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140462550</id>
-    <title>Bosch: Autonomous Driving – Internship in Machine Learning</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140462550"/>
-    <updated>2026-07-29T14:07:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · $34–$68/hr · Python, PyTorch, Azure, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4328555009</id>
-    <title>Rendezvous Robotics: Software Engineering Intern (Fall 2026) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4328555009"/>
-    <updated>2026-07-29T11:28:56Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

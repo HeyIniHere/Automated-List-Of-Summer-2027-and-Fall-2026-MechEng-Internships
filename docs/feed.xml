@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-11T13:24:42Z</updated>
+  <updated>2026-08-11T15:10:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142898574</id>
+    <title>Bosch: Powertrain Controls Software Engineering Intern (6-Months, Full-Time)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142898574"/>
+    <updated>2026-08-11T15:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
     <title>Jabil: Manufacturing Engineer - Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-07-29T11:28:56Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Golden, CO · Python, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:modal:38888294-6bc7-4dab-b072-6d0f0c2ed79a</id>
-    <title>Modal: ML Research Intern</title>
-    <link href="https://jobs.ashbyhq.com/modal/38888294-6bc7-4dab-b072-6d0f0c2ed79a"/>
-    <updated>2026-07-28T23:15:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $15K per month · Git</summary>
   </entry>
 </feed>

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-11T09:12:20Z</updated>
+  <updated>2026-08-11T11:02:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:rlicorp:/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646</id>
+    <title>RLI: Product Management Intern- Honolulu, HI</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/rlicorp/RLI_Corp_Careers/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646"/>
+    <updated>2026-08-11T11:02:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Honolulu, HI · $20/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dvtrading:4719119005</id>
     <title>DV Trading: Software Engineer Intern - Summer 2027 (DV Commodities)</title>
@@ -798,13 +806,5 @@
     <updated>2026-07-28T18:17:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140089589</id>
-    <title>Bosch: Powertrain Controls Software Engineering Intern (6-Months)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140089589"/>
-    <updated>2026-07-27T20:41:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
   </entry>
 </feed>

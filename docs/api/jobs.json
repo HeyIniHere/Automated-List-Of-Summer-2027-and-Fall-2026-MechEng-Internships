@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-11T06:02:46Z",
+ "generated_at": "2026-08-11T07:27:40Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 175,
+ "count": 173,
  "jobs": [
   {
    "id": "greenhouse:dvtrading:4719119005",
@@ -2965,27 +2965,6 @@
    "remote": false
   },
   {
-   "id": "workday:tsc:/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683",
-   "company": "TSC",
-   "title": "Aerospace/Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Washington, DC - Naval Research Laboratory",
-   "url": "https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Aerospace-Mechanical-Engineering-Intern_JR2683",
-   "posted_at": "2026-07-12T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "lever:xsolla:5d5fd6b3-d82f-437a-b251-abf4674ac874",
    "company": "Xsolla",
    "title": "AI-First Engineering Intern",
@@ -3907,27 +3886,6 @@
    ],
    "source": "lever",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:motorolasolutions:/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-   "company": "Motorola",
-   "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Irvine, CA",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
-   "posted_at": "2026-03-30T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-01T20:55:33Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 191,
    "program": "Internship",
    "remote": false
   },

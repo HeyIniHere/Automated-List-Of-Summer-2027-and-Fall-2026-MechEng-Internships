@@ -5,23 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-11T20:59:50Z</updated>
+  <updated>2026-08-11T22:01:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
-    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
-    <updated>2026-08-11T20:59:49Z</updated>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584</id>
+    <title>Copart: Data Analytics Engineer Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data-Analytics-Engineer-Intern_JR110584"/>
+    <updated>2026-08-11T22:01:11Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
-    <title>Ameren: Mechanical Engineering Fall Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1"/>
-    <updated>2026-08-11T20:59:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Dallas, TX - Headquarters · Python, Java, SQL, LLMs, AWS · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
@@ -38,6 +30,22 @@
     <updated>2026-08-11T20:59:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Francisco, California · $53.13 per hour · Python, JavaScript, Git · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
+    <title>Ameren: Mechanical Engineering Fall Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
+    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
@@ -70,14 +78,6 @@
     <updated>2026-08-11T15:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898</id>
-    <title>Jabil: Manufacturing Engineer - Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/West-Chester-PA/Manufacturing-Engineer---Intern_J2457898"/>
-    <updated>2026-08-11T13:24:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · West Chester, PA · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rlicorp:/job/Honolulu-HI/Product-Management-Intern--Honolulu--HI_R1646</id>
@@ -688,14 +688,6 @@
     <summary>Fall 2026 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:7670782003</id>
-    <title>Varda Space: Mechanical Engineering Internship - Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/7670782003"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · El Segundo, California, United States · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98</id>
     <title>Hermeus: Mechanical Engineering Intern  - Fall 2026 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · US - Tampa, FL (Lithia area)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964</id>
+    <title>Copart: Software Engineering Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR109964"/>
+    <updated>2026-07-30T15:55:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

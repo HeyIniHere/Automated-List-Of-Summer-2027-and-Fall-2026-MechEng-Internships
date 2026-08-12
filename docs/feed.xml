@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-12T11:58:42Z</updated>
+  <updated>2026-08-12T13:29:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1</id>
+    <title>Marmon Holdings: AI Project Management Intern</title>
+    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1"/>
+    <updated>2026-08-12T13:29:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2</id>
     <title>Hewlett Packard (HP): Enterprise Operations Software Internship</title>
@@ -278,14 +286,6 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:densityai:4336452009</id>
-    <title>Densityai: Technical Intern- Software  (Fall 2026) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/densityai/jobs/4336452009"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Mountain View, CA · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:impact:8645964002</id>

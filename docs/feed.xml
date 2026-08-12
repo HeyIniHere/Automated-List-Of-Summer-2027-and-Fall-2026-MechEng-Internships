@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-12T22:11:32Z</updated>
+  <updated>2026-08-12T22:55:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:eeho.fa.us2.oraclecloud.com:342415</id>
@@ -390,6 +390,14 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · El Segundo, CA · 3,000–5,000 USD/mo</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:plus-2:2ee24f85-bfa1-47fc-bfe3-fd07521a7b62</id>
+    <title>PlusAI: Deep Learning Research Intern — Multimodal BEV Perception</title>
+    <link href="https://jobs.lever.co/plus-2/2ee24f85-bfa1-47fc-bfe3-fd07521a7b62"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CA · 19–65 USD/yr · Python, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39284</id>
@@ -798,13 +806,5 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1006349</id>
-    <title>Stantec: Structural Engineering Intern/Co-op - Transportation (Fall 2026)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006349"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · New York, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

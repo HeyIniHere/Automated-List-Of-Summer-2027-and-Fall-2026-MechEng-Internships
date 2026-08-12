@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-12T06:24:53Z",
+ "generated_at": "2026-08-12T08:29:09Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 181,
+ "count": 180,
  "jobs": [
   {
    "id": "workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2",
@@ -942,31 +942,6 @@
    "source": "oracle",
    "h1b_approvals": 321,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:kbr:/job/Houston-Texas/Software-Intern_R2127863",
-   "company": "KBR",
-   "title": "Software Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Houston, Texas",
-   "url": "https://kbr.wd5.myworkdayjobs.com/KBR_Careers/job/Houston-Texas/Software-Intern_R2127863",
-   "posted_at": "2026-08-06T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#",
-    "JavaScript"
-   ],
-   "source": "workday",
-   "h1b_approvals": 12,
-   "program": "Internship",
    "remote": false
   },
   {

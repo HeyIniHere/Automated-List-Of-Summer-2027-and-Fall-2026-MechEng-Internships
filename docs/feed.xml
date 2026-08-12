@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-12T19:14:33Z</updated>
+  <updated>2026-08-12T21:16:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000143171017</id>
+    <title>Western Digital: Summer 2027 Intern - Software Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000143171017"/>
+    <updated>2026-08-12T21:16:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript · H-1B track record: ~286 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:assuredguaranty:8700953002</id>
     <title>Assured Guaranty: Fall 2026 Intern - Product Software Developer</title>
@@ -150,14 +158,6 @@
     <updated>2026-08-10T21:54:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Carlos, CA · $25 – $35 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339</id>
-    <title>Montenson: AI Intern 🛂</title>
-    <link href="https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339"/>
-    <updated>2026-08-10T17:05:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · MN, United States · LLMs, Computer Vision · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>

@@ -1,9 +1,39 @@
 {
- "generated_at": "2026-08-12T19:14:33Z",
+ "generated_at": "2026-08-12T21:16:38Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 185,
  "jobs": [
+  {
+   "id": "smartrecruiters:WesternDigital:744000143171017",
+   "company": "Western Digital",
+   "title": "Summer 2027 Intern - Software Engineering",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "San Jose, CA, United States",
+   "url": "https://jobs.smartrecruiters.com/WesternDigital/744000143171017",
+   "posted_at": "2026-08-12T19:38:42.100Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-12T21:16:36Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "Go",
+    "JavaScript",
+    "SQL",
+    "Linux",
+    "Git"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 286,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:assuredguaranty:8700953002",
    "company": "Assured Guaranty",
@@ -385,30 +415,6 @@
    "salary": "$25 – $35 per hour",
    "skills": [],
    "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com:23339",
-   "company": "Montenson",
-   "title": "AI Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "MN, United States",
-   "url": "https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339",
-   "posted_at": "2026-08-10",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-10T17:05:16Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "Computer Vision"
-   ],
-   "source": "oracle",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

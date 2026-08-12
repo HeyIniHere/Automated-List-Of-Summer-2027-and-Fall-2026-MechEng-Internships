@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-12T19:14:32Z",
- "duration_seconds": 389.3,
+ "generated_at": "2026-08-12T21:16:36Z",
+ "duration_seconds": 1487.2,
  "companies_total": 4160,
  "companies_by_source": {
   "greenhouse": 1025,
@@ -16,28 +16,27 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 256,
- "fetched_ok": 3882,
- "fetch_errors": 22,
+ "quarantined": 254,
+ "fetched_ok": 3578,
+ "fetch_errors": 328,
  "errors_by_source": {
-  "workday": 21,
-  "workable": 1
+  "workday": 328
  },
- "fetch_success_rate": 0.994,
- "fetch_success_rate_registry": 0.933,
- "snapshots_complete": 3764,
- "snapshots_partial": 118,
- "roles_matched": 165,
- "dropped_no_year_in_title": 399,
- "dropped_offcycle_by_text": 46,
+ "fetch_success_rate": 0.916,
+ "fetch_success_rate_registry": 0.86,
+ "snapshots_complete": 3492,
+ "snapshots_partial": 86,
+ "roles_matched": 149,
+ "dropped_no_year_in_title": 354,
+ "dropped_offcycle_by_text": 43,
  "roles_cycle_inferred": 74,
  "roles_by_source": {
   "amazon": 6,
   "ashby": 20,
   "greenhouse": 60,
   "lever": 18,
-  "oracle": 10,
-  "smartrecruiters": 10,
+  "oracle": 9,
+  "smartrecruiters": 11,
   "workable": 3,
   "workday": 58
  },
@@ -50,9 +49,9 @@
   "US": 185
  },
  "sponsorship_counts": {
-  "unknown": 137,
+  "unknown": 138,
   "citizens-only": 34,
-  "no-sponsorship": 9,
+  "no-sponsorship": 8,
   "offers": 5
  },
  "posted_date_coverage": 1.0,
@@ -64,12 +63,12 @@
  "detection_latency": {
   "median_minutes": 63.1,
   "p95_minutes": 687.5,
-  "sample_size": 26,
+  "sample_size": 27,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 19,
-  "sample_size": 201
+  "median_days": 19.0,
+  "sample_size": 202
  }
 }

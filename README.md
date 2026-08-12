@@ -8,7 +8,7 @@
 
 ### 185 open roles (166 listed below) · 66 new this week
 
-4,063 employers tracked · updated Aug 12, 2026 at 19:14 UTC
+4,063 employers tracked · updated Aug 12, 2026 at 21:16 UTC
 
 _111 have a cycle the employer stated · 74 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -75,12 +75,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Western Digital ✓ | Summer 2027 Intern - Software Engineering 🆕 | Software | San Jose, CA, United States | Aug 12, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | RTX | Software Engineering Intern (Summer 2027) 🇺🇸 🆕 | Software | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | Aug 12, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) |
 | Northrop Grumman | 2027 Intern Software Engineer 🇺🇸 🆕 | Software | United States-Florida-Melbourne | Aug 12, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern 🇺🇸 🆕 | Hardware | Milpitas, CA | Aug 11, 2026 | [Apply](https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744) |
 | Chamberlain Group ✓ | Intern, Community Product Management (Summer 2027) 🆕 | Software | Oak Brook, IL | Aug 10, 2026 | [Apply](https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309) |
 | DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) 🆕 | Software | New York | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
-| Montenson | AI Intern 🛂 | Data & ML/AI | MN, United States | Aug 10, 2026 | [Apply](https://fa-esgu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/23339) |
 | ING | Summer 2027 Internship - Tech (Information Security) | Security | New York | Aug 10, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620) |
 | ING | Summer 2027 Internship - Tech (Infrastructure) | Software | New York | Aug 10, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
 | Axon ✓ | US Software Engineering Internship | Software | Seattle, Washington, United States | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
@@ -305,6 +305,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Montenson | AI Intern | Summer 2027 | 2026-08-12 | gone from feed |
 | Densityai | Technical Intern- Software  (Fall 2026) | Fall 2026 | 2026-08-12 | gone from feed |
 | Varda Space | Mechanical Engineering Internship - Fall 2026 | Fall 2026 | 2026-08-11 | gone from feed |
 | Motorola | Intern - Embedded Software, System, and Test Engineer - 2026 | Fall 2026 | 2026-08-11 | gone from feed |
@@ -344,7 +345,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Toshiba Global Commerce | AI Engineering Intern | Fall 2026 | 2026-08-03 | gone from feed |
 | Walleye Capital | Investment Data Science Intern (Summer 2027) | Summer 2027 | 2026-08-03 | gone from feed |
 | Walleye Capital | Volatility Trading Developer Intern (Summer 2027) | Summer 2027 | 2026-08-03 | gone from feed |
-| Hermeus | Software Engineering Intern (HIL) - Fall 2026 | Fall 2026 | 2026-08-03 | gone from feed |
 
 </details>
 
@@ -363,7 +363,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,882 of 4,160 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 389.3s · 118 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,578 of 4,160 registered boards returned successfully across 12 ATS platforms (91% of boards attempted, 86% of the full registry) · completed in 1487.2s · 86 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

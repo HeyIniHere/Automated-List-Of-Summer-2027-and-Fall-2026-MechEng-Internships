@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-12T17:08:36Z</updated>
+  <updated>2026-08-12T19:14:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:assuredguaranty:8700953002</id>
+    <title>Assured Guaranty: Fall 2026 Intern - Product Software Developer</title>
+    <link href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"/>
+    <updated>2026-08-12T19:14:32Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · New York, NY, United States · $30/hr · Python, Java, C#, JavaScript, React</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005</id>
     <title>American Fidelity: Software Dev Internship</title>
@@ -14,6 +22,14 @@
     <updated>2026-08-12T17:08:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Oklahoma City, Oklahoma</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875</id>
+    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"/>
+    <updated>2026-08-12T17:08:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, Rust · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:newbalance:/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740</id>
@@ -30,14 +46,6 @@
     <updated>2026-08-12T17:08:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"/>
-    <updated>2026-08-12T17:08:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, Rust · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1</id>
@@ -609,11 +617,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:1ec2fe3c-3fb2-4485-870d-764a3e5f5baf</id>
-    <title>Skydio: Product Management Intern</title>
+    <title>Skydio: Hardware Product Management Intern</title>
     <link href="https://jobs.ashbyhq.com/skydio/1ec2fe3c-3fb2-4485-870d-764a3e5f5baf"/>
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Mateo, California, United States · $47/hr · Computer Vision · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · San Mateo, California, United States · $47/hr · Computer Vision · H-1B track record: ~26 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8</id>
@@ -736,6 +744,14 @@
     <summary>Not stated · Hardware · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210773869</id>
+    <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Analyst - United States</title>
+    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869"/>
+    <updated>2026-08-03T15:51:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
     <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
@@ -790,21 +806,5 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1006349</id>
-    <title>Stantec: Structural Engineering Intern/Co-op - Transportation (Fall 2026)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1006349"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · New York, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000140457960</id>
-    <title>Bosch: Product Management Internship (6-month)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000140457960"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Farmington Hills, MI, United States</summary>
   </entry>
 </feed>

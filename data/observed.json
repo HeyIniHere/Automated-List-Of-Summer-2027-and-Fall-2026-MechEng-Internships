@@ -157,6 +157,18 @@
     }
    }
   },
+  "assured guaranty": {
+   "name": "Assured Guaranty",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-12",
+     "role_ids": [
+      "greenhouse:assuredguaranty:8700953002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "astranis": {
    "name": "Astranis",
    "cycles": {
@@ -1518,5 +1530,5 @@
    }
   }
  },
- "updated_at": "2026-08-12T17:08:35Z"
+ "updated_at": "2026-08-12T19:14:32Z"
 }

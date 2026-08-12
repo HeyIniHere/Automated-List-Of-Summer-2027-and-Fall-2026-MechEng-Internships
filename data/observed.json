@@ -845,12 +845,13 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 5,
+     "count": 6,
      "role_ids": [
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378"
      ]
     },
@@ -1074,6 +1075,18 @@
       "greenhouse:rocketlab:7733900003",
       "greenhouse:rocketlab:7736776003"
      ]
+    }
+   }
+  },
+  "rtx": {
+   "name": "RTX",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-12",
+     "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
+     ],
+     "count": 1
     }
    }
   },
@@ -1505,5 +1518,5 @@
    }
   }
  },
- "updated_at": "2026-08-12T15:09:37Z"
+ "updated_at": "2026-08-12T17:08:35Z"
 }

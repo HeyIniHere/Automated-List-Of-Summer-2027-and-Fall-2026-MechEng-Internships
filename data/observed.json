@@ -105,6 +105,19 @@
     }
    }
   },
+  "american express": {
+   "name": "American Express",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26012319",
+      "oracle:egug.fa.us2.oraclecloud.com:26012325"
+     ],
+     "count": 2
+    }
+   }
+  },
   "anduril": {
    "name": "Anduril",
    "cycles": {
@@ -1543,5 +1556,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T15:08:50Z"
+ "updated_at": "2026-08-13T17:07:11Z"
 }

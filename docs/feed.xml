@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T08:30:43Z</updated>
+  <updated>2026-08-13T10:20:33Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16</id>
@@ -752,14 +752,6 @@
     <summary>Not stated · Hardware · Fort Washington, PA, United States · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210773869</id>
-    <title>JPMorganChase: 2027 Data &amp; AI Program - Summer Internship - Analyst - United States</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · Python, SQL, LLMs, AWS · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
     <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
     <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
@@ -806,5 +798,13 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California · Python, SQL, Spark · H-1B track record: ~308 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f</id>
+    <title>Field AI: Robotics Research Internship-Locomotion &amp; Planning (Fall 2026)</title>
+    <link href="https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"/>
+    <updated>2026-07-30T20:42:49Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
   </entry>
 </feed>

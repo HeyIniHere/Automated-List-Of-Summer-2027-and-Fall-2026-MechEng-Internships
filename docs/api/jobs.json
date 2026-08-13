@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13T05:02:39Z",
+ "generated_at": "2026-08-13T06:28:42Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 185,
+ "count": 183,
  "jobs": [
   {
    "id": "workable:connectprep:D1C67258C0",
@@ -82,35 +82,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 286,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:assuredguaranty:8700953002",
-   "company": "Assured Guaranty",
-   "title": "Fall 2026 Intern - Product Software Developer",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "New York, NY, United States",
-   "url": "https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002",
-   "posted_at": "2026-08-12T13:24:40-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-12T19:14:32Z",
-   "sponsorship": "unknown",
-   "salary": "$30/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "Angular"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -3489,32 +3460,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workable:connectprep:C0CA13664F",
-   "company": "ConnectPrep",
-   "title": "Data Analyst Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Washington, District of Columbia, United States (Remote)",
-   "url": "https://apply.workable.com/connectprep/j/C0CA13664F/",
-   "posted_at": "2026-07-02T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "Pandas",
-    "Tableau"
-   ],
-   "source": "workable",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "lever:palantir:9e40d77f-b07c-437b-98e7-def9b0184d89",

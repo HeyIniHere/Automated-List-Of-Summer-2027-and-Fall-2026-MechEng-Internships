@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T05:02:39Z</updated>
+  <updated>2026-08-13T06:28:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workable:connectprep:D1C67258C0</id>
@@ -30,14 +30,6 @@
     <updated>2026-08-12T21:16:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript · H-1B track record: ~286 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:assuredguaranty:8700953002</id>
-    <title>Assured Guaranty: Fall 2026 Intern - Product Software Developer</title>
-    <link href="https://boards.greenhouse.io/assuredguaranty/jobs/8700953002?gh_jid=8700953002"/>
-    <updated>2026-08-12T19:14:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · New York, NY, United States · $30/hr · Python, Java, C#, JavaScript, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005</id>
@@ -806,5 +798,13 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California · Python, SQL, Spark · H-1B track record: ~308 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f</id>
+    <title>Field AI: Robotics Research Internship-Locomotion &amp; Planning (Fall 2026)</title>
+    <link href="https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"/>
+    <updated>2026-07-30T20:42:49Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
   </entry>
 </feed>

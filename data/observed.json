@@ -614,6 +614,18 @@
     }
    }
   },
+  "infinitequant": {
+   "name": "InfiniteQuant",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "smartrecruiters:InfiniteQuant:744000143287594"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -1531,5 +1543,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T10:20:32Z"
+ "updated_at": "2026-08-13T12:00:38Z"
 }

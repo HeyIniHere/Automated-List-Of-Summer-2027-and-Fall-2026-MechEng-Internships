@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-08-13T02:31:11Z",
+ "generated_at": "2026-08-13T05:02:39Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 184,
+ "count": 185,
  "jobs": [
+  {
+   "id": "workable:connectprep:D1C67258C0",
+   "company": "ConnectPrep",
+   "title": "Data Analyst Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Washington, District of Columbia, United States (Remote)",
+   "url": "https://apply.workable.com/connectprep/j/D1C67258C0/",
+   "posted_at": "2026-08-13T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-13T05:02:38Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "Pandas",
+    "Tableau"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
+  },
   {
    "id": "oracle:eeho.fa.us2.oraclecloud.com:342415",
    "company": "Oracle",

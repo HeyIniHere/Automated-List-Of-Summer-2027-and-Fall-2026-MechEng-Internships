@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T02:31:11Z</updated>
+  <updated>2026-08-13T05:02:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:connectprep:D1C67258C0</id>
+    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
+    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/"/>
+    <updated>2026-08-13T05:02:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:eeho.fa.us2.oraclecloud.com:342415</id>
     <title>Oracle: Platform Software Engineer 1 - Full-time Intern Conversion</title>
@@ -798,13 +806,5 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California · Python, SQL, Spark · H-1B track record: ~308 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f</id>
-    <title>Field AI: Robotics Research Internship-Locomotion &amp; Planning (Fall 2026)</title>
-    <link href="https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
   </entry>
 </feed>

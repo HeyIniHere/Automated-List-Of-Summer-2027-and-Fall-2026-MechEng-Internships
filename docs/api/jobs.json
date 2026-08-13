@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-13T13:28:51Z",
+ "generated_at": "2026-08-13T15:08:51Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 185,
+ "count": 184,
  "jobs": [
   {
    "id": "oracle:ekcf.fa.us6.oraclecloud.com:7604",
@@ -2239,27 +2239,6 @@
    "source": "greenhouse",
    "h1b_approvals": 2,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "oracle:etyy.fa.ap2.oraclecloud.com:11568",
-   "company": "Kulicke & Soffa",
-   "title": "Intern, AS Mechanical",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Fort Washington, PA, United States",
-   "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11568",
-   "posted_at": "2026-07-24",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": null,
-   "source": "oracle",
-   "h1b_approvals": 17,
-   "program": "Internship",
    "remote": false
   },
   {

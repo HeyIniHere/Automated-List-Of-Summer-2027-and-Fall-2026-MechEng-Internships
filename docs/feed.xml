@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T12:00:39Z</updated>
+  <updated>2026-08-13T13:28:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
+    <title>Powell: College Co-Op, Manufacturing Engineering</title>
+    <link href="https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604"/>
+    <updated>2026-08-13T13:28:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · North Canton, OH, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000143287594</id>
     <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · US - Houston, TX · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:databricks:6883068002</id>
-    <title>Databricks: Product Management Intern (Summer 2027)</title>
-    <link href="https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California · Python, SQL, Spark · H-1B track record: ~308 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

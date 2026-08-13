@@ -8,7 +8,7 @@
 
 ### 189 open roles (170 listed below) · 75 new this week
 
-4,084 employers tracked · updated Aug 13, 2026 at 22:55 UTC
+4,084 employers tracked · updated Aug 13, 2026 at 23:54 UTC
 
 _113 have a cycle the employer stated · 76 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -202,7 +202,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | American Fidelity | Software Dev Internship 🆕 | Software | Oklahoma City, Oklahoma | Aug 12, 2026 | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) |
 | New Balance | Sports Research Engineer Intern 🆕 | Software | Sports Research Lab, Brighton MA | Aug 12, 2026 | [Apply](https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740) |
 | Marmon Holdings | AI Project Management Intern 🆕 | Data & ML/AI | Chicago, IL | Aug 12, 2026 | [Apply](https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1) |
-| Hewlett Packard (HP) | Enterprise Operations Software Internship 🆕 | Software | Spring, Texas, United States of America | Aug 11, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
+| Hewlett Packard (HP) | Enterprise Operations Software Internship | Software | Spring, Texas, United States of America | Aug 11, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
 | Odys Aviation | Mechanical Engineering Intern/Co-Op [Propulsion] | Hardware | Long Beach CA | Aug 11, 2026 | [Apply](https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f) |
 | Ameren ✓ | Mechanical Engineering Fall Co-Op | Hardware | St. Louis, MO | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1) |
 | Ameren ✓ | Mechanical Engineering Spring Co-Op | Hardware | St. Louis, MO | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1) |
@@ -367,7 +367,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,919 of 4,182 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 397.7s · 103 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,854 of 4,182 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 339.5s · 87 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

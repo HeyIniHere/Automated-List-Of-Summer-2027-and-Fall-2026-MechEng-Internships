@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T17:07:13Z</updated>
+  <updated>2026-08-13T19:16:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Functional-Intern_R-71008</id>
+    <title>Crowe: AI Functional Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008"/>
+    <updated>2026-08-13T19:16:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · LLMs, Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782</id>
+    <title>Crowe: AI Engineering Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782"/>
+    <updated>2026-08-13T19:16:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · Python, PyTorch, TensorFlow, LLMs, AWS · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193</id>
+    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"/>
+    <updated>2026-08-13T19:16:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2</id>
+    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"/>
+    <updated>2026-08-13T19:16:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012319</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ</title>
@@ -774,37 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503</id>
-    <title>Applied Materials: 2026 Fall Materials Engineering Co-op (TCAD Modeling) - Doctorate (Gloucester, MA)</title>
-    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2026-Fall-Materials-Engineering-Co-op---Doctorate--Gloucester--MA-_R2611503"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Gloucester,MA · $41–$50/hr · H-1B track record: ~650 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357</id>
-    <title>Flextronics International: Industrial Engineering Co-Op - Fall 2026</title>
-    <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Industrial-Engineering-Co-Op---Fall-2026_WD226357"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · USA, SC, Orangeburg · sponsorship: offers · H-1B track record: ~65 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:huntsman:/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026</id>
-    <title>Huntsman: Mechanical Engineering Intern 🛂</title>
-    <link href="https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA - Texas - Houston - The Woodlands - Corporate Office · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1</id>
-    <title>Northrop Grumman: 2026 Fall Co-op Manufacturing Engineering - Baltimore MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · United States-Maryland-Linthicum · $19.75–$36.25/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

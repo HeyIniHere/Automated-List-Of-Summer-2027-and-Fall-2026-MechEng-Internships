@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T17:07:13Z",
+ "generated_at": "2026-08-13T19:16:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -575,6 +575,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
+   "note": ""
+  },
+  {
+   "company": "Teledyne",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
    "note": ""
   },
   {
@@ -1166,5 +1180,5 @@
    "note": ""
   }
  ],
- "count": 83
+ "count": 84
 }

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T06:28:42Z</updated>
+  <updated>2026-08-13T08:30:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16</id>
+    <title>Exa Labs: Software Engineer, Intern</title>
+    <link href="https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"/>
+    <updated>2026-08-13T08:30:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, California · $100K – $150K · C++, Rust · sponsorship: offers</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:connectprep:D1C67258C0</id>
     <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-07-30T20:42:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bellevue, Washington; Mountain View, California; San Francisco, California · Python, SQL, Spark · H-1B track record: ~308 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f</id>
-    <title>Field AI: Robotics Research Internship-Locomotion &amp; Planning (Fall 2026)</title>
-    <link href="https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"/>
-    <updated>2026-07-30T20:42:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Irvine, CA · 45–60 USD/hr · Python, C++, ROS</summary>
   </entry>
 </feed>

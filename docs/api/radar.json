@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-13T19:16:18Z",
+ "generated_at": "2026-08-13T20:55:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -561,6 +561,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319",
+   "note": ""
+  },
+  {
+   "company": "HNTB",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165",
    "note": ""
   },
   {
@@ -1180,5 +1194,5 @@
    "note": ""
   }
  ],
- "count": 84
+ "count": 85
 }

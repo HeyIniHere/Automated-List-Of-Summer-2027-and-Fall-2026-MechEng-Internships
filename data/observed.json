@@ -590,6 +590,18 @@
     }
    }
   },
+  "hntb": {
+   "name": "HNTB",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-13",
+     "role_ids": [
+      "workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hpr hyannis port research": {
    "name": "HPR (Hyannis Port Research)",
    "cycles": {
@@ -1569,5 +1581,5 @@
    }
   }
  },
- "updated_at": "2026-08-13T19:16:17Z"
+ "updated_at": "2026-08-13T20:55:50Z"
 }

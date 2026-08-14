@@ -1,9 +1,57 @@
 {
- "generated_at": "2026-08-14T15:01:50Z",
+ "generated_at": "2026-08-14T16:04:47Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 190,
+ "count": 192,
  "jobs": [
+  {
+   "id": "workday:sierraspace:/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
+   "company": "Sierra Space",
+   "title": "Fall 2026 Mechanical Engineering Intern",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Centennial, CO",
+   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
+   "posted_at": "2026-08-14T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T16:04:45Z",
+   "sponsorship": "citizens-only",
+   "salary": "$30/hr",
+   "skills": [
+    "MATLAB"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:transmarketgroup:5212335007",
+   "company": "TransMarket Group",
+   "title": "Software Engineering Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Chicago, Illinois, United States",
+   "url": "https://job-boards.greenhouse.io/transmarketgroup/jobs/5212335007?gh_jid=5212335007",
+   "posted_at": "2026-08-14T11:18:03-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-14T16:04:45Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:Interco:744000143346169",
    "company": "Interco",

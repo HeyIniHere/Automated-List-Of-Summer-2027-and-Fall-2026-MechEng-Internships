@@ -1,9 +1,32 @@
 {
- "generated_at": "2026-08-13T23:54:22Z",
+ "generated_at": "2026-08-14T02:29:15Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 189,
+ "count": 188,
  "jobs": [
+  {
+   "id": "lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44",
+   "company": "Field AI",
+   "title": "Electrical Engineer, Robotics Hardware- Part-time Internship",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Irvine, CA",
+   "url": "https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44",
+   "posted_at": "2026-08-13T23:54:03Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-14T02:29:13Z",
+   "sponsorship": "unknown",
+   "salary": "27–30 USD/hr",
+   "skills": [
+    "Linux"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165",
    "company": "HNTB",
@@ -3779,51 +3802,6 @@
    "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:veeda-labs:58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4",
-   "company": "Veeda AI",
-   "title": "Internship - Veeda AI Scientist",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "California",
-   "url": "https://jobs.ashbyhq.com/veeda-labs/58cc42fb-1d6f-4e5f-860d-3b97bdccc6f4",
-   "posted_at": "2026-06-29T20:44:07.312+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-22T11:09:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:lilasciences:4289387009",
-   "company": "Lila Sciences",
-   "title": "Co-Op, ML Scientist for Protein Engineering",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "San Francisco, CA USA",
-   "url": "https://job-boards.greenhouse.io/lilasciences/jobs/4289387009",
-   "posted_at": "2026-06-29T12:56:49-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {

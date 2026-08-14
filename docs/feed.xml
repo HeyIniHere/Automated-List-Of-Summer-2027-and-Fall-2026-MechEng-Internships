@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-13T23:54:22Z</updated>
+  <updated>2026-08-14T02:29:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44</id>
+    <title>Field AI: Electrical Engineer, Robotics Hardware- Part-time Internship</title>
+    <link href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44"/>
+    <updated>2026-08-14T02:29:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Irvine, CA · 27–30 USD/hr · Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165</id>
     <title>HNTB: WED - 2027 New Grad Mechanical &amp; Fire Protection Engineer I  (For Current &amp; Recent HNTB Interns Only) 🛂</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:922ee234-94aa-473b-8464-03f28a709872</id>
-    <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/922ee234-94aa-473b-8464-03f28a709872"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

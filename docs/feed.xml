@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T05:00:26Z</updated>
+  <updated>2026-08-14T06:25:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
+    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415"/>
+    <updated>2026-08-14T06:25:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869</id>
+    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
+    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869"/>
+    <updated>2026-08-14T06:25:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44</id>
     <title>Field AI: Electrical Engineer, Robotics Hardware- Part-time Internship</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Golden, CO · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7733900003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Fall 2026 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7733900003"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:6b6afa4a-b37d-4033-ac3b-e6501a951b98</id>
-    <title>Hermeus: Mechanical Engineering Intern  - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/6b6afa4a-b37d-4033-ac3b-e6501a951b98"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

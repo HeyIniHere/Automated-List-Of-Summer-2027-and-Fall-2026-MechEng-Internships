@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-14T05:00:26Z",
+ "generated_at": "2026-08-14T06:25:27Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 188,
+ "count": 190,
  "jobs": [
   {
    "id": "lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44",
@@ -457,6 +457,60 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+   "company": "Booz Allen",
+   "title": "AI RAN Telecommunications Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415",
+   "posted_at": "2026-08-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T06:25:25Z",
+   "sponsorship": "citizens-only",
+   "salary": "$108k/yr",
+   "skills": [
+    "Python",
+    "C++",
+    "PyTorch",
+    "TensorFlow",
+    "Kubernetes"
+   ],
+   "source": "workday",
+   "h1b_approvals": 38,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "company": "Booz Allen",
+   "title": "AI RAN Telecommunications Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "McLean, VA",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246869",
+   "posted_at": "2026-08-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T06:25:25Z",
+   "sponsorship": "citizens-only",
+   "salary": "$108k/yr",
+   "skills": [
+    "Python",
+    "C++",
+    "PyTorch",
+    "TensorFlow",
+    "Kubernetes"
+   ],
+   "source": "workday",
+   "h1b_approvals": 38,
    "program": "Internship",
    "remote": false
   },

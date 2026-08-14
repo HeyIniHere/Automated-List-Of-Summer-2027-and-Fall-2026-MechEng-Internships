@@ -1,9 +1,33 @@
 {
- "generated_at": "2026-08-14T08:26:12Z",
+ "generated_at": "2026-08-14T10:15:19Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 188,
+ "count": 190,
  "jobs": [
+  {
+   "id": "smartrecruiters:Interco:744000143346169",
+   "company": "Interco",
+   "title": "Paid Internship -- Software Development -- React",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "St. Louis, MO, United States",
+   "url": "https://jobs.smartrecruiters.com/Interco/744000143346169",
+   "posted_at": "2026-08-13T15:24:56.151Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-14T10:15:17Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$15/hr",
+   "skills": [
+    "JavaScript",
+    "React"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44",
    "company": "Field AI",
@@ -321,6 +345,36 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
+  },
+  {
+   "id": "workable:securityriskadvisors:3B23FB7BEB",
+   "company": "Securityriskadvisors",
+   "title": "DevOps Engineering Generalist Co-op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Rochester, New York, United States",
+   "url": "https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/",
+   "posted_at": "2026-08-12T00:00:00.000Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-14T10:15:17Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "AWS",
+    "Azure"
+   ],
+   "source": "workable",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
   },
   {
    "id": "smartrecruiters:WesternDigital:744000143171017",

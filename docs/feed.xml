@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T08:26:12Z</updated>
+  <updated>2026-08-14T10:15:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Interco:744000143346169</id>
+    <title>Interco: Paid Internship -- Software Development -- React 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/Interco/744000143346169"/>
+    <updated>2026-08-14T10:15:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · St. Louis, MO, United States · $15/hr · JavaScript, React · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:securityriskadvisors:3B23FB7BEB</id>
+    <title>Securityriskadvisors: DevOps Engineering Generalist Co-op</title>
+    <link href="https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/"/>
+    <updated>2026-08-14T10:15:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
     <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Boston, MA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4329113009</id>
-    <title>Rendezvous Robotics: Mechanical Engineering Intern (Fall 2026) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4329113009"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Golden, CO · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rendezvousrobotics:4332076009</id>
-    <title>Rendezvous Robotics: Manufacturing and Test Engineering Intern (Fall 2026) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4332076009"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Golden, CO · Python · sponsorship: citizens-only</summary>
   </entry>
 </feed>

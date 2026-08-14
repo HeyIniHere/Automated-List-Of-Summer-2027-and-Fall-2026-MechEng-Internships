@@ -561,6 +561,18 @@
     }
    }
   },
+  "globalfoundries": {
+   "name": "GlobalFoundries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"
+     ],
+     "count": 1
+    }
+   }
+  },
   "heliux": {
    "name": "Heliux",
    "cycles": {
@@ -1593,5 +1605,5 @@
    }
   }
  },
- "updated_at": "2026-08-14T17:09:06Z"
+ "updated_at": "2026-08-14T19:07:39Z"
 }

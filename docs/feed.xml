@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T17:09:07Z</updated>
+  <updated>2026-08-14T19:07:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041</id>
+    <title>Crowe: Data Analytics Developer Intern</title>
+    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041"/>
+    <updated>2026-08-14T19:07:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · SQL, Azure, Tableau · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656</id>
+    <title>GlobalFoundries: US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"/>
+    <updated>2026-08-14T19:07:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007</id>
     <title>Crowe: AI Project Coordinator Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Needham, MA · $42/hr · Python, Java, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:kairospower:6123676004</id>
-    <title>Kairos Power: Mechanical and Manufacturing Engineering Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/kairospower/jobs/6123676004"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Alameda, CA, Albuquerque, NM, or Oak Ridge, TN · MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5349699008</id>
-    <title>MetOx International: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5349699008"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Houston, TX</summary>
   </entry>
 </feed>

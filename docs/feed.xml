@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T20:41:37Z</updated>
+  <updated>2026-08-14T21:36:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506307</id>
+    <title>onsemi: Fall 2026 - Tax AI and Automation Intern</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506307"/>
+    <updated>2026-08-14T21:36:54Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenuclearcompany:5391923008</id>
+    <title>The Nuclear Company: Summer 2027 AI Applied Research Internship 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008"/>
+    <updated>2026-08-14T21:36:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c</id>
     <title>Notion: Software Engineer Intern (Summer 2027)</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Redwood City, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5153187007</id>
-    <title>Anduril: 2027 Mechanical Engineer Intern 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5153187007?gh_jid=5153187007"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Reston, Virginia, United States; Seattle, Washington, United States · Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5153218007</id>
-    <title>Anduril: 2027 Manufacturing Engineer Intern 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5153218007?gh_jid=5153218007"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States · Computer Vision · sponsorship: citizens-only</summary>
   </entry>
 </feed>

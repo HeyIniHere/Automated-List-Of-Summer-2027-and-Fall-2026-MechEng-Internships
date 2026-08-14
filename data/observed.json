@@ -960,9 +960,10 @@
      "role_ids": [
       "greenhouse:thenuclearcompany:5383231008",
       "greenhouse:thenuclearcompany:5383236008",
-      "greenhouse:thenuclearcompany:5383244008"
+      "greenhouse:thenuclearcompany:5383244008",
+      "greenhouse:thenuclearcompany:5391923008"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1003,9 +1004,10 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-07-15",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "oracle:hctz.fa.us2.oraclecloud.com:2505878"
+      "oracle:hctz.fa.us2.oraclecloud.com:2505878",
+      "oracle:hctz.fa.us2.oraclecloud.com:2506307"
      ]
     }
    }
@@ -1612,5 +1614,5 @@
    }
   }
  },
- "updated_at": "2026-08-14T20:41:35Z"
+ "updated_at": "2026-08-14T21:36:54Z"
 }

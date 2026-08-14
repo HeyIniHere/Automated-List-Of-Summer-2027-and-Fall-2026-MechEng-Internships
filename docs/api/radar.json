@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-14T19:07:41Z",
+ "generated_at": "2026-08-14T20:41:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -634,6 +634,20 @@
    "note": ""
   },
   {
+   "company": "Notion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1208,5 +1222,5 @@
    "note": ""
   }
  ],
- "count": 86
+ "count": 87
 }

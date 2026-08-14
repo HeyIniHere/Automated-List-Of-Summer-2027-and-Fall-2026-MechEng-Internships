@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T19:07:41Z</updated>
+  <updated>2026-08-14T20:41:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c</id>
+    <title>Notion: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"/>
+    <updated>2026-08-14T20:41:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California · $57/hr · Python, TypeScript, LLMs, React, Node.js · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Software-Engineer-Intern_REQ2026076575</id>
+    <title>Valeo: Software Engineer Intern</title>
+    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575"/>
+    <updated>2026-08-14T20:41:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Troy, MI · Python, C++, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041</id>
     <title>Crowe: Data Analytics Developer Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Atlanta, Georgia, United States; Boston, Massachusetts, United States; Costa Mesa, California, United States; Irvine, California, United States; Seattle, Washington, United States · Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:figureai:4303098006</id>
-    <title>Figure: Mechanical Engineer Intern [Fall 2026]</title>
-    <link href="https://job-boards.greenhouse.io/figureai/jobs/4303098006"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · San Jose, CA · Python, MATLAB</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:hyannisportresearch:7822989003</id>
-    <title>HPR (Hyannis Port Research): Software Engineering Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Needham, MA · $42/hr · Python, Java, Linux</summary>
   </entry>
 </feed>

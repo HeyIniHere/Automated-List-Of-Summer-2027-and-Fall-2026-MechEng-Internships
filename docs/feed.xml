@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-14T21:36:55Z</updated>
+  <updated>2026-08-14T22:35:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506307</id>
-    <title>onsemi: Fall 2026 - Tax AI and Automation Intern</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506307"/>
-    <updated>2026-08-14T21:36:54Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
+    <id>urn:intern-engine:greenhouse:arevonenergyimpltest:5211455007</id>
+    <title>Arevon: Data Science Intern, Interconnection &amp; Transmission</title>
+    <link href="https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007"/>
+    <updated>2026-08-14T22:35:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ · Python, SQL, Pandas, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern_R058261</id>
+    <title>First American: Software Engineering Intern</title>
+    <link href="https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058261"/>
+    <updated>2026-08-14T22:35:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA, California, Remote · Python, C#, TypeScript, SQL, React · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5391923008</id>
@@ -22,6 +30,14 @@
     <updated>2026-08-14T21:36:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506307</id>
+    <title>onsemi: Fall 2026 - Tax AI and Automation Intern</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506307"/>
+    <updated>2026-08-14T21:36:54Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c</id>
@@ -680,14 +696,6 @@
     <summary>Summer 2027 · Security · Golden Valley, MN · $31/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:regions:/job/Mobile-AL---RSA-Tower/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Mobile--AL_R104975</id>
-    <title>Regions Bank: 2027 ETP Intern – Corporate Banking Group, Commercial Credit Products, Mobile, AL 🛂</title>
-    <link href="https://regions.wd5.myworkdayjobs.com/regions_careers/job/Mobile-AL---RSA-Tower/XMLNAME-2027-ETP-Intern---Corporate-Banking-Group--Commercial-Credit-Products--Mobile--AL_R104975"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mobile, AL - RSA Tower · sponsorship: no-sponsorship · H-1B track record: ~43 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:thales:/job/Texas/AppSec-Product-Support-Intern_R0328978-1</id>
     <title>Thales: AppSec Product Support Intern</title>
     <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T15:51:32Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Mateo, California, United States · $47/hr · Computer Vision · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8</id>
-    <title>Sunday Robotics: Manufacturing Engineering Intern (Fall 2026)</title>
-    <link href="https://jobs.ashbyhq.com/sunday/08feb65a-08b0-462d-aebf-4f0239a16ed8"/>
-    <updated>2026-08-03T15:51:32Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Redwood City, CA</summary>
   </entry>
 </feed>

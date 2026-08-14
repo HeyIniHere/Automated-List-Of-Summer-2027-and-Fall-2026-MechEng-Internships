@@ -6177,6 +6177,11 @@
     "ats": "ashby"
   },
   {
+    "name": "D-Wave Quantum",
+    "slug": "d-wave-quantum",
+    "ats": "rippling"
+  },
+  {
     "name": "D3",
     "slug": "d3",
     "ats": "greenhouse"
@@ -8738,6 +8743,11 @@
     "name": "Found",
     "slug": "found",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Found",
+    "slug": "found",
+    "ats": "ashby"
   },
   {
     "name": "Found Energy",
@@ -11340,6 +11350,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Interco",
+    "slug": "Interco",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Intercom",
     "slug": "intercom",
     "ats": "greenhouse"
@@ -13532,6 +13547,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Matternet",
+    "slug": "matternet",
+    "ats": "workable"
+  },
+  {
     "name": "Matterworks",
     "slug": "matterworks",
     "ats": "ashby"
@@ -14294,6 +14314,13 @@
     "ats": "workday",
     "wd": "wd501",
     "site": "ModMed12"
+  },
+  {
+    "name": "Moffitt Cancer Center",
+    "slug": "moffitt",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "Moffitt"
   },
   {
     "name": "Mohegan",
@@ -16349,6 +16376,11 @@
     "site": "PDCO"
   },
   {
+    "name": "Paxton Access",
+    "slug": "paxton-access",
+    "ats": "workable"
+  },
+  {
     "name": "PayPal",
     "slug": "paypal",
     "ats": "workday",
@@ -16788,6 +16820,11 @@
     "name": "Planet Technologies",
     "slug": "planettechnologies",
     "ats": "lever"
+  },
+  {
+    "name": "PlanetArt",
+    "slug": "planetart",
+    "ats": "workable"
   },
   {
     "name": "PlanetScale",
@@ -17910,6 +17947,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Renesas Electronics",
+    "slug": "RenesasElectronics",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Replit",
     "slug": "replit",
     "ats": "ashby"
@@ -18828,6 +18870,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "SchoolMint",
+    "slug": "schoolmint",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Schreder",
     "slug": "Schrder",
     "ats": "smartrecruiters"
@@ -18961,6 +19008,11 @@
     "ats": "workday",
     "wd": "wd12",
     "site": "Securian_External"
+  },
+  {
+    "name": "Securityriskadvisors",
+    "slug": "securityriskadvisors",
+    "ats": "workable"
   },
   {
     "name": "Sedgwick Claims Management Services",
@@ -23808,6 +23860,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "Worldpay_External_Careers_Site"
+  },
+  {
+    "name": "WorldQuant",
+    "slug": "worldquant",
+    "ats": "greenhouse"
   },
   {
     "name": "Worldwide TechServices",

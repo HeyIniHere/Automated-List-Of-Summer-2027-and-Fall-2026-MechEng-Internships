@@ -8,7 +8,7 @@
 
 ### 200 open roles (180 listed below) · 53 new this week
 
-4,106 employers tracked · updated Aug 15, 2026 at 11:33 UTC
+4,106 employers tracked · updated Aug 15, 2026 at 12:54 UTC
 
 _119 have a cycle the employer stated · 81 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -84,7 +84,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Teledyne | NHRC Software Engineering Internship (Summer 2027) 🇺🇸 🆕 | Software | US - Huntsville, AL | Aug 13, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ 🆕 | Hardware | Phoenix, AZ, United States | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL 🆕 | Hardware | Sunrise, FL, United States | Aug 13, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325) |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 🆕 | Quant | New York +2 more | Aug 13, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 | Quant | New York +2 more | Aug 13, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594) |
 | Western Digital ✓ | Summer 2027 Intern - Software Engineering | Software | San Jose, CA, United States | Aug 12, 2026 | [Apply](https://jobs.smartrecruiters.com/WesternDigital/744000143171017) |
 | RTX | Software Engineering Intern (Summer 2027) 🇺🇸 | Software | US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE… | Aug 12, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875) |
 | Northrop Grumman | 2027 Intern Software Engineer 🇺🇸 | Software | United States-Florida-Melbourne | Aug 12, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255) |
@@ -377,7 +377,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,775 of 4,205 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 502.4s · 82 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,841 of 4,205 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 458.9s · 89 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

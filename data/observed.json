@@ -536,6 +536,18 @@
     }
    }
   },
+  "freeform": {
+   "name": "Freeform",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "greenhouse:freeformfuturecorp:7872198003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gemini": {
    "name": "Gemini",
    "cycles": {
@@ -1614,5 +1626,5 @@
    }
   }
  },
- "updated_at": "2026-08-14T23:33:03Z"
+ "updated_at": "2026-08-15T01:42:04Z"
 }

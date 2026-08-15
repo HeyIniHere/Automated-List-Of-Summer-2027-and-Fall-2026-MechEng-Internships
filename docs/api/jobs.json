@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T07:38:09Z",
+ "generated_at": "2026-08-15T08:41:04Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 201,
@@ -2125,6 +2125,27 @@
    "remote": false
   },
   {
+   "id": "workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "company": "Kraft Heinz",
+   "title": "2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Garland, TX",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-08T08:55:55Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 27,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:idexx:/job/Westbrook-ME/Security-Operations--Cybersecurity--internship_J-053268",
    "company": "IDEXX",
    "title": "Security Operations (Cybersecurity) internship",
@@ -3468,27 +3489,6 @@
    "h1b_approvals": 2,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "workday:huntsman:/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026",
-   "company": "Huntsman",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "USA - Texas - Houston - The Woodlands - Corporate Office",
-   "url": "https://huntsman.wd1.myworkdayjobs.com/Huntsman/job/USA---Texas---Houston---The-Woodlands---Corporate-Office/Mechanical-Engineering-Intern_J-020026",
-   "posted_at": "2026-07-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",

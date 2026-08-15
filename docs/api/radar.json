@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-15T18:43:42Z",
+ "generated_at": "2026-08-15T19:31:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -648,6 +648,20 @@
    "note": ""
   },
   {
+   "company": "Replit",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1236,5 +1250,5 @@
    "note": ""
   }
  ],
- "count": 88
+ "count": 89
 }

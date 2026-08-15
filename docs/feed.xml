@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-15T18:43:42Z</updated>
+  <updated>2026-08-15T19:31:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1</id>
+    <title>Replit: Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"/>
+    <updated>2026-08-15T19:31:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Foster City, CA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cccis:/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851</id>
     <title>CCC Intelligent Solutions: AI Enablement Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Fremont, OH · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Kirksville, Missouri</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Kirksville, MO · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

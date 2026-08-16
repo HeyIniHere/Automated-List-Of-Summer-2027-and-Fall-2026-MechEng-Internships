@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-16T22:34:37Z",
+ "generated_at": "2026-08-16T23:30:38Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 200,
+ "count": 201,
  "jobs": [
   {
    "id": "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738",
@@ -4798,6 +4798,27 @@
    "source": "amazon",
    "h1b_approvals": 23139,
    "program": "Internship / Co-op",
+   "remote": false
+  },
+  {
+   "id": "lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
+   "company": "Hermeus",
+   "title": "Manufacturing Engineering Intern - Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Los Angeles, CA",
+   "url": "https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
+   "posted_at": "2025-09-30T01:10:25Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-16T23:30:37Z",
+   "sponsorship": "citizens-only",
+   "salary": "25–33 USD/hr",
+   "skills": [],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
    "remote": false
   },
   {

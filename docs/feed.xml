@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-16T22:34:37Z</updated>
+  <updated>2026-08-16T23:30:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
+    <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae"/>
+    <updated>2026-08-16T23:30:37Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738</id>
     <title>Photon: Software Engineering / AI Intern - US - Remote</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, Computer Vision, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Fremont, Ohio</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Fremont, OH · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

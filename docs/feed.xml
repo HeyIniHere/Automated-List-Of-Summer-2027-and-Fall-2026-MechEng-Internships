@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-16T04:48:23Z</updated>
+  <updated>2026-08-16T05:39:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738</id>
@@ -54,14 +54,6 @@
     <updated>2026-08-15T01:42:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Los Angeles, CA (On-site) · $34/hr · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern_R058260</id>
-    <title>First American: Software Engineering Intern</title>
-    <link href="https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260"/>
-    <updated>2026-08-14T23:33:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, California, Remote · Python, C#, TypeScript, SQL, React · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arevonenergyimpltest:5211455007</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, Computer Vision, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:heinz:/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282</id>
+    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Fremont, Ohio</title>
+    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282"/>
+    <updated>2026-08-03T19:16:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Fremont, OH · H-1B track record: ~27 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

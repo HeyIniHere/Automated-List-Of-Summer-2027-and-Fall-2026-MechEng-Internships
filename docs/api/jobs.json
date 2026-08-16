@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-16T04:48:23Z",
+ "generated_at": "2026-08-16T05:39:32Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 201,
+ "count": 200,
  "jobs": [
   {
    "id": "oracle:fa-ertb-saasfaprod1.fa.ocs.oraclecloud.com:26738",
@@ -99,36 +99,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:firstam:/job/USA-California-Remote/Software-Engineering-Intern_R058260",
-   "company": "First American",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "USA, California, Remote",
-   "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Software-Engineering-Intern_R058260",
-   "posted_at": "2026-08-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-14T23:33:03Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#",
-    "TypeScript",
-    "SQL",
-    "React",
-    "AWS",
-    "Kubernetes",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 16,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "greenhouse:arevonenergyimpltest:5211455007",

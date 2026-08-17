@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T13:49:57Z</updated>
+  <updated>2026-08-17T14:39:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
-    <title>IMEG: Structural Engineering Intern | Houston, TX</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"/>
-    <updated>2026-08-17T13:49:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:greenhouse:datadog:8108241</id>
+    <title>Datadog: Product Management Intern</title>
+    <link href="https://careers.datadoghq.com/detail/8108241/?gh_jid=8108241"/>
+    <updated>2026-08-17T14:39:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, USA · H-1B track record: ~62 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424</id>
@@ -30,6 +30,14 @@
     <updated>2026-08-17T13:49:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Fort Worth, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
+    <title>IMEG: Structural Engineering Intern | Houston, TX</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"/>
+    <updated>2026-08-17T13:49:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011082</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:melius:b61f063a-4f94-4e50-a4ef-05aaab552280</id>
-    <title>Melius: Software Engineering Intern [Spring/Summer 2027]</title>
-    <link href="https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
   </entry>
 </feed>

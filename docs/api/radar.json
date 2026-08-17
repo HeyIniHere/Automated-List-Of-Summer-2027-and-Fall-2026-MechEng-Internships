@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T13:01:14Z",
+ "generated_at": "2026-08-17T13:49:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -648,6 +648,20 @@
    "note": ""
   },
   {
+   "company": "IMEG",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1250,5 +1264,5 @@
    "note": ""
   }
  ],
- "count": 89
+ "count": 90
 }

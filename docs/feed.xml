@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T13:01:14Z</updated>
+  <updated>2026-08-17T13:49:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
+    <title>IMEG: Structural Engineering Intern | Houston, TX</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"/>
+    <updated>2026-08-17T13:49:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424</id>
+    <title>IMEG: Structural Engineering Intern | Dallas, TX</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424"/>
+    <updated>2026-08-17T13:49:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Dallas, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423</id>
+    <title>IMEG: Structural Engineering Intern | Fort Worth, TX</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423"/>
+    <updated>2026-08-17T13:49:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Fort Worth, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011082</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:yotta:09821a51-fbe6-42a7-a566-0d2b5d40fae3</id>
-    <title>Yotta Labs: Research Engineer Intern - AI Systems</title>
-    <link href="https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, C++, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:chicagotradingcampus:4716932005</id>
-    <title>Chicago Trading Company: Software Engineering Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141302469</id>
-    <title>Bosch: AI and SW Development Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141302469"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, Computer Vision, Git</summary>
   </entry>
 </feed>

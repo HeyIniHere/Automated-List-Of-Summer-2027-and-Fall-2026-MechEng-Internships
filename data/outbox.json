@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:egug.fa.us2.oraclecloud.com:26011781",
+    "oracle:egug.fa.us2.oraclecloud.com:26011784",
+    "oracle:egug.fa.us2.oraclecloud.com:26012000",
+    "oracle:egug.fa.us2.oraclecloud.com:26012375",
+    "oracle:egug.fa.us2.oraclecloud.com:26011908",
+    "oracle:egug.fa.us2.oraclecloud.com:26011914",
+    "oracle:egug.fa.us2.oraclecloud.com:26011878",
+    "oracle:egug.fa.us2.oraclecloud.com:26011913",
+    "oracle:egug.fa.us2.oraclecloud.com:26012444"
+  ]
 }

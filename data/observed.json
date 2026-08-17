@@ -111,13 +111,20 @@
     "Summer 2027": {
      "first_posted": "2026-08-13",
      "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26010970",
       "oracle:egug.fa.us2.oraclecloud.com:26011082",
+      "oracle:egug.fa.us2.oraclecloud.com:26011084",
       "oracle:egug.fa.us2.oraclecloud.com:26011679",
+      "oracle:egug.fa.us2.oraclecloud.com:26011698",
+      "oracle:egug.fa.us2.oraclecloud.com:26011745",
+      "oracle:egug.fa.us2.oraclecloud.com:26011796",
       "oracle:egug.fa.us2.oraclecloud.com:26011987",
+      "oracle:egug.fa.us2.oraclecloud.com:26011991",
+      "oracle:egug.fa.us2.oraclecloud.com:26011999",
       "oracle:egug.fa.us2.oraclecloud.com:26012319",
       "oracle:egug.fa.us2.oraclecloud.com:26012325"
      ],
-     "count": 5
+     "count": 12
     }
    }
   },
@@ -1684,5 +1691,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T20:38:46Z"
+ "updated_at": "2026-08-17T21:36:46Z"
 }

@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T15:36:48Z</updated>
+  <updated>2026-08-17T16:40:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461</id>
+    <title>IMEG: Mechanical Engineering Intern | Madison, WI</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461"/>
+    <updated>2026-08-17T16:40:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Madison, WI · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451</id>
+    <title>IMEG: Mechanical Engineering Intern | Naperville, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451"/>
+    <updated>2026-08-17T16:40:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Naperville, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384</id>
+    <title>KeyBank: 2027 Summer Key Technology &amp; Services: Cyber/Information Security Track Internship- Cleveland</title>
+    <link href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"/>
+    <updated>2026-08-17T16:40:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Brooklyn, OH · $25/hr · Python, C#, JavaScript, SQL, GCP · H-1B track record: ~45 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:acds:5a872bb7-8d9f-46e3-9e72-f5c69445e787</id>
     <title>ACDS: Align AI Software Development Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Golden Valley, MN · $31/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thales:/job/Texas/AppSec-Product-Support-Intern_R0328978-1</id>
-    <title>Thales: AppSec Product Support Intern</title>
-    <link href="https://thales.wd3.myworkdayjobs.com/careers/job/Texas/AppSec-Product-Support-Intern_R0328978-1"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Texas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tsc:/job/Washington-DC---Naval-Research-Laboratory/Robotics-Intern_JR2713</id>
-    <title>TSC: Robotics Intern 🇺🇸</title>
-    <link href="https://tsc.wd12.myworkdayjobs.com/TSC-Careers/job/Washington-DC---Naval-Research-Laboratory/Robotics-Intern_JR2713"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Washington, DC - Naval Research Laboratory · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:warnerbros:/job/CA-Burbank-Bldg-700-Second-Century-Tower-1/Bleacher-Report-Social-Programming-Intern--LA---Fall-2026_R000107469</id>
-    <title>Warner Bros.: Bleacher Report Social Programming Intern: LA - Fall 2026</title>
-    <link href="https://warnerbros.wd5.myworkdayjobs.com/global/job/CA-Burbank-Bldg-700-Second-Century-Tower-1/Bleacher-Report-Social-Programming-Intern--LA---Fall-2026_R000107469"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · CA Burbank Bldg. 700, Second Century, Tower 1 · $19/hr · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

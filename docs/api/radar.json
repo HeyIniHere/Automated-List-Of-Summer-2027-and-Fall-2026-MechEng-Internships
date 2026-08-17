@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-17T15:36:48Z",
+ "generated_at": "2026-08-17T16:40:03Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -662,6 +662,20 @@
    "note": ""
   },
   {
+   "company": "KeyBank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1264,5 +1278,5 @@
    "note": ""
   }
  ],
- "count": 90
+ "count": 91
 }

@@ -686,9 +686,11 @@
      "role_ids": [
       "workday:imeg:/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
       "workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
-      "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"
+      "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
+      "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
+      "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -774,6 +776,18 @@
      "first_posted": "2026-07-23",
      "role_ids": [
       "greenhouse:kairospower:6123676004"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "keybank": {
+   "name": "KeyBank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-17",
+     "role_ids": [
+      "workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"
      ],
      "count": 1
     }
@@ -1667,5 +1681,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T15:36:46Z"
+ "updated_at": "2026-08-17T16:40:02Z"
 }

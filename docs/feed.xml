@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T18:54:43Z</updated>
+  <updated>2026-08-17T19:39:23Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1</id>
+    <title>Johnson &amp; Johnson: Materials Engineering Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1"/>
+    <updated>2026-08-17T19:39:21Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Jacksonville, Florida, United States of America</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495</id>
     <title>IMEG: Mechanical Engineering Intern | Rogers, AR</title>
@@ -112,14 +120,6 @@
     <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:chemours:/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931</id>
-    <title>Chemours: Mechanical Engineer Co-op</title>
-    <link href="https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931"/>
-    <updated>2026-08-17T04:55:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · US - KY - Louisville</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
     <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae"/>
@@ -142,14 +142,6 @@
     <updated>2026-08-15T05:36:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Chicago (Green St), IL · $20–$43/hr · Python, Java, JavaScript, LLMs, Kubernetes · H-1B track record: ~101 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cccis:/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843</id>
-    <title>CCC Intelligent Solutions: Data Science Engineer Internship</title>
-    <link href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/Data-Science-Engineer-Internship_0014843"/>
-    <updated>2026-08-15T05:36:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago (Green St), IL · $20–$43/hr · Python, SQL, LLMs, Computer Vision, AWS · H-1B track record: ~101 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cccis:/job/Chicago-Green-St-IL/R-D---Data-Science-Internship-Fall-2026_0014841</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · US, CA, Santa Clara · Python, Go, Rust, LLMs, Kubernetes · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700</id>
+    <title>Pentair: IT &amp; Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂</title>
+    <link href="https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Golden Valley, MN · $31/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

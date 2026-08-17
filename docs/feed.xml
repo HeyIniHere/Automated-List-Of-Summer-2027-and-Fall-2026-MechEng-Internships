@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T17:38:12Z</updated>
+  <updated>2026-08-17T18:54:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495</id>
+    <title>IMEG: Mechanical Engineering Intern | Rogers, AR</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"/>
+    <updated>2026-08-17T18:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Rogers, AR · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011679</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · US, CA, Santa Clara · Python, Go, Rust, LLMs, Kubernetes · H-1B track record: ~1.5k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pentair:/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700</id>
-    <title>Pentair: IT &amp; Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂</title>
-    <link href="https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Golden Valley, MN · $31/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

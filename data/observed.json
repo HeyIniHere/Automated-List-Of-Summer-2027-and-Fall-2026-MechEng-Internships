@@ -689,9 +689,10 @@
       "workday:imeg:/job/Fort-Worth-TX/Structural-Engineering-Intern---Fort-Worth--TX_R-16423",
       "workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
-      "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451"
+      "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
+      "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1682,5 +1683,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T17:38:11Z"
+ "updated_at": "2026-08-17T18:54:41Z"
 }

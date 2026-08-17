@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T03:11:10Z</updated>
+  <updated>2026-08-17T04:55:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011987</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"/>
+    <updated>2026-08-17T04:55:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011082</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"/>
+    <updated>2026-08-17T04:55:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chemours:/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931</id>
+    <title>Chemours: Mechanical Engineer Co-op</title>
+    <link href="https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931"/>
+    <updated>2026-08-17T04:55:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · US - KY - Louisville</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
     <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:yotta:09821a51-fbe6-42a7-a566-0d2b5d40fae3</id>
-    <title>Yotta Labs: Research Engineer Intern - AI Systems</title>
-    <link href="https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, C++, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:chicagotradingcampus:4716932005</id>
-    <title>Chicago Trading Company: Software Engineering Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, Java, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000141302469</id>
-    <title>Bosch: AI and SW Development Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000141302469"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, Computer Vision, Git</summary>
   </entry>
 </feed>

@@ -111,10 +111,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-13",
      "role_ids": [
+      "oracle:egug.fa.us2.oraclecloud.com:26011082",
+      "oracle:egug.fa.us2.oraclecloud.com:26011987",
       "oracle:egug.fa.us2.oraclecloud.com:26012319",
       "oracle:egug.fa.us2.oraclecloud.com:26012325"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1651,5 +1653,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T03:11:09Z"
+ "updated_at": "2026-08-17T04:55:48Z"
 }

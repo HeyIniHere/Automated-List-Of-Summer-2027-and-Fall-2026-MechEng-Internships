@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T04:55:49Z</updated>
+  <updated>2026-08-17T05:45:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011987</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"/>
-    <updated>2026-08-17T04:55:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011082</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY</title>
@@ -22,6 +14,14 @@
     <updated>2026-08-17T04:55:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York, NY, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011987</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"/>
+    <updated>2026-08-17T04:55:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:chemours:/job/US---KY---Louisville/Mechanical-Engineer-Co-op_JR14931</id>
@@ -246,22 +246,6 @@
     <updated>2026-08-13T19:16:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012319</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012319"/>
-    <updated>2026-08-13T17:07:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Phoenix, AZ, United States · SQL · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012325</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Industrial Engineering, Global Servicing- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012325"/>
-    <updated>2026-08-13T17:07:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Sunrise, FL, United States · SQL · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amainc:/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1</id>
@@ -806,5 +790,21 @@
     <updated>2026-08-03T19:16:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:yotta:09821a51-fbe6-42a7-a566-0d2b5d40fae3</id>
+    <title>Yotta Labs: Research Engineer Intern - AI Systems</title>
+    <link href="https://jobs.ashbyhq.com/yotta/09821a51-fbe6-42a7-a566-0d2b5d40fae3"/>
+    <updated>2026-08-03T19:16:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States · Python, C++, PyTorch, LLMs, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:chicagotradingcampus:4716932005</id>
+    <title>Chicago Trading Company: Software Engineering Internship - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005"/>
+    <updated>2026-08-03T19:16:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, Java, C++</summary>
   </entry>
 </feed>

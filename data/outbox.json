@@ -1,13 +1,3 @@
 {
-  "pending": [
-    "oracle:egug.fa.us2.oraclecloud.com:26010970",
-    "oracle:egug.fa.us2.oraclecloud.com:26011084",
-    "oracle:egug.fa.us2.oraclecloud.com:26011745",
-    "oracle:egug.fa.us2.oraclecloud.com:26011796",
-    "oracle:egug.fa.us2.oraclecloud.com:26011698",
-    "oracle:egug.fa.us2.oraclecloud.com:26011999",
-    "oracle:egug.fa.us2.oraclecloud.com:26011991",
-    "workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Cyber-Security-Intern--OKC-Local-Only-_JR1023",
-    "workday:printpack:/job/Atlanta-GA/Mechanical-Engineer-Co-op_REQ2026-9903"
-  ]
+  "pending": []
 }

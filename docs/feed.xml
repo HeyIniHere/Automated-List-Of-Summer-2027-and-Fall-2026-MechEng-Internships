@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T16:40:03Z</updated>
+  <updated>2026-08-17T17:38:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011679</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011679"/>
+    <updated>2026-08-17T17:38:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461</id>
     <title>IMEG: Mechanical Engineering Intern | Madison, WI</title>
@@ -150,14 +158,6 @@
     <updated>2026-08-15T01:42:04Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Los Angeles, CA (On-site) · $34/hr · C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arevonenergyimpltest:5211455007</id>
-    <title>Arevon: Data Science Intern, Interconnection &amp; Transmission</title>
-    <link href="https://job-boards.greenhouse.io/arevonenergyimpltest/jobs/5211455007"/>
-    <updated>2026-08-14T22:35:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Scottsdale, AZ · Python, SQL, Pandas, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:thenuclearcompany:5391923008</id>

@@ -112,11 +112,12 @@
      "first_posted": "2026-08-13",
      "role_ids": [
       "oracle:egug.fa.us2.oraclecloud.com:26011082",
+      "oracle:egug.fa.us2.oraclecloud.com:26011679",
       "oracle:egug.fa.us2.oraclecloud.com:26011987",
       "oracle:egug.fa.us2.oraclecloud.com:26012319",
       "oracle:egug.fa.us2.oraclecloud.com:26012325"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1681,5 +1682,5 @@
    }
   }
  },
- "updated_at": "2026-08-17T16:40:02Z"
+ "updated_at": "2026-08-17T17:38:11Z"
 }

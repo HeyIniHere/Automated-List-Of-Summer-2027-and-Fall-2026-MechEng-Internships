@@ -1,9 +1,58 @@
 {
- "generated_at": "2026-08-17T14:39:13Z",
+ "generated_at": "2026-08-17T15:36:48Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 202,
+ "count": 203,
  "jobs": [
+  {
+   "id": "lever:acds:5a872bb7-8d9f-46e3-9e72-f5c69445e787",
+   "company": "ACDS",
+   "title": "Align AI Software Development Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bentonville, AR",
+   "url": "https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787",
+   "posted_at": "2026-08-17T15:18:11Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-17T15:36:46Z",
+   "sponsorship": "unknown",
+   "salary": "15 USD/hr",
+   "skills": [
+    "Python",
+    "TypeScript",
+    "JavaScript"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:tri:186808f9-464c-4f22-9d7d-4372ef272ff0",
+   "company": "Toyota Research Institute",
+   "title": "Robotics Research Intern - Post-Training",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Los Altos, CA",
+   "url": "https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0",
+   "posted_at": "2026-08-17T15:31:45Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-17T15:36:46Z",
+   "sponsorship": "unknown",
+   "salary": "$58/hr",
+   "skills": [
+    "Python",
+    "PyTorch"
+   ],
+   "source": "lever",
+   "h1b_approvals": 10,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:datadog:8108241",
    "company": "Datadog",
@@ -2908,27 +2957,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:queracomputinginc:5370312008",
-   "company": "QuEra Computing",
-   "title": "Mechanical Engineering Co-Op - Fall 2026",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Boston, MA, USA",
-   "url": "https://job-boards.greenhouse.io/queracomputinginc/jobs/5370312008",
-   "posted_at": "2026-07-24T14:58:03-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-03T15:51:32Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "greenhouse",
-   "h1b_approvals": 2,
-   "program": "Co-op",
    "remote": false
   },
   {

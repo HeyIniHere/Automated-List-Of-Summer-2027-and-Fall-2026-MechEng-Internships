@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T14:39:13Z</updated>
+  <updated>2026-08-17T15:36:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acds:5a872bb7-8d9f-46e3-9e72-f5c69445e787</id>
+    <title>ACDS: Align AI Software Development Intern</title>
+    <link href="https://jobs.lever.co/acds/5a872bb7-8d9f-46e3-9e72-f5c69445e787"/>
+    <updated>2026-08-17T15:36:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bentonville, AR · 15 USD/hr · Python, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:186808f9-464c-4f22-9d7d-4372ef272ff0</id>
+    <title>Toyota Research Institute: Robotics Research Intern - Post-Training</title>
+    <link href="https://jobs.lever.co/tri/186808f9-464c-4f22-9d7d-4372ef272ff0"/>
+    <updated>2026-08-17T15:36:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Los Altos, CA · $58/hr · Python, PyTorch · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:datadog:8108241</id>
     <title>Datadog: Product Management Intern</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · CA Burbank Bldg. 700, Second Century, Tower 1 · $19/hr · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:heliux:ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef</id>
-    <title>Heliux: Software Engineer (Internship, Summer 2027) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · HQ (San Francisco, CA) · Python, Java, Rust, TypeScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:melius:6a944911-dbbf-44c7-ba52-7866f7b433cf</id>
-    <title>Melius: Software Engineering Intern [Fall/Winter 2026]</title>
-    <link href="https://jobs.ashbyhq.com/melius/6a944911-dbbf-44c7-ba52-7866f7b433cf"/>
-    <updated>2026-08-03T19:16:58Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · New York City · $11K per month · TypeScript, LLMs, React, PostgreSQL</summary>
   </entry>
 </feed>

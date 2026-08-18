@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-18T09:45:35Z",
-  "duration_seconds": 415.3,
+  "generated_at": "2026-08-18T10:40:22Z",
+  "duration_seconds": 377.3,
   "companies_total": 4250,
   "companies_by_source": {
     "greenhouse": 1031,
@@ -16,27 +16,27 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 258,
-  "fetched_ok": 3957,
-  "fetch_errors": 35,
+  "quarantined": 257,
+  "fetched_ok": 3878,
+  "fetch_errors": 115,
   "errors_by_source": {
-    "workday": 34,
+    "workday": 114,
     "workable": 1
   },
-  "fetch_success_rate": 0.991,
-  "fetch_success_rate_registry": 0.931,
-  "snapshots_complete": 3852,
-  "snapshots_partial": 105,
-  "roles_matched": 198,
-  "dropped_no_year_in_title": 410,
-  "dropped_offcycle_by_text": 59,
+  "fetch_success_rate": 0.971,
+  "fetch_success_rate_registry": 0.912,
+  "snapshots_complete": 3781,
+  "snapshots_partial": 97,
+  "roles_matched": 192,
+  "dropped_no_year_in_title": 400,
+  "dropped_offcycle_by_text": 58,
   "roles_cycle_inferred": 81,
   "roles_by_source": {
     "amazon": 6,
     "ashby": 20,
     "greenhouse": 56,
     "lever": 18,
-    "oracle": 29,
+    "oracle": 28,
     "smartrecruiters": 11,
     "workable": 4,
     "workday": 78
@@ -44,23 +44,23 @@
   "roles_by_cycle": {
     "Fall 2026": 45,
     "Not stated": 81,
-    "Summer 2027": 97
+    "Summer 2027": 96
   },
   "roles_by_region": {
-    "US": 222
+    "US": 221
   },
   "sponsorship_counts": {
-    "unknown": 172,
+    "unknown": 171,
     "citizens-only": 36,
     "offers": 6,
     "no-sponsorship": 8
   },
   "posted_date_coverage": 1.0,
-  "enriched_this_run": 1,
-  "enrichment_detail_fetches": 1,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 222,
+  "new_this_run": 0,
+  "open_total": 221,
   "detection_latency": {
     "median_minutes": 54.8,
     "p95_minutes": 155.2,
@@ -69,7 +69,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 17.0,
-    "sample_size": 248
+    "median_days": 17,
+    "sample_size": 249
   }
 }

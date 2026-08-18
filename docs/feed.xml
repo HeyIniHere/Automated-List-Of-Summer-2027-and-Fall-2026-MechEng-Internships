@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T07:00:07Z</updated>
+  <updated>2026-08-18T07:50:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787</id>
-    <title>Conagra Brands: Software Development Internship - Summer 2027</title>
-    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"/>
-    <updated>2026-08-18T07:00:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Omaha, Nebraska · $23/hr · Azure, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788</id>
     <title>Conagra Brands: IT Infrastructure Internship - Summer 2027</title>
@@ -22,6 +14,14 @@
     <updated>2026-08-18T07:00:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Omaha, Nebraska · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787</id>
+    <title>Conagra Brands: Software Development Internship - Summer 2027</title>
+    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"/>
+    <updated>2026-08-18T07:00:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Omaha, Nebraska · $23/hr · Azure, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011781</id>

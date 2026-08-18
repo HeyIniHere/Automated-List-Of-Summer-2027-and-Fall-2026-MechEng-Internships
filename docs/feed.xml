@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T20:36:20Z</updated>
+  <updated>2026-08-18T21:36:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:firstam:/job/USA-California-Remote/Product-Management-Intern_R058266</id>
+    <title>First American: Product Management Intern</title>
+    <link href="https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Product-Management-Intern_R058266"/>
+    <updated>2026-08-18T21:36:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA, California, Remote · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483</id>
+    <title>IMEG: Structural Engineering Intern | Minneapolis, MN</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483"/>
+    <updated>2026-08-18T21:36:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Minneapolis, MN · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gardacp:6146213004</id>
     <title>Garda Capital Partners: Software Engineer Intern</title>
@@ -144,14 +160,6 @@
     <summary>Summer 2027 · Software · Phoenix, AZ, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012000</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta, GA, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26010970</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970"/>
@@ -168,14 +176,6 @@
     <summary>Summer 2027 · Software · Sunrise, FL, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011698</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011698"/>
-    <updated>2026-08-17T21:36:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011745</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745"/>
@@ -190,14 +190,6 @@
     <updated>2026-08-17T21:36:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Atlanta, GA, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011999</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011999"/>
-    <updated>2026-08-17T21:36:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunrise, FL, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Cyber-Security-Intern--OKC-Local-Only-_JR1023</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
+    <title>Johnson &amp; Johnson: Software Engineer Coop</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
   </entry>
 </feed>

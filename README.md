@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 222 open roles (179 listed below) · 76 new this week
+### 221 open roles (179 listed below) · 75 new this week
 
-4,106 employers tracked · updated Aug 17, 2026 at 23:39 UTC
+4,106 employers tracked · updated Aug 18, 2026 at 01:41 UTC
 
-_141 have a cycle the employer stated · 81 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_140 have a cycle the employer stated · 81 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -77,7 +77,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 |---|---|---|---|---|---|
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
 | American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
-| American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA 🆕 | Data & ML/AI | Atlanta, GA, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000) |
+| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY 🆕 | Security | New York, NY, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878) |
 | IMEG ✓ | Mechanical Engineering Intern / Minneapolis, MN 🆕 | Hardware | Minneapolis, MN | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463) |
 | IMEG ✓ | Mechanical Engineering Intern / Rogers, AR 🆕 | Hardware | Rogers, AR | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495) |
 | IMEG ✓ | Mechanical Engineering Intern / Madison, WI 🆕 | Hardware | Madison, WI | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
@@ -291,15 +291,15 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Adobe | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Airbnb | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Bloomberg | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Dropbox | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Plaid | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Point72 | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Robinhood | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| Stripe | ~Sep | ~Sep · in ~15d | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~45d | ⏳ waiting |
+| Adobe | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Airbnb | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Bloomberg | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Dropbox | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Plaid | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Point72 | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Robinhood | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| Stripe | ~Sep | ~Sep · in ~14d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~44d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -318,6 +318,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-08-18 | gone from feed |
 | Sentry | Software Engineer, Intern (Summer 2027) | Summer 2027 | 2026-08-17 | gone from feed |
 | CCC Intelligent Solutions | R&D & Data Science Internship Fall 2026 | Fall 2026 | 2026-08-17 | gone from feed |
 | onsemi | Fall 2026 - Tax AI and Automation Intern | Fall 2026 | 2026-08-17 | gone from feed |
@@ -357,7 +358,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Gemini | Product Management Intern (Fall 2026) | Fall 2026 | 2026-08-07 | gone from feed |
 | Rocket Lab | Mechanical Engineering Intern Fall 2026 | Fall 2026 | 2026-08-07 | gone from feed |
 | Samsung Research America | 2026 Fall Intern, ML/NLP Research | Fall 2026 | 2026-08-07 | gone from feed |
-| Tevora | Cybersecurity Internship Fall 2026 - Enterprise Risk Management | Fall 2026 | 2026-08-07 | gone from feed |
 
 </details>
 
@@ -376,7 +376,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,838 of 4,205 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 405.4s · 97 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,889 of 4,205 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 391.1s · 95 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

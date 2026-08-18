@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-17T23:39:41Z</updated>
+  <updated>2026-08-18T01:41:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011781</id>
@@ -24,6 +24,38 @@
     <summary>Summer 2027 · Software · Phoenix, AZ, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011878</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878"/>
+    <updated>2026-08-17T23:39:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · New York, NY, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011908</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908"/>
+    <updated>2026-08-17T23:39:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Atlanta, GA, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011913</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913"/>
+    <updated>2026-08-17T23:39:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Atlanta, GA, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011914</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914"/>
+    <updated>2026-08-17T23:39:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Sunrise, FL, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012000</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"/>
@@ -38,38 +70,6 @@
     <updated>2026-08-17T23:39:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011908</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Atlanta, GA, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011914</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Sunrise, FL, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011878</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · New York, NY, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011913</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011913"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Atlanta, GA, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012444</id>
@@ -91,14 +91,6 @@
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012460</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460"/>
-    <updated>2026-08-17T22:35:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Phoenix, AZ, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012462</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012462"/>
     <updated>2026-08-17T22:35:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Phoenix, AZ, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
+    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
+    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

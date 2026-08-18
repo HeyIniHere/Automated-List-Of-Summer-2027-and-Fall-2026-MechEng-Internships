@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T18:51:39Z</updated>
+  <updated>2026-08-18T19:39:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:assurant:/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202</id>
+    <title>Assurant: Digital &amp; AI Transformation Intern-1</title>
+    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202"/>
+    <updated>2026-08-18T19:39:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta, GA · Python, SQL, LLMs, AWS, Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:assurant:/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203</id>
+    <title>Assurant: Digital &amp; AI Transformation Intern-1</title>
+    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203"/>
+    <updated>2026-08-18T19:39:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta, GA · Python, SQL, LLMs, AWS, Azure</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7894117003</id>
     <title>Freeform: Mechanical Engineering Intern (Summer 2027)</title>
@@ -80,14 +96,6 @@
     <summary>Not stated · Data &amp; ML/AI · ASC Atlanta HQ GA · Python, C#, TypeScript, JavaScript, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:efet.fa.us2.oraclecloud.com:218257</id>
-    <title>Hilton Worldwide: 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)</title>
-    <link href="https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257"/>
-    <updated>2026-08-18T09:45:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Memphis, TN, United States · $25/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788</id>
     <title>Conagra Brands: IT Infrastructure Internship - Summer 2027</title>
     <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788"/>
@@ -132,14 +140,6 @@
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375"/>
     <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012392</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012392"/>
-    <updated>2026-08-17T22:35:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>

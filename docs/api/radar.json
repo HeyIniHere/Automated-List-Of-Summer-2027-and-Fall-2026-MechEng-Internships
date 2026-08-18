@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T07:51:00Z",
+ "generated_at": "2026-08-18T08:49:35Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -491,20 +491,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620",
-   "note": ""
-  },
-  {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
    "note": ""
   },
   {
@@ -1287,6 +1273,20 @@
    "source": "engine",
    "expected": "2026-08-10",
    "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -1,9 +1,39 @@
 {
- "generated_at": "2026-08-18T10:40:24Z",
+ "generated_at": "2026-08-18T11:36:00Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 221,
+ "count": 222,
  "jobs": [
+  {
+   "id": "workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+   "company": "Amcor",
+   "title": "Intern - AI Innovation Engineer",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "ASC Atlanta HQ GA",
+   "url": "https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-18T11:35:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C#",
+    "TypeScript",
+    "JavaScript",
+    "LLMs",
+    "React",
+    "Azure",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 5,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:efet.fa.us2.oraclecloud.com:218257",
    "company": "Hilton Worldwide",

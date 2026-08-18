@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T10:40:23Z</updated>
+  <updated>2026-08-18T11:35:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190</id>
+    <title>Amcor: Intern - AI Innovation Engineer</title>
+    <link href="https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190"/>
+    <updated>2026-08-18T11:35:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · ASC Atlanta HQ GA · Python, C#, TypeScript, JavaScript, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:efet.fa.us2.oraclecloud.com:218257</id>
     <title>Hilton Worldwide: 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber)</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
-    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
-    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
   </entry>
 </feed>

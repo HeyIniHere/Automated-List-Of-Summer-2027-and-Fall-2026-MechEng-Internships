@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T15:44:15Z</updated>
+  <updated>2026-08-18T16:43:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
@@ -544,14 +544,6 @@
     <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, Rust · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:newbalance:/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740</id>
-    <title>New Balance: Sports Research Engineer Intern</title>
-    <link href="https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740"/>
-    <updated>2026-08-12T17:08:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sports Research Lab, Brighton MA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255</id>
     <title>Northrop Grumman: 2027 Intern Software Engineer 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"/>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
+    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
+    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18T15:44:15Z",
+ "generated_at": "2026-08-18T16:43:30Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 221,
+ "count": 220,
  "jobs": [
   {
    "id": "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
@@ -1633,27 +1633,6 @@
    ],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:newbalance:/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
-   "company": "New Balance",
-   "title": "Sports Research Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Sports Research Lab, Brighton MA",
-   "url": "https://newbalance.wd1.myworkdayjobs.com/careers/job/Sports-Research-Lab-Brighton-MA/Sports-Research-Engineer-Intern_R40740",
-   "posted_at": "2026-08-12T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-12T17:08:35Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 5,
    "program": "Internship",
    "remote": false
   },

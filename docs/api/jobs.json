@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-18T11:36:00Z",
+ "generated_at": "2026-08-18T13:03:41Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 222,
+ "count": 223,
  "jobs": [
+  {
+   "id": "workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
+   "company": "Johnson & Johnson",
+   "title": "Materials Engineering Co-op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Jacksonville, Florida, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-18T13:03:40Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 8,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190",
    "company": "Amcor",

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-18T22:35:20Z",
+ "generated_at": "2026-08-18T23:32:55Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 225,
+ "count": 224,
  "jobs": [
   {
    "id": "greenhouse:snorkelai:6146378004",
@@ -26,27 +26,6 @@
    "h1b_approvals": 4,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:firstam:/job/USA-California-Remote/Product-Management-Intern_R058266",
-   "company": "First American",
-   "title": "Product Management Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "USA, California, Remote",
-   "url": "https://firstam.wd1.myworkdayjobs.com/firstamericancareers/job/USA-California-Remote/Product-Management-Intern_R058266",
-   "posted_at": "2026-08-18T00:00:00Z",
-   "posted_at_source": "relative_derived",
-   "first_seen_at": "2026-08-18T21:36:05Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": null,
-   "source": "workday",
-   "h1b_approvals": 16,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",

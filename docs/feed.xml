@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T16:43:30Z</updated>
+  <updated>2026-08-18T17:38:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806</id>
+    <title>Conagra Brands: Manufacturing Co-Op</title>
+    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806"/>
+    <updated>2026-08-18T17:38:25Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Waterloo, Iowa · $19/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:7add5fe2-8e3e-4817-b88a-34d803ba86f9</id>
+    <title>H3X Technologies: Mechanical Design Engineer Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/7add5fe2-8e3e-4817-b88a-34d803ba86f9"/>
+    <updated>2026-08-18T17:38:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Louisville, Colorado · $23–$37/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be</id>
+    <title>H3X Technologies: Advanced Manufacturing Engineering Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be"/>
+    <updated>2026-08-18T17:38:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Louisville, Colorado · $23–$37/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366</id>
+    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366"/>
+    <updated>2026-08-18T17:38:25Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Rock Island, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
     <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
@@ -520,6 +552,14 @@
     <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:eeho.fa.us2.oraclecloud.com:342415</id>
+    <title>Oracle: Platform Software Engineer 1 - Full-time Intern Conversion</title>
+    <link href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/342415"/>
+    <updated>2026-08-12T22:11:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · C++, JavaScript, SQL</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000143171017</id>
     <title>Western Digital: Summer 2027 Intern - Software Engineering</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000143171017"/>
@@ -766,45 +806,5 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
-    <title>Moog: Intern, Industrial Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
-    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4</id>
-    <title>Centerfield: Frontend Engineer Intern (6 month internship)</title>
-    <link href="https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
-    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
-    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
-    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
-    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

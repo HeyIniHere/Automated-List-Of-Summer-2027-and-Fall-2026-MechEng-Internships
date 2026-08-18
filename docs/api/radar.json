@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T16:43:30Z",
+ "generated_at": "2026-08-18T17:38:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -676,6 +676,20 @@
    "note": ""
   },
   {
+   "company": "H3X Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be",
+   "note": ""
+  },
+  {
    "company": "PIMCO",
    "last_cycle_posted": "",
    "posted_on": "2026-08-18",
@@ -1320,5 +1334,5 @@
    "note": ""
   }
  ],
- "count": 94
+ "count": 95
 }

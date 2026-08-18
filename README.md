@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 221 open roles (179 listed below) · 75 new this week
+### 222 open roles (180 listed below) · 77 new this week
 
-4,106 employers tracked · updated Aug 18, 2026 at 05:40 UTC
+4,106 employers tracked · updated Aug 18, 2026 at 07:00 UTC
 
-_140 have a cycle the employer stated · 81 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_141 have a cycle the employer stated · 81 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,10 +71,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (68 employer-stated)
+## Summer 2027  (69 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Conagra Brands ✓ | Software Development Internship - Summer 2027 🆕 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) |
+| Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 🆕 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
 | American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY 🆕 | Security | New York, NY, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878) |
@@ -108,7 +110,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Pentair | IT & Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂 | Security | Golden Valley, MN | Aug 04, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
 | Kraft Heinz ✓ | 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas | Hardware | Garland, TX | Aug 03, 2026 | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Software | Chicago, Illinois, United States | Aug 03, 2026 | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
-| JPMorganChase ✓ | 2027 Data & AI Program - Summer Internship - Analyst - United States | Data & ML/AI | Chicago, IL, United States | Aug 03, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
 | HPR (Hyannis Port Research) | Software Engineering Intern - Summer 2027 | Software | Needham, MA | Aug 01, 2026 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
 | Heliux | Software Engineer (Internship, Summer 2027) 🇺🇸 | Software | HQ (San Francisco, CA) | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef) |
 | Melius | Software Engineering Intern [Spring/Summer 2027] | Software | New York City | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) |
@@ -309,7 +310,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Microsoft | rolling | year-round | ⏳ waiting |
 | Millennium | rolling | year-round | ⏳ waiting |
 
-_91 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **58** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_92 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **59** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -318,6 +319,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| JPMorganChase | 2027 Data & AI Program - Summer Internship - Analyst - United States | Summer 2027 | 2026-08-18 | gone from feed |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-08-18 | gone from feed |
 | Sentry | Software Engineer, Intern (Summer 2027) | Summer 2027 | 2026-08-17 | gone from feed |
 | CCC Intelligent Solutions | R&D & Data Science Internship Fall 2026 | Fall 2026 | 2026-08-17 | gone from feed |
@@ -357,7 +359,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Gemini | Software Engineering Intern (Fall 2026) | Fall 2026 | 2026-08-07 | gone from feed |
 | Gemini | Product Management Intern (Fall 2026) | Fall 2026 | 2026-08-07 | gone from feed |
 | Rocket Lab | Mechanical Engineering Intern Fall 2026 | Fall 2026 | 2026-08-07 | gone from feed |
-| Samsung Research America | 2026 Fall Intern, ML/NLP Research | Fall 2026 | 2026-08-07 | gone from feed |
 
 </details>
 
@@ -376,7 +377,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,903 of 4,205 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 345.2s · 94 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,874 of 4,205 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 440.6s · 88 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

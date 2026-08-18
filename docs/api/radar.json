@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T05:40:16Z",
+ "generated_at": "2026-08-18T07:00:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -396,20 +396,6 @@
    "note": ""
   },
   {
-   "company": "JPMorganChase",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -15,
-   "status": "open",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869",
-   "note": ""
-  },
-  {
    "company": "Belvedere Trading",
    "last_cycle_posted": "",
    "posted_on": "2026-08-04",
@@ -645,6 +631,20 @@
    "days_until": -3,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1",
+   "note": ""
+  },
+  {
+   "company": "Conagra Brands",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
    "note": ""
   },
   {
@@ -1208,6 +1208,20 @@
    "note": ""
   },
   {
+   "company": "JPMorganChase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Netsmart",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1278,5 +1292,5 @@
    "note": ""
   }
  ],
- "count": 91
+ "count": 92
 }

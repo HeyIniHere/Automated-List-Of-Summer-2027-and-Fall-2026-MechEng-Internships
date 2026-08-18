@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T08:49:35Z",
+ "generated_at": "2026-08-18T09:45:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -631,6 +631,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788",
+   "note": ""
+  },
+  {
+   "company": "Hilton Worldwide",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
    "note": ""
   },
   {
@@ -1292,5 +1306,5 @@
    "note": ""
   }
  ],
- "count": 92
+ "count": 93
 }

@@ -597,9 +597,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
-      "greenhouse:freeformfuturecorp:7872198003"
+      "greenhouse:freeformfuturecorp:7872198003",
+      "greenhouse:freeformfuturecorp:7894117003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1762,5 +1763,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T17:38:25Z"
+ "updated_at": "2026-08-18T18:51:38Z"
 }

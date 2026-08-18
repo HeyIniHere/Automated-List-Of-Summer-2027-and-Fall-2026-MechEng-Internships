@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 224 open roles (183 listed below) · 79 new this week
+### 221 open roles (183 listed below) · 75 new this week
 
-4,147 employers tracked · updated Aug 18, 2026 at 14:45 UTC
+4,147 employers tracked · updated Aug 18, 2026 at 15:44 UTC
 
-_141 have a cycle the employer stated · 83 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_138 have a cycle the employer stated · 83 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -75,6 +75,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| IMEG ✓ | Mechanical Engineering Intern / Rock Island, IL 🆕 | Hardware | Rock Island, IL | Aug 18, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375) |
 | American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL 🆕 | Software | Sunrise, FL, United States | Aug 18, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015) |
 | PIMCO ✓ | 2027 Summer Intern - Technology Analyst, Software Engineering 🆕 | Software | Austin, TX USA | Aug 18, 2026 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | Hilton Worldwide | 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber) 🆕 | Security | Memphis, TN, United States | Aug 17, 2026 | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) |
@@ -84,7 +85,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
 | IMEG ✓ | Mechanical Engineering Intern / Minneapolis, MN 🆕 | Hardware | Minneapolis, MN | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463) |
 | IMEG ✓ | Mechanical Engineering Intern / Rogers, AR 🆕 | Hardware | Rogers, AR | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495) |
-| IMEG ✓ | Mechanical Engineering Intern / Madison, WI 🆕 | Hardware | Madison, WI | Aug 17, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461) |
 | KeyBank ✓ | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland 🆕 | Security | Brooklyn, OH | Aug 17, 2026 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384) |
 | Replit | Software Engineering Intern (Summer 2027) | Software | Foster City, CA | Aug 15, 2026 | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
 | Freeform | Software Engineering Intern (Summer 2027) | Software | Los Angeles, CA (On-site) | Aug 14, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
@@ -322,6 +322,10 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY | Summer 2027 | 2026-08-18 | gone from feed |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Summer 2027 | 2026-08-18 | gone from feed |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Summer 2027 | 2026-08-18 | gone from feed |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-08-18 | gone from feed |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA | Summer 2027 | 2026-08-18 | gone from feed |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL | Summer 2027 | 2026-08-18 | gone from feed |
 | MKS Instruments | 2027 Summer Mechanical Automation Engineering Intern | Summer 2027 | 2026-08-18 | gone from feed |
@@ -358,10 +362,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Duke Energy | Asc Cybersecurity Gov&Risk Analyst - Intern/Co-op Conversion 2027 (Souza) | Summer 2027 | 2026-08-08 | gone from feed |
 | Netsmart | Software Engineer Intern (Summer 2027 Internship) | Summer 2027 | 2026-08-08 | gone from feed |
 | Lego | Firmware Engineering Co-Op - Fall 2026 | Fall 2026 | 2026-08-08 | gone from feed |
-| Atoms | Software Engineer Intern - Summer 2027 | Summer 2027 | 2026-08-07 | out of scope |
-| CNO Financial Group | Cyber Security IT Intern - REMOTE | Summer 2027 | 2026-08-07 | gone from feed |
-| Sony Pictures Entertainment | Current Programming Intern, Sony Pictures Television – Fall 2026 | Fall 2026 | 2026-08-07 | gone from feed |
-| Saronic | Enterprise Technology Intern - AI and Automation (Fall 2026) | Fall 2026 | 2026-08-07 | gone from feed |
 
 </details>
 
@@ -380,7 +380,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,930 of 4,250 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 395.9s · 118 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,878 of 4,250 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 435.8s · 111 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

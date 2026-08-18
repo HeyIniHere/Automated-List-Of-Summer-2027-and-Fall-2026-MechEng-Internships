@@ -736,9 +736,10 @@
       "workday:imeg:/job/Madison-WI/Mechanical-Engineering-Intern---Madison--WI_R-16461",
       "workday:imeg:/job/Minneapolis-MN/Mechanical-Engineering-Intern---Minneapolis--MN_R-16463",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
+      "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1741,5 +1742,5 @@
    }
   }
  },
- "updated_at": "2026-08-18T14:45:27Z"
+ "updated_at": "2026-08-18T15:44:14Z"
 }

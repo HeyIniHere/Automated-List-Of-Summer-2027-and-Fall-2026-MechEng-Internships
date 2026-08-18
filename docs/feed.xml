@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-18T14:45:28Z</updated>
+  <updated>2026-08-18T15:44:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
+    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375"/>
+    <updated>2026-08-18T15:44:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Rock Island, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011015</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL</title>
@@ -80,30 +88,6 @@
     <summary>Summer 2027 · Software · Phoenix, AZ, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011878</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011878"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · New York, NY, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011908</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Atlanta, GA</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011908"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Atlanta, GA, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011914</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011914"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Sunrise, FL, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012000</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012000"/>
@@ -126,14 +110,6 @@
     <updated>2026-08-17T22:35:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Phoenix, AZ, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012460</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Cybersecurity Analyst, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012460"/>
-    <updated>2026-08-17T22:35:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Phoenix, AZ, United States · Python · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26010970</id>
@@ -806,5 +782,29 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
+    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4</id>
+    <title>Centerfield: Frontend Engineer Intern (6 month internship)</title>
+    <link href="https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
+    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
+    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
   </entry>
 </feed>

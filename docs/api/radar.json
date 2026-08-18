@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-18T19:39:41Z",
+ "generated_at": "2026-08-18T20:36:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -690,6 +690,20 @@
    "note": ""
   },
   {
+   "company": "PIMCO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1315,20 +1329,6 @@
    "source": "engine",
    "expected": "2026-08-17",
    "days_until": -1,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "PIMCO",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-18",
-   "days_until": 0,
    "status": "dropped",
    "url": "",
    "note": ""

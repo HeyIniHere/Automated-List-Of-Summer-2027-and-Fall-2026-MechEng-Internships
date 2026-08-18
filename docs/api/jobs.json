@@ -1,9 +1,33 @@
 {
- "generated_at": "2026-08-18T19:39:41Z",
+ "generated_at": "2026-08-18T20:36:20Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 227,
  "jobs": [
+  {
+   "id": "greenhouse:gardacp:6146213004",
+   "company": "Garda Capital Partners",
+   "title": "Software Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/gardacp/jobs/6146213004",
+   "posted_at": "2026-08-18T16:01:53-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-18T20:36:19Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 6,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:assurant:/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202",
    "company": "Assurant",
@@ -217,6 +241,33 @@
    "remote": false
   },
   {
+   "id": "workday:pimco:/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+   "company": "PIMCO",
+   "title": "2027 Summer Intern - Technology Analyst, Software Engineering",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Austin, TX USA",
+   "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-18T14:45:26Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C++",
+    "C#",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": 42,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380",
    "company": "Johnson & Johnson",
    "title": "Materials Engineering Co-op",
@@ -400,33 +451,6 @@
    "remote": false
   },
   {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26012375",
-   "company": "American Express",
-   "title": "Campus Undergraduate Summer Internship Program - 2027 AI Engineer I, Enterprise Technology Services- Phoenix, AZ",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Phoenix, AZ, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-17T23:39:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL",
-    "LLMs"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "oracle:egug.fa.us2.oraclecloud.com:26010970",
    "company": "American Express",
    "title": "Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY",
@@ -550,33 +574,6 @@
    "category": "Data & ML/AI",
    "location": "Atlanta, GA, United States",
    "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011796",
-   "posted_at": "2026-08-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-17T21:36:46Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "SQL",
-    "LLMs"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 133,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:egug.fa.us2.oraclecloud.com:26011991",
-   "company": "American Express",
-   "title": "Campus Graduate Masters Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- New York, NY",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "New York, NY, United States",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011991",
    "posted_at": "2026-08-17",
    "posted_at_source": "date_only",
    "first_seen_at": "2026-08-17T21:36:46Z",

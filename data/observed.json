@@ -530,6 +530,18 @@
     }
    }
   },
+  "elanco": {
+   "name": "Elanco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ellipsis labs": {
    "name": "Ellipsis Labs",
    "cycles": {
@@ -1782,5 +1794,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T19:38:59Z"
+ "updated_at": "2026-08-19T20:40:39Z"
 }

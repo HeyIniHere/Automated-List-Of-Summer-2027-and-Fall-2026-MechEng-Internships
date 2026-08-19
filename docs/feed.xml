@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T19:39:00Z</updated>
+  <updated>2026-08-19T20:40:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1</id>
+    <title>Elanco: Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1"/>
+    <updated>2026-08-19T20:40:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Clinton, IN · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6</id>
+    <title>N1: Software Engineer Intern (Backend, Rust)</title>
+    <link href="https://jobs.ashbyhq.com/n1/afe7deb5-9cfd-4926-bcb4-058d418592a6"/>
+    <updated>2026-08-19T20:40:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · C++, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:north-wind-group:206627bdd565</id>
+    <title>North Wind Group: Structural Engineering Intern 04206 LBYD</title>
+    <link href="https://north-wind-group.breezy.hr/p/206627bdd565-structural-engineering-intern-04206-lbyd"/>
+    <updated>2026-08-19T20:40:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · HUNTSVILLE, AL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378</id>
     <title>Moog: Intern, IT Computer Science</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
-    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
-    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4695627006</id>
-    <title>SharkNinja: Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Needham, MA, United States · SQL · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
-    <title>Solid Power: Materials Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T14:44:49Z</updated>
+  <updated>2026-08-19T15:43:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471</id>
+    <title>IMEG: Mechanical Engineering Intern | Naperville, IL</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471"/>
+    <updated>2026-08-19T15:43:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Naperville, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558</id>
     <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Needham, MA, United States · SQL · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
-    <title>Solid Power: Materials Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

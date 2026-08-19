@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-19T14:44:50Z",
+ "generated_at": "2026-08-19T15:43:20Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 218,
+ "count": 219,
  "jobs": [
+  {
+   "id": "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+   "company": "IMEG",
+   "title": "Mechanical Engineering Intern | Naperville, IL",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Naperville, IL",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T15:43:18Z",
+   "sponsorship": "unknown",
+   "salary": "$22–$24/hr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 10,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
    "company": "IMEG",

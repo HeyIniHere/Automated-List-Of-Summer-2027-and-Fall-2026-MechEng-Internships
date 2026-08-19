@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T04:48:29Z",
+ "generated_at": "2026-08-19T05:42:11Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -589,20 +589,6 @@
    "days_until": -5,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003",
-   "note": ""
-  },
-  {
-   "company": "GlobalFoundries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-14",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
    "note": ""
   },
   {
@@ -1329,6 +1315,20 @@
    "source": "engine",
    "expected": "2026-08-11",
    "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "GlobalFoundries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -5,
    "status": "dropped",
    "url": "",
    "note": ""

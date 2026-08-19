@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T04:48:29Z</updated>
+  <updated>2026-08-19T05:42:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1</id>
@@ -38,14 +38,6 @@
     <updated>2026-08-18T20:36:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York, New York, United States · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:assurant:/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202</id>
-    <title>Assurant: Digital &amp; AI Transformation Intern-1</title>
-    <link href="https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115202"/>
-    <updated>2026-08-18T19:39:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Atlanta, GA · Python, SQL, LLMs, AWS, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:assurant:/job/Atlanta-GA/Digital---AI-Transformation-Intern-1_R-115203</id>
@@ -398,14 +390,6 @@
     <updated>2026-08-14T19:07:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · SQL, Azure, Tableau · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656</id>
-    <title>GlobalFoundries: US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656"/>
-    <updated>2026-08-14T19:07:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Project-Coordinator-Intern_R-71007</id>
@@ -806,5 +790,21 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
+    <title>Moog: Intern, Industrial Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
+    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>

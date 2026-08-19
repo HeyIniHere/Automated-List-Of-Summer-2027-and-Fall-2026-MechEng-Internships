@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T20:40:41Z</updated>
+  <updated>2026-08-19T21:38:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1</id>
-    <title>Elanco: Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027)</title>
-    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1"/>
-    <updated>2026-08-19T20:40:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Clinton, IN · $20–$40/hr</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6</id>
     <title>N1: Software Engineer Intern (Backend, Rust)</title>
@@ -30,6 +22,14 @@
     <updated>2026-08-19T20:40:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · HUNTSVILLE, AL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1</id>
+    <title>Elanco: Manufacturing Scientist/Technical Services Intern – Clinton, Indiana (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1"/>
+    <updated>2026-08-19T20:40:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Clinton, IN · $20–$40/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378</id>
@@ -94,14 +94,6 @@
     <updated>2026-08-19T04:48:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Oklahoma City, OK · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:snorkelai:6146378004</id>
-    <title>Snorkel AI: AI Researcher —  Intern</title>
-    <link href="https://job-boards.greenhouse.io/snorkelai/jobs/6146378004"/>
-    <updated>2026-08-18T22:35:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York City, NY (Hybrid) · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
+    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
+    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

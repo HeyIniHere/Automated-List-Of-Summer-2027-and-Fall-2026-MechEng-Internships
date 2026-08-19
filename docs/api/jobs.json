@@ -1,9 +1,32 @@
 {
- "generated_at": "2026-08-19T17:38:36Z",
+ "generated_at": "2026-08-19T18:47:29Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 220,
+ "count": 219,
  "jobs": [
+  {
+   "id": "workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
+   "company": "Moog",
+   "title": "Intern, IT Computer Science",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Buffalo, NY",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T18:47:27Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": 2,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298",
    "company": "ABB",
@@ -341,27 +364,6 @@
    "source": "workday",
    "h1b_approvals": 14,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
-   "company": "IMEG",
-   "title": "Mechanical Engineering Intern | Rock Island, IL",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Rock Island, IL",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
-   "posted_at": "2026-08-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-18T17:38:25Z",
-   "sponsorship": "unknown",
-   "salary": "$22–$24/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 10,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -1142,29 +1144,6 @@
     "Linux"
    ],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:sierraspace:/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
-   "company": "Sierra Space",
-   "title": "Fall 2026 Mechanical Engineering Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Centennial, CO",
-   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120",
-   "posted_at": "2026-08-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-14T16:04:45Z",
-   "sponsorship": "citizens-only",
-   "salary": "$30/hr",
-   "skills": [
-    "MATLAB"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

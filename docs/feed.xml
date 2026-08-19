@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T17:38:36Z</updated>
+  <updated>2026-08-19T18:47:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378</id>
+    <title>Moog: Intern, IT Computer Science</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378"/>
+    <updated>2026-08-19T18:47:27Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Buffalo, NY · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298</id>
     <title>ABB: Manufacturing Engineering/Documentation Intern - Fall 2026 🛂</title>
@@ -126,14 +134,6 @@
     <updated>2026-08-18T17:38:25Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Waterloo, Iowa · $19/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366</id>
-    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366"/>
-    <updated>2026-08-18T17:38:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Rock Island, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
@@ -406,14 +406,6 @@
     <updated>2026-08-14T16:04:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Chicago, Illinois, United States · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sierraspace:/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120</id>
-    <title>Sierra Space: Fall 2026 Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120"/>
-    <updated>2026-08-14T16:04:45Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Centennial, CO · $30/hr · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Interco:744000143346169</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4695627006</id>
+    <title>SharkNinja: Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Needham, MA, United States · SQL · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

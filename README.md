@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 220 open roles (191 listed below) · 66 new this week
+### 219 open roles (191 listed below) · 65 new this week
 
-4,162 employers tracked · updated Aug 19, 2026 at 17:38 UTC
+4,162 employers tracked · updated Aug 19, 2026 at 18:47 UTC
 
-_132 have a cycle the employer stated · 88 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_131 have a cycle the employer stated · 88 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -151,10 +151,10 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Moog | Intern, IT Computer Science 🆕 | Software | Buffalo, NY | Aug 19, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378) |
 | ABB ✓ | Manufacturing Engineering/Documentation Intern - Fall 2026 🛂 🆕 | Hardware | USA, AR, Jonesboro | Aug 19, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298) |
 | Conagra Brands ✓ | Manufacturing Co-Op 🆕 | Hardware | Waterloo, Iowa | Aug 18, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) |
 | onsemi | Fall 2026 - Tax AI and Automation Intern | Data & ML/AI | Scottsdale, AZ, United States | Aug 14, 2026 | [Apply](https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506307) |
-| Sierra Space | Fall 2026 Mechanical Engineering Intern 🇺🇸 | Hardware | Centennial, CO | Aug 14, 2026 | [Apply](https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Centennial-CO/Fall-2026-Mechanical-Engineering-Intern_R26120) |
 | WSP | Structural Engineering Co-Op - Fall 2026 | Hardware | Boston, MA, United States | Aug 11, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007) |
 | Flextronics International ✓ | Mechanical Engineering Co-op - Fall 2026 | Hardware | USA, SC, Orangeburg | Aug 07, 2026 | [Apply](https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049) |
 | The Nuclear Company | Fall 2026 AI/ML Engineering Intern 🇺🇸 | Data & ML/AI | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) |
@@ -330,6 +330,8 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| IMEG | Mechanical Engineering Intern / Rock Island, IL | Summer 2027 | 2026-08-19 | gone from feed |
+| Sierra Space | Fall 2026 Mechanical Engineering Intern | Fall 2026 | 2026-08-19 | gone from feed |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 | Summer 2027 | 2026-08-19 | gone from feed |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY | Summer 2027 | 2026-08-19 | gone from feed |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | 2026-08-19 | gone from feed |
@@ -368,8 +370,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 | Fall 2026 | 2026-08-17 | gone from feed |
 | Axon | US Software Engineering Internship | Summer 2027 | 2026-08-15 | gone from feed |
 | Regions Bank | 2027 ETP Intern – Corporate Banking Group, Commercial Credit Products, Mobile, AL | Summer 2027 | 2026-08-14 | gone from feed |
-| SharkNinja | Fall 2026: AI/Sharks Applied AI & Analytics Co-op (August to December) | Fall 2026 | 2026-08-14 | gone from feed |
-| Saronic | Software Engineer Intern (Fall 2026) | Fall 2026 | 2026-08-13 | gone from feed |
 
 </details>
 
@@ -388,7 +388,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,929 of 4,265 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 462.4s · 119 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,985 of 4,265 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 93% of the full registry) · completed in 355.2s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

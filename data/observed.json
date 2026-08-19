@@ -783,9 +783,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-13",
      "role_ids": [
-      "smartrecruiters:InfiniteQuant:744000143287594"
+      "smartrecruiters:InfiniteQuant:744000143287594",
+      "smartrecruiters:InfiniteQuant:744000144281579"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1776,5 +1777,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T09:47:17Z"
+ "updated_at": "2026-08-19T10:42:06Z"
 }

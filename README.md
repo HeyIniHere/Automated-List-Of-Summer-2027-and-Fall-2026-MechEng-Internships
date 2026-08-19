@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 223 open roles (190 listed below) · 72 new this week
+### 217 open roles (190 listed below) · 67 new this week
 
-4,147 employers tracked · updated Aug 19, 2026 at 05:42 UTC
+4,147 employers tracked · updated Aug 19, 2026 at 07:01 UTC
 
-_136 have a cycle the employer stated · 87 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_130 have a cycle the employer stated · 87 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -85,8 +85,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | PIMCO ✓ | 2027 Summer Intern - Technology Analyst, Software Engineering 🆕 | Software | Austin, TX USA | Aug 18, 2026 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 🆕 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | Conagra Brands ✓ | Software Development Internship - Summer 2027 🆕 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) |
-| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781) |
-| American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ 🆕 | Software | Phoenix, AZ, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784) |
+| American Express ✓ | Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY 🆕 | Software | New York, NY, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970) |
+| American Express ✓ | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunrise, FL 🆕 | Software | Sunrise, FL, United States | Aug 17, 2026 | [Apply](https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011084) |
 | KeyBank ✓ | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland 🆕 | Security | Brooklyn, OH | Aug 17, 2026 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384) |
 | Replit | Software Engineering Intern (Summer 2027) | Software | Foster City, CA | Aug 15, 2026 | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
 | Freeform | Software Engineering Intern (Summer 2027) | Software | Los Angeles, CA (On-site) | Aug 14, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7872198003) |
@@ -110,7 +110,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Roblox ✓ | [Summer 2027] Software Engineer Intern | Software | San Mateo, CA, United States | Aug 05, 2026 | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) |
 | Belvedere Trading | Software Engineer Intern - Summer 2027 | Software | Chicago, Illinois | Aug 04, 2026 | [Apply](https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0) |
 | Pentair | IT & Cybersecurity Leadership Development Internship Program -  Summer 2027 🛂 | Security | Golden Valley, MN | Aug 04, 2026 | [Apply](https://pentair.wd5.myworkdayjobs.com/pentair_careers/job/Golden-Valley-MN/IT---Cybersecurity-Leadership-Development-Internship-Program----Summer-2027_R23700) |
-| Kraft Heinz ✓ | 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas | Hardware | Garland, TX | Aug 03, 2026 | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Software | Chicago, Illinois, United States | Aug 03, 2026 | [Apply](https://job-boards.greenhouse.io/chicagotradingcampus/jobs/4716932005) |
 | JPMorganChase ✓ | 2027 Data & AI Program - Summer Internship - Analyst - United States | Data & ML/AI | Chicago, IL, United States | Aug 03, 2026 | [Apply](https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869) |
 | HPR (Hyannis Port Research) | Software Engineering Intern - Summer 2027 | Software | Needham, MA | Aug 01, 2026 | [Apply](https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003) |
@@ -118,6 +117,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Melius | Software Engineering Intern [Spring/Summer 2027] | Software | New York City | Jul 31, 2026 | [Apply](https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280) |
 | Kraft Heinz ✓ | 2027 US Manufacturing Internship Program – Manufacturing Facility Fremont, Ohio | Hardware | Fremont, OH | Jul 31, 2026 | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282) |
 | Kraft Heinz ✓ | 2027 US Manufacturing Internship Program – Manufacturing Facility Kirksville, Missouri | Hardware | Kirksville, MO | Jul 31, 2026 | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273) |
+| Kraft Heinz ✓ | 2027 US Manufacturing Internship Program – Manufacturing Facility Winchester, Virginia | Hardware | Winchester, VA | Jul 31, 2026 | [Apply](https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Winchester-VA/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Winchester--Virginia_R-105276) |
 | Virtu Financial ✓ | 2027 Internship - Frontend Engineer (UI) | Software | New York | Jul 29, 2026 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8657500002) |
 | Appian ✓ | Information Security Engineer Intern 🛂 | Security | McLean, Virginia | Jul 27, 2026 | [Apply](https://job-boards.greenhouse.io/appian/jobs/8088496) |
 | PDT Partners | Summer 2027 Software Engineering Intern | Software | New York, NY | Jul 24, 2026 | [Apply](https://job-boards.greenhouse.io/pdtpartners/jobs/8077685) |
@@ -329,6 +329,12 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY | Summer 2027 | 2026-08-19 | gone from feed |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL | Summer 2027 | 2026-08-19 | gone from feed |
+| American Express | Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-08-19 | gone from feed |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-08-19 | gone from feed |
+| American Express | Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC | Summer 2027 | 2026-08-19 | gone from feed |
+| Kraft Heinz | 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas | Summer 2027 | 2026-08-19 | gone from feed |
 | GlobalFoundries | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) | Summer 2027 | 2026-08-19 | gone from feed |
 | Rocket Lab | Manufacturing Engineering Intern Fall 2026 | Fall 2026 | 2026-08-18 | gone from feed |
 | American Express | Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Atlanta, GA | Summer 2027 | 2026-08-18 | gone from feed |
@@ -363,12 +369,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Assured Guaranty | Fall 2026 Intern - Product Software Developer | Fall 2026 | 2026-08-13 | gone from feed |
 | Western Digital | Summer 2027 - Software Engineering Internship | Summer 2027 | 2026-08-12 | gone from feed |
 | Montenson | AI Intern | Summer 2027 | 2026-08-12 | gone from feed |
-| Densityai | Technical Intern- Software  (Fall 2026) | Fall 2026 | 2026-08-12 | gone from feed |
-| Varda Space | Mechanical Engineering Internship - Fall 2026 | Fall 2026 | 2026-08-11 | gone from feed |
-| Motorola | Intern - Embedded Software, System, and Test Engineer - 2026 | Fall 2026 | 2026-08-11 | gone from feed |
-| VAST | 2026 Fall Internship - Manufacturing | Fall 2026 | 2026-08-10 | gone from feed |
-| VAST | 2026 Fall Internship - Mechanical / Aerospace | Fall 2026 | 2026-08-10 | gone from feed |
-| Applied Materials | 2026 Fall Mechanical Engineer Co-op - BS/MS (Gloucester, MA) | Fall 2026 | 2026-08-10 | gone from feed |
 
 </details>
 
@@ -387,7 +387,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,964 of 4,250 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 404.2s · 95 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,901 of 4,250 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 498.1s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

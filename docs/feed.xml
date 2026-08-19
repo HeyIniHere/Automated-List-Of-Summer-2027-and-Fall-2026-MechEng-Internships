@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T05:42:11Z</updated>
+  <updated>2026-08-19T07:01:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1</id>
@@ -144,22 +144,6 @@
     <summary>Summer 2027 · Software · Omaha, Nebraska · $23/hr · Azure, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011781</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011781"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011784</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer I, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011784"/>
-    <updated>2026-08-17T23:39:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26010970</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Technology - New York, NY</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010970"/>
@@ -174,14 +158,6 @@
     <updated>2026-08-17T21:36:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Sunrise, FL, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011745</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 AI Engineer, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011745"/>
-    <updated>2026-08-17T21:36:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunrise, FL, United States · Python, Java, JavaScript, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Cyber-Security-Intern--OKC-Local-Only-_JR1023</id>
@@ -302,22 +278,6 @@
     <updated>2026-08-17T13:49:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011082</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011082"/>
-    <updated>2026-08-17T04:55:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011987</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Charlotte, NC</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011987"/>
-    <updated>2026-08-17T04:55:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Charlotte, NC, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
@@ -688,14 +648,6 @@
     <summary>Not stated · Hardware · Irvine, CA · 35–45 USD/hr · Linux, Airflow</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
-    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
-    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
-    <updated>2026-08-08T08:55:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
     <title>Flextronics International: Mechanical Engineering Co-op - Fall 2026</title>
     <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"/>
@@ -806,5 +758,53 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4</id>
+    <title>Centerfield: Frontend Engineer Intern (6 month internship)</title>
+    <link href="https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
+    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
+    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
+    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
+    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4695627006</id>
+    <title>SharkNinja: Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Needham, MA, United States · SQL · H-1B track record: ~23 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:solidpower:6138210004</id>
+    <title>Solid Power: Materials Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/solidpower/jobs/6138210004"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · 486 S. Pierce Ave, Suite E, Louisville, CO 80027 · $25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:diversified-automation:827a092d-b8a3-4ca9-a84a-e8c236d1aabc</id>
+    <title>Diversified Automation: Software Engineering Co-op</title>
+    <link href="https://jobs.lever.co/diversified-automation/827a092d-b8a3-4ca9-a84a-e8c236d1aabc"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Louisville, KY</summary>
   </entry>
 </feed>

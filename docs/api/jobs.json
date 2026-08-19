@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-19T10:42:07Z",
+ "generated_at": "2026-08-19T11:38:08Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 215,
+ "count": 214,
  "jobs": [
   {
    "id": "smartrecruiters:InfiniteQuant:744000144281579",
@@ -1279,30 +1279,6 @@
    "h1b_approvals": 2,
    "program": "Co-op",
    "remote": false
-  },
-  {
-   "id": "smartrecruiters:InfiniteQuant:744000143287594",
-   "company": "InfiniteQuant",
-   "title": "Quantitative Developer - Internship - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Quant",
-   "location": "New York, New York, United States (Remote)",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000143287594",
-   "posted_at": "2026-08-13T11:30:29.931Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-13T12:00:38Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16",

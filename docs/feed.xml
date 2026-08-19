@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T03:08:20Z</updated>
+  <updated>2026-08-19T04:48:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1</id>
+    <title>Continental Resources: Data Analyst Intern (Summer 2027)</title>
+    <link href="https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1"/>
+    <updated>2026-08-19T04:48:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Oklahoma City, OK · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:snorkelai:6146378004</id>
     <title>Snorkel AI: AI Researcher —  Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
-    <title>Moog: Intern, Industrial Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Buffalo, NY</summary>
   </entry>
 </feed>

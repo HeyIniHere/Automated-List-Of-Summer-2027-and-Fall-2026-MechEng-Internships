@@ -1,9 +1,33 @@
 {
- "generated_at": "2026-08-19T03:08:20Z",
+ "generated_at": "2026-08-19T04:48:29Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 224,
+ "count": 225,
  "jobs": [
+  {
+   "id": "workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1",
+   "company": "Continental Resources",
+   "title": "Data Analyst Intern (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Oklahoma City, OK",
+   "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1",
+   "posted_at": "2026-08-18T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T04:48:28Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:snorkelai:6146378004",
    "company": "Snorkel AI",

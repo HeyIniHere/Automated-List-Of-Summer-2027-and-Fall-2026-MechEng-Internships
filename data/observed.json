@@ -642,6 +642,18 @@
     }
    }
   },
+  "general matter": {
+   "name": "General Matter",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "greenhouse:generalmatter:5377118008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "general motors": {
    "name": "General Motors",
    "cycles": {
@@ -1794,5 +1806,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T21:38:09Z"
+ "updated_at": "2026-08-19T22:35:39Z"
 }

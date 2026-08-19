@@ -1,9 +1,61 @@
 {
- "generated_at": "2026-08-19T21:38:11Z",
+ "generated_at": "2026-08-19T22:35:40Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 220,
+ "count": 221,
  "jobs": [
+  {
+   "id": "workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
+   "company": "Copart",
+   "title": "Site Reliability Engineer Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Dallas, TX - Headquarters",
+   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T22:35:39Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "AWS",
+    "GCP",
+    "Kubernetes",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 83,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:generalmatter:5377118008",
+   "company": "General Matter",
+   "title": "Summer 2027 Internship - Software Engineering",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Los Angeles, CA",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+   "posted_at": "2026-08-19T18:16:14-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-19T22:35:39Z",
+   "sponsorship": "unknown",
+   "salary": "$32–$46/hr",
+   "skills": [
+    "Python",
+    "C++",
+    "Linux"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6",
    "company": "N1",
@@ -1463,31 +1515,6 @@
    "source": "workable",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "oracle:eeho.fa.us2.oraclecloud.com:342415",
-   "company": "Oracle",
-   "title": "Platform Software Engineer 1 - Full-time Intern Conversion",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "United States",
-   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/342415",
-   "posted_at": "2026-08-12",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-12T22:11:30Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++",
-    "JavaScript",
-    "SQL"
-   ],
-   "source": "oracle",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

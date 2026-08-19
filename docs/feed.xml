@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T21:38:11Z</updated>
+  <updated>2026-08-19T22:35:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631</id>
+    <title>Copart: Site Reliability Engineer Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631"/>
+    <updated>2026-08-19T22:35:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, AWS, GCP, Kubernetes, Linux · H-1B track record: ~83 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:generalmatter:5377118008</id>
+    <title>General Matter: Summer 2027 Internship - Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5377118008"/>
+    <updated>2026-08-19T22:35:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $32–$46/hr · Python, C++, Linux</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6</id>
     <title>N1: Software Engineer Intern (Backend, Rust)</title>
@@ -520,14 +536,6 @@
     <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:eeho.fa.us2.oraclecloud.com:342415</id>
-    <title>Oracle: Platform Software Engineer 1 - Full-time Intern Conversion</title>
-    <link href="https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/342415"/>
-    <updated>2026-08-12T22:11:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States · C++, JavaScript, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:WesternDigital:744000143171017</id>
     <title>Western Digital: Summer 2027 Intern - Software Engineering</title>
     <link href="https://jobs.smartrecruiters.com/WesternDigital/744000143171017"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
-    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
-    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

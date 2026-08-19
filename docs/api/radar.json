@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-19T21:38:11Z",
+ "generated_at": "2026-08-19T22:35:40Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -732,6 +732,20 @@
    "note": ""
   },
   {
+   "company": "General Matter",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5377118008",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1362,5 +1376,5 @@
    "note": ""
   }
  ],
- "count": 97
+ "count": 98
 }

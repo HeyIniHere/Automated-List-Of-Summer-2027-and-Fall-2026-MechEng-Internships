@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-19T15:43:20Z",
+ "generated_at": "2026-08-19T16:42:40Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 219,
+ "count": 220,
  "jobs": [
+  {
+   "id": "workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298",
+   "company": "ABB",
+   "title": "Manufacturing Engineering/Documentation Intern - Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "USA, AR, Jonesboro",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298",
+   "posted_at": "2026-08-19T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-19T16:42:39Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$20–$34/hr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 69,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
    "company": "IMEG",

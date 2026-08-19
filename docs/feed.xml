@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T15:43:20Z</updated>
+  <updated>2026-08-19T16:42:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298</id>
+    <title>ABB: Manufacturing Engineering/Documentation Intern - Fall 2026 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298"/>
+    <updated>2026-08-19T16:42:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · USA, AR, Jonesboro · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471</id>
     <title>IMEG: Mechanical Engineering Intern | Naperville, IL</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4695627006</id>
-    <title>SharkNinja: Fall 2026: Code/Sharks DTC Commerce Product Management Co-op (August through December 2026)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4695627006"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Needham, MA, United States · SQL · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

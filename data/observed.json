@@ -38,6 +38,18 @@
     }
    }
   },
+  "airbus": {
+   "name": "Airbus",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-19",
+     "role_ids": [
+      "workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"
+     ],
+     "count": 1
+    }
+   }
+  },
   "akuna capital": {
    "name": "Akuna Capital",
    "cycles": {
@@ -623,9 +635,11 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "greenhouse:freeformfuturecorp:7872198003",
-      "greenhouse:freeformfuturecorp:7894117003"
+      "greenhouse:freeformfuturecorp:7894117003",
+      "greenhouse:freeformfuturecorp:7895700003",
+      "greenhouse:freeformfuturecorp:7907965003"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1806,5 +1820,5 @@
    }
   }
  },
- "updated_at": "2026-08-19T22:35:39Z"
+ "updated_at": "2026-08-19T23:34:19Z"
 }

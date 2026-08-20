@@ -5,24 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-19T23:34:20Z</updated>
+  <updated>2026-08-20T01:41:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231</id>
-    <title>Airbus: Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"/>
-    <updated>2026-08-19T23:34:19Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cranecompany:/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190</id>
-    <title>Crane Co.: Mechanical Engineering CO-OP 🇺🇸</title>
-    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190"/>
-    <updated>2026-08-19T23:34:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Elyria, Ohio · sponsorship: citizens-only · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7895700003</id>
     <title>Freeform: Manufacturing Engineering Intern (Summer 2027)</title>
@@ -38,6 +22,22 @@
     <updated>2026-08-19T23:34:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Los Angeles, CA (On-site) · $30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231</id>
+    <title>Airbus: Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering</title>
+    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"/>
+    <updated>2026-08-19T23:34:19Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cranecompany:/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190</id>
+    <title>Crane Co.: Mechanical Engineering CO-OP 🇺🇸</title>
+    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190"/>
+    <updated>2026-08-19T23:34:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Elyria, Ohio · sponsorship: citizens-only · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5377118008</id>
@@ -374,14 +374,6 @@
     <updated>2026-08-15T19:31:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Foster City, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cccis:/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851</id>
-    <title>CCC Intelligent Solutions: AI Enablement Intern</title>
-    <link href="https://cccis.wd1.myworkdayjobs.com/broadbean_external/job/Chicago-Green-St-IL/AI-Enablement-Intern_0014851"/>
-    <updated>2026-08-15T05:36:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago (Green St), IL · $20–$43/hr · Python, Java, JavaScript, LLMs, Kubernetes · H-1B track record: ~101 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7872198003</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
+    <title>Moog: Intern, Industrial Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Buffalo, NY</summary>
   </entry>
 </feed>

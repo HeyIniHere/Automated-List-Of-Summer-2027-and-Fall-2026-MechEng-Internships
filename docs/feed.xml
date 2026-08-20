@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T04:49:20Z</updated>
+  <updated>2026-08-20T05:43:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7895700003</id>
@@ -30,14 +30,6 @@
     <updated>2026-08-19T23:34:19Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cranecompany:/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190</id>
-    <title>Crane Co.: Mechanical Engineering CO-OP 🇺🇸</title>
-    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190"/>
-    <updated>2026-08-19T23:34:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Elyria, Ohio · sponsorship: citizens-only · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5377118008</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
+    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
+    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
   </entry>
 </feed>

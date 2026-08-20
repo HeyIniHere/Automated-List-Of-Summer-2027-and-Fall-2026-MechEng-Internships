@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20T04:49:20Z",
+ "generated_at": "2026-08-20T05:43:07Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 222,
+ "count": 221,
  "jobs": [
   {
    "id": "greenhouse:freeformfuturecorp:7895700003",
@@ -65,27 +65,6 @@
    "source": "workday",
    "h1b_approvals": 16,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:cranecompany:/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190",
-   "company": "Crane Co.",
-   "title": "Mechanical Engineering CO-OP",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Elyria, Ohio",
-   "url": "https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Elyria-Ohio/Mechanical-Engineering-CO-OP_JR102190",
-   "posted_at": "2026-08-19T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-19T23:34:19Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 12,
-   "program": "Co-op",
    "remote": false
   },
   {

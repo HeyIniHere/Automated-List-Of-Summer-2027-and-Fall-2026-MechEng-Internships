@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T18:52:57Z</updated>
+  <updated>2026-08-20T19:42:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26</id>
+    <title>Microchip Technology: Intern - Engineering (Device Software and Test)</title>
+    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"/>
+    <updated>2026-08-20T19:42:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93468</id>
+    <title>WSP: Mechanical Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468"/>
+    <updated>2026-08-20T19:42:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Billings, MT, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237</id>
     <title>General Dynamics Information Technology: Summer 2027 Software Development Internship 🇺🇸</title>
@@ -142,14 +158,6 @@
     <updated>2026-08-19T23:34:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Los Angeles, CA (On-site) · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231</id>
-    <title>Airbus: Short-term Internship (Fall 2026) - Industrial and Manufacturing Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/Short-term-Internship--Fall-2026----Industrial-and-Manufacturing-Engineering_JR10436231"/>
-    <updated>2026-08-19T23:34:19Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5377118008</id>
@@ -478,14 +486,6 @@
     <updated>2026-08-14T20:41:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Francisco, California · $57/hr · Python, TypeScript, LLMs, React, Node.js · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:valeo:/job/Troy-MI/Software-Engineer-Intern_REQ2026076575</id>
-    <title>Valeo: Software Engineer Intern</title>
-    <link href="https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Software-Engineer-Intern_REQ2026076575"/>
-    <updated>2026-08-14T20:41:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Troy, MI · Python, C++, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/Data-Analytics-Developer-Intern_R-71041</id>

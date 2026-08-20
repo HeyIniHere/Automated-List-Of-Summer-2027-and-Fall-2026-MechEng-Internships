@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T08:53:47Z</updated>
+  <updated>2026-08-20T09:47:31Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:espace:1e189295-a315-414d-8c0b-686f204e3cb3</id>
+    <title>E-Space: Embedded Software Engineering Intern</title>
+    <link href="https://jobs.lever.co/espace/1e189295-a315-414d-8c0b-686f204e3cb3"/>
+    <updated>2026-08-20T09:47:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Arlington, TX · Python, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:western-magnetics:E366930F3F</id>
+    <title>Western Magnetics: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/western-magnetics/j/E366930F3F/"/>
+    <updated>2026-08-20T09:47:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · South San Francisco, California, United States · Python, TypeScript, JavaScript, LLMs, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7895700003</id>
     <title>Freeform: Manufacturing Engineering Intern (Summer 2027)</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4</id>
-    <title>Centerfield: Frontend Engineer Intern (6 month internship)</title>
-    <link href="https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:phoenixcontact:7817228003</id>
-    <title>Phoenix Contact: Manufacturing Co-Op - High School Students</title>
-    <link href="https://job-boards.greenhouse.io/phoenixcontact/jobs/7817228003"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
   </entry>
 </feed>

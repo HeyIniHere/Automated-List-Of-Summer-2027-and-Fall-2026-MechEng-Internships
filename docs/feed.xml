@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T07:53:11Z</updated>
+  <updated>2026-08-20T08:53:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7895700003</id>
@@ -672,6 +672,14 @@
     <summary>Not stated · Hardware · Irvine, CA · 35–45 USD/hr · Linux, Airflow</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:heinz:/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352</id>
+    <title>Kraft Heinz: 2027 US Manufacturing Internship Program – Manufacturing Facility Garland, Texas</title>
+    <link href="https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Garland-TX/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Garland--Texas_R-105352"/>
+    <updated>2026-08-08T08:55:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Garland, TX · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049</id>
     <title>Flextronics International: Mechanical Engineering Co-op - Fall 2026</title>
     <link href="https://flextronics.wd1.myworkdayjobs.com/Careers/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T00:29:47Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Middletown, Pennsylvania</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:roblox:8072713</id>
-    <title>Roblox: [Summer 2027] Software Engineer Intern</title>
-    <link href="https://careers.roblox.com/jobs/8072713?gh_jid=8072713"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA, United States · Python, Java, C++, C#, Swift · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

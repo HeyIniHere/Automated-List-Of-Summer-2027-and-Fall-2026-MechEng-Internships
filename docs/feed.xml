@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T14:49:20Z</updated>
+  <updated>2026-08-20T15:46:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815</id>
@@ -240,28 +240,12 @@
     <summary>Fall 2026 · Hardware · Waterloo, Iowa · $19/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375</id>
-    <title>IMEG: Mechanical Engineering Intern | Rock Island, IL</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375"/>
-    <updated>2026-08-18T15:44:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Rock Island, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:pimco:/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745</id>
     <title>PIMCO: 2027 Summer Intern - Technology Analyst, Software Engineering</title>
     <link href="https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"/>
     <updated>2026-08-18T14:45:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Austin, TX USA · Python, Java, C++, C#, SQL · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380</id>
-    <title>Johnson &amp; Johnson: Materials Engineering Co-op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-op_R-094380"/>
-    <updated>2026-08-18T13:03:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Jacksonville, Florida, United States of America</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190</id>
@@ -310,14 +294,6 @@
     <updated>2026-08-17T20:38:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US, California, Folsom · Python, C++, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1</id>
-    <title>Johnson &amp; Johnson: Materials Engineering Co-Op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Jacksonville-Florida-United-States-of-America/Materials-Engineering-Co-Op_R-093889-1"/>
-    <updated>2026-08-17T19:39:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Jacksonville, Florida, United States of America</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495</id>
@@ -806,5 +782,29 @@
     <updated>2026-08-07T17:58:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Chicago, Illinois · 130,000 USD/yr · Java, C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510</id>
+    <title>Copart: Software Engineering Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
+    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
+    <title>Johnson &amp; Johnson: Software Engineer Coop</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"/>
+    <updated>2026-08-07T16:10:42Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
   </entry>
 </feed>

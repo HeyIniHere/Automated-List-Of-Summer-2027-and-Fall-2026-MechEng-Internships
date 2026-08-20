@@ -26,6 +26,18 @@
     }
    }
   },
+  "abbvie": {
+   "name": "AbbVie",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "smartrecruiters:AbbVie:3743990014697918"
+     ],
+     "count": 1
+    }
+   }
+  },
   "achievers": {
    "name": "Achievers",
    "cycles": {
@@ -575,6 +587,19 @@
       "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"
      ],
      "count": 1
+    }
+   }
+  },
+  "fifth third bank": {
+   "name": "Fifth Third Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+      "workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
+     ],
+     "count": 2
     }
    }
   },
@@ -1820,5 +1845,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T13:05:24Z"
+ "updated_at": "2026-08-20T14:01:27Z"
 }

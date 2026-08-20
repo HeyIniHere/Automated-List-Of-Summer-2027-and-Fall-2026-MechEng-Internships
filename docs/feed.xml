@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T13:05:25Z</updated>
+  <updated>2026-08-20T14:01:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014697918</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014697918"/>
+    <updated>2026-08-20T14:01:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · North Chicago, IL, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588</id>
+    <title>Fifth Third Bank: Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027</title>
+    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"/>
+    <updated>2026-08-20T14:01:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cincinnati, OH · Java, LLMs, Node.js, Angular, Spring · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582</id>
+    <title>Fifth Third Bank: Information Security Co-op - Cyber Threat Interdiction - Summer 2027</title>
+    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"/>
+    <updated>2026-08-20T14:01:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Cincinnati, OH · H-1B track record: ~60 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:espace:1e189295-a315-414d-8c0b-686f204e3cb3</id>
     <title>E-Space: Embedded Software Engineering Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
-    <title>Johnson &amp; Johnson: Software Engineer Coop</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319</id>
-    <title>Moog: Intern, Industrial Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Industrial-Engineering_R-26-19319"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
-    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
-    <updated>2026-08-07T00:29:47Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>

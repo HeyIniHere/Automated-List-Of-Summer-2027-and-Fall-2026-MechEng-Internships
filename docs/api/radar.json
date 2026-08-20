@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T13:05:25Z",
+ "generated_at": "2026-08-20T14:01:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -732,6 +732,34 @@
    "note": ""
   },
   {
+   "company": "AbbVie",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014697918",
+   "note": ""
+  },
+  {
+   "company": "Fifth Third Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1376,5 +1404,5 @@
    "note": ""
   }
  ],
- "count": 98
+ "count": 100
 }

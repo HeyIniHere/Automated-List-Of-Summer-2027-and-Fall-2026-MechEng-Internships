@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T19:42:58Z</updated>
+  <updated>2026-08-20T20:41:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26</id>
-    <title>Microchip Technology: Intern - Engineering (Device Software and Test)</title>
-    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"/>
-    <updated>2026-08-20T19:42:57Z</updated>
+    <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
+    <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
+    <link href="https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1"/>
+    <updated>2026-08-20T20:41:36Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Marysville, OH · $19–$24/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93468</id>
@@ -22,6 +22,14 @@
     <updated>2026-08-20T19:42:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Billings, MT, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26</id>
+    <title>Microchip Technology: Intern - Engineering (Device Software and Test)</title>
+    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"/>
+    <updated>2026-08-20T19:42:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383244008</id>
-    <title>The Nuclear Company: Summer 2027 Data Science Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
   </entry>
 </feed>

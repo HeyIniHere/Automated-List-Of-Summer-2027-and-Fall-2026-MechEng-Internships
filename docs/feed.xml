@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T15:46:08Z</updated>
+  <updated>2026-08-20T16:48:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489</id>
+    <title>Intel: Software Engineer Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"/>
+    <updated>2026-08-20T16:48:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, Arizona, Phoenix · Java, C#, .NET · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491</id>
+    <title>Intel: Software Engineer Graduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"/>
+    <updated>2026-08-20T16:48:28Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · US, Oregon, Hillsboro · Python, C#, .NET · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5214224007</id>
+    <title>Toshiba Global Commerce: AI Software Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"/>
+    <updated>2026-08-20T16:48:28Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Durham, NC · Java, C++, JavaScript, LLMs, React · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815</id>
     <title>Fannie Mae: Campus – Data Science Intern (Analytics &amp; Modeling Program) 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T17:58:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Chicago, Illinois · 130,000 USD/yr · Java, C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510</id>
-    <title>Copart: Software Engineering Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR101510"/>
-    <updated>2026-08-07T17:58:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142173185</id>
-    <title>Bosch: Internship Vehicle Thermal Systems Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142173185"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Farmington Hills, MI, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820</id>
-    <title>Johnson &amp; Johnson: Software Engineer Coop</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"/>
-    <updated>2026-08-07T16:10:42Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Cincinnati, Ohio, United States of America · Python, C++, Linux</summary>
   </entry>
 </feed>

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T20:41:37Z</updated>
+  <updated>2026-08-20T21:40:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
+    <title>Elanco: Manufacturing Associate Intern – Elwood, Kansas (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"/>
+    <updated>2026-08-20T21:40:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Elwood, KS · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:son:/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824</id>
+    <title>State of Nebraska: Geotechnical &amp; Materials Engineering Intern</title>
+    <link href="https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824"/>
+    <updated>2026-08-20T21:40:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Lincoln, NE</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
     <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
@@ -78,22 +94,6 @@
     <updated>2026-08-20T16:48:28Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Durham, NC · Java, C++, JavaScript, LLMs, React · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489</id>
-    <title>Intel: Software Engineer Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489"/>
-    <updated>2026-08-20T16:48:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US, Arizona, Phoenix · Java, C#, .NET · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491</id>
-    <title>Intel: Software Engineer Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491"/>
-    <updated>2026-08-20T16:48:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US, Oregon, Hillsboro · Python, C#, .NET · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815</id>
@@ -480,14 +480,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506307</id>
-    <title>onsemi: Fall 2026 - Tax AI and Automation Intern</title>
-    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506307"/>
-    <updated>2026-08-14T21:36:54Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Scottsdale, AZ, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c</id>
     <title>Notion: Software Engineer Intern (Summer 2027)</title>
     <link href="https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"/>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383244008</id>
+    <title>The Nuclear Company: Summer 2027 Data Science Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"/>
+    <updated>2026-08-07T19:10:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
   </entry>
 </feed>

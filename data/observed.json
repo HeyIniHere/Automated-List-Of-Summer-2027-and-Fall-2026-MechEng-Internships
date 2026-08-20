@@ -578,6 +578,18 @@
     }
    }
   },
+  "fannie mae": {
+   "name": "Fannie Mae",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815"
+     ],
+     "count": 1
+    }
+   }
+  },
   "field ai": {
    "name": "Field AI",
    "cycles": {
@@ -597,9 +609,10 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+      "workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Identity---Access-Management---Summer-2027_R71591",
       "workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1845,5 +1858,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T14:01:27Z"
+ "updated_at": "2026-08-20T14:49:19Z"
 }

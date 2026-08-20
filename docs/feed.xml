@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T21:40:47Z</updated>
+  <updated>2026-08-20T22:40:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
@@ -648,14 +648,6 @@
     <summary>Summer 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1</id>
-    <title>Marmon Holdings: AI Project Management Intern</title>
-    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1"/>
-    <updated>2026-08-12T13:29:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago, IL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
     <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
     <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383113008</id>
+    <title>The Nuclear Company: Fall 2026 AI Software Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
   </entry>
 </feed>

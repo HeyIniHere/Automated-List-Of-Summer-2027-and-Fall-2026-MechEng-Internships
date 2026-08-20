@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20T21:40:47Z",
+ "generated_at": "2026-08-20T22:40:32Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 226,
+ "count": 225,
  "jobs": [
   {
    "id": "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
@@ -1835,27 +1835,6 @@
    "first_seen_at": "2026-08-12T17:08:35Z",
    "sponsorship": "citizens-only",
    "salary": "$18.5–$33.5/hr",
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:marmon:/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1",
-   "company": "Marmon Holdings",
-   "title": "AI Project Management Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chicago, IL",
-   "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/AI-Project-Management-Intern_JR0000045089-1",
-   "posted_at": "2026-08-12T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-12T13:29:19Z",
-   "sponsorship": "unknown",
-   "salary": null,
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,

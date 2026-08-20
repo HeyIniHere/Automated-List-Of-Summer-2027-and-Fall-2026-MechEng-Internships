@@ -694,6 +694,18 @@
     }
    }
   },
+  "general dynamics information technology": {
+   "name": "General Dynamics Information Technology",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-20",
+     "role_ids": [
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237"
+     ],
+     "count": 1
+    }
+   }
+  },
   "general matter": {
    "name": "General Matter",
    "cycles": {
@@ -1872,5 +1884,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T17:40:35Z"
+ "updated_at": "2026-08-20T18:52:56Z"
 }

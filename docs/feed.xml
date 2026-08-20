@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T17:40:35Z</updated>
+  <updated>2026-08-20T18:52:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237</id>
+    <title>General Dynamics Information Technology: Summer 2027 Software Development Internship 🇺🇸</title>
+    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237"/>
+    <updated>2026-08-20T18:52:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA VA Falls Church · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159</id>
+    <title>Leidos: Robotics Engineer Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159"/>
+    <updated>2026-08-20T18:52:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Huntsville, AL · Python, C++, MATLAB, Computer Vision, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512</id>
+    <title>Sony: Intern, Information Security Risk and Compliance</title>
+    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512"/>
+    <updated>2026-08-20T18:52:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · New York · $24/hr</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1</id>
     <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
@@ -656,14 +680,6 @@
     <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93007</id>
-    <title>WSP: Structural Engineering Co-Op - Fall 2026</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93007"/>
-    <updated>2026-08-11T17:09:30Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Boston, MA, United States · $24.76–$32.22/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:chamberlain:/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309</id>
     <title>Chamberlain Group: Intern, Community Product Management (Summer 2027)</title>
     <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"/>
@@ -790,21 +806,5 @@
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383113008</id>
-    <title>The Nuclear Company: Fall 2026 AI Software Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383113008"/>
-    <updated>2026-08-07T17:58:18Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0</id>
-    <title>Belvedere Trading: Software Engineer Intern - Summer 2027</title>
-    <link href="https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"/>
-    <updated>2026-08-07T17:58:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, Illinois · 130,000 USD/yr · Java, C++, C#</summary>
   </entry>
 </feed>

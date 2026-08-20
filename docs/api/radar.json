@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-20T05:43:07Z",
+ "generated_at": "2026-08-20T07:00:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -519,20 +519,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
-   "note": ""
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011015",
    "note": ""
   },
   {
@@ -1357,6 +1343,20 @@
    "source": "engine",
    "expected": "2026-08-11",
    "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

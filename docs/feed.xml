@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T01:41:31Z</updated>
+  <updated>2026-08-20T03:09:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7895700003</id>
@@ -480,14 +480,6 @@
     <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44</id>
-    <title>Field AI: Electrical Engineer, Robotics Hardware- Part-time Internship</title>
-    <link href="https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44"/>
-    <updated>2026-08-14T02:29:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Irvine, CA · 27–30 USD/hr · Linux</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165</id>
     <title>HNTB: WED - 2027 New Grad Mechanical &amp; Fire Protection Engineer I  (For Current &amp; Recent HNTB Interns Only) 🛂</title>
     <link href="https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165"/>
@@ -526,14 +518,6 @@
     <updated>2026-08-13T19:16:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amainc:/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1</id>
-    <title>Analytical Mechanics Associates: Graduate Research Scientist intern</title>
-    <link href="https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1"/>
-    <updated>2026-08-13T17:07:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote - New Jersey · Python, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
@@ -806,5 +790,21 @@
     <updated>2026-08-07T16:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Buffalo, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:alloyenterprises:946e7ae1-d2ac-4889-a72a-268b0aeda9bd</id>
+    <title>Alloy Enterprises: Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Burlington, MA · $23–$28/hr · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4</id>
+    <title>Centerfield: Frontend Engineer Intern (6 month internship)</title>
+    <link href="https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4"/>
+    <updated>2026-08-07T00:29:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, California · $30 per hour · Java, TypeScript, JavaScript, React, Node.js · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

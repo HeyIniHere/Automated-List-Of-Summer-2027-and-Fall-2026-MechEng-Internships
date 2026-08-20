@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-20T01:41:31Z",
+ "generated_at": "2026-08-20T03:09:24Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 224,
+ "count": 222,
  "jobs": [
   {
    "id": "greenhouse:freeformfuturecorp:7895700003",
@@ -1294,29 +1294,6 @@
    "remote": false
   },
   {
-   "id": "lever:field-ai:1049e3e1-b4ca-4996-96a5-14e933f35b44",
-   "company": "Field AI",
-   "title": "Electrical Engineer, Robotics Hardware- Part-time Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Irvine, CA",
-   "url": "https://jobs.lever.co/field-ai/1049e3e1-b4ca-4996-96a5-14e933f35b44",
-   "posted_at": "2026-08-13T23:54:03Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-14T02:29:13Z",
-   "sponsorship": "unknown",
-   "salary": "27–30 USD/hr",
-   "skills": [
-    "Linux"
-   ],
-   "source": "lever",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165",
    "company": "HNTB",
    "title": "WED - 2027 New Grad Mechanical & Fire Protection Engineer I  (For Current & Recent HNTB Interns Only)",
@@ -1444,31 +1421,6 @@
    "h1b_approvals": 5,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:amainc:/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
-   "company": "Analytical Mechanics Associates",
-   "title": "Graduate Research Scientist intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Remote - New Jersey",
-   "url": "https://amainc.wd12.myworkdayjobs.com/ama_careers/job/Remote---New-Jersey/Graduate-Research-Scientist-intern_R-100717-1",
-   "posted_at": "2026-08-13T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-13T17:07:11Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow"
-   ],
-   "source": "workday",
-   "h1b_approvals": 4,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "oracle:ekcf.fa.us6.oraclecloud.com:7604",

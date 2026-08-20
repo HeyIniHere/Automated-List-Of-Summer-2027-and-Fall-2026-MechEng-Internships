@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T16:48:29Z</updated>
+  <updated>2026-08-20T17:40:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1</id>
+    <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1"/>
+    <updated>2026-08-20T17:40:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Denver Metro, CO · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567</id>
+    <title>Philips: Graduate Level Co-op – Data Scientist – Plymouth, MN – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567"/>
+    <updated>2026-08-20T17:40:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Plymouth, Minnesota, United States · PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5214224007</id>
+    <title>Toshiba Global Commerce: AI Software Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"/>
+    <updated>2026-08-20T16:48:28Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Durham, NC · Java, C++, JavaScript, LLMs, React · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489</id>
     <title>Intel: Software Engineer Graduate Intern</title>
@@ -22,14 +46,6 @@
     <updated>2026-08-20T16:48:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US, Oregon, Hillsboro · Python, C#, .NET · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5214224007</id>
-    <title>Toshiba Global Commerce: AI Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"/>
-    <updated>2026-08-20T16:48:28Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Durham, NC · Java, C++, JavaScript, LLMs, React · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815</id>
@@ -342,14 +358,6 @@
     <updated>2026-08-17T16:40:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Naperville, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:keybank:/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384</id>
-    <title>KeyBank: 2027 Summer Key Technology &amp; Services: Cyber/Information Security Track Internship- Cleveland</title>
-    <link href="https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384"/>
-    <updated>2026-08-17T16:40:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Brooklyn, OH · $25/hr · Python, C#, JavaScript, SQL, GCP · H-1B track record: ~45 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:acds:5a872bb7-8d9f-46e3-9e72-f5c69445e787</id>
@@ -790,14 +798,6 @@
     <updated>2026-08-07T17:58:18Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acds:e468d15b-69c3-4534-8072-7ff3f85fbf83</id>
-    <title>ACDS: AI Operations Intern</title>
-    <link href="https://jobs.lever.co/acds/e468d15b-69c3-4534-8072-7ff3f85fbf83"/>
-    <updated>2026-08-07T17:58:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lowell, AR · 15 USD/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0</id>

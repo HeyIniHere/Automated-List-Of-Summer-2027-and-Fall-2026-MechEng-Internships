@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-20T22:40:32Z</updated>
+  <updated>2026-08-20T23:36:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899</id>
@@ -46,14 +46,6 @@
     <updated>2026-08-20T19:42:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237</id>
-    <title>General Dynamics Information Technology: Summer 2027 Software Development Internship 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237"/>
-    <updated>2026-08-20T18:52:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA VA Falls Church · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159</id>
@@ -605,7 +597,7 @@
     <link href="https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"/>
     <updated>2026-08-13T08:30:42Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California · $100K – $150K · C++, Rust · sponsorship: offers</summary>
+    <summary>Not stated · Software · San Francisco, California · $100K – $200K · C++, Rust · sponsorship: offers</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workable:connectprep:D1C67258C0</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-07T17:58:18Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0</id>
+    <title>Belvedere Trading: Software Engineer Intern - Summer 2027</title>
+    <link href="https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0"/>
+    <updated>2026-08-07T17:58:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, Illinois · 130,000 USD/yr · Java, C++, C#</summary>
   </entry>
 </feed>

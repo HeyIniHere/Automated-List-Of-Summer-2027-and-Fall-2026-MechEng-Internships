@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T17:40:52Z</updated>
+  <updated>2026-08-21T18:49:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:h3x-technologies:d406e4b4-9b48-438c-a2af-b7feb8563a40</id>
+    <title>H3X Technologies: Embedded Controls Intern (Spring)</title>
+    <link href="https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40"/>
+    <updated>2026-08-21T17:40:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Louisville, Colorado · $23–$37/hr · Python, C++, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140</id>
     <title>Airbus: 2027 Summer Internship - Industrial Engineering - PPE/IE</title>
@@ -30,14 +38,6 @@
     <updated>2026-08-21T17:40:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Tulsa, OK · $18–$27/hr · Python, Java, C++, Kotlin, Git · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:h3x-technologies:d406e4b4-9b48-438c-a2af-b7feb8563a40</id>
-    <title>H3X Technologies: Embedded Controls Intern (Spring)</title>
-    <link href="https://jobs.ashbyhq.com/h3x-technologies/d406e4b4-9b48-438c-a2af-b7feb8563a40"/>
-    <updated>2026-08-21T17:40:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Louisville, Colorado · $23–$37/hr · Python, C++, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:heidelbergmaterials:/job/Nazareth-PA/Mechanical-Engineering-Intern_JR10018120</id>

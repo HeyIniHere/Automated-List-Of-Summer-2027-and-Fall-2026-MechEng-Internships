@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T09:47:11Z</updated>
+  <updated>2026-08-21T10:42:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workable:fooji:6563DA99B5</id>
-    <title>Fooji: Software Engineering Intern</title>
-    <link href="https://apply.workable.com/fooji/j/6563DA99B5/"/>
-    <updated>2026-08-21T09:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lexington, Kentucky, United States · TypeScript, JavaScript, SQL, Node.js, AWS</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
     <title>Phoebe: Software Engineering Intern</title>
@@ -22,6 +14,14 @@
     <updated>2026-08-21T09:47:10Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York City · Python, TypeScript, LLMs, React, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:fooji:6563DA99B5</id>
+    <title>Fooji: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/fooji/j/6563DA99B5/"/>
+    <updated>2026-08-21T09:47:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lexington, Kentucky, United States · TypeScript, JavaScript, SQL, Node.js, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5376060008</id>

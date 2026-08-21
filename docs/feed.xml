@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T08:53:22Z</updated>
+  <updated>2026-08-21T09:47:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:fooji:6563DA99B5</id>
+    <title>Fooji: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/fooji/j/6563DA99B5/"/>
+    <updated>2026-08-21T09:47:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lexington, Kentucky, United States · TypeScript, JavaScript, SQL, Node.js, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
+    <title>Phoebe: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"/>
+    <updated>2026-08-21T09:47:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · Python, TypeScript, LLMs, React, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:generalmatter:5376060008</id>
     <title>General Matter: Summer 2027 Internship - Manufacturing Engineering</title>
@@ -790,21 +806,5 @@
     <updated>2026-08-07T19:10:49Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch, LLMs, AWS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383236008</id>
-    <title>The Nuclear Company: Summer 2027 Software Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Washington, DC · Python, Java, C++, Rust, TypeScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383244008</id>
-    <title>The Nuclear Company: Summer 2027 Data Science Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383244008"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, SQL, scikit-learn, Pandas, AWS · sponsorship: citizens-only</summary>
   </entry>
 </feed>

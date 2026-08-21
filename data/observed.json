@@ -561,9 +561,10 @@
      "first_posted": "2026-08-19",
      "role_ids": [
       "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1",
-      "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899"
+      "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
+      "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1893,5 +1894,5 @@
    }
   }
  },
- "updated_at": "2026-08-21T13:03:53Z"
+ "updated_at": "2026-08-21T13:57:57Z"
 }

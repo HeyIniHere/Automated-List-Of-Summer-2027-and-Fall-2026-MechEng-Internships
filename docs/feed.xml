@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T13:03:54Z</updated>
+  <updated>2026-08-21T13:57:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897</id>
+    <title>Elanco: Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027)</title>
+    <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"/>
+    <updated>2026-08-21T13:57:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Indianapolis, IN · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:magna:/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153</id>
+    <title>Magna International: Intern - Engineering Mechanical Optics</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153"/>
+    <updated>2026-08-21T13:57:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Auburn Hills, Michigan, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
+    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
+    <updated>2026-08-21T13:57:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Merrimack, NH</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
     <title>Phoebe: Software Engineering Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-08-07T22:49:19Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Seattle, Washington, United States · Python, Java, C#, SQL, Scala · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597</id>
-    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597"/>
-    <updated>2026-08-07T22:49:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-California-Palmdale · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383163008</id>
-    <title>The Nuclear Company: Fall 2026 AI/ML Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Washington, DC · Python, PyTorch, LLMs, AWS · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenuclearcompany:5383231008</id>
-    <title>The Nuclear Company: Summer 2027 AI/ML Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008"/>
-    <updated>2026-08-07T19:10:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Washington, DC · Python, PyTorch, LLMs, AWS · sponsorship: citizens-only</summary>
   </entry>
 </feed>

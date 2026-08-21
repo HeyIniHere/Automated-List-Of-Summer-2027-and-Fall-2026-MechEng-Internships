@@ -1130,6 +1130,13 @@
       "workday:motorolasolutions:/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
       "workday:motorolasolutions:/job/Los-Angeles-CA/Intern---Web-Interface-Software-Engineer--2026-_R64590"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
+     ],
+     "count": 1
     }
    }
   },
@@ -1902,5 +1909,5 @@
    }
   }
  },
- "updated_at": "2026-08-21T18:49:55Z"
+ "updated_at": "2026-08-21T19:36:14Z"
 }

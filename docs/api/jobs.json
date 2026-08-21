@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T15:46:33Z",
+ "generated_at": "2026-08-21T16:47:17Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 224,
+ "count": 225,
  "jobs": [
   {
    "id": "greenhouse:rebuildmanufacturing:4554542005",
@@ -3076,6 +3076,27 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:imeg:/job/Raleigh-NC/Structural-Engineering-Intern---Raleigh--NC_R-16319-1",
+   "company": "IMEG",
+   "title": "Structural Engineering Intern | Raleigh, NC",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Raleigh, NC",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Raleigh-NC/Structural-Engineering-Intern---Raleigh--NC_R-16319-1",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-03T19:16:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 10,
    "program": "Internship",
    "remote": false
   },

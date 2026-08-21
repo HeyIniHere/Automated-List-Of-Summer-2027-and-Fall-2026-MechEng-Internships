@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-21T01:47:43Z",
+ "generated_at": "2026-08-21T03:15:57Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 226,
+ "count": 222,
  "jobs": [
   {
    "id": "greenhouse:generalmatter:5376060008",
@@ -2514,81 +2514,6 @@
    "remote": false
   },
   {
-   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39284",
-   "company": "Nokia",
-   "title": "AI R&D Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United States",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39284",
-   "posted_at": "2026-08-06",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "PyTorch",
-    "TensorFlow",
-    "Kafka"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 321,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39285",
-   "company": "Nokia",
-   "title": "AI R&D Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United States",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39285",
-   "posted_at": "2026-08-06",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "PyTorch",
-    "TensorFlow",
-    "Kafka"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 321,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39286",
-   "company": "Nokia",
-   "title": "AI R&D Engineer Co-op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "United States",
-   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39286",
-   "posted_at": "2026-08-06",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "PyTorch",
-    "TensorFlow",
-    "Kafka"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 321,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
    "id": "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39287",
    "company": "Nokia",
    "title": "AI R&D Engineering Co-op",
@@ -5012,31 +4937,6 @@
     "scikit-learn",
     "LLMs",
     "Linux"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:astranis:4681183006",
-   "company": "Astranis",
-   "title": "Software Engineer- Backend Intern (Fall 2026)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/astranis/jobs/4681183006",
-   "posted_at": "2026-05-13T16:07:31-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-06-30T12:14:22Z",
-   "sponsorship": "citizens-only",
-   "salary": "$29/hr",
-   "skills": [
-    "Python",
-    "Kubernetes",
-    "PostgreSQL"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

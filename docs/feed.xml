@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T13:57:58Z</updated>
+  <updated>2026-08-21T14:47:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
+    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
+    <updated>2026-08-21T13:57:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Merrimack, NH</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897</id>
     <title>Elanco: Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027)</title>
@@ -22,14 +30,6 @@
     <updated>2026-08-21T13:57:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Auburn Hills, Michigan, US</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4554542005</id>
-    <title>Re:Build Manufacturing: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4554542005"/>
-    <updated>2026-08-21T13:57:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Merrimack, NH</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>

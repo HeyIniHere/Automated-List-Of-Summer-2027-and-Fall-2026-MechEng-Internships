@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-20T23:36:26Z",
+ "generated_at": "2026-08-21T01:47:43Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 224,
+ "count": 226,
  "jobs": [
+  {
+   "id": "greenhouse:generalmatter:5376060008",
+   "company": "General Matter",
+   "title": "Summer 2027 Internship - Manufacturing Engineering",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Los Angeles, CA",
+   "url": "https://job-boards.greenhouse.io/generalmatter/jobs/5376060008",
+   "posted_at": "2026-08-20T21:06:46-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-21T01:47:42Z",
+   "sponsorship": "unknown",
+   "salary": "$30–$40/hr",
+   "skills": [],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
    "company": "Elanco",
@@ -2135,6 +2156,34 @@
    "source": "workday",
    "h1b_approvals": 65,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:axontalentcommunity:7837133003",
+   "company": "Axon",
+   "title": "2027 US Software Engineering Internship",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Seattle, Washington, United States",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
+   "posted_at": "2026-08-07T17:47:26-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-07T22:49:19Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "C#",
+    "SQL",
+    "Scala",
+    "Linux"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 72,
+   "program": "Internship",
    "remote": false
   },
   {

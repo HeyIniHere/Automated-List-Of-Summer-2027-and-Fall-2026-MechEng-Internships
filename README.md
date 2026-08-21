@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 224 open roles (193 listed below) · 67 new this week
+### 226 open roles (195 listed below) · 68 new this week
 
-4,172 employers tracked · updated Aug 20, 2026 at 23:36 UTC
+4,172 employers tracked · updated Aug 21, 2026 at 01:47 UTC
 
-_138 have a cycle the employer stated · 86 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_140 have a cycle the employer stated · 86 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,10 +71,11 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (79 employer-stated)
+## Summer 2027  (81 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| General Matter | Summer 2027 Internship - Manufacturing Engineering 🆕 | Hardware | Los Angeles, CA | Aug 20, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
 | Elanco | Manufacturing Associate Intern – Elwood, Kansas (Summer 2027) 🆕 | Hardware | Elwood, KS | Aug 20, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899) |
 | WSP | Mechanical Engineering (Substation) Intern - Summer 2027 🆕 | Hardware | Billings, MT, United States | Aug 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93468) |
 | IMEG ✓ | Mechanical Engineering Intern / Greenwood Village, CO 🆕 | Hardware | Denver Metro, CO | Aug 20, 2026 | [Apply](https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16570-1) |
@@ -111,6 +112,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | DV Trading | Software Engineer Intern - Summer 2027 (DV Commodities) | Software | New York | Aug 10, 2026 | [Apply](https://job-boards.greenhouse.io/dvtrading/jobs/4719119005) |
 | ING | Summer 2027 Internship - Tech (Information Security) | Security | New York | Aug 10, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620) |
 | ING | Summer 2027 Internship - Tech (Infrastructure) | Software | New York | Aug 10, 2026 | [Apply](https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Infrastructure-_REQ-10119621) |
+| Axon ✓ | 2027 US Software Engineering Internship | Software | Seattle, Washington, United States | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003) |
 | Northrop Grumman | 2027 Operations Manufacturing Engineering Intern 🇺🇸 | Hardware | United States-California-Palmdale | Aug 07, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597) |
 | The Nuclear Company | Summer 2027 AI/ML Engineering Intern 🇺🇸 | Data & ML/AI | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383231008) |
 | The Nuclear Company | Summer 2027 Software Engineering Intern 🇺🇸 | Software | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383236008) |
@@ -305,15 +307,15 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | SIG | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Snowflake | ~Aug | ~Aug · any day now | ⏳ waiting |
 | Uber | ~Aug | ~Aug · any day now | ⏳ waiting |
-| Adobe | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Airbnb | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Bloomberg | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Dropbox | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Plaid | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Point72 | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Robinhood | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| Stripe | ~Sep | ~Sep · in ~12d | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~42d | ⏳ waiting |
+| Adobe | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Airbnb | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Bloomberg | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Dropbox | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Plaid | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Point72 | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Robinhood | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| Stripe | ~Sep | ~Sep · in ~11d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~41d | ⏳ waiting |
 | Coinbase | ~Dec | ~Dec | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
@@ -390,7 +392,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,024 of 4,275 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 94% of the full registry) · completed in 358.7s · 107 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,970 of 4,275 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 417.5s · 97 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

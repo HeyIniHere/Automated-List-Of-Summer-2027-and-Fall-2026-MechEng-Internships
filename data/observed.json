@@ -713,9 +713,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-19",
      "role_ids": [
+      "greenhouse:generalmatter:5376060008",
       "greenhouse:generalmatter:5377118008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1892,5 +1893,5 @@
    }
   }
  },
- "updated_at": "2026-08-20T23:36:24Z"
+ "updated_at": "2026-08-21T01:47:42Z"
 }

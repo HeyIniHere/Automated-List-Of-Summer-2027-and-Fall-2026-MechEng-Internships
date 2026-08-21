@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-21T20:38:49Z</updated>
+  <updated>2026-08-21T21:37:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Software-Engineer-Intern_R0008419</id>
-    <title>Availity: Software Engineer Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-Intern_R0008419"/>
-    <updated>2026-08-21T19:36:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - United States</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436</id>
     <title>Availity: Software Engineering Intern</title>
@@ -806,5 +798,13 @@
     <updated>2026-08-10T21:54:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · San Carlos, CA · $25 – $35 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:canadiansolar:/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383</id>
+    <title>Canadian Solar: Intern, IT Infrastructure Support</title>
+    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Walnut-Creek-CA/Intern--IT-Infrastructure-Support_10001383"/>
+    <updated>2026-08-10T17:05:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Walnut Creek, CA · $20–$25/hr · Azure</summary>
   </entry>
 </feed>

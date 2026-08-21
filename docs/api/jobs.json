@@ -1,30 +1,9 @@
 {
- "generated_at": "2026-08-21T20:38:49Z",
+ "generated_at": "2026-08-21T21:37:04Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 233,
+ "count": 232,
  "jobs": [
-  {
-   "id": "workday:availity:/job/Remote---United-States/Software-Engineer-Intern_R0008419",
-   "company": "Availity",
-   "title": "Software Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Remote - United States",
-   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineer-Intern_R0008419",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "posted_at_source": "relative_derived",
-   "first_seen_at": "2026-08-21T19:36:14Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": null,
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": true
-  },
   {
    "id": "workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436",
    "company": "Availity",

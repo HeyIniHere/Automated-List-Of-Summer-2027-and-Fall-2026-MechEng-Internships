@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T09:39:32Z",
+ "generated_at": "2026-08-22T10:35:24Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 234,
@@ -31,29 +31,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:syskahennessy:8147733",
-   "company": "Syska Hennessy Group",
-   "title": "Innovations Intern (Full Stack/Front End Engineering)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "New York",
-   "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
-   "posted_at": "2026-08-21T12:56:19-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-22T09:39:31Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "JavaScript"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "ashby:weave:1318e017-3ea6-4a1f-aac7-1c11a46cda8d",
    "company": "Weave",
    "title": "Data Engineer Intern",
@@ -75,6 +52,29 @@
    ],
    "source": "ashby",
    "h1b_approvals": 3,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:syskahennessy:8147733",
+   "company": "Syska Hennessy Group",
+   "title": "Innovations Intern (Full Stack/Front End Engineering)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "New York",
+   "url": "https://job-boards.greenhouse.io/syskahennessy/jobs/8147733",
+   "posted_at": "2026-08-21T12:56:19-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-22T09:39:31Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "JavaScript"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

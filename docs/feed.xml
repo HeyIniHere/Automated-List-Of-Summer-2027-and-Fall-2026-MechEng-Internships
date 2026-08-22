@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-22T09:39:32Z</updated>
+  <updated>2026-08-22T10:35:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:e458b046-aa7f-4022-bca5-63cdfd495456</id>
@@ -16,20 +16,20 @@
     <summary>Not stated · Software · New York · $2K per week • + housing stipend. · TypeScript, React, GCP, PostgreSQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8147733</id>
-    <title>Syska Hennessy Group: Innovations Intern (Full Stack/Front End Engineering)</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"/>
-    <updated>2026-08-22T09:39:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · JavaScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:weave:1318e017-3ea6-4a1f-aac7-1c11a46cda8d</id>
     <title>Weave: Data Engineer Intern</title>
     <link href="https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d"/>
     <updated>2026-08-22T09:39:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Weave - Headquarters (Lehi, UT) · Python, SQL, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8147733</id>
+    <title>Syska Hennessy Group: Innovations Intern (Full Stack/Front End Engineering)</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8147733"/>
+    <updated>2026-08-22T09:39:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436</id>

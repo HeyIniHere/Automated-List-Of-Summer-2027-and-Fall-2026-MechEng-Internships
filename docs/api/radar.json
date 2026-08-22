@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-22T07:42:01Z",
+ "generated_at": "2026-08-22T08:42:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -575,20 +575,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
-   "note": ""
-  },
-  {
-   "company": "Motorola",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-14",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
    "note": ""
   },
   {
@@ -1427,6 +1413,20 @@
    "source": "engine",
    "expected": "2026-08-13",
    "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Motorola",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -8,
    "status": "dropped",
    "url": "",
    "note": ""

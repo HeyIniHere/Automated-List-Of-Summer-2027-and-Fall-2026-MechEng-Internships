@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-22T07:42:01Z</updated>
+  <updated>2026-08-22T08:42:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436</id>
@@ -22,14 +22,6 @@
     <updated>2026-08-21T19:36:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Spring, Texas, United States of America · $31–$37/hr · Python, Java, C++, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1</id>
-    <title>Motorola: Android Platform Software Engineering Intern - Summer 2027 🇺🇸</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"/>
-    <updated>2026-08-21T19:36:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plantation, FL, More... · Python, Java, C++, Linux · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:h3x-technologies:d406e4b4-9b48-438c-a2af-b7feb8563a40</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-10T17:05:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Walnut Creek, CA · $20–$25/hr · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ing:/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620</id>
+    <title>ING: Summer 2027 Internship - Tech (Information Security)</title>
+    <link href="https://ing.wd3.myworkdayjobs.com/icsgblcor/job/New-York/Summer-2027-Internship---Tech--Information-Security-_REQ-10119620"/>
+    <updated>2026-08-10T13:27:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · New York · $35/hr · Python</summary>
   </entry>
 </feed>

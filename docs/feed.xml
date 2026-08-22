@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-22T17:33:39Z</updated>
+  <updated>2026-08-22T18:44:23Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
@@ -206,14 +206,6 @@
     <updated>2026-08-20T17:40:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Plymouth, Minnesota, United States · PyTorch, TensorFlow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:toshibaglobalcommercesolutions:5214224007</id>
-    <title>Toshiba Global Commerce: AI Software Engineering Intern 🛂</title>
-    <link href="https://job-boards.greenhouse.io/toshibaglobalcommercesolutions/jobs/5214224007"/>
-    <updated>2026-08-20T16:48:28Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Durham, NC · Java, C++, JavaScript, LLMs, React · sponsorship: no-sponsorship · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-11T15:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dvtrading:4719119005</id>
+    <title>DV Trading: Software Engineer Intern - Summer 2027 (DV Commodities)</title>
+    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"/>
+    <updated>2026-08-10T22:50:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York · $50/hr · Python, C++</summary>
   </entry>
 </feed>

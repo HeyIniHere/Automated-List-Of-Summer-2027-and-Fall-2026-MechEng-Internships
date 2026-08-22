@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-22T16:36:27Z</updated>
+  <updated>2026-08-22T17:33:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
+    <title>GlobalFoundries: Advanced Manufacturing Process Engineering Intern (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659"/>
+    <updated>2026-08-22T17:33:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:e458b046-aa7f-4022-bca5-63cdfd495456</id>
     <title>Ambrook: Software Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-08-11T15:10:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:dvtrading:4719119005</id>
-    <title>DV Trading: Software Engineer Intern - Summer 2027 (DV Commodities)</title>
-    <link href="https://job-boards.greenhouse.io/dvtrading/jobs/4719119005"/>
-    <updated>2026-08-10T22:50:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York · $50/hr · Python, C++</summary>
   </entry>
 </feed>

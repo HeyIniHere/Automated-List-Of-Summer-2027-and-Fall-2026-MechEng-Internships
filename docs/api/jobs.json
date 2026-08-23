@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-22T23:31:38Z",
+ "generated_at": "2026-08-23T01:51:21Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 234,
+ "count": 231,
  "jobs": [
   {
    "id": "ashby:ambrook:e458b046-aa7f-4022-bca5-63cdfd495456",
@@ -4780,87 +4780,6 @@
    "source": "greenhouse",
    "h1b_approvals": 23,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:jumptrading:8052281",
-   "company": "Jump Trading",
-   "title": "Campus AI Research Engineer (Intern)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chicago; New York",
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8052281",
-   "posted_at": "2026-07-08T17:36:47-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "offers",
-   "salary": "$300k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "TensorFlow",
-    "CUDA"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:jumptrading:8052338",
-   "company": "Jump Trading",
-   "title": "Campus AI Research Engineer - Deep Learning (Intern)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chicago; New York",
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8052338",
-   "posted_at": "2026-07-08T17:37:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "offers",
-   "salary": "$300k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "TensorFlow",
-    "CUDA"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:jumptrading:8052351",
-   "company": "Jump Trading",
-   "title": "Campus AI Research Engineer – Research Automation (Intern)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Chicago; New York",
-   "url": "https://www.jumptrading.com/hr/job?gh_jid=8052351",
-   "posted_at": "2026-07-08T17:37:50-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-16T07:39:11Z",
-   "sponsorship": "offers",
-   "salary": "$300k/yr",
-   "skills": [
-    "Python",
-    "C++",
-    "PyTorch",
-    "TensorFlow",
-    "CUDA"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

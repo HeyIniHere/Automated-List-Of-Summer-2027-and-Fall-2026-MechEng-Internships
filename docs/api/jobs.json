@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-23T06:56:30Z",
+ "generated_at": "2026-08-23T07:45:13Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 231,
+ "count": 230,
  "jobs": [
   {
    "id": "ashby:ambrook:e458b046-aa7f-4022-bca5-63cdfd495456",
@@ -3948,33 +3948,6 @@
     "Linux"
    ],
    "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:magna:/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
-   "company": "Magna International",
-   "title": "R&D- Computer Vision Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Troy, Michigan, US",
-   "url": "https://magna.wd3.myworkdayjobs.com/Magna/job/Troy-Michigan-US/R-D--Computer-Vision-Engineering-Intern_R00253444-1",
-   "posted_at": "2026-07-24T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-24T16:37:05Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "PyTorch",
-    "TensorFlow",
-    "Computer Vision",
-    "ROS"
-   ],
-   "source": "workday",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false

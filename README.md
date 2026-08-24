@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 232 open roles (204 listed below) · 63 new this week
+### 233 open roles (205 listed below) · 65 new this week
 
-4,193 employers tracked · updated Aug 24, 2026 at 16:51 UTC
+4,193 employers tracked · updated Aug 24, 2026 at 17:42 UTC
 
-_139 have a cycle the employer stated · 93 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_141 have a cycle the employer stated · 92 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,10 +71,11 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (85 employer-stated)
+## Summer 2027  (86 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Freddie Mac | Single-Family Software Developer Intern- Summer 2027 🆕 | Software | McLean, VA | Aug 24, 2026 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Motorola ✓ | Android Applications Developer Intern - Summer 2027 🇺🇸 🆕 | Software | Chicago, IL | Aug 24, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) |
 | BNY | 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA 🆕 | Software | Pittsburgh, PA, United States | Aug 24, 2026 | [Apply](https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81254) |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 🆕 | Quant | New York +2 more | Aug 24, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
@@ -102,7 +103,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | Conagra Brands ✓ | Software Development Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) |
 | Replit | Software Engineering Intern (Summer 2027) | Software | Foster City, CA | Aug 15, 2026 | [Apply](https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1) |
-| GlobalFoundries ✓ | Advanced Manufacturing Process Engineering Intern (Summer 2027) 🆕 | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659) |
+| GlobalFoundries ✓ | Advanced Manufacturing Process Engineering Intern (Summer 2027) | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659) |
 | The Nuclear Company | Summer 2027 AI Applied Research Internship 🇺🇸 | Data & ML/AI | Washington, DC | Aug 14, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
 | Notion ✓ | Software Engineer Intern (Summer 2027) | Software | San Francisco, California | Aug 14, 2026 | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
 | GlobalFoundries ✓ | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656) |
@@ -161,10 +162,11 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Ellipsis Labs | Software Engineer - 2027 Interns | Software | New York, New York | Mar 26, 2026 | [Apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
 | Databricks ✓ | Product Management Intern (Summer 2027) | Software | Bellevue +5 more | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 
-## Fall 2026  (36 employer-stated)
+## Fall 2026  (37 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Intuitive Surgical ✓ | Computer Vision Engineering Intern - Fall 2026 🆕 | Data & ML/AI | Sunnyvale, CA, United States | Aug 24, 2026 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000145329669) |
 | Moog | Intern, IT Computer Science | Software | Buffalo, NY | Aug 19, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378) |
 | ABB ✓ | Manufacturing Engineering/Documentation Intern - Fall 2026 🛂 | Hardware | USA, AR, Jonesboro | Aug 19, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298) |
 | Conagra Brands ✓ | Manufacturing Co-Op | Hardware | Waterloo, Iowa | Aug 18, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) |
@@ -202,7 +204,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Hardware | Westboro, Massachusetts, USA | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Amazon ✓ | Robotics - Software Development Engineer Intern/Co-op - 2026 | Hardware | Westboro, Massachusetts, USA | Dec 03, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3136266/robotics-software-development-engineer-intern-co-op-2026) |
 
-## Recently posted — cycle not stated  (84 roles)
+## Recently posted — cycle not stated  (83 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -251,7 +253,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | ConnectPrep | Data Analyst Internship 🇺🇸 🏠 | Data & ML/AI | Washington +2 more | Aug 13, 2026 | [Apply](https://apply.workable.com/connectprep/j/D1C67258C0/) |
 | Securityriskadvisors | DevOps Engineering Generalist Co-op | Software | Rochester, New York, United States | Aug 12, 2026 | [Apply](https://apply.workable.com/securityriskadvisors/j/3B23FB7BEB/) |
 | American Fidelity | Software Dev Internship (OKC local only) | Software | Oklahoma City, Oklahoma | Aug 12, 2026 | [Apply](https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005) |
-| Booz Allen ✓ | AI RAN Telecommunications Engineer Intern 🇺🇸 | Data & ML/AI | McLean, VA | Aug 11, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415) |
 | Hewlett Packard (HP) | Enterprise Operations Software Internship | Software | Spring, Texas, United States of America | Aug 11, 2026 | [Apply](https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2) |
 | Odys Aviation | Mechanical Engineering Intern/Co-Op [Propulsion] | Hardware | Long Beach CA | Aug 11, 2026 | [Apply](https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f) |
 | Ameren ✓ | Mechanical Engineering Fall Co-Op | Hardware | St. Louis, MO | Aug 11, 2026 | [Apply](https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1) |
@@ -334,7 +335,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Microsoft | rolling | year-round | ⏳ waiting |
 | Millennium | rolling | year-round | ⏳ waiting |
 
-_108 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **75** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_109 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **76** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -401,7 +402,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,974 of 4,296 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 92% of the full registry) · completed in 469.7s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,021 of 4,296 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 407.8s · 117 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

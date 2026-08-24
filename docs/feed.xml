@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T16:51:41Z</updated>
+  <updated>2026-08-24T17:42:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:freddiemac:/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544</id>
+    <title>Freddie Mac: Single-Family Software Developer Intern- Summer 2027</title>
+    <link href="https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"/>
+    <updated>2026-08-24T17:42:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · McLean, VA · $32/hr · Python, Java, C++, Angular, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000145329669</id>
+    <title>Intuitive Surgical: Computer Vision Engineering Intern - Fall 2026</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000145329669"/>
+    <updated>2026-08-24T17:42:06Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, C++, PyTorch, Computer Vision · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008485</id>
     <title>Availity: Data Science Intern</title>
@@ -664,14 +680,6 @@
     <summary>Not stated · Software · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415</id>
-    <title>Booz Allen: AI RAN Telecommunications Engineer Intern 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/AI-RAN-Telecommunications-Engineer-Intern_R0246415"/>
-    <updated>2026-08-14T06:25:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, PyTorch, TensorFlow, Kubernetes · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165</id>
     <title>HNTB: WED - 2027 New Grad Mechanical &amp; Fire Protection Engineer I  (For Current &amp; Recent HNTB Interns Only) 🛂</title>
     <link href="https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-11T20:59:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chamberlain:/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309</id>
-    <title>Chamberlain Group: Intern, Community Product Management (Summer 2027)</title>
-    <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"/>
-    <updated>2026-08-11T17:09:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Oak Brook, IL · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

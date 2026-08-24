@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T16:51:41Z",
+ "generated_at": "2026-08-24T17:42:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -802,6 +802,20 @@
    "note": ""
   },
   {
+   "company": "Freddie Mac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+   "note": ""
+  },
+  {
    "company": "The Walt Disney Company",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1516,5 +1530,5 @@
    "note": ""
   }
  ],
- "count": 108
+ "count": 109
 }

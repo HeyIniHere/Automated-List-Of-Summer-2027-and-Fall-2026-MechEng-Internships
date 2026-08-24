@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T11:39:55Z",
+ "generated_at": "2026-08-24T13:08:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -774,6 +774,20 @@
    "note": ""
   },
   {
+   "company": "BNY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81254",
+   "note": ""
+  },
+  {
    "company": "The Walt Disney Company",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1502,5 +1516,5 @@
    "note": ""
   }
  ],
- "count": 107
+ "count": 108
 }

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T09:00:54Z</updated>
+  <updated>2026-08-24T10:00:45Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000145205764</id>
@@ -94,22 +94,6 @@
     <updated>2026-08-21T17:40:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Louisville, Colorado · $23–$37/hr · Python, C++, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140</id>
-    <title>Airbus: 2027 Summer Internship - Industrial Engineering - PPE/IE</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140"/>
-    <updated>2026-08-21T17:40:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ag:/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143</id>
-    <title>Airbus: 2027 Summer Internship - X-Plant Manufacturing Engineering</title>
-    <link href="https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---X-Plant-Manufacturing-Engineering_JR10435143"/>
-    <updated>2026-08-21T17:40:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mobile Area, AL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Tulsa-OK/Software-Engineering-Intern_JR-051321</id>
@@ -398,14 +382,6 @@
     <updated>2026-08-19T13:56:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Santa Clara, California, United States of America · $27/hr · Python, C++, MATLAB, Computer Vision, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000144281579</id>
-    <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579"/>
-    <updated>2026-08-19T10:42:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1</id>
@@ -806,5 +782,29 @@
     <updated>2026-08-11T20:59:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
+    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chamberlain:/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309</id>
+    <title>Chamberlain Group: Intern, Community Product Management (Summer 2027)</title>
+    <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"/>
+    <updated>2026-08-11T17:09:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Oak Brook, IL · H-1B track record: ~33 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000142898574</id>
+    <title>Bosch: Powertrain Controls Software Engineering Intern (6-Months, Full-Time)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000142898574"/>
+    <updated>2026-08-11T15:10:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Farmington Hills, MI, United States · MATLAB, Linux</summary>
   </entry>
 </feed>

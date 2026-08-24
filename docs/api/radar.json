@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T09:00:54Z",
+ "generated_at": "2026-08-24T10:00:45Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -532,7 +532,7 @@
    "expected": "2026-08-13",
    "days_until": -11,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000144281579",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764",
    "note": ""
   },
   {
@@ -771,20 +771,6 @@
    "days_until": -4,
    "status": "open",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "note": ""
   },
   {
@@ -1497,6 +1483,20 @@
    "source": "engine",
    "expected": "2026-08-20",
    "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -3,
    "status": "dropped",
    "url": "",
    "note": ""

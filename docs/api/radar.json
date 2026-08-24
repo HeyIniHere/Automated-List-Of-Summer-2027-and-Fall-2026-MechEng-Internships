@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T17:42:07Z",
+ "generated_at": "2026-08-24T18:55:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -802,6 +802,20 @@
    "note": ""
   },
   {
+   "company": "Brunswick",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
+   "note": ""
+  },
+  {
    "company": "Freddie Mac",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1530,5 +1544,5 @@
    "note": ""
   }
  ],
- "count": 109
+ "count": 110
 }

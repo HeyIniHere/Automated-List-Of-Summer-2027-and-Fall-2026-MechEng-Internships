@@ -5,39 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T14:04:56Z</updated>
+  <updated>2026-08-24T14:59:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81241</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81241"/>
-    <updated>2026-08-24T13:08:53Z</updated>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740</id>
+    <title>Motorola: Android Applications Developer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740"/>
+    <updated>2026-08-24T14:59:54Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Pittsburgh, PA, United States · Python, Java, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81251</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81251"/>
-    <updated>2026-08-24T13:08:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Jersey City, NJ, United States · Python, Java, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81252</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Lake Mary, FL</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81252"/>
-    <updated>2026-08-24T13:08:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lake Mary, FL, United States · Python, Java, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81253</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - New York, NY</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81253"/>
-    <updated>2026-08-24T13:08:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY, United States · Python, Java, JavaScript</summary>
+    <summary>Summer 2027 · Software · Chicago, IL · Kotlin, Git · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81254</id>
@@ -238,14 +214,6 @@
     <updated>2026-08-20T19:42:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159</id>
-    <title>Leidos: Robotics Engineer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Robotics-Engineer-Intern_R-00190159"/>
-    <updated>2026-08-20T18:52:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Huntsville, AL · Python, C++, MATLAB, Computer Vision, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512</id>
@@ -806,5 +774,37 @@
     <updated>2026-08-12T17:08:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2</id>
+    <title>Hewlett Packard (HP): Enterprise Operations Software Internship</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Enterprise-Operations-Software-Internship_3167271-2"/>
+    <updated>2026-08-11T22:56:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Spring, Texas, United States of America · $31–$37/hr · Python, Java, C++, SQL, Swift</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:odys-aviation:8f5e460a-98a4-4fd8-b880-d22071faa29f</id>
+    <title>Odys Aviation: Mechanical Engineering Intern/Co-Op [Propulsion]</title>
+    <link href="https://jobs.ashbyhq.com/odys-aviation/8f5e460a-98a4-4fd8-b880-d22071faa29f"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Long Beach CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1</id>
+    <title>Ameren: Mechanical Engineering Fall Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Fall-Co-Op_034018-1"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
+    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
+    <updated>2026-08-11T20:59:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

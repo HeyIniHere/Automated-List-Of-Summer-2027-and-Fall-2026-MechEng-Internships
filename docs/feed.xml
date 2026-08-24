@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T13:08:55Z</updated>
+  <updated>2026-08-24T14:04:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81254</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81254"/>
-    <updated>2026-08-24T13:08:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pittsburgh, PA, United States · Python, Java, JavaScript</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81241</id>
     <title>BNY: 2027 BNY Summer Internship Program - Engineering (Data Science) - Pittsburgh, PA</title>
@@ -22,6 +14,14 @@
     <updated>2026-08-24T13:08:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Pittsburgh, PA, United States · Python, Java, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81251</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81251"/>
+    <updated>2026-08-24T13:08:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Jersey City, NJ, United States · Python, Java, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81252</id>
@@ -40,12 +40,12 @@
     <summary>Summer 2027 · Software · New York, NY, United States · Python, Java, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81251</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Jersey City, NJ</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81251"/>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:81254</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Engineering (Developer) - Pittsburgh, PA</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/81254"/>
     <updated>2026-08-24T13:08:53Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Jersey City, NJ, United States · Python, Java, JavaScript</summary>
+    <summary>Summer 2027 · Software · Pittsburgh, PA, United States · Python, Java, JavaScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000145263134</id>
@@ -61,15 +61,7 @@
     <link href="https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005"/>
     <updated>2026-08-24T10:48:12Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, New York, United States · Python, Java, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000145205764</id>
-    <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764"/>
-    <updated>2026-08-24T09:00:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
+    <summary>Not stated · Data &amp; ML/AI · Boston, Massachusetts · Python, Java, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-12T17:08:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, Rust · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255</id>
+    <title>Northrop Grumman: 2027 Intern Software Engineer 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255"/>
+    <updated>2026-08-12T17:08:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

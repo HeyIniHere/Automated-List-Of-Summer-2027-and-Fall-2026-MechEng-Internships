@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-08-24T10:00:45Z",
+ "generated_at": "2026-08-24T10:48:14Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 231,
+ "count": 232,
  "jobs": [
+  {
+   "id": "greenhouse:audaxgroup:4722770005",
+   "company": "Audax Group",
+   "title": "Data Engineer Co-Op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "New York, New York, United States",
+   "url": "https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005",
+   "posted_at": "2026-08-24T06:00:00-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-24T10:48:12Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "SQL"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:InfiniteQuant:744000145205764",
    "company": "InfiniteQuant",

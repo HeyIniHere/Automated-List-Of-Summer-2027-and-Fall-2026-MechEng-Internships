@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T04:59:07Z</updated>
+  <updated>2026-08-24T05:48:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144</id>
+    <title>The Walt Disney Company: Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144"/>
+    <updated>2026-08-24T05:48:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lake Buena Vista, FL, USA · $31/hr · Python, SQL, Tableau</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729</id>
     <title>Micron Technology: Intern - TD Site Industrial Engineer</title>
@@ -14,14 +22,6 @@
     <updated>2026-08-23T18:43:09Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Boise, ID - Main Site · Python, SQL, Tableau · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659</id>
-    <title>GlobalFoundries: Advanced Manufacturing Process Engineering Intern (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659"/>
-    <updated>2026-08-22T17:33:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ambrook:e458b046-aa7f-4022-bca5-63cdfd495456</id>

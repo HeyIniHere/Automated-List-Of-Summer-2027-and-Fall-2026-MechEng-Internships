@@ -710,9 +710,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:freddiemac:/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
       "workday:freddiemac:/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1908,6 +1909,18 @@
     }
    }
   },
+  "watts water": {
+   "name": "Watts Water",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-24",
+     "role_ids": [
+      "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
+     ],
+     "count": 1
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -1967,5 +1980,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T18:55:30Z"
+ "updated_at": "2026-08-24T19:41:18Z"
 }

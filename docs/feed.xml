@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T18:55:31Z</updated>
+  <updated>2026-08-24T19:41:19Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298</id>
-    <title>Brunswick: Electro - Mechanical Engineering Intern 🛂</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298"/>
-    <updated>2026-08-24T18:55:30Z</updated>
+    <id>urn:intern-engine:greenhouse:cssmerge:8695490002</id>
+    <title>Atoms: Mechanical Design Engineering Intern‬</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8695490002"/>
+    <updated>2026-08-24T19:41:18Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Menomonee Falls, WI · $18–$27/hr · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Los Angeles, CA or Pittsburgh, PA · $25–$35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cssmerge:8695475002</id>
+    <title>Atoms: Robotics Software Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"/>
+    <updated>2026-08-24T19:41:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Los Angeles, CA or Pittsburgh, PA · $25–$35/hr · Python, Java, C++, Rust, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freddiemac:/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564</id>
+    <title>Freddie Mac: Multifamily Software Development Intern – Summer 2027</title>
+    <link href="https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564"/>
+    <updated>2026-08-24T19:41:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · McLean, VA · $32/hr · Java, Angular, Spring, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388</id>
+    <title>Watts Water: Manufacturing Engineer Intern Summer 2027</title>
+    <link href="https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"/>
+    <updated>2026-08-24T19:41:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · St Pauls, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322</id>
@@ -22,6 +46,14 @@
     <updated>2026-08-24T18:55:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Lowell, MI · $18–$27/hr · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298</id>
+    <title>Brunswick: Electro - Mechanical Engineering Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Electro---Mechanical-Engineering-Intern_JR-051298"/>
+    <updated>2026-08-24T18:55:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Menomonee Falls, WI · $18–$27/hr · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:monolithicpower:/job/San-Jose---California/AI-Developer-Intern_R-1756</id>
@@ -310,14 +342,6 @@
     <updated>2026-08-20T14:01:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · North Chicago, IL, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582</id>
-    <title>Fifth Third Bank: Information Security Co-op - Cyber Threat Interdiction - Summer 2027</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582"/>
-    <updated>2026-08-20T14:01:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Cincinnati, OH · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588</id>
@@ -782,29 +806,5 @@
     <updated>2026-08-13T05:02:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:WesternDigital:744000143171017</id>
-    <title>Western Digital: Summer 2027 Intern - Software Engineering</title>
-    <link href="https://jobs.smartrecruiters.com/WesternDigital/744000143171017"/>
-    <updated>2026-08-12T21:16:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript · H-1B track record: ~286 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americanfidelity:/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005</id>
-    <title>American Fidelity: Software Dev Internship (OKC local only)</title>
-    <link href="https://americanfidelity.wd5.myworkdayjobs.com/External/job/Oklahoma-City-Oklahoma/Software-Dev-Internship_JR1005"/>
-    <updated>2026-08-12T17:08:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Oklahoma City, Oklahoma</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"/>
-    <updated>2026-08-12T17:08:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, Rust · sponsorship: citizens-only</summary>
   </entry>
 </feed>

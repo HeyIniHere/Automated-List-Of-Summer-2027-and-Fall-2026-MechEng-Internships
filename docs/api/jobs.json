@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24T22:38:12Z",
+ "generated_at": "2026-08-24T23:33:14Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 246,
+ "count": 244,
  "jobs": [
   {
    "id": "workday:brunswick:/job/Champaign-IL/Software-Engineering-Intern_JR-051316",
@@ -920,27 +920,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 6,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:son:/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824",
-   "company": "State of Nebraska",
-   "title": "Geotechnical & Materials Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Lincoln, NE",
-   "url": "https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824",
-   "posted_at": "2026-08-20T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-20T21:40:45Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -5739,31 +5718,6 @@
    "salary": "25–33 USD/hr",
    "skills": [
     "C++"
-   ],
-   "source": "lever",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f",
-   "company": "Field AI",
-   "title": "Robotics Research Internship-Locomotion & Planning (Fall 2026)",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Irvine, CA",
-   "url": "https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f",
-   "posted_at": "2026-02-17T19:44:56Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-30T20:42:49Z",
-   "sponsorship": "unknown",
-   "salary": "45–60 USD/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "ROS"
    ],
    "source": "lever",
    "h1b_approvals": null,

@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T22:38:11Z</updated>
+  <updated>2026-08-24T23:33:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Software-Engineering-Intern_JR-051316</id>
@@ -326,14 +326,6 @@
     <updated>2026-08-20T21:40:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Elwood, KS · $20–$40/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:son:/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824</id>
-    <title>State of Nebraska: Geotechnical &amp; Materials Engineering Intern</title>
-    <link href="https://son.wd108.myworkdayjobs.com/NebraskaStateCareers/job/Lincoln-NE/Geotechnical---Materials-Engineering-Intern_JR2026-00028824"/>
-    <updated>2026-08-20T21:40:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Lincoln, NE</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-13T19:16:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · LLMs, Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193</id>
+    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
+    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"/>
+    <updated>2026-08-13T19:16:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>

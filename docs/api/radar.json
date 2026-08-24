@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-24T19:41:20Z",
+ "generated_at": "2026-08-24T20:42:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -788,6 +788,20 @@
    "note": ""
   },
   {
+   "company": "Advanced Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/advancedspace/jobs/4333179009",
+   "note": ""
+  },
+  {
    "company": "BNY",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -826,7 +840,21 @@
    "expected": "2026-08-24",
    "days_until": 0,
    "status": "open",
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544",
+   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+   "note": ""
+  },
+  {
+   "company": "The Hartford",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
    "note": ""
   },
   {
@@ -1558,5 +1586,5 @@
    "note": ""
   }
  ],
- "count": 111
+ "count": 113
 }

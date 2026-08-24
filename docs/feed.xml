@@ -5,23 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T19:41:19Z</updated>
+  <updated>2026-08-24T20:42:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8695490002</id>
-    <title>Atoms: Mechanical Design Engineering Intern‬</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8695490002"/>
-    <updated>2026-08-24T19:41:18Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Los Angeles, CA or Pittsburgh, PA · $25–$35/hr</summary>
+    <id>urn:intern-engine:greenhouse:advancedspace:4333179009</id>
+    <title>Advanced Space: 2027 DevOps Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Westminster, CO · $26–$35/hr · Python, AWS, Kubernetes, Docker, Terraform</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8695475002</id>
-    <title>Atoms: Robotics Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8695475002"/>
-    <updated>2026-08-24T19:41:18Z</updated>
+    <id>urn:intern-engine:greenhouse:advancedspace:4324875009</id>
+    <title>Advanced Space: 2027 Machine Learning Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/advancedspace/jobs/4324875009"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Westminster, CO · $28–$37/hr · Python, C++, PyTorch, TensorFlow, scikit-learn</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:canadiansolar:/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414</id>
+    <title>Canadian Solar: Data Analyst, Quality Intern</title>
+    <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414"/>
+    <updated>2026-08-24T20:42:21Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Los Angeles, CA or Pittsburgh, PA · $25–$35/hr · Python, Java, C++, Rust, Computer Vision</summary>
+    <summary>Not stated · Data &amp; ML/AI · Mesquite, TX · SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc</id>
+    <title>Rivet Industries: Software Engineer Intern, XR Team (Fall 2026) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Bellevue, WA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thehartford:/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1</id>
+    <title>The Hartford: Tech &amp; Data Program Summer 2027 – Data Engineer Intern (Hartford) 🛂</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hartford, CT · Python, SQL, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thehartford:/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1</id>
+    <title>The Hartford: Tech &amp; Data Program Summer 2027 - Software Engineer Intern (Hartford) 🛂</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hartford, CT · Python, Java, C#, JavaScript, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thehartford:/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610</id>
+    <title>The Hartford: Tech &amp; Data Program Summer 2027 - Data Engineer Intern (Columbus) 🛂</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Columbus, OH · Python, SQL, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:freddiemac:/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564</id>
@@ -342,14 +382,6 @@
     <updated>2026-08-20T14:01:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · North Chicago, IL, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:fifththird:/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588</id>
-    <title>Fifth Third Bank: Software Engineer Co-Op - Enterprise Finance Applications - Summer 2027</title>
-    <link href="https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588"/>
-    <updated>2026-08-20T14:01:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Cincinnati, OH · Java, LLMs, Node.js, Angular, Spring · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:espace:1e189295-a315-414d-8c0b-686f204e3cb3</id>
@@ -774,37 +806,5 @@
     <updated>2026-08-13T19:16:17Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2</id>
-    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"/>
-    <updated>2026-08-13T19:16:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ekcf.fa.us6.oraclecloud.com:7604</id>
-    <title>Powell: College Co-Op, Manufacturing Engineering</title>
-    <link href="https://ekcf.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/7604"/>
-    <updated>2026-08-13T13:28:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · North Canton, OH, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:exa:a9e01521-66f1-481b-89da-ec01d4620f16</id>
-    <title>Exa Labs: Software Engineer, Intern</title>
-    <link href="https://jobs.ashbyhq.com/exa/a9e01521-66f1-481b-89da-ec01d4620f16"/>
-    <updated>2026-08-13T08:30:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Francisco, California · $100K – $200K · C++, Rust · sponsorship: offers</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:connectprep:D1C67258C0</id>
-    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
-    <link href="https://apply.workable.com/connectprep/j/D1C67258C0/"/>
-    <updated>2026-08-13T05:02:38Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
   </entry>
 </feed>

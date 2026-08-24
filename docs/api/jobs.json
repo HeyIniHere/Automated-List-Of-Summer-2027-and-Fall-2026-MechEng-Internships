@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-24T14:59:55Z",
+ "generated_at": "2026-08-24T15:52:38Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 233,
+ "count": 232,
  "jobs": [
   {
    "id": "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
@@ -1662,32 +1662,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 110,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
-   "company": "Motorola",
-   "title": "Android Platform Software Engineering Intern - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Plantation, FL, More...",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
-   "posted_at": "2026-08-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-21T19:36:14Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 191,
    "program": "Internship",
    "remote": false
   },

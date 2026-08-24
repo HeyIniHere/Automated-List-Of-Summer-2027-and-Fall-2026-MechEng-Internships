@@ -889,9 +889,10 @@
      "first_posted": "2026-08-13",
      "role_ids": [
       "smartrecruiters:InfiniteQuant:744000143287594",
-      "smartrecruiters:InfiniteQuant:744000144281579"
+      "smartrecruiters:InfiniteQuant:744000144281579",
+      "smartrecruiters:InfiniteQuant:744000145205764"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1922,5 +1923,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T07:14:22Z"
+ "updated_at": "2026-08-24T09:00:53Z"
 }

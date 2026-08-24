@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T07:14:23Z</updated>
+  <updated>2026-08-24T09:00:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000145205764</id>
+    <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000145205764"/>
+    <updated>2026-08-24T09:00:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144</id>
     <title>The Walt Disney Company: Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027</title>
@@ -70,6 +78,14 @@
     <updated>2026-08-21T19:36:14Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Spring, Texas, United States of America · $31–$37/hr · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1</id>
+    <title>Motorola: Android Platform Software Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"/>
+    <updated>2026-08-21T19:36:14Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plantation, FL, More... · Python, Java, C++, Linux · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:h3x-technologies:d406e4b4-9b48-438c-a2af-b7feb8563a40</id>
@@ -790,21 +806,5 @@
     <updated>2026-08-11T20:59:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1</id>
-    <title>Ameren: Mechanical Engineering Spring Co-Op</title>
-    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Mechanical-Engineering-Spring-Co-Op_034022-1"/>
-    <updated>2026-08-11T20:59:49Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:chamberlain:/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309</id>
-    <title>Chamberlain Group: Intern, Community Product Management (Summer 2027)</title>
-    <link href="https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309"/>
-    <updated>2026-08-11T17:09:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Oak Brook, IL · H-1B track record: ~33 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

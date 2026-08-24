@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T15:52:37Z</updated>
+  <updated>2026-08-24T16:51:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008485</id>
+    <title>Availity: Data Science Intern</title>
+    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008485"/>
+    <updated>2026-08-24T16:51:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote - United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740</id>
     <title>Motorola: Android Applications Developer Intern - Summer 2027 🇺🇸</title>
@@ -86,14 +94,6 @@
     <updated>2026-08-22T09:39:31Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York · JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Software-Engineering-Intern_R0008436</id>
-    <title>Availity: Software Engineering Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Software-Engineering-Intern_R0008436"/>
-    <updated>2026-08-21T19:36:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote - United States · Python, JavaScript, SQL, React, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1</id>
@@ -225,7 +225,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567</id>
-    <title>Philips: Graduate Level Co-op – Data Scientist – Plymouth, MN – Summer 2027</title>
+    <title>Philips: Graduate Level Co-op – Data Scientist – Plymouth, MN – January 2027</title>
     <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567"/>
     <updated>2026-08-20T17:40:35Z</updated>
     <category term="Summer 2027"/>

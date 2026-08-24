@@ -56,10 +56,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "greenhouse:advancedspace:4324855009",
       "greenhouse:advancedspace:4324875009",
       "greenhouse:advancedspace:4333179009"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2019,5 +2020,5 @@
    }
   }
  },
- "updated_at": "2026-08-24T20:42:21Z"
+ "updated_at": "2026-08-24T21:41:46Z"
 }

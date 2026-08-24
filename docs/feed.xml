@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T20:42:22Z</updated>
+  <updated>2026-08-24T21:41:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:advancedspace:4333179009</id>
-    <title>Advanced Space: 2027 DevOps Summer Internship</title>
-    <link href="https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"/>
-    <updated>2026-08-24T20:42:21Z</updated>
+    <id>urn:intern-engine:greenhouse:advancedspace:4324855009</id>
+    <title>Advanced Space: 2027 Software Engineering Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/advancedspace/jobs/4324855009"/>
+    <updated>2026-08-24T21:41:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Westminster, CO · $26–$35/hr · Python, AWS, Kubernetes, Docker, Terraform</summary>
+    <summary>Summer 2027 · Software · Westminster, CO · $26–$35/hr · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc</id>
+    <title>Rivet Industries: Software Engineer Intern, XR Team (Fall 2026) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Bellevue, WA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:advancedspace:4324875009</id>
@@ -24,6 +32,14 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Westminster, CO · $28–$37/hr · Python, C++, PyTorch, TensorFlow, scikit-learn</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:advancedspace:4333179009</id>
+    <title>Advanced Space: 2027 DevOps Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/advancedspace/jobs/4333179009"/>
+    <updated>2026-08-24T20:42:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Westminster, CO · $26–$35/hr · Python, AWS, Kubernetes, Docker, Terraform</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:canadiansolar:/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414</id>
     <title>Canadian Solar: Data Analyst, Quality Intern</title>
     <link href="https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414"/>
@@ -32,12 +48,12 @@
     <summary>Not stated · Data &amp; ML/AI · Mesquite, TX · SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:rivet:4e02461a-9f6c-4d3c-a511-6d54f31999bc</id>
-    <title>Rivet Industries: Software Engineer Intern, XR Team (Fall 2026) 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc"/>
+    <id>urn:intern-engine:workday:thehartford:/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610</id>
+    <title>The Hartford: Tech &amp; Data Program Summer 2027 - Data Engineer Intern (Columbus) 🛂</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610"/>
     <updated>2026-08-24T20:42:21Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Bellevue, WA · sponsorship: citizens-only</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Columbus, OH · Python, SQL, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thehartford:/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1</id>
@@ -54,14 +70,6 @@
     <updated>2026-08-24T20:42:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Hartford, CT · Python, Java, C#, JavaScript, SQL · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thehartford:/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610</id>
-    <title>The Hartford: Tech &amp; Data Program Summer 2027 - Data Engineer Intern (Columbus) 🛂</title>
-    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610"/>
-    <updated>2026-08-24T20:42:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Columbus, OH · Python, SQL, LLMs, AWS, GCP · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:freddiemac:/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-13T19:16:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · LLMs, Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193</id>
-    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"/>
-    <updated>2026-08-13T19:16:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>

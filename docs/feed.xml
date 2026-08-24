@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T21:41:48Z</updated>
+  <updated>2026-08-24T22:38:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Software-Engineering-Intern_JR-051316</id>
+    <title>Brunswick: Software Engineering Intern</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316"/>
+    <updated>2026-08-24T22:38:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Champaign, IL · $18–$27/hr · Python, Rust, TypeScript, Azure, Git · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:advancedspace:4324855009</id>
     <title>Advanced Space: 2027 Software Engineering Summer Internship</title>
@@ -694,14 +702,6 @@
     <updated>2026-08-16T23:30:37Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:replit:7e0dafe8-3eec-442e-aa76-a4d84d779fb1</id>
-    <title>Replit: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/replit/7e0dafe8-3eec-442e-aa76-a4d84d779fb1"/>
-    <updated>2026-08-15T19:31:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Foster City, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:7872198003</id>

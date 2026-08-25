@@ -952,12 +952,18 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155522",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155541",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155543",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155554",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155555",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155561",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155574",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155576",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155583",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155584"
      ],
-     "count": 5
+     "count": 11
     }
    }
   },
@@ -2153,5 +2159,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T20:40:58Z"
+ "updated_at": "2026-08-25T21:39:27Z"
 }

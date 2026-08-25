@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T22:40:37Z</updated>
+  <updated>2026-08-25T23:35:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115449</id>
@@ -16,20 +16,20 @@
     <summary>Summer 2027 · Security · San Francisco, CA, United States · $42.5/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155558</id>
-    <title>Honeywell: Software Engineer &amp; Computer Science - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155558"/>
-    <updated>2026-08-25T22:40:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States · $25.5/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155557</id>
     <title>Honeywell: Software Engineer &amp; Computer Science - Summer 2027 Intern (US Person Required) 🇺🇸</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155557"/>
     <updated>2026-08-25T22:40:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States · $25.5/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155558</id>
+    <title>Honeywell: Software Engineer &amp; Computer Science - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155558"/>
+    <updated>2026-08-25T22:40:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States · $25.5/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155541</id>

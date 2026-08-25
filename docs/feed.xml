@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T15:57:25Z</updated>
+  <updated>2026-08-25T16:48:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39908</id>
+    <title>Nokia: Deepfield Software Engineer Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39908"/>
+    <updated>2026-08-25T16:48:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · Python, Rust, JavaScript, LLMs, React · H-1B track record: ~321 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905</id>
+    <title>Philips: Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - Fall 2026</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905"/>
+    <updated>2026-08-25T16:48:39Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Cambridge (US), Massachusetts, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618</id>
     <title>IMEG: Structural Intern | Fairfax, VA</title>
@@ -374,14 +390,6 @@
     <updated>2026-08-24T18:55:30Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · San Jose - California · $30/hr · Python, Java, PyTorch, TensorFlow · H-1B track record: ~20 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406</id>
-    <title>Philips: Co-op – Software System Engineering – Plymouth, MN – January 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"/>
-    <updated>2026-08-24T18:55:30Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plymouth, Minnesota, United States · Python, Java, C++, C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:terex:/job/US-WA-Redmond/Robotics-Engineer-Co-op_REQ-13877</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-18T17:38:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Louisville, Colorado · $23–$37/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:conagrabrands:/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806</id>
-    <title>Conagra Brands: Manufacturing Co-Op</title>
-    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806"/>
-    <updated>2026-08-18T17:38:25Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Waterloo, Iowa · $19/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

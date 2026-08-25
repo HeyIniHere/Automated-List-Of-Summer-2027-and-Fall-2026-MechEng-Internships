@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T15:57:25Z",
+ "generated_at": "2026-08-25T16:48:40Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -211,20 +211,6 @@
    "days_until": -39,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-   "note": ""
-  },
-  {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-20",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7837133003",
    "note": ""
   },
   {
@@ -1388,6 +1374,20 @@
    "status": "dropped",
    "url": "",
    "note": "rolling from mid-summer, very early"
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-20",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   },
   {
    "company": "Draper",

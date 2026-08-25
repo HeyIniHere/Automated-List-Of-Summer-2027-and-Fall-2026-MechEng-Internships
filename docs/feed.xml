@@ -5,23 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T03:11:17Z</updated>
+  <updated>2026-08-25T04:50:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968520003</id>
-    <title>Meridian Partners: Aerospace Algorithms Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968605003</id>
+    <title>Meridian Partners: Embedded Software Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"/>
+    <updated>2026-08-25T04:50:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968522003</id>
-    <title>Meridian Partners: Aerospace Algorithms Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968523003</id>
+    <title>Meridian Partners: Embedded Software Engineer Graduate Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003"/>
+    <updated>2026-08-25T04:50:14Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
+    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morsecorpcoop:7967961003</id>
@@ -86,6 +86,22 @@
     <updated>2026-08-25T03:11:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, AWS, Azure, Docker, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968520003</id>
+    <title>Meridian Partners: Aerospace Algorithms Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968520003"/>
+    <updated>2026-08-25T03:11:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968522003</id>
+    <title>Meridian Partners: Aerospace Algorithms Engineer Graduate Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968522003"/>
+    <updated>2026-08-25T03:11:15Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Cambridge, MA, Arlington, VA, Seattle, WA · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morsecorpcoop:7967400003</id>
@@ -790,21 +806,5 @@
     <updated>2026-08-17T13:49:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Dallas, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
-    <title>IMEG: Structural Engineering Intern | Houston, TX</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"/>
-    <updated>2026-08-17T13:49:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae</id>
-    <title>Hermeus: Manufacturing Engineering Intern - Fall 2026 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae"/>
-    <updated>2026-08-16T23:30:37Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Los Angeles, CA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

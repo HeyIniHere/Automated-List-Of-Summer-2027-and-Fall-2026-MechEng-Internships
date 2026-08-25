@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 259 open roles (218 listed below) · 90 new this week
+### 261 open roles (219 listed below) · 92 new this week
 
-4,206 employers tracked · updated Aug 25, 2026 at 09:48 UTC
+4,206 employers tracked · updated Aug 25, 2026 at 10:46 UTC
 
-_151 have a cycle the employer stated · 108 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_153 have a cycle the employer stated · 108 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,13 +71,13 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (96 employer-stated)
+## Summer 2027  (97 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
 | BTI360 | Software Engineering Intern 🇺🇸 🆕 | Software | Herndon,VA | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/bti36021/jobs/8155152) |
-| Sage | Software Engineering Intern (Edge) – Summer 2027 🆕 | Software | New York, New York, United States | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131191004) |
 | Sage | Software Engineering Intern (Full Stack) – Summer 2027 🆕 | Software | New York, New York, United States | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131185004) |
+| Sage | Software Engineering Intern (Edge) – Summer 2027 🆕 | Software | New York, New York, United States | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/sage49/jobs/6131191004) |
 | Advanced Space | 2027 Software Engineering Summer Internship 🆕 | Software | Westminster, CO | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324855009) |
 | Advanced Space | 2027 Machine Learning Summer Internship 🆕 | Data & ML/AI | Westminster, CO | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4324875009) |
 | Advanced Space | 2027 DevOps Summer Internship 🆕 | Software | Westminster, CO | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/advancedspace/jobs/4333179009) |
@@ -113,11 +113,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | PIMCO ✓ | 2027 Summer Intern - Technology Analyst, Software Engineering | Software | Austin, TX USA | Aug 18, 2026 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | Conagra Brands ✓ | Software Development Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) |
+| GlobalFoundries ✓ | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) 🆕 | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666) |
+| GlobalFoundries ✓ | Advanced Manufacturing Process Engineering Intern (Summer 2027) 🆕 | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657) |
 | GlobalFoundries ✓ | Advanced Manufacturing Process Engineering Intern (Summer 2027) | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659) |
 | Motorola ✓ | Android Platform Software Engineering Intern - Summer 2027 🇺🇸 | Software | Plantation, FL, More... | Aug 14, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) |
 | The Nuclear Company | Summer 2027 AI Applied Research Internship 🇺🇸 | Data & ML/AI | Washington, DC | Aug 14, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5391923008) |
 | Notion ✓ | Software Engineer Intern (Summer 2027) | Software | San Francisco, California | Aug 14, 2026 | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) |
-| GlobalFoundries ✓ | US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027) | Hardware | USA - Vermont - Essex Junction | Aug 14, 2026 | [Apply](https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656) |
 | HNTB ✓ | WED - 2027 New Grad Mechanical & Fire Protection Engineer I  (For Current & Recent HNTB Interns Only) 🛂 | Hardware | Oakland, CA | Aug 13, 2026 | [Apply](https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165) |
 | Teledyne | NHRC Software Engineering Internship (Summer 2027) 🇺🇸 | Software | US - Huntsville, AL | Aug 13, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) |
 | Teledyne | NHRC Software Engineering Internship (Summer 2027) 🇺🇸 | Software | US - Huntsville, AL | Aug 13, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) |
@@ -415,7 +416,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,969 of 4,309 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 92% of the full registry) · completed in 461.4s · 96 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,962 of 4,309 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 492.2s · 97 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

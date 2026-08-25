@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-24T23:33:13Z</updated>
+  <updated>2026-08-25T01:42:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967614003</id>
+    <title>Meridian Partners: Cloud Software Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967614003"/>
+    <updated>2026-08-25T01:42:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cambridge, MA · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967776003</id>
+    <title>Meridian Partners: Data Scientist Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967776003"/>
+    <updated>2026-08-25T01:42:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA, Seattle, WA · Python, scikit-learn, Pandas, LLMs, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967886003</id>
+    <title>Meridian Partners: Data Scientist Graduate Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967886003"/>
+    <updated>2026-08-25T01:42:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA · Python, scikit-learn, Pandas, LLMs, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967400003</id>
+    <title>Meridian Partners: Flight Software Engineer Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967400003"/>
+    <updated>2026-08-25T01:42:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust, Linux · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Software-Engineering-Intern_JR-051316</id>
     <title>Brunswick: Software Engineering Intern</title>
@@ -774,37 +806,5 @@
     <updated>2026-08-14T10:15:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Rochester, New York, United States · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hntb:/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165</id>
-    <title>HNTB: WED - 2027 New Grad Mechanical &amp; Fire Protection Engineer I  (For Current &amp; Recent HNTB Interns Only) 🛂</title>
-    <link href="https://hntb.wd5.myworkdayjobs.com/hntb_university_careers/job/Oakland-CA/WED---2027-New-Grad-Mechanical---Fire-Protection-Engineer-I---For-Current---Recent-HNTB-Interns-Only-_R-31165"/>
-    <updated>2026-08-13T20:55:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Oakland, CA · sponsorship: no-sponsorship · H-1B track record: ~30 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782</id>
-    <title>Crowe: AI Engineering Intern</title>
-    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Engineering-Intern_R-51782"/>
-    <updated>2026-08-13T19:16:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · Python, PyTorch, TensorFlow, LLMs, AWS · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:crowe:/job/Chicago-IL-USA/AI-Functional-Intern_R-71008</id>
-    <title>Crowe: AI Functional Intern</title>
-    <link href="https://crowe.wd12.myworkdayjobs.com/external_careers/job/Chicago-IL-USA/AI-Functional-Intern_R-71008"/>
-    <updated>2026-08-13T19:16:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago IL USA · $27–$42/hr · LLMs, Azure · H-1B track record: ~37 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193</id>
-    <title>Teledyne: NHRC Software Engineering Internship (Summer 2027) 🇺🇸</title>
-    <link href="https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193"/>
-    <updated>2026-08-13T19:16:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US - Huntsville, AL · Java, C++, C#, .NET, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T18:53:41Z</updated>
+  <updated>2026-08-25T19:42:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902</id>
-    <title>Philips: Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - January 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"/>
-    <updated>2026-08-25T18:53:39Z</updated>
+    <id>urn:intern-engine:workday:avav:/job/Sunrise-FL/Mechanical-Engineering-Intern_8472</id>
+    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Sunrise-FL/Mechanical-Engineering-Intern_8472"/>
+    <updated>2026-08-25T19:42:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Sunrise, FL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5405775008</id>
+    <title>MetOx International: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5405775008"/>
+    <updated>2026-08-25T19:42:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Houston, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thehartford:/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609</id>
+    <title>The Hartford: Tech &amp; Data Program Summer 2027 - Software Engineer Intern (Columbus) 🛂</title>
+    <link href="https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609"/>
+    <updated>2026-08-25T19:42:43Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Cambridge (US), Massachusetts, United States</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Columbus, OH · Python, Java, C#, JavaScript, SQL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:verkada:5210813007</id>
@@ -24,6 +40,14 @@
     <summary>Summer 2027 · Software · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5210942007</id>
+    <title>Verkada: Frontend Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5210942007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA United States · TypeScript, JavaScript, React, Angular, Vue · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:verkada:5211595007</id>
     <title>Verkada: Embedded Software Engineering Intern 2027</title>
     <link href="https://job-boards.greenhouse.io/verkada/jobs/5211595007"/>
@@ -32,12 +56,12 @@
     <summary>Summer 2027 · Software · San Mateo, CA United States · C++, Linux · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:verkada:5210942007</id>
-    <title>Verkada: Frontend Software Engineering Intern 2027</title>
-    <link href="https://job-boards.greenhouse.io/verkada/jobs/5210942007"/>
+    <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
+    <title>Verkada: Security Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5213881007"/>
     <updated>2026-08-25T18:53:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, CA United States · TypeScript, JavaScript, React, Angular, Vue · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Security · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:verkada:5219131007</id>
@@ -48,12 +72,12 @@
     <summary>Summer 2027 · Software · San Mateo, CA United States · Swift, Kotlin · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
-    <title>Verkada: Security Software Engineering Intern 2027</title>
-    <link href="https://job-boards.greenhouse.io/verkada/jobs/5213881007"/>
+    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902</id>
+    <title>Philips: Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - January 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"/>
     <updated>2026-08-25T18:53:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Cambridge (US), Massachusetts, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155522</id>
@@ -552,6 +576,14 @@
     <summary>Not stated · Software · New York · JavaScript</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1</id>
+    <title>Hewlett Packard (HP): Software Internship Roles - HP Solutions (HPS)</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"/>
+    <updated>2026-08-21T19:36:14Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Spring, Texas, United States of America · $31–$37/hr · Python, Java, C++, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1</id>
     <title>Motorola: Android Platform Software Engineering Intern - Summer 2027 🇺🇸</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"/>
@@ -774,37 +806,5 @@
     <updated>2026-08-19T18:47:27Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Software · Buffalo, NY · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298</id>
-    <title>ABB: Manufacturing Engineering/Documentation Intern - Fall 2026 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298"/>
-    <updated>2026-08-19T16:42:39Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · USA, AR, Jonesboro · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471</id>
-    <title>IMEG: Mechanical Engineering Intern | Naperville, IL</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471"/>
-    <updated>2026-08-19T15:43:18Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Naperville, IL · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558</id>
-    <title>IMEG: Mechanical Engineering Intern | Greenwood Village, CO</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558"/>
-    <updated>2026-08-19T14:44:49Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Denver Metro, CO · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567</id>
-    <title>IMEG: Mechanical Intern Technician | Germantown, MD 🇺🇸</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Germantown-MD/Mechanical-Intern-Technician---Germantown--MD_R-16567"/>
-    <updated>2026-08-19T13:56:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Germantown, MD · $22–$24/hr · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

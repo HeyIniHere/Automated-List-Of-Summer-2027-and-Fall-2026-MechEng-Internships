@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T16:48:40Z</updated>
+  <updated>2026-08-25T17:41:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155522</id>
+    <title>Honeywell: Artificial Intelligence/Machine Learning - Summer 2027 Intern</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522"/>
+    <updated>2026-08-25T17:41:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States · $25.5/hr · Python, C++, JavaScript · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487</id>
+    <title>Northrop Grumman: 2027 Software Test Engineering Intern- Huntsville AL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487"/>
+    <updated>2026-08-25T17:41:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Alabama-Huntsville · $25.5–$32/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39908</id>
     <title>Nokia: Deepfield Software Engineer Co-op</title>
@@ -488,14 +504,6 @@
     <summary>Not stated · Software · New York · JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1</id>
-    <title>Hewlett Packard (HP): Software Internship Roles - HP Solutions (HPS)</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Internship-Roles---HP-Solutions--HPS-_3167906-1"/>
-    <updated>2026-08-21T19:36:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Spring, Texas, United States of America · $31–$37/hr · Python, Java, C++, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1</id>
     <title>Motorola: Android Platform Software Engineering Intern - Summer 2027 🇺🇸</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"/>
@@ -798,13 +806,5 @@
     <updated>2026-08-18T17:38:25Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Louisville, Colorado · $23–$37/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:h3x-technologies:7add5fe2-8e3e-4817-b88a-34d803ba86f9</id>
-    <title>H3X Technologies: Mechanical Design Engineer Intern (Spring)</title>
-    <link href="https://jobs.ashbyhq.com/h3x-technologies/7add5fe2-8e3e-4817-b88a-34d803ba86f9"/>
-    <updated>2026-08-18T17:38:25Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Louisville, Colorado · $23–$37/hr</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T16:48:40Z",
+ "generated_at": "2026-08-25T17:41:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -886,6 +886,20 @@
    "note": ""
   },
   {
+   "company": "Honeywell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155522",
+   "note": ""
+  },
+  {
    "company": "Sensata",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1656,5 +1670,5 @@
    "note": ""
   }
  ],
- "count": 118
+ "count": 119
 }

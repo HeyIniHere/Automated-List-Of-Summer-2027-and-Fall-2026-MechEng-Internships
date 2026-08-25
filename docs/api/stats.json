@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-08-25T16:48:39Z",
- "duration_seconds": 355.0,
+ "generated_at": "2026-08-25T17:41:58Z",
+ "duration_seconds": 364.6,
  "companies_total": 4309,
  "companies_by_source": {
   "greenhouse": 1036,
@@ -16,43 +16,43 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 292,
- "fetched_ok": 4008,
- "fetch_errors": 9,
+ "quarantined": 267,
+ "fetched_ok": 3933,
+ "fetch_errors": 109,
  "errors_by_source": {
-  "workday": 6,
-  "workable": 3
+  "workday": 108,
+  "greenhouse": 1
  },
- "fetch_success_rate": 0.998,
- "fetch_success_rate_registry": 0.93,
- "snapshots_complete": 3889,
- "snapshots_partial": 119,
- "roles_matched": 236,
- "dropped_no_year_in_title": 421,
- "dropped_offcycle_by_text": 82,
- "roles_cycle_inferred": 113,
+ "fetch_success_rate": 0.973,
+ "fetch_success_rate_registry": 0.913,
+ "snapshots_complete": 3821,
+ "snapshots_partial": 112,
+ "roles_matched": 227,
+ "dropped_no_year_in_title": 413,
+ "dropped_offcycle_by_text": 78,
+ "roles_cycle_inferred": 112,
  "roles_by_source": {
   "amazon": 6,
   "ashby": 28,
   "breezy": 1,
   "greenhouse": 77,
   "lever": 14,
-  "oracle": 4,
+  "oracle": 5,
   "smartrecruiters": 15,
   "workable": 6,
   "workday": 120
  },
  "roles_by_cycle": {
   "Fall 2026": 42,
-  "Not stated": 113,
-  "Summer 2027": 117
+  "Not stated": 112,
+  "Summer 2027": 119
  },
  "roles_by_region": {
-  "US": 271
+  "US": 272
  },
  "sponsorship_counts": {
   "unknown": 196,
-  "citizens-only": 56,
+  "citizens-only": 57,
   "offers": 3,
   "no-sponsorship": 16
  },
@@ -61,16 +61,16 @@
  "enrichment_detail_fetches": 2,
  "purged_this_run": 0,
  "new_this_run": 2,
- "open_total": 271,
+ "open_total": 272,
  "detection_latency": {
   "median_minutes": 48.2,
   "p95_minutes": 1133.0,
-  "sample_size": 54,
+  "sample_size": 52,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 9,
-  "sample_size": 341
+  "median_days": 9.0,
+  "sample_size": 342
  }
 }

@@ -604,6 +604,22 @@
     }
    }
   },
+  "dtcc": {
+   "name": "DTCC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "oracle:ebxr.fa.us2.oraclecloud.com:214410",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214459",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214473",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214476",
+      "oracle:ebxr.fa.us2.oraclecloud.com:214487"
+     ],
+     "count": 5
+    }
+   }
+  },
   "duke energy": {
    "name": "Duke Energy",
    "cycles": {
@@ -836,6 +852,18 @@
     }
    }
   },
+  "grant thornton": {
+   "name": "Grant Thornton",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "oracle:ehzq.fa.us2.oraclecloud.com:115637"
+     ],
+     "count": 1
+    }
+   }
+  },
   "h3x technologies": {
    "name": "H3X Technologies",
    "cycles": {
@@ -923,9 +951,13 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155522"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155522",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155554",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155555",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155561",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155562"
      ],
-     "count": 1
+     "count": 5
     }
    }
   },
@@ -2121,5 +2153,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T19:42:43Z"
+ "updated_at": "2026-08-25T20:40:58Z"
 }

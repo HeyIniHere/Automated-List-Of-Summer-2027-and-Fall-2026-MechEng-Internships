@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T13:04:01Z",
+ "generated_at": "2026-08-25T14:04:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -872,6 +872,20 @@
    "note": ""
   },
   {
+   "company": "AECOM",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/AECOM2/744000145517564",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1614,5 +1628,5 @@
    "note": ""
   }
  ],
- "count": 115
+ "count": 116
 }

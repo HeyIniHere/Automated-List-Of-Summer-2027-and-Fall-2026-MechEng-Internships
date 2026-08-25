@@ -1411,10 +1411,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
      ],
-     "count": 2
+     "count": 3
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -1947,6 +1948,17 @@
      "role_ids": [
       "greenhouse:verkada:5099422007"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:verkada:5210813007",
+      "greenhouse:verkada:5210942007",
+      "greenhouse:verkada:5211595007",
+      "greenhouse:verkada:5213881007",
+      "greenhouse:verkada:5219131007"
+     ],
+     "count": 5
     }
    }
   },
@@ -2108,5 +2120,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T17:41:58Z"
+ "updated_at": "2026-08-25T18:53:39Z"
 }

@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T17:41:59Z</updated>
+  <updated>2026-08-25T18:53:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902</id>
+    <title>Philips: Co-op - Robotics Mechatronics, Surgical Robotics - Cambridge, MA - January 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Cambridge (US), Massachusetts, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5210813007</id>
+    <title>Verkada: Backend Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5210813007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5211595007</id>
+    <title>Verkada: Embedded Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5211595007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA United States · C++, Linux · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5210942007</id>
+    <title>Verkada: Frontend Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5210942007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA United States · TypeScript, JavaScript, React, Angular, Vue · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5219131007</id>
+    <title>Verkada: Mobile Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5219131007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, CA United States · Swift, Kotlin · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:verkada:5213881007</id>
+    <title>Verkada: Security Software Engineering Intern 2027</title>
+    <link href="https://job-boards.greenhouse.io/verkada/jobs/5213881007"/>
+    <updated>2026-08-25T18:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · San Mateo, CA United States · Python, Go, Computer Vision, AWS, Kubernetes · sponsorship: offers · H-1B track record: ~67 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155522</id>
     <title>Honeywell: Artificial Intelligence/Machine Learning - Summer 2027 Intern</title>
@@ -758,53 +806,5 @@
     <updated>2026-08-19T13:56:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Germantown, MD · $22–$24/hr · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526</id>
-    <title>Johnson &amp; Johnson: Automation &amp; Robotics Engineering Spring Co-op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Automation---Robotics-Engineering-Spring-Co-op_R-093526"/>
-    <updated>2026-08-19T13:56:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Santa Clara, California, United States of America · $27/hr · Python, C++, MATLAB, Computer Vision, ROS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1</id>
-    <title>Continental Resources: Data Analyst Intern (Summer 2027)</title>
-    <link href="https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1"/>
-    <updated>2026-08-19T04:48:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Oklahoma City, OK · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483</id>
-    <title>IMEG: Structural Engineering Intern | Minneapolis, MN</title>
-    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483"/>
-    <updated>2026-08-18T21:36:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Minneapolis, MN · $22–$24/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:gardacp:6146213004</id>
-    <title>Garda Capital Partners: Software Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/gardacp/jobs/6146213004"/>
-    <updated>2026-08-18T20:36:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York, United States · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:freeformfuturecorp:7894117003</id>
-    <title>Freeform: Mechanical Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003"/>
-    <updated>2026-08-18T18:51:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Los Angeles, CA (On-site) · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:h3x-technologies:6af49576-a61d-480c-b155-3e034e2ed5be</id>
-    <title>H3X Technologies: Advanced Manufacturing Engineering Intern (Spring)</title>
-    <link href="https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be"/>
-    <updated>2026-08-18T17:38:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Louisville, Colorado · $23–$37/hr</summary>
   </entry>
 </feed>

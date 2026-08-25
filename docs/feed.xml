@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T15:00:07Z</updated>
+  <updated>2026-08-25T15:57:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213</id>
-    <title>Brunswick: Mercury Marine: Product Management Intern – Oils &amp; Lubricants</title>
-    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"/>
+    <id>urn:intern-engine:workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618</id>
+    <title>IMEG: Structural Intern | Fairfax, VA</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"/>
+    <updated>2026-08-25T15:57:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Washington, DC · $22–$25/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6</id>
+    <title>The Voleon Group: Software Engineer Intern - (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"/>
     <updated>2026-08-25T15:00:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berkeley, CA · $14,583 per month · Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39743</id>
@@ -24,20 +32,20 @@
     <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL · H-1B track record: ~321 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213</id>
+    <title>Brunswick: Mercury Marine: Product Management Intern – Oils &amp; Lubricants</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"/>
+    <updated>2026-08-25T15:00:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334</id>
     <title>Sensata: Mechanical Engineer Intern (Dynapower) - Summer 2027 🇺🇸</title>
     <link href="https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334"/>
     <updated>2026-08-25T15:00:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Dynapower South Burlington, VT · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6</id>
-    <title>The Voleon Group: Software Engineer Intern - (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"/>
-    <updated>2026-08-25T15:00:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Berkeley, CA · $14,583 per month · Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000145517564</id>
@@ -798,13 +806,5 @@
     <updated>2026-08-18T17:38:25Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Waterloo, Iowa · $19/hr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:pimco:/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745</id>
-    <title>PIMCO: 2027 Summer Intern - Technology Analyst, Software Engineering</title>
-    <link href="https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745"/>
-    <updated>2026-08-18T14:45:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Austin, TX USA · Python, Java, C++, C#, SQL · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

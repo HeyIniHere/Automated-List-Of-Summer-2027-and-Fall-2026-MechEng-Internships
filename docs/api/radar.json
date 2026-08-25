@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T14:04:36Z",
+ "generated_at": "2026-08-25T15:00:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -574,7 +574,7 @@
    "expected": "2026-08-14",
    "days_until": -11,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
    "note": ""
   },
   {
@@ -603,6 +603,20 @@
    "days_until": -11,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+   "note": ""
+  },
+  {
+   "company": "The Voleon Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-14",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6",
    "note": ""
   },
   {
@@ -883,6 +897,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000145517564",
+   "note": ""
+  },
+  {
+   "company": "Sensata",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
    "note": ""
   },
   {
@@ -1628,5 +1656,5 @@
    "note": ""
   }
  ],
- "count": 116
+ "count": 118
 }

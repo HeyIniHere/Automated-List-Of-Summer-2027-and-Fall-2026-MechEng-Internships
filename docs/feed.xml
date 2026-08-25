@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T14:04:36Z</updated>
+  <updated>2026-08-25T15:00:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213</id>
+    <title>Brunswick: Mercury Marine: Product Management Intern – Oils &amp; Lubricants</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"/>
+    <updated>2026-08-25T15:00:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39743</id>
+    <title>Nokia: Data Analytics &amp; AI Co-op</title>
+    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743"/>
+    <updated>2026-08-25T15:00:05Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL · H-1B track record: ~321 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334</id>
+    <title>Sensata: Mechanical Engineer Intern (Dynapower) - Summer 2027 🇺🇸</title>
+    <link href="https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334"/>
+    <updated>2026-08-25T15:00:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Dynapower South Burlington, VT · sponsorship: citizens-only · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6</id>
+    <title>The Voleon Group: Software Engineer Intern - (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/voleon/57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"/>
+    <updated>2026-08-25T15:00:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Berkeley, CA · $14,583 per month · Linux, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000145517564</id>
     <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia</title>
@@ -67,14 +99,6 @@
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657</id>
     <title>GlobalFoundries: Advanced Manufacturing Process Engineering Intern (Summer 2027)</title>
     <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657"/>
-    <updated>2026-08-25T10:46:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666</id>
-    <title>GlobalFoundries: US Advanced Manufacturing Equipment Engineering Intern, Junior (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"/>
     <updated>2026-08-25T10:46:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
@@ -782,29 +806,5 @@
     <updated>2026-08-18T14:45:26Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Austin, TX USA · Python, Java, C++, C#, SQL · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amcor:/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190</id>
-    <title>Amcor: Intern - AI Innovation Engineer</title>
-    <link href="https://amcor.wd5.myworkdayjobs.com/amcor_external_career_site/job/ASC-Atlanta-HQ-GA/AI-Innovation-Engineer_REQ_93190"/>
-    <updated>2026-08-18T11:35:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · ASC Atlanta HQ GA · Python, C#, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788</id>
-    <title>Conagra Brands: IT Infrastructure Internship - Summer 2027</title>
-    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788"/>
-    <updated>2026-08-18T07:00:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Omaha, Nebraska · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:conagrabrands:/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787</id>
-    <title>Conagra Brands: Software Development Internship - Summer 2027</title>
-    <link href="https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787"/>
-    <updated>2026-08-18T07:00:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Omaha, Nebraska · $23/hr · Azure, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

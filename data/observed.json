@@ -1615,6 +1615,18 @@
     }
    }
   },
+  "sensata": {
+   "name": "Sensata",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sentara health": {
    "name": "Sentara Health",
    "cycles": {
@@ -1942,6 +1954,18 @@
     }
    }
   },
+  "voleon group": {
+   "name": "The Voleon Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-14",
+     "role_ids": [
+      "ashby:voleon:57f1b666-2f4b-4bad-aac0-fa42a1c8fdf6"
+     ],
+     "count": 1
+    }
+   }
+  },
   "voloridge": {
    "name": "Voloridge",
    "cycles": {
@@ -2063,5 +2087,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T14:04:34Z"
+ "updated_at": "2026-08-25T15:00:05Z"
 }

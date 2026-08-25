@@ -8,7 +8,7 @@
 
 ### 258 open roles (217 listed below) · 90 new this week
 
-4,193 employers tracked · updated Aug 25, 2026 at 04:50 UTC
+4,193 employers tracked · updated Aug 25, 2026 at 05:42 UTC
 
 _149 have a cycle the employer stated · 109 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -218,8 +218,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
-| Meridian Partners | Embedded Software Engineer Co-op 🇺🇸 🆕 | Software | Cambridge, MA | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) |
 | Meridian Partners | Embedded Software Engineer Graduate Co-op 🇺🇸 🆕 | Software | Cambridge, MA | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003) |
+| Meridian Partners | Embedded Software Engineer Co-op 🇺🇸 🆕 | Software | Cambridge, MA | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003) |
 | Meridian Partners | Front End Software Engineer Co-op 🇺🇸 🆕 | Software | Cambridge, MA | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003) |
 | Brunswick ✓ | Software Engineering Intern 🆕 | Software | Champaign, IL | Aug 24, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Software-Engineering-Intern_JR-051316) |
 | Canadian Solar | Data Analyst, Quality Intern 🆕 | Data & ML/AI | Mesquite, TX | Aug 24, 2026 | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414) |
@@ -414,7 +414,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,021 of 4,296 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 367.1s · 100 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,028 of 4,296 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 360.8s · 106 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

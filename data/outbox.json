@@ -1,3 +1,7 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:ehzq.fa.us2.oraclecloud.com:115449",
+    "oracle:ibqbjb.fa.ocs.oraclecloud.com:155558",
+    "oracle:ibqbjb.fa.ocs.oraclecloud.com:155557"
+  ]
 }

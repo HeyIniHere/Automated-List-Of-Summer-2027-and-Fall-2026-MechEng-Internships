@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-25T07:57:09Z</updated>
+  <updated>2026-08-25T08:57:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:morsecorpcoop:7968523003</id>
@@ -464,14 +464,6 @@
     <summary>Not stated · Hardware · Marysville, OH · $19–$24/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26</id>
-    <title>Microchip Technology: Intern - Engineering (Device Software and Test)</title>
-    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26"/>
-    <updated>2026-08-20T19:42:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · AZ - Chandler · Python, Java, C#, Linux · H-1B track record: ~143 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512</id>
     <title>Sony: Intern, Information Security Risk and Compliance</title>
     <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Intern--Information-Security-Risk-and-Compliance_JR-119512"/>
@@ -806,5 +798,13 @@
     <updated>2026-08-17T13:49:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Dallas, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:imeg:/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014</id>
+    <title>IMEG: Structural Engineering Intern | Houston, TX</title>
+    <link href="https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014"/>
+    <updated>2026-08-17T13:49:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Houston, TX · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

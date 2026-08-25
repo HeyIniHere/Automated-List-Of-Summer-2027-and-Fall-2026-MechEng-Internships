@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-08-25T07:57:09Z",
+ "generated_at": "2026-08-25T08:57:14Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 258,
+ "count": 257,
  "jobs": [
   {
    "id": "greenhouse:morsecorpcoop:7968523003",
@@ -1363,32 +1363,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:microchiphr:/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26",
-   "company": "Microchip Technology",
-   "title": "Intern - Engineering (Device Software and Test)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "AZ - Chandler",
-   "url": "https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern---Engineering--Device-Software-and-Test-_R3573-26",
-   "posted_at": "2026-08-20T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-20T19:42:57Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C#",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 143,
    "program": "Internship",
    "remote": false
   },

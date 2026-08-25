@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-25T08:57:14Z",
+ "generated_at": "2026-08-25T09:48:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -393,20 +393,6 @@
    "days_until": -24,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
-   "note": ""
-  },
-  {
-   "company": "JPMorganChase",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210773869",
    "note": ""
   },
   {
@@ -816,6 +802,20 @@
    "note": ""
   },
   {
+   "company": "BTI360",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152",
+   "note": ""
+  },
+  {
    "company": "Freddie Mac",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -827,6 +827,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
+   "note": ""
+  },
+  {
+   "company": "Sage",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sage49/jobs/6131191004",
    "note": ""
   },
   {
@@ -1404,6 +1418,20 @@
    "note": ""
   },
   {
+   "company": "JPMorganChase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -22,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Netsmart",
    "last_cycle_posted": "",
    "posted_on": "2026-08-03",
@@ -1586,5 +1614,5 @@
    "note": ""
   }
  ],
- "count": 113
+ "count": 115
 }

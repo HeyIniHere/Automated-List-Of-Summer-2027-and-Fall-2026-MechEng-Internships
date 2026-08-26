@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-26T13:09:12Z",
+ "generated_at": "2026-08-26T14:57:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -942,6 +942,34 @@
    "note": ""
   },
   {
+   "company": "QTS",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906",
+   "note": ""
+  },
+  {
+   "company": "WhiteWater Midstream",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/whitewatermidstream/jobs/5217853007",
+   "note": ""
+  },
+  {
    "company": "Citadel",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -1712,5 +1740,5 @@
    "note": ""
   }
  ],
- "count": 122
+ "count": 124
 }

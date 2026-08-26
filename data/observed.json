@@ -32,9 +32,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
-      "smartrecruiters:AbbVie:3743990014697918"
+      "smartrecruiters:AbbVie:3743990014697918",
+      "smartrecruiters:AbbVie:3743990014860306",
+      "smartrecruiters:AbbVie:3743990014860391"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2162,5 +2164,5 @@
    }
   }
  },
- "updated_at": "2026-08-25T23:35:15Z"
+ "updated_at": "2026-08-26T01:47:46Z"
 }

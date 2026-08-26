@@ -1,9 +1,69 @@
 {
- "generated_at": "2026-08-25T23:35:16Z",
+ "generated_at": "2026-08-26T01:47:48Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 294,
+ "count": 295,
  "jobs": [
+  {
+   "id": "smartrecruiters:AbbVie:3743990014860391",
+   "company": "AbbVie",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "South San Francisco, CA, United States",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860391",
+   "posted_at": "2026-08-26T00:54:51.383Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-26T01:47:46Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Node.js",
+    "Vue"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 303,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:AbbVie:3743990014860306",
+   "company": "AbbVie",
+   "title": "2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Irvine, CA, United States",
+   "url": "https://jobs.smartrecruiters.com/AbbVie/3743990014860306",
+   "posted_at": "2026-08-26T00:51:58.258Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-08-26T01:47:46Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "TypeScript",
+    "JavaScript",
+    "SQL",
+    "LLMs",
+    "Node.js",
+    "Vue"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": 303,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "oracle:ehzq.fa.us2.oraclecloud.com:115449",
    "company": "Grant Thornton",
@@ -6043,32 +6103,6 @@
    "h1b_approvals": 4758,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "ashby:deepgram:dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-   "company": "Deepgram",
-   "title": "Software Engineering- Internship (Fall 2026/Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": [
-    "Summer 2027",
-    "Fall 2026"
-   ],
-   "season_inferred": false,
-   "category": "Software",
-   "location": "USA | Remote",
-   "url": "https://jobs.ashbyhq.com/deepgram/dc8693b5-72ce-4ca3-ab15-9c8434d35da1",
-   "posted_at": "2026-07-17T16:00:27.132+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-07-17T17:19:36Z",
-   "sponsorship": "unknown",
-   "salary": "$55 – $65 per hour",
-   "skills": [
-    "LLMs"
-   ],
-   "source": "ashby",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:chevron:/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",

@@ -1,3 +1,18 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:AECOM2:744000145837999",
+    "workday:ancestry:/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434",
+    "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121",
+    "greenhouse:axontalentcommunity:7800627003",
+    "greenhouse:axon:7978840003",
+    "workday:chemours:/job/US---Remote/AI---Data-Science-Intern_JR15013",
+    "oracle:egua.fa.us2.oraclecloud.com:25529",
+    "workday:imeg:/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+    "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+    "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+    "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
+    "lever:economicmodeling:a6d45716-c743-4013-a1d8-310850c115f9",
+    "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965",
+    "workday:thehartford:/job/Chicago-IL/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Chicago-_R2626650"
+  ]
 }

@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-26T14:57:01Z</updated>
+  <updated>2026-08-26T16:30:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906</id>
-    <title>QTS: Summer 2027 Internship: Internal Data Center Infrastructure Projects 🇺🇸</title>
-    <link href="https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906"/>
-    <updated>2026-08-26T14:56:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Irving, TX · sponsorship: citizens-only</summary>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000145785190</id>
+    <title>Bosch: Phone as a Key Software Engineering - Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000145785190"/>
+    <updated>2026-08-26T16:30:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Plymouth, MI, United States · Python, C++, ROS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:whitewatermidstream:5217853007</id>
@@ -22,6 +22,14 @@
     <updated>2026-08-26T14:56:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Austin, TX · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:qtsdatacenters:/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906</id>
+    <title>QTS: Summer 2027 Internship: Internal Data Center Infrastructure Projects 🇺🇸</title>
+    <link href="https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906"/>
+    <updated>2026-08-26T14:56:59Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Irving, TX · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:93910</id>
@@ -80,28 +88,12 @@
     <summary>Summer 2027 · Security · San Francisco, CA, United States · $42.5/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155558</id>
-    <title>Honeywell: Software Engineer &amp; Computer Science - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155558"/>
-    <updated>2026-08-25T22:40:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States · $25.5/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155541</id>
     <title>Honeywell: Materials Engineering/Materials Science - Summer 2027 Intern</title>
     <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155541"/>
     <updated>2026-08-25T21:39:27Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States · $24/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155574</id>
-    <title>Honeywell: Mechanical Engineering - Summer 2027 Intern (US Person Required) 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155574"/>
-    <updated>2026-08-25T21:39:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States · $24/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155576</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-21T13:57:57Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Auburn Hills, Michigan, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
+    <title>Phoebe: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"/>
+    <updated>2026-08-21T09:47:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · Python, TypeScript, LLMs, React, AWS</summary>
   </entry>
 </feed>

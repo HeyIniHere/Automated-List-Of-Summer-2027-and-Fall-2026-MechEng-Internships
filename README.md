@@ -8,7 +8,7 @@
 
 ### 290 open roles (231 listed below) · 121 new this week
 
-4,213 employers tracked · updated Aug 26, 2026 at 10:47 UTC
+4,213 employers tracked · updated Aug 26, 2026 at 11:41 UTC
 
 _180 have a cycle the employer stated · 110 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -248,7 +248,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Canadian Solar | Data Analyst, Quality Intern 🆕 | Data & ML/AI | Mesquite, TX | Aug 24, 2026 | [Apply](https://canadiansolar.wd5.myworkdayjobs.com/CanadianSolar/job/Mesquite-TX/Data-Analyst--Quality-Intern_10001414) |
 | Monolithic Power Systems ✓ | AI Developer Intern 🆕 | Data & ML/AI | San Jose - California | Aug 24, 2026 | [Apply](https://monolithicpower.wd12.myworkdayjobs.com/MPS_Careers/job/San-Jose---California/AI-Developer-Intern_R-1756) |
 | Terex | Robotics Engineer Co-op 🆕 | Hardware | US-WA Redmond | Aug 24, 2026 | [Apply](https://terex.wd1.myworkdayjobs.com/terexcareers/job/US-WA-Redmond/Robotics-Engineer-Co-op_REQ-13877) |
-| Audax Group | Data Engineer Co-Op 🆕 | Data & ML/AI | Boston, Massachusetts | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) |
+| Audax Group | Data Engineer Co-Op | Data & ML/AI | Boston, Massachusetts | Aug 24, 2026 | [Apply](https://job-boards.greenhouse.io/audaxgroup/jobs/4722770005) |
 | Micron Technology ✓ | Intern - TD Site Industrial Engineer | Hardware | Boise, ID - Main Site | Aug 23, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---TD-Site-Industrial-Engineer_JR108729) |
 | Ambrook | Software Engineering Intern | Software | New York | Aug 21, 2026 | [Apply](https://jobs.ashbyhq.com/ambrook/e458b046-aa7f-4022-bca5-63cdfd495456) |
 | Weave | Data Engineer Intern | Data & ML/AI | Weave - Headquarters (Lehi, UT) | Aug 21, 2026 | [Apply](https://jobs.ashbyhq.com/weave/1318e017-3ea6-4a1f-aac7-1c11a46cda8d) |
@@ -427,7 +427,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,941 of 4,316 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 465.2s · 94 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,942 of 4,316 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 458.7s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-26T01:47:48Z</updated>
+  <updated>2026-08-26T03:17:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860391</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014860391"/>
-    <updated>2026-08-26T01:47:46Z</updated>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000145646439</id>
+    <title>AECOM: Structural Engineering Intern</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000145646439"/>
+    <updated>2026-08-26T03:17:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · South San Francisco, CA, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Roanoke, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000145646379</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000145646379"/>
+    <updated>2026-08-26T03:17:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Philadelphia, PA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860306</id>
@@ -22,6 +30,14 @@
     <updated>2026-08-26T01:47:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Irvine, CA, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014860391</id>
+    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
+    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990014860391"/>
+    <updated>2026-08-26T01:47:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · South San Francisco, CA, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115449</id>
@@ -790,21 +806,5 @@
     <updated>2026-08-21T13:57:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Indianapolis, IN · $20–$40/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:magna:/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153</id>
-    <title>Magna International: Intern - Engineering Mechanical Optics</title>
-    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Auburn-Hills-Michigan-US/Student---Engineering-Mechanical-Optics_R00256153"/>
-    <updated>2026-08-21T13:57:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Auburn Hills, Michigan, US</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca</id>
-    <title>Phoebe: Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca"/>
-    <updated>2026-08-21T09:47:10Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · Python, TypeScript, LLMs, React, AWS</summary>
   </entry>
 </feed>

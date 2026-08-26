@@ -72,9 +72,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "smartrecruiters:AECOM2:744000145517564"
+      "smartrecruiters:AECOM2:744000145517564",
+      "smartrecruiters:AECOM2:744000145646379",
+      "smartrecruiters:AECOM2:744000145646439"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2164,5 +2166,5 @@
    }
   }
  },
- "updated_at": "2026-08-26T01:47:46Z"
+ "updated_at": "2026-08-26T03:17:41Z"
 }

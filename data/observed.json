@@ -256,6 +256,18 @@
     }
    }
   },
+  "ardian": {
+   "name": "Ardian",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "workday:ardian:/job/New-York/Infrastructure-Intern---February-2027-I-NYC_JR1002214"
+     ],
+     "count": 1
+    }
+   }
+  },
   "assured guaranty": {
    "name": "Assured Guaranty",
    "cycles": {
@@ -887,12 +899,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:thehartford:/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
+      "workday:thehartford:/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
       "workday:thehartford:/job/Columbus-OH/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Columbus-_R2626610",
       "workday:thehartford:/job/Columbus-OH/Tech---Data-Summer-Program-2027---Software-Engineer-Intern--Columbus-_R2626609",
       "workday:thehartford:/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
       "workday:thehartford:/job/Hartford-CT/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Hartford-_R2626105-1"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -1173,9 +1187,12 @@
     "Summer 2027": {
      "first_posted": "2026-07-29",
      "role_ids": [
-      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311"
+      "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
+      "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
+      "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -1736,9 +1753,10 @@
    "name": "SharkNinja",
    "cycles": {
     "Fall 2026": {
-     "first_posted": "2026-04-02",
-     "count": 2,
+     "first_posted": "2026-02-05",
+     "count": 3,
      "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4651641006",
       "greenhouse:sharkninjaoperatingllc:4669676006",
       "greenhouse:sharkninjaoperatingllc:4695627006"
      ]
@@ -1997,6 +2015,18 @@
     }
    }
   },
+  "verisk": {
+   "name": "Verisk",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682"
+     ],
+     "count": 1
+    }
+   }
+  },
   "verkada": {
    "name": "Verkada",
    "cycles": {
@@ -2119,6 +2149,18 @@
     }
    }
   },
+  "wavetronix": {
+   "name": "Wavetronix",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-26",
+     "role_ids": [
+      "breezy:wavetronix:565668353504"
+     ],
+     "count": 1
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -2191,5 +2233,5 @@
    }
   }
  },
- "updated_at": "2026-08-26T16:30:33Z"
+ "updated_at": "2026-08-26T19:16:32Z"
 }

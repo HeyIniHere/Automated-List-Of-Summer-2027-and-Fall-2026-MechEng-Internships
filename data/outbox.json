@@ -1,3 +1,14 @@
 {
-  "pending": []
+  "pending": [
+    "workday:ardian:/job/New-York/Infrastructure-Intern---February-2027-I-NYC_JR1002214",
+    "workday:aoins:/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272",
+    "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
+    "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
+    "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669",
+    "greenhouse:sharkninjaoperatingllc:4651641006",
+    "workday:thehartford:/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Charlotte-_R2626648",
+    "workday:thehartford:/job/Charlotte-NC/Tech---Data-Program-Summer-2027---Software-Engineer-Intern--Charlotte-_R2626649",
+    "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682",
+    "breezy:wavetronix:565668353504"
+  ]
 }

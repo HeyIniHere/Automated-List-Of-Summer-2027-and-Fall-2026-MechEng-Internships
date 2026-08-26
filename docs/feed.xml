@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-26T09:55:35Z</updated>
+  <updated>2026-08-26T10:47:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:maximor:3ff6e57d-5430-4836-b6f0-19044d8ee6d8</id>
@@ -142,14 +142,6 @@
     <updated>2026-08-25T20:40:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · New York, NY, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155555</id>
-    <title>Honeywell: Information Systems, IT, Cyber Engineer &amp; Data Science - Summer 2027 Intern</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155555"/>
-    <updated>2026-08-25T20:40:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · United States · $23/hr · H-1B track record: ~229 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:155562</id>
@@ -806,5 +798,13 @@
     <updated>2026-08-20T21:40:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Elwood, KS · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:scottsmiraclegro:/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1</id>
+    <title>Scotts Miracle-Gro: EHS Manufacturing Intern</title>
+    <link href="https://scottsmiraclegro.wd5.myworkdayjobs.com/smgexternal/job/Marysville-OH/EHS-Manufacturing-Intern_R26379-1"/>
+    <updated>2026-08-20T20:41:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Marysville, OH · $19–$24/hr</summary>
   </entry>
 </feed>

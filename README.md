@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 290 open roles (231 listed below) · 121 new this week
+### 291 open roles (232 listed below) · 122 new this week
 
-4,213 employers tracked · updated Aug 26, 2026 at 11:41 UTC
+4,213 employers tracked · updated Aug 26, 2026 at 13:09 UTC
 
-_180 have a cycle the employer stated · 110 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_181 have a cycle the employer stated · 110 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,10 +71,11 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (110 employer-stated)
+## Summer 2027  (111 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| WSP | Civil/Structural Engineering (OH T-Lines) Intern - Summer 2027 🆕 | Hardware | Fort Worth, TX, United States | Aug 26, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93910) |
 | AECOM ✓ | Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🆕 | Hardware | Philadelphia, PA, United States | Aug 26, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145646379) |
 | AECOM ✓ | Structural Engineering Intern 🆕 | Hardware | Roanoke, VA, United States | Aug 26, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000145646439) |
 | AbbVie ✓ | 2027 Business Technology Solutions Intern - Data & Software Engineering (Undergraduate) 🆕 | Data & ML/AI | Irvine, CA, United States | Aug 26, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014860306) |
@@ -112,7 +113,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Brunswick ✓ | Mechanical Engineer Co-op/Intern 🛂 🆕 | Hardware | Lowell, MI | Aug 24, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322) |
 | Freddie Mac | Single-Family Software Developer Intern- Summer 2027 🆕 | Software | McLean, VA | Aug 24, 2026 | [Apply](https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Single-Family-Software-Developer-Intern--Summer-2027_JR17544) |
 | Motorola ✓ | Android Applications Developer Intern - Summer 2027 🇺🇸 🆕 | Software | Chicago, IL | Aug 24, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740) |
-| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 🆕 | Quant | New York +2 more | Aug 24, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
+| InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 | Quant | New York +2 more | Aug 24, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134) |
 | The Walt Disney Company | Walt Disney World Workforce Management Industrial Engineering Intern, Spring/Summer 2027 | Hardware | Lake Buena Vista, FL, USA | Aug 24, 2026 | [Apply](https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027) | Hardware | Indianapolis, IN | Aug 21, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897) |
 | General Matter | Summer 2027 Internship - Manufacturing Engineering | Hardware | Los Angeles, CA | Aug 20, 2026 | [Apply](https://job-boards.greenhouse.io/generalmatter/jobs/5376060008) |
@@ -427,7 +428,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,942 of 4,316 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 458.7s · 93 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 3,922 of 4,316 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 90% of the full registry) · completed in 423.2s · 102 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

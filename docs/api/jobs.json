@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-08-26T11:41:59Z",
+ "generated_at": "2026-08-26T13:09:12Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 290,
+ "count": 291,
  "jobs": [
+  {
+   "id": "oracle:emit.fa.ca3.oraclecloud.com:93910",
+   "company": "WSP",
+   "title": "Civil/Structural Engineering (OH T-Lines) Intern - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Fort Worth, TX, United States",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/93910",
+   "posted_at": "2026-08-26",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-26T13:09:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "oracle",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:AECOM2:744000145646379",
    "company": "AECOM",

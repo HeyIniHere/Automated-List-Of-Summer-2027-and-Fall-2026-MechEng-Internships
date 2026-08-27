@@ -18,11 +18,20 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2026-06-18",
-     "count": 2,
+     "count": 4,
      "role_ids": [
+      "workday:abb:/job/Milpitas-California-USA/AI-Robotics-UI-UX-Intern--Fall-2026_JR00044847-1",
+      "workday:abb:/job/Milpitas-California-USA/Physical-AI-Robotics-Simulation-Intern--Fall-2026_JR00044848-1",
       "workday:abb:/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298",
       "workday:abb:/job/USA-NC-Cary/AI---Data-Scientist-AI-Intern---Fall-2026_JR00036225"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"
+     ],
+     "count": 1
     }
    }
   },
@@ -34,9 +43,12 @@
      "role_ids": [
       "smartrecruiters:AbbVie:3743990014697918",
       "smartrecruiters:AbbVie:3743990014860306",
-      "smartrecruiters:AbbVie:3743990014860391"
+      "smartrecruiters:AbbVie:3743990014860391",
+      "smartrecruiters:AbbVie:3743990014896329",
+      "smartrecruiters:AbbVie:3743990014900496",
+      "smartrecruiters:AbbVie:3743990014900536"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -78,6 +90,19 @@
       "smartrecruiters:AECOM2:744000145837999"
      ],
      "count": 4
+    }
+   }
+  },
+  "air products": {
+   "name": "Air Products",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954",
+      "workday:airproducts:/job/Allentown-Pennsylvania/Summer-Intern-Co-op-Mechanical-Engineering--2027-_JR-2026-21956"
+     ],
+     "count": 2
     }
    }
   },
@@ -134,7 +159,7 @@
    "cycles": {
     "Fall 2026": {
      "first_posted": "2025-10-08",
-     "count": 20,
+     "count": 21,
      "role_ids": [
       "amazon:amazon:10375983",
       "amazon:amazon:10375998",
@@ -147,6 +172,7 @@
       "amazon:amazon:10394507",
       "amazon:amazon:10395459",
       "amazon:amazon:10412530",
+      "amazon:amazon:10517149",
       "amazon:amazon:3104589",
       "amazon:amazon:3116030",
       "amazon:amazon:3122111",
@@ -389,6 +415,26 @@
       "oracle:eofe.fa.us2.oraclecloud.com:81254"
      ],
      "count": 5
+    }
+   }
+  },
+  "booz allen": {
+   "name": "Booz Allen",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
+      "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
+      "workday:bah:/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
+      "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
+      "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
+      "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045",
+      "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
+      "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
+     ],
+     "count": 9
     }
    }
   },
@@ -891,9 +937,11 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115637"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115640",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115681"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1107,6 +1155,18 @@
       "smartrecruiters:Intuitive:744000133458290",
       "smartrecruiters:Intuitive:744000145329669"
      ]
+    }
+   }
+  },
+  "johns manville jm": {
+   "name": "Johns Manville (JM)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:jm:/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432"
+     ],
+     "count": 1
     }
    }
   },
@@ -1463,6 +1523,18 @@
       "oracle:hctz.fa.us2.oraclecloud.com:2505878",
       "oracle:hctz.fa.us2.oraclecloud.com:2506307"
      ]
+    }
+   }
+  },
+  "oshkosh": {
+   "name": "Oshkosh",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
+     ],
+     "count": 1
     }
    }
   },
@@ -2255,5 +2327,5 @@
    }
   }
  },
- "updated_at": "2026-08-27T08:43:53Z"
+ "updated_at": "2026-08-27T19:51:20Z"
 }

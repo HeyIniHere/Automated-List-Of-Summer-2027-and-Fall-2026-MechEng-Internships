@@ -186,11 +186,12 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 3,
+     "count": 4,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
-      "amazon:amazon:10459543"
+      "amazon:amazon:10459543",
+      "amazon:amazon:10517567"
      ]
     }
    }
@@ -1569,10 +1570,11 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+      "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
      ],
-     "count": 3
+     "count": 4
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -2327,5 +2329,5 @@
    }
   }
  },
- "updated_at": "2026-08-27T19:51:20Z"
+ "updated_at": "2026-08-28T04:14:20Z"
 }

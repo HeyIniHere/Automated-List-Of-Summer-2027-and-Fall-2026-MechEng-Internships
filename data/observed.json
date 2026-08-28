@@ -525,6 +525,18 @@
     }
    }
   },
+  "charles river associates cra": {
+   "name": "Charles River Associates (CRA)",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-28",
+     "role_ids": [
+      "greenhouse:charlesriverassociates:8128811"
+     ],
+     "count": 1
+    }
+   }
+  },
   "charlesriveranalytics90": {
    "name": "Charlesriveranalytics90",
    "cycles": {
@@ -940,9 +952,10 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
       "oracle:ehzq.fa.us2.oraclecloud.com:115637",
       "oracle:ehzq.fa.us2.oraclecloud.com:115640",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115681"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115681",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115687"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1393,9 +1406,10 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
-      "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1"
+      "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
+      "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2329,5 +2343,5 @@
    }
   }
  },
- "updated_at": "2026-08-28T04:14:20Z"
+ "updated_at": "2026-08-28T17:23:56Z"
 }

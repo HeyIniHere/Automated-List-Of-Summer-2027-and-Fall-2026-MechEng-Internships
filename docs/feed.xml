@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-28T04:14:22Z</updated>
+  <updated>2026-08-28T17:23:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:charlesriverassociates:8128811</id>
+    <title>Charles River Associates (CRA): (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States · $30–$37.5/hr · Python, C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115687</id>
+    <title>Grant Thornton: AI, Data &amp; Technology Intern - Summer 2027</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115687"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Philadelphia, PA, United States · H-1B track record: ~118 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782</id>
+    <title>Motorola: Mission Critical Networks Software Engineer - 2027 Co-op 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Schaumburg, IL, More... · C++ · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4728423005</id>
+    <title>Re:Build Manufacturing: Process &amp; Mechanical Engineer Co-op/Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Rochester, NY</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1</id>
+    <title>TIAA: Churchill Summer Internship: Investment Infrastructure &amp; Technology (IIT)</title>
+    <link href="https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY, USA · $30/hr · Python, SQL, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10517567</id>
     <title>Amazon: Software Development Engineer Intern, Annapurna Labs - 2027</title>
@@ -294,14 +334,6 @@
     <updated>2026-08-26T23:16:52Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Boston, Massachusetts, United States · Python, Java, C#, Scala, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egua.fa.us2.oraclecloud.com:25529</id>
-    <title>Conduent: Applied AI Engineer Intern</title>
-    <link href="https://egua.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25529"/>
-    <updated>2026-08-26T23:16:52Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote US, United States · LLMs, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000145837999</id>
@@ -632,14 +664,6 @@
     <summary>Summer 2027 · Software · Berkeley, CA · $14,583 per month · Linux, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:39743</id>
-    <title>Nokia: Data Analytics &amp; AI Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39743"/>
-    <updated>2026-08-25T15:00:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · Python, SQL · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213</id>
     <title>Brunswick: Mercury Marine: Product Management Intern – Oils &amp; Lubricants</title>
     <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Product-Management-Intern---Oils---Lubricants_JR-051213"/>
@@ -782,29 +806,5 @@
     <updated>2026-08-25T03:11:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Cambridge, MA · Python, React, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968093003</id>
-    <title>Meridian Partners: Full Stack Software Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968093003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, JavaScript, AWS, Azure, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968100003</id>
-    <title>Meridian Partners: Full Stack Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968100003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA, Arlington, VA, Seattle, WA · Python, JavaScript, AWS, Azure, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968308003</id>
-    <title>Meridian Partners: Machine Learning Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968308003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA, Arlington, VA, Seattle, WA · Python, LLMs, Computer Vision, AWS, Azure · sponsorship: citizens-only</summary>
   </entry>
 </feed>

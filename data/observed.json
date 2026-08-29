@@ -469,9 +469,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
-      "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322"
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
+      "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
+      "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -2417,5 +2420,5 @@
    }
   }
  },
- "updated_at": "2026-08-29T18:22:49Z"
+ "updated_at": "2026-08-29T21:42:31Z"
 }

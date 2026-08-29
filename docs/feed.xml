@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-08-28T17:23:58Z</updated>
+  <updated>2026-08-29T01:42:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:anavationllc:f7c83978-8510-409c-a5a3-17618511f819</id>
+    <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Huntsville, AL · Python, Java, Node.js, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1</id>
+    <title>Hewlett Packard (HP): Software and Engineering Intern Roles - Imaging and Print</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Corvallis-Oregon-United-States-of-America/Software-and-Engineering-Intern-Roles---Imaging-and-Print_3168142-1"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Corvallis, Oregon, United States of America · $29–$35/hr · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/San-Diego-CA/Data-Science-Intern_R-00190740</id>
+    <title>Leidos: Data Science Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Diego, CA · Python · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:northwoodspace:d0cca9dd-ea90-4c3b-94b4-17761932d11c</id>
+    <title>Northwood Space: Embedded Software Engineering Intern (2027 Summer Internship) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/northwoodspace/d0cca9dd-ea90-4c3b-94b4-17761932d11c"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Torrance, CA · $36 per hour · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:northwoodspace:ce3d4b73-461e-4128-a6f1-f933897e8119</id>
+    <title>Northwood Space: Software Engineering Intern (2027 Summer Internship) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/northwoodspace/ce3d4b73-461e-4128-a6f1-f933897e8119"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Torrance, CA · $36 per hour · C++, Go, Rust, AWS, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:northwoodspace:6081eebf-7021-4a3f-a34f-78c91c94fcd3</id>
+    <title>Northwood Space: Mechanical Engineering Intern (2027 Summer Internship) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/northwoodspace/6081eebf-7021-4a3f-a34f-78c91c94fcd3"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Torrance, CA · $36 per hour · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404</id>
+    <title>Philips: Intern – Data AI/ML Engineering – Plymouth, MN – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Plymouth, Minnesota, United States · Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007361</id>
+    <title>Stantec: Roadway Design Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1</id>
+    <title>United Parcel Service (UPS): Summer 2027 Industrial Engineering Co-Op 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - UPSCO GLOBAL OPERATIONS CENTER (KYLOA) · SQL, GCP · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:xairatherapeutics:5225658007</id>
+    <title>Xaira Therapeutics: AI Scientist Intern, Computational Protein Design</title>
+    <link href="https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007"/>
+    <updated>2026-08-29T01:42:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Seattle, Washington, United States; South San Francisco, California, United States · PyTorch, LLMs</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:charlesriverassociates:8128811</id>
     <title>Charles River Associates (CRA): (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027)</title>
@@ -14,6 +94,14 @@
     <updated>2026-08-28T17:23:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Boston, MA, United States; Chicago, IL, United States; Dallas, Texas, United States; Washington, DC, United States · $30–$37.5/hr · Python, C#, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4728423005</id>
+    <title>Re:Build Manufacturing: Process &amp; Mechanical Engineer Co-op/Intern</title>
+    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005"/>
+    <updated>2026-08-28T17:23:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Rochester, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115687</id>
@@ -30,14 +118,6 @@
     <updated>2026-08-28T17:23:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Schaumburg, IL, More... · C++ · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4728423005</id>
-    <title>Re:Build Manufacturing: Process &amp; Mechanical Engineer Co-op/Intern</title>
-    <link href="https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005"/>
-    <updated>2026-08-28T17:23:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Rochester, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tiaa:/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1</id>
@@ -94,22 +174,6 @@
     <updated>2026-08-27T19:51:20Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Westboro, Massachusetts, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115640</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115640"/>
-    <updated>2026-08-27T19:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Chicago, IL, United States · $37/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115681</id>
-    <title>Grant Thornton: AI, Data &amp; Technology Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115681"/>
-    <updated>2026-08-27T19:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL, United States · $37/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AbbVie:3743990014896329</id>
@@ -333,7 +397,7 @@
     <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7800627003"/>
     <updated>2026-08-26T23:16:52Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, Massachusetts, United States · Python, Java, C#, Scala, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Seattle, Washington, United States · Python, Java, C#, Scala, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000145837999</id>
@@ -430,14 +494,6 @@
     <updated>2026-08-26T19:16:32Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Needham, MA, United States · Python, MATLAB · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682</id>
-    <title>Verisk: AI Intern | Summer Internship Program</title>
-    <link href="https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682"/>
-    <updated>2026-08-26T19:16:32Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Jersey City, NJ, United States · LLMs, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aoins:/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272</id>
@@ -750,61 +806,5 @@
     <updated>2026-08-25T10:46:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bti36021:8155152</id>
-    <title>BTI360: Software Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/bti36021/jobs/8155152"/>
-    <updated>2026-08-25T09:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Herndon,VA · Python, Java, C++, SQL, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sage49:6131185004</id>
-    <title>Sage: Software Engineering Intern (Full Stack) – Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/sage49/jobs/6131185004"/>
-    <updated>2026-08-25T09:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York, United States · $50/hr · Python, Java, TypeScript, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sage49:6131191004</id>
-    <title>Sage: Software Engineering Intern (Edge) – Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/sage49/jobs/6131191004"/>
-    <updated>2026-08-25T09:48:25Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York, United States · $50/hr · Python, Java, AWS, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968523003</id>
-    <title>Meridian Partners: Embedded Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968523003"/>
-    <updated>2026-08-25T04:50:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968605003</id>
-    <title>Meridian Partners: Embedded Software Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968605003"/>
-    <updated>2026-08-25T04:50:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, C++, Rust · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7967961003</id>
-    <title>Meridian Partners: Front End Software Engineer Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7967961003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, React, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:morsecorpcoop:7968076003</id>
-    <title>Meridian Partners: Front End Software Engineer Graduate Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/morsecorpcoop/jobs/7968076003"/>
-    <updated>2026-08-25T03:11:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cambridge, MA · Python, React, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>

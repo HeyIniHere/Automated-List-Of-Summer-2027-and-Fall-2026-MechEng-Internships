@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-29T08:57:37Z",
+ "generated_at": "2026-08-29T14:25:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -490,7 +490,7 @@
    "expected": "2026-08-10",
    "days_until": -19,
    "status": "open",
-   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
+   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463",
    "note": ""
   },
   {
@@ -644,7 +644,7 @@
    "expected": "2026-08-17",
    "days_until": -12,
    "status": "open",
-   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788",
+   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
    "note": ""
   },
   {
@@ -1078,7 +1078,7 @@
    "expected": "2026-08-27",
    "days_until": -2,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
    "note": ""
   },
   {
@@ -1107,6 +1107,20 @@
    "days_until": -2,
    "status": "open",
    "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
+   "note": ""
+  },
+  {
+   "company": "Workiva",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190",
    "note": ""
   },
   {
@@ -1936,5 +1950,5 @@
    "note": ""
   }
  ],
- "count": 138
+ "count": 139
 }

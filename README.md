@@ -8,7 +8,7 @@
 
 ### 370 open roles (279 listed below) · 173 new this week
 
-4,246 employers tracked · updated Aug 30, 2026 at 00:06 UTC
+4,246 employers tracked · updated Aug 30, 2026 at 05:21 UTC
 
 _237 have a cycle the employer stated · 133 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -89,13 +89,13 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Charles River Associates (CRA) | (2028 Bachelor's/Master's graduates) Cyber and Forensic Technology Consulting Analyst/Associate Intern (Summer 2027) 🆕 | Security | Boston +11 more | Aug 28, 2026 | [Apply](https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811) |
 | Grant Thornton ✓ | AI, Data & Technology Intern - Summer 2027 🆕 | Data & ML/AI | Philadelphia, PA, United States | Aug 28, 2026 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115687) |
 | Motorola ✓ | Mission Critical Networks Software Engineer - 2027 Co-op 🇺🇸 🆕 | Software | Schaumburg, IL, More... | Aug 28, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782) |
-| Philips | Co-op – Software Test Automation Engineer – Orange, OH – January 2027 🆕 | Software | Orange (OH), Ohio, United States | Aug 28, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888) |
+| Philips | Co-op – Software Test Automation Engineer – Orange, OH – January 2027 | Software | Orange (OH), Ohio, United States | Aug 28, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888) |
 | Brunswick ✓ | Mercury Marine: Mechanical Engineering Intern 🆕 | Hardware | Fond du Lac, WI | Aug 27, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390) |
 | Brunswick ✓ | Manufacturing Engineering Intern 🛂 🆕 | Hardware | New York Mills, MN | Aug 27, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1) |
 | Workiva | Spring & Summer 2027 Intern - Product Management 🏠 🆕 | Software | USA - Remote | Aug 27, 2026 | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Spring---Summer-2027-Intern---Product-Management_R12355) |
 | Workiva | Summer 2027 Intern - Machine Learning Engineering 🏠 🆕 | Data & ML/AI | USA - Remote | Aug 27, 2026 | [Apply](https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1) |
 | AnaVation | Computer Science Internship Summer 2027 🇺🇸 🆕 | Software | Huntsville, AL | Aug 27, 2026 | [Apply](https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819) |
-| Amazon ✓ | Software Development Engineer Intern, Annapurna Labs - 2027 🆕 | Software | Cupertino, California, USA | Aug 27, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
+| Amazon ✓ | Software Development Engineer Intern, Annapurna Labs - 2027 | Software | Cupertino, California, USA | Aug 27, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027) |
 | AbbVie ✓ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | Security | North Chicago, IL, United States | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014896329) |
 | AbbVie ✓ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | Security | Irvine, CA, United States | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014900496) |
 | AbbVie ✓ | 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate) | Security | South San Francisco, CA, United States | Aug 27, 2026 | [Apply](https://jobs.smartrecruiters.com/AbbVie/3743990014900536) |
@@ -277,7 +277,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Leidos ✓ | Data Science Intern 🇺🇸 🆕 | Data & ML/AI | San Diego, CA | Aug 28, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/San-Diego-CA/Data-Science-Intern_R-00190740) |
 | Re:Build Manufacturing | Process & Mechanical Engineer Co-op/Intern 🆕 | Hardware | Rochester, NY | Aug 28, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4728423005) |
 | TIAA | Churchill Summer Internship: Investment Infrastructure & Technology (IIT) 🆕 | Software | New York, NY, USA | Aug 28, 2026 | [Apply](https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY-USA/Churchill-Summer-Internship--Investment-Infrastructure---Technology--IIT-_R260800515-1) |
-| Leidos ✓ | Software Developer Co-op 🇺🇸 🆕 | Software | Bethesda, MD | Aug 27, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766) |
+| Leidos ✓ | Software Developer Co-op 🇺🇸 | Software | Bethesda, MD | Aug 27, 2026 | [Apply](https://leidos.wd5.myworkdayjobs.com/External/job/Bethesda-MD/Software-Developer-Co-op_R-00190766) |
 | Ambarella ✓ | Software Architecture Engineer Intern | Software | US Headquarters | Aug 27, 2026 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Architecture-Engineer-Intern_JR100365) |
 | Ambarella ✓ | Software Development Engineer Intern | Software | US Headquarters | Aug 27, 2026 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Development-Engineer-Intern_JR100366-1) |
 | Ambarella ✓ | Software Engineer Intern | Software | US Headquarters | Aug 27, 2026 | [Apply](https://ambarella.wd108.myworkdayjobs.com/ambarella/job/US-Headquarters/Software-Engineer-Intern_JR100363) |
@@ -285,7 +285,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Micron Technology ✓ | Intern - Technical Customer Management, AI | Data & ML/AI | Longmont-MAX- Office, CO | Aug 27, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---Technical-Customer-Management--AI_JR109454) |
 | PSECU | Data Analyst Intern | Data & ML/AI | Harrisburg, PA | Aug 27, 2026 | [Apply](https://psecu.wd12.myworkdayjobs.com/PSECU/job/Harrisburg-PA/Data-Analyst-Intern_JR100964) |
 | ROCKWOOL Group | Product Management - Intern | Software | Chicago, Illinois | Aug 27, 2026 | [Apply](https://rockwoolgroup.wd3.myworkdayjobs.com/ROCKWOOL/job/Chicago-Illinois/Product-Management---Intern_R0035795) |
-| Customers Bank | AI Innovation Risk Co-Op 🛂 🆕 | Data & ML/AI | Malvern, PA | Aug 26, 2026 | [Apply](https://customersbank.wd1.myworkdayjobs.com/customersbankcareers/job/Malvern-PA/AI-Innovation-Risk-Co-Op_REQ-2026-978) |
+| Customers Bank | AI Innovation Risk Co-Op 🛂 | Data & ML/AI | Malvern, PA | Aug 26, 2026 | [Apply](https://customersbank.wd1.myworkdayjobs.com/customersbankcareers/job/Malvern-PA/AI-Innovation-Risk-Co-Op_REQ-2026-978) |
 | Ancestry ✓ | Software Engineer – Observability, Co-op | Software | Draper, Utah | Aug 26, 2026 | [Apply](https://ancestry.wd501.myworkdayjobs.com/Careers/job/Draper-Utah/Software-Engineer---Observability--Co-op_R003434) |
 | Chemours | AI & Data Science Intern 🏠 | Data & ML/AI | US - Remote | Aug 26, 2026 | [Apply](https://chemours.wd103.myworkdayjobs.com/Chemours/job/US---Remote/AI---Data-Science-Intern_JR15013) |
 | Auto-Owners Insurance | Intern - Analytics Web Systems Developer | Data & ML/AI | Lansing, MI | Aug 26, 2026 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Intern---Analytics-Web-Systems-Developer_R_14272) |
@@ -475,7 +475,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,064 of 4,350 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 93% of the full registry) · completed in 402.8s · 101 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,035 of 4,350 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 411.1s · 97 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

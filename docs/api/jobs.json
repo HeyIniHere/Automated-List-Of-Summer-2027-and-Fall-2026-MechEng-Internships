@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-08-30T19:49:37Z",
+ "generated_at": "2026-08-30T22:43:29Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 369,
+ "count": 370,
  "jobs": [
+  {
+   "id": "workday:equifax:/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
+   "company": "Equifax",
+   "title": "Site Reliability Engineer Intern",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "USA - Missouri - St. Louis - Lackland",
+   "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
+   "posted_at": "2026-08-30T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-30T22:43:26Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Java",
+    "GCP"
+   ],
+   "source": "workday",
+   "h1b_approvals": 378,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:ag:/job/Mobile-Area-AL/Summer-Internship---Manufacturing-Engineering_JR10435144",
    "company": "Airbus",

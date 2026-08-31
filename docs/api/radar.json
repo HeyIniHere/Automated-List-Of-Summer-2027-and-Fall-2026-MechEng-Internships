@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T08:33:51Z",
+ "generated_at": "2026-08-31T17:02:45Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -802,6 +802,20 @@
    "note": ""
   },
   {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94305",
+   "note": ""
+  },
+  {
    "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1012,6 +1026,20 @@
    "note": ""
   },
   {
+   "company": "Verisk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
+   "note": ""
+  },
+  {
    "company": "Wavetronix",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1205,6 +1233,76 @@
    "days_until": -1,
    "status": "open",
    "url": "https://equifax.wd5.myworkdayjobs.com/UR_External/job/USA---Missouri---St-Louis---Lackland/Site-Reliability-Engineer-Intern_J00178674",
+   "note": ""
+  },
+  {
+   "company": "Alcon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959",
+   "note": ""
+  },
+  {
+   "company": "Awetomaton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/awetomaton/jobs/5394046008",
+   "note": ""
+  },
+  {
+   "company": "Barr",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306",
+   "note": ""
+  },
+  {
+   "company": "DraftKings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+   "note": ""
+  },
+  {
+   "company": "Lexington Medical",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008",
    "note": ""
   },
   {
@@ -1908,20 +2006,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -11,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -1976,21 +2060,7 @@
    "status": "dropped",
    "url": "",
    "note": ""
-  },
-  {
-   "company": "Verisk",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -5,
-   "status": "dropped",
-   "url": "",
-   "note": ""
   }
  ],
- "count": 142
+ "count": 147
 }

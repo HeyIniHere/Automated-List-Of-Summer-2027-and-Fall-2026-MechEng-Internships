@@ -142,6 +142,18 @@
     }
    }
   },
+  "alcon": {
+   "name": "Alcon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"
+     ],
+     "count": 1
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -358,6 +370,18 @@
     }
    }
   },
+  "awetomaton": {
+   "name": "Awetomaton",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:awetomaton:5394046008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "axon": {
    "name": "Axon",
    "cycles": {
@@ -380,6 +404,18 @@
       "greenhouse:axontalentcommunity:7800628003"
      ],
      "count": 2
+    }
+   }
+  },
+  "barr": {
+   "name": "Barr",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:barr:/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306"
+     ],
+     "count": 1
     }
    }
   },
@@ -713,6 +749,18 @@
     }
    }
   },
+  "draftkings": {
+   "name": "DraftKings",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
+     ],
+     "count": 1
+    }
+   }
+  },
   "draper": {
    "name": "Draper",
    "cycles": {
@@ -993,11 +1041,13 @@
      "role_ids": [
       "oracle:ehzq.fa.us2.oraclecloud.com:115449",
       "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115639",
       "oracle:ehzq.fa.us2.oraclecloud.com:115640",
       "oracle:ehzq.fa.us2.oraclecloud.com:115681",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115687"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115687",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115704"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -1333,6 +1383,19 @@
     }
    }
   },
+  "lexington medical": {
+   "name": "Lexington Medical",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:lexingtonmedical:5400185008",
+      "greenhouse:lexingtonmedical:5404584008"
+     ],
+     "count": 2
+    }
+   }
+  },
   "medtronic": {
    "name": "Medtronic",
    "cycles": {
@@ -1603,9 +1666,15 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
+      "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746",
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
+      "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
+      "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
-     "count": 1
+     "count": 7
     }
    }
   },
@@ -2440,9 +2509,22 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "oracle:emit.fa.ca3.oraclecloud.com:93468",
-      "oracle:emit.fa.ca3.oraclecloud.com:93910"
+      "oracle:emit.fa.ca3.oraclecloud.com:93910",
+      "oracle:emit.fa.ca3.oraclecloud.com:94305"
      ],
-     "count": 2
+     "count": 3
+    }
+   }
+  },
+  "xcel energy": {
+   "name": "Xcel Energy",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:xcelenergy:/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917"
+     ],
+     "count": 1
     }
    }
   },
@@ -2459,5 +2541,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T08:33:50Z"
+ "updated_at": "2026-08-31T17:02:44Z"
 }

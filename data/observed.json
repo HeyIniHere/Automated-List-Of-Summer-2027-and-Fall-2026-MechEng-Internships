@@ -226,9 +226,10 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012392",
       "oracle:egug.fa.us2.oraclecloud.com:26012444",
       "oracle:egug.fa.us2.oraclecloud.com:26012460",
-      "oracle:egug.fa.us2.oraclecloud.com:26012462"
+      "oracle:egug.fa.us2.oraclecloud.com:26012462",
+      "oracle:egug.fa.us2.oraclecloud.com:26012558"
      ],
-     "count": 25
+     "count": 26
     }
    }
   },
@@ -2025,6 +2026,20 @@
     }
    }
   },
+  "stryker": {
+   "name": "Stryker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:stryker:/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
+      "workday:stryker:/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
+     ],
+     "count": 3
+    }
+   }
+  },
   "sunday robotics": {
    "name": "Sunday Robotics",
    "cycles": {
@@ -2235,6 +2250,18 @@
     }
    }
   },
+  "vermeer": {
+   "name": "Vermeer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
+     ],
+     "count": 1
+    }
+   }
+  },
   "vertex pharmaceuticals": {
    "name": "Vertex Pharmaceuticals",
    "cycles": {
@@ -2432,5 +2459,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T01:22:28Z"
+ "updated_at": "2026-08-31T08:33:50Z"
 }

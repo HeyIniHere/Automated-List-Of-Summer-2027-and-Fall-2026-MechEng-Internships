@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-08-31T17:02:45Z",
+ "generated_at": "2026-08-31T21:59:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -952,7 +952,7 @@
    "expected": "2026-08-25",
    "days_until": -6,
    "status": "open",
-   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115687",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115639",
    "note": ""
   },
   {
@@ -1148,7 +1148,21 @@
    "expected": "2026-08-27",
    "days_until": -4,
    "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
+   "note": ""
+  },
+  {
+   "company": "Shield AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -4,
+   "status": "open",
+   "url": "https://jobs.lever.co/shieldai/c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
    "note": ""
   },
   {
@@ -1292,6 +1306,20 @@
    "note": ""
   },
   {
+   "company": "HP IQ",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6114781004",
+   "note": ""
+  },
+  {
    "company": "Lexington Medical",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1302,7 +1330,35 @@
    "expected": "2026-08-31",
    "days_until": 0,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008",
+   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008",
+   "note": ""
+  },
+  {
+   "company": "Michelin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587",
+   "note": ""
+  },
+  {
+   "company": "Olsson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/olsson/jobs/5396116008",
    "note": ""
   },
   {
@@ -2062,5 +2118,5 @@
    "note": ""
   }
  ],
- "count": 147
+ "count": 151
 }

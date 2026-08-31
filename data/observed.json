@@ -755,9 +755,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
-      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928"
+      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+      "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1045,9 +1046,11 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115640",
       "oracle:ehzq.fa.us2.oraclecloud.com:115681",
       "oracle:ehzq.fa.us2.oraclecloud.com:115687",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115704"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115704",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115733",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115750"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -1156,6 +1159,23 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155584"
      ],
      "count": 13
+    }
+   }
+  },
+  "hp iq": {
+   "name": "HP IQ",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:hpiq:6111955004",
+      "greenhouse:hpiq:6114781004",
+      "greenhouse:hpiq:6114890004",
+      "greenhouse:hpiq:6114912004",
+      "greenhouse:hpiq:6116398004",
+      "greenhouse:hpiq:6140119004"
+     ],
+     "count": 6
     }
    }
   },
@@ -1440,6 +1460,18 @@
     }
    }
   },
+  "michelin": {
+   "name": "Michelin",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:michelinhr:/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mks instruments": {
    "name": "MKS Instruments",
    "cycles": {
@@ -1553,9 +1585,10 @@
      "first_posted": "2026-08-03",
      "role_ids": [
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2026-Part-Time-Mechanical-Engineering-Intern---Chandler-AZ_R10247965",
+      "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1635,6 +1668,24 @@
     }
    }
   },
+  "olsson": {
+   "name": "Olsson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "greenhouse:olsson:5396012008",
+      "greenhouse:olsson:5396073008",
+      "greenhouse:olsson:5396095008",
+      "greenhouse:olsson:5396116008",
+      "greenhouse:olsson:5396125008",
+      "greenhouse:olsson:5408530008",
+      "greenhouse:olsson:5411244008"
+     ],
+     "count": 7
+    }
+   }
+  },
   "omers": {
    "name": "OMERS",
    "cycles": {
@@ -1669,12 +1720,13 @@
       "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
       "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
       "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
       "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1999,6 +2051,18 @@
     }
    }
   },
+  "shield ai": {
+   "name": "Shield AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-27",
+     "role_ids": [
+      "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sierra space": {
    "name": "Sierra Space",
    "cycles": {
@@ -2101,11 +2165,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
       "workday:stryker:/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
       "workday:stryker:/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
-      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1"
+      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
+      "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
+      "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -2252,9 +2319,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
+      "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2325,9 +2393,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2510,9 +2579,10 @@
      "role_ids": [
       "oracle:emit.fa.ca3.oraclecloud.com:93468",
       "oracle:emit.fa.ca3.oraclecloud.com:93910",
+      "oracle:emit.fa.ca3.oraclecloud.com:94283",
       "oracle:emit.fa.ca3.oraclecloud.com:94305"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2541,5 +2611,5 @@
    }
   }
  },
- "updated_at": "2026-08-31T17:02:44Z"
+ "updated_at": "2026-08-31T21:59:51Z"
 }

@@ -802,10 +802,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:draftkings:/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
       "workday:draftkings:/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14929"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -956,10 +957,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851",
       "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
       "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1172,6 +1174,14 @@
       "lever:hermeus:a1f3aa29-72ea-4843-b2ea-801f3bef73ae",
       "lever:hermeus:a3a1f0ea-6a4f-42e5-81c8-3b34dac22a67"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
+     ],
+     "count": 2
     }
    }
   },
@@ -1234,9 +1244,10 @@
       "greenhouse:hpiq:6114890004",
       "greenhouse:hpiq:6114912004",
       "greenhouse:hpiq:6116398004",
-      "greenhouse:hpiq:6140119004"
+      "greenhouse:hpiq:6140119004",
+      "greenhouse:hpiq:6176783004"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1370,9 +1381,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
-      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746"
+      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
+      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1559,6 +1571,18 @@
      "first_posted": "2026-08-11",
      "role_ids": [
       "workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mondelez international": {
+   "name": "Mondelez International",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:mdlz:/job/Naperville-Illinois-United-States/Manufacturing--Process-Engineering-Co-Op-For-Naperville--IL-Local-Candidates-Only-_R-176632"
      ],
      "count": 1
     }
@@ -2523,10 +2547,11 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2741,5 +2766,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T17:51:20Z"
+ "updated_at": "2026-09-01T20:59:17Z"
 }

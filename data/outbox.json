@@ -1,18 +1,3 @@
 {
-  "pending": [
-    "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051139",
-    "workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123480",
-    "greenhouse:olsson:5394246008",
-    "greenhouse:olsson:5394239008",
-    "greenhouse:olsson:5394243008",
-    "greenhouse:olsson:5394118008",
-    "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
-    "oracle:ebgj.fa.us2.oraclecloud.com:253299",
-    "oracle:ebgj.fa.us2.oraclecloud.com:253304",
-    "oracle:ebgj.fa.us2.oraclecloud.com:253297",
-    "workday:trumpf:/job/Plymouth-MI/Mechatronics-Intern_R00042702-1",
-    "workday:trumpf:/job/Farmington-CT/Manufacturing-Intern_R00042598",
-    "workday:trumpf:/job/Farmington-CT/Mechanical-Engineering-Intern_R00042708",
-    "workday:trumpf:/job/Farmington-CT/Manufacturing-Smart-Factory-Intern_R00042597"
-  ]
+  "pending": []
 }

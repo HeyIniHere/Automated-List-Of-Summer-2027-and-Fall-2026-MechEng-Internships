@@ -1,37 +1,3 @@
 {
-  "pending": [
-    "workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407",
-    "workday:nebraskablue:/job/Omaha-NE/IS-Intern--Summer-2027_JR101411",
-    "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
-    "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406",
-    "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393",
-    "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
-    "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407",
-    "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
-    "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
-    "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
-    "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016",
-    "greenhouse:generalmatter:5377104008",
-    "smartrecruiters:Intuitive:744000146769559",
-    "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
-    "oracle:ebxs.fa.us2.oraclecloud.com:309794",
-    "workday:mdlz:/job/East-Hanover-New-Jersey-United-States/Manufacturing-Intern--Process-Engineering_R-175409",
-    "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
-    "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
-    "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
-    "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807",
-    "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
-    "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
-    "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
-    "ashby:pluralis-research:c8f78978-a693-4863-bcc0-66af5c3fd0be",
-    "workday:sbdinc:/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
-    "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017",
-    "workday:flir:/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
-    "workday:tencent:/job/US-California-Palo-Alto/AI-Business-Analyst-Intern_R108039-1",
-    "workday:tencent:/job/US-California-Palo-Alto/Tencent-Cloud-CPaaS-Product-Management-Intern_R108019",
-    "workday:tencent:/job/US-California-Los-Angeles/Tencent-Cloud-CPaaS-Product-Management-Intern_R108020",
-    "workday:trumpf:/job/Farmington-CT/Manufacturing-Intern_R00042282",
-    "workday:trumpf:/job/Farmington-CT/CNC-Programming-Intern_R00042595",
-    "workday:trumpf:/job/Farmington-CT/Industrial-Engineering-Internship_R00042497"
-  ]
+  "pending": []
 }

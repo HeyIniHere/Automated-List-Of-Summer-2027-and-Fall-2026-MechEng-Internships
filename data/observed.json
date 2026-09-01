@@ -218,12 +218,16 @@
       "oracle:egug.fa.us2.oraclecloud.com:26011015",
       "oracle:egug.fa.us2.oraclecloud.com:26011082",
       "oracle:egug.fa.us2.oraclecloud.com:26011084",
+      "oracle:egug.fa.us2.oraclecloud.com:26011143",
+      "oracle:egug.fa.us2.oraclecloud.com:26011627",
       "oracle:egug.fa.us2.oraclecloud.com:26011679",
       "oracle:egug.fa.us2.oraclecloud.com:26011698",
       "oracle:egug.fa.us2.oraclecloud.com:26011745",
       "oracle:egug.fa.us2.oraclecloud.com:26011781",
       "oracle:egug.fa.us2.oraclecloud.com:26011784",
       "oracle:egug.fa.us2.oraclecloud.com:26011796",
+      "oracle:egug.fa.us2.oraclecloud.com:26011828",
+      "oracle:egug.fa.us2.oraclecloud.com:26011831",
       "oracle:egug.fa.us2.oraclecloud.com:26011878",
       "oracle:egug.fa.us2.oraclecloud.com:26011908",
       "oracle:egug.fa.us2.oraclecloud.com:26011913",
@@ -232,16 +236,28 @@
       "oracle:egug.fa.us2.oraclecloud.com:26011991",
       "oracle:egug.fa.us2.oraclecloud.com:26011999",
       "oracle:egug.fa.us2.oraclecloud.com:26012000",
+      "oracle:egug.fa.us2.oraclecloud.com:26012057",
+      "oracle:egug.fa.us2.oraclecloud.com:26012145",
       "oracle:egug.fa.us2.oraclecloud.com:26012319",
       "oracle:egug.fa.us2.oraclecloud.com:26012325",
+      "oracle:egug.fa.us2.oraclecloud.com:26012333",
+      "oracle:egug.fa.us2.oraclecloud.com:26012339",
       "oracle:egug.fa.us2.oraclecloud.com:26012375",
       "oracle:egug.fa.us2.oraclecloud.com:26012392",
       "oracle:egug.fa.us2.oraclecloud.com:26012444",
       "oracle:egug.fa.us2.oraclecloud.com:26012460",
       "oracle:egug.fa.us2.oraclecloud.com:26012462",
-      "oracle:egug.fa.us2.oraclecloud.com:26012558"
+      "oracle:egug.fa.us2.oraclecloud.com:26012558",
+      "oracle:egug.fa.us2.oraclecloud.com:26012636",
+      "oracle:egug.fa.us2.oraclecloud.com:26012638",
+      "oracle:egug.fa.us2.oraclecloud.com:26012678",
+      "oracle:egug.fa.us2.oraclecloud.com:26012681",
+      "oracle:egug.fa.us2.oraclecloud.com:26012764",
+      "oracle:egug.fa.us2.oraclecloud.com:26012781",
+      "oracle:egug.fa.us2.oraclecloud.com:26013190",
+      "oracle:egug.fa.us2.oraclecloud.com:26013191"
      ],
-     "count": 26
+     "count": 42
     }
    }
   },
@@ -2248,6 +2264,19 @@
     }
    }
   },
+  "texas instruments": {
+   "name": "Texas Instruments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:edbz.fa.us2.oraclecloud.com:25017474",
+      "oracle:edbz.fa.us2.oraclecloud.com:25017496"
+     ],
+     "count": 2
+    }
+   }
+  },
   "tmeic": {
    "name": "TMEIC",
    "cycles": {
@@ -2393,10 +2422,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140",
       "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2611,5 +2641,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T01:15:27Z"
+ "updated_at": "2026-09-01T07:41:38Z"
 }

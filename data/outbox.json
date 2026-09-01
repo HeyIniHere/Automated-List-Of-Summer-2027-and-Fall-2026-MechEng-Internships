@@ -1,28 +1,3 @@
 {
-  "pending": [
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009736",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009481",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009624",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009500",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009673",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009630",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009324",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009478",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009499",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009634",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009488",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26008442",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009200",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009034",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26010175",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26008443",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009196",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26007510",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26008778",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26008761",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26008762",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009321",
-    "greenhouse:katalyst:6176711004",
-    "greenhouse:stripe:8128745"
-  ]
+  "pending": []
 }

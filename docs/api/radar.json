@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T20:59:19Z",
+ "generated_at": "2026-09-01T23:17:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1152,20 +1152,6 @@
    "note": ""
   },
   {
-   "company": "Stantec",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-28",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007361",
-   "note": ""
-  },
-  {
    "company": "United Parcel Service (UPS)",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -1176,7 +1162,7 @@
    "expected": "2026-08-28",
    "days_until": -4,
    "status": "open",
-   "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761",
+   "url": "https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
    "note": ""
   },
   {
@@ -1274,7 +1260,7 @@
    "expected": "2026-08-31",
    "days_until": -1,
    "status": "open",
-   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Software-Engineer-Intern--Summer-2027-_JR14928",
+   "url": "https://draftkings.wd1.myworkdayjobs.com/Campus_Career_Portal/job/Boston-MA/Data-Science-Intern--Summer-2027-_JR14958",
    "note": ""
   },
   {
@@ -1386,7 +1372,21 @@
    "expected": "2026-09-01",
    "days_until": 0,
    "status": "open",
-   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
+   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851",
+   "note": ""
+  },
+  {
+   "company": "General Motors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
    "note": ""
   },
   {
@@ -1400,7 +1400,7 @@
    "expected": "2026-09-01",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.lever.co/hermeus/d87ed913-affc-475e-b721-c5b5f11c3c7b",
+   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
    "note": ""
   },
   {
@@ -2256,7 +2256,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Stantec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 161
+ "count": 162
 }

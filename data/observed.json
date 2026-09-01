@@ -468,6 +468,19 @@
     }
    }
   },
+  "bluecross blueshield of nebraska": {
+   "name": "BlueCross BlueShield of Nebraska",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "workday:nebraskablue:/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407",
+      "workday:nebraskablue:/job/Omaha-NE/IS-Intern--Summer-2027_JR101411"
+     ],
+     "count": 2
+    }
+   }
+  },
   "bny": {
    "name": "BNY",
    "cycles": {
@@ -502,6 +515,12 @@
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Cyber-Security-Intern---El-Segundo--CA_R0248047",
       "workday:bah:/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046",
       "workday:bah:/job/El-Segundo-CA/University--2027-Summer-Games-Data-Scientist-Intern_R0248050",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411",
+      "workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407",
+      "workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Cyber-Security-Intern---McLean--VA_R0248034",
       "workday:bah:/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037",
       "workday:bah:/job/McLean-VA/University--2027-Summer-Games-Software-Developer-Intern_R0248029",
@@ -512,7 +531,7 @@
       "workday:bah:/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038",
       "workday:bah:/job/San-Diego-CA/University--2027-Summer-Games-Cyber-Security-Intern_R0248043"
      ],
-     "count": 21
+     "count": 27
     }
    }
   },
@@ -649,6 +668,18 @@
       "greenhouse:chicagotradingcampus:4716932005",
       "greenhouse:ctccampusboard:4708230005"
      ]
+    }
+   }
+  },
+  "clarios": {
+   "name": "Clarios",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910"
+     ],
+     "count": 1
     }
    }
   },
@@ -919,6 +950,19 @@
     }
    }
   },
+  "first national bank": {
+   "name": "First National Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
+      "workday:fnbcorp:/job/Pittsburgh-PA/Summer-2027-Data-Science-Intern---Pittsburgh--PA_2026-02016"
+     ],
+     "count": 2
+    }
+   }
+  },
   "five rings": {
    "name": "Five Rings",
    "cycles": {
@@ -1016,9 +1060,10 @@
      "first_posted": "2026-08-19",
      "role_ids": [
       "greenhouse:generalmatter:5376060008",
+      "greenhouse:generalmatter:5377104008",
       "greenhouse:generalmatter:5377118008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1321,6 +1366,13 @@
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746"
+     ],
+     "count": 1
     }
    }
   },
@@ -1476,6 +1528,18 @@
     }
    }
   },
+  "michael baker international": {
+   "name": "Michael Baker International",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "oracle:ebxs.fa.us2.oraclecloud.com:309794"
+     ],
+     "count": 1
+    }
+   }
+  },
   "michelin": {
    "name": "Michelin",
    "cycles": {
@@ -1578,18 +1642,31 @@
     }
    }
   },
+  "newrez": {
+   "name": "Newrez",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 10,
+     "count": 11,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
@@ -1777,13 +1854,18 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
+      "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
-      "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
+      "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 6
+     "count": 11
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -2145,6 +2227,19 @@
     }
    }
   },
+  "stanley black decker": {
+   "name": "Stanley Black & Decker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:sbdinc:/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+      "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017"
+     ],
+     "count": 2
+    }
+   }
+  },
   "stantec": {
    "name": "Stantec",
    "cycles": {
@@ -2225,10 +2320,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-13",
      "role_ids": [
+      "workday:flir:/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667",
       "workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193",
       "workday:flir:/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2645,5 +2741,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T13:28:09Z"
+ "updated_at": "2026-09-01T17:51:20Z"
 }

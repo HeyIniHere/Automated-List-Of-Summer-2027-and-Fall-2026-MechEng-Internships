@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-01T13:28:11Z",
+ "generated_at": "2026-09-01T17:51:22Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -998,20 +998,6 @@
    "note": ""
   },
   {
-   "company": "Auto-Owners Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -6,
-   "status": "open",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Software-Developer-Internship_R_2121",
-   "note": ""
-  },
-  {
    "company": "QTS",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1292,6 +1278,20 @@
    "note": ""
   },
   {
+   "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/Cyber-Intern--Summer-2027_JR101407",
+   "note": ""
+  },
+  {
    "company": "DraftKings",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1390,6 +1390,90 @@
    "note": ""
   },
   {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
+   "note": ""
+  },
+  {
+   "company": "First National Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-and-Innovation-Intern---Pittsburgh--PA_2026-01811",
+   "note": ""
+  },
+  {
+   "company": "Johnson & Johnson",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
+   "note": ""
+  },
+  {
+   "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309794",
+   "note": ""
+  },
+  {
+   "company": "Newrez",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
+   "note": ""
+  },
+  {
+   "company": "Stanley Black & Decker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+   "note": ""
+  },
+  {
    "company": "Texas Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1400,7 +1484,7 @@
    "expected": "2026-09-01",
    "days_until": 0,
    "status": "open",
-   "url": "https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474",
+   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297",
    "note": ""
   },
   {
@@ -2130,7 +2214,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Auto-Owners Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 152
+ "count": 159
 }

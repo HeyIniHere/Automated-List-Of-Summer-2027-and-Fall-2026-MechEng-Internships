@@ -1777,12 +1777,13 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
       "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406"
      ],
-     "count": 5
+     "count": 6
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -2270,10 +2271,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "oracle:ebgj.fa.us2.oraclecloud.com:253297",
+      "oracle:ebgj.fa.us2.oraclecloud.com:253299",
+      "oracle:ebgj.fa.us2.oraclecloud.com:253304",
       "oracle:edbz.fa.us2.oraclecloud.com:25017474",
       "oracle:edbz.fa.us2.oraclecloud.com:25017496"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -2641,5 +2645,5 @@
    }
   }
  },
- "updated_at": "2026-09-01T07:41:38Z"
+ "updated_at": "2026-09-01T13:28:09Z"
 }

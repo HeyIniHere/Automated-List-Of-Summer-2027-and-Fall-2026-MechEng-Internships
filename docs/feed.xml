@@ -5,52 +5,140 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-01T07:41:40Z</updated>
+  <updated>2026-09-01T13:28:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000146596391</id>
-    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000146596391"/>
-    <updated>2026-09-01T07:41:38Z</updated>
+    <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051139</id>
+    <title>Brunswick: Mercury Marine: Materials Engineering Co-op</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Fond-du-Lac-WI/Mercury-Marine--Materials-Engineering-Co-op_JR-051139"/>
+    <updated>2026-09-01T13:28:09Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Conshohocken, PA, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Fond du Lac, WI · $18–$27.5/hr · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012638</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638"/>
+    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123480</id>
+    <title>CAE: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_123480"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Arlington, TX · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5394246008</id>
+    <title>Olsson: Mechanical Engineering Internship - Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5394246008"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Oklahoma City, OK</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5394239008</id>
+    <title>Olsson: Mechanical Engineering Internship - Facilities (Healthcare)</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5394239008"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Dallas, TX; Fort Worth, TX</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5394243008</id>
+    <title>Olsson: Mechanical Engineering Internship - Facilities (Healthcare-Omaha)</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5394243008"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Omaha, NE</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:olsson:5394118008</id>
+    <title>Olsson: Structural Engineering Internship - Facilities</title>
+    <link href="https://job-boards.greenhouse.io/olsson/jobs/5394118008"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Omaha, NE</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891</id>
+    <title>Philips: Co-op – Software Engineer (R&amp;D) – Cambridge, MA – January - August 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Cambridge (US), Massachusetts, United States · Java, C#, SQL, Angular, Spring</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebgj.fa.us2.oraclecloud.com:253299</id>
+    <title>Texas Instruments: Software Intern - Summer 2027</title>
+    <link href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Pella, IA, United States · $27.25/hr · Python, Java, C++, JavaScript, LLMs · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebgj.fa.us2.oraclecloud.com:253304</id>
+    <title>Texas Instruments: Data Engineer Intern - Summer 2027</title>
+    <link href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253304"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Pella, IA, United States · $29/hr · Python, SQL, LLMs, Git · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebgj.fa.us2.oraclecloud.com:253297</id>
+    <title>Texas Instruments: IT Infrastructure Intern - Summer 2027</title>
+    <link href="https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Pella, IA, United States · $27.25/hr · LLMs · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trumpf:/job/Plymouth-MI/Mechatronics-Intern_R00042702-1</id>
+    <title>TRUMPF: Mechatronics Intern</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Plymouth-MI/Mechatronics-Intern_R00042702-1"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Plymouth, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Manufacturing-Intern_R00042598</id>
+    <title>TRUMPF: Manufacturing Intern</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Manufacturing-Intern_R00042598"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington, CT</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Mechanical-Engineering-Intern_R00042708</id>
+    <title>TRUMPF: Mechanical Engineering Intern</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Mechanical-Engineering-Intern_R00042708"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington, CT</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Manufacturing-Smart-Factory-Intern_R00042597</id>
+    <title>TRUMPF: Manufacturing Smart Factory Intern</title>
+    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Manufacturing-Smart-Factory-Intern_R00042597"/>
+    <updated>2026-09-01T13:28:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington, CT</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017474</id>
+    <title>Texas Instruments: 2027 Manufacturing Technician Intern (Dallas/Richardson, TX) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474"/>
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Richardson, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012145</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145"/>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017496</id>
+    <title>Texas Instruments: 2027 Manufacturing Technician Intern (Lehi, UT) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017496"/>
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sunrise, FL, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Lehi, UT, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012681</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012636</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY, United States · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012057</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057"/>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011143</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143"/>
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · New York, NY, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
@@ -62,38 +150,6 @@
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Sunrise, FL, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012678</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011143</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011143"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013190</id>
-    <title>American Express: Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013191</id>
-    <title>American Express: Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011828</id>
@@ -112,6 +168,22 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Sunrise, FL, United States · Python, Java, SQL, AWS, GCP · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012057</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012145</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Sunrise, FL</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012145"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sunrise, FL, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012333</id>
     <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012333"/>
@@ -126,6 +198,38 @@
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Phoenix, AZ, United States · Python, Java, SQL, PostgreSQL, MongoDB · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012636</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012636"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY, United States · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012638</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Product Management, Global Merchant &amp; Network Services - Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012638"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Phoenix, AZ, United States · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012678</id>
+    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012681</id>
+    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012764</id>
@@ -144,28 +248,36 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Sunrise, FL, United States · Python, Java, SQL, PostgreSQL, MongoDB · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013190</id>
+    <title>American Express: Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013191</id>
+    <title>American Express: Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
+    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000146596391</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000146596391"/>
+    <updated>2026-09-01T07:41:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Conshohocken, PA, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Temple---Temple-TX/Manufacturing-Intern---Temple_R56074</id>
     <title>Niagara Bottling: Manufacturing Intern - Temple</title>
     <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Temple---Temple-TX/Manufacturing-Intern---Temple_R56074"/>
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Temple - Temple, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017496</id>
-    <title>Texas Instruments: 2027 Manufacturing Technician Intern (Lehi, UT) 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017496"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lehi, UT, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017474</id>
-    <title>Texas Instruments: 2027 Manufacturing Technician Intern (Dallas/Richardson, TX) 🛂</title>
-    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017474"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Richardson, TX, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:travelers:/job/CT---Hartford/Product-Management-Development-Program--PMDP--Intern_R-52317</id>
@@ -694,117 +806,5 @@
     <updated>2026-08-31T21:59:51Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Security · United States-Colorado-Aurora · $20.5–$38/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111</id>
-    <title>Nike: NIKE, Inc. Software Engineering Undergraduate Internship</title>
-    <link href="https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Beaverton, Oregon · Python, Java, C#, JavaScript, Swift · H-1B track record: ~484 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786</id>
-    <title>Oshkosh: Engineer Intern - Software (Summer 2027)</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dodge Center, Minnesota, United States · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602</id>
-    <title>Stryker: Summer 2027 Internship - Mechanical Engineering - Illinois</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Cary, Illinois · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603</id>
-    <title>Stryker: Summer 2027 Internship - Mechanical Engineering - Michigan</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Portage, Michigan · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599</id>
-    <title>Stryker: Summer 2027 Internship - Mechanical Engineering - Arizona</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Tempe, Arizona · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140</id>
-    <title>Vermeer: Advanced Manufacturing Intern - Summer 2027</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---The-Center/Advanced-Manufacturing-Intern---Summer-2027_REQ-22140"/>
-    <updated>2026-08-31T21:59:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Pella, Iowa, USA - The Center</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:awetomaton:5394046008</id>
-    <title>Awetomaton: Platform Engineering Intern 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/awetomaton/jobs/5394046008"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Beavercreek, OH · Python, Java, AWS, GCP, Azure · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lexingtonmedical:5400185008</id>
-    <title>Lexington Medical: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Bedford, MA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lexingtonmedical:5404584008</id>
-    <title>Lexington Medical: Manufacturing Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Bedford, MA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115639</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115639"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Charlotte, NC, United States · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115704</id>
-    <title>Grant Thornton: AI, Data &amp; Technology Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115704"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Charlotte, NC, United States · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94305</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94305"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Richmond, VA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000146471610</id>
-    <title>Bosch: Mechanical Design Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000146471610"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Fort Lauderdale, FL, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959</id>
-    <title>Alcon: Spring + Summer 2027 Co-Op - Manufacturing Science &amp; Technology</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"/>
-    <updated>2026-08-31T17:02:44Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, Texas · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T08:48:28Z",
+ "generated_at": "2026-09-02T13:37:15Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -718,6 +718,20 @@
    "note": ""
   },
   {
+   "company": "Dev Technology Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002",
+   "note": ""
+  },
+  {
    "company": "Elanco",
    "last_cycle_posted": "",
    "posted_on": "2026-08-19",
@@ -967,6 +981,20 @@
    "days_until": -7,
    "status": "open",
    "url": "https://ardian.wd103.myworkdayjobs.com/ArdianCareers/job/New-York/Infrastructure-Intern---February-2027-I-NYC_JR1002214",
+   "note": ""
+  },
+  {
+   "company": "Auto-Owners Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
    "note": ""
   },
   {
@@ -1376,6 +1404,20 @@
    "note": ""
   },
   {
+   "company": "IAT Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
+   "note": ""
+  },
+  {
    "company": "Johnson & Johnson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1443,6 +1485,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+   "note": ""
+  },
+  {
+   "company": "Tarrant Regional Water District",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218",
    "note": ""
   },
   {
@@ -2216,20 +2272,6 @@
    "note": ""
   },
   {
-   "company": "Auto-Owners Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -7,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -2272,5 +2314,5 @@
    "note": ""
   }
  ],
- "count": 162
+ "count": 165
 }

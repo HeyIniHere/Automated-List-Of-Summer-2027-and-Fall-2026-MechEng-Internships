@@ -1946,6 +1946,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Armadin",
+    "slug": "armadin",
+    "ats": "ashby"
+  },
+  {
     "name": "Armanino",
     "slug": "armaninollp",
     "ats": "workday",
@@ -2881,6 +2886,11 @@
     "name": "BCforward",
     "slug": "BCforward3",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "BCI Brands",
+    "slug": "bci-brands",
+    "ats": "workable"
   },
   {
     "name": "BDO Canada",
@@ -4763,6 +4773,11 @@
     "site": "Chegg"
   },
   {
+    "name": "Cheiron",
+    "slug": "cheiron",
+    "ats": "ashby"
+  },
+  {
     "name": "Chemours",
     "slug": "chemours",
     "ats": "workday",
@@ -4789,6 +4804,14 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "University"
+  },
+  {
+    "name": "Chewy",
+    "slug": "chewy",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "External",
+    "host": "wd5.myworkdaysite.com"
   },
   {
     "name": "Chicago Trading Company",
@@ -5235,6 +5258,11 @@
     "name": "ClickHouse",
     "slug": "clickhouse",
     "ats": "greenhouse"
+  },
+  {
+    "name": "ClickHouse",
+    "slug": "clickhouse",
+    "ats": "ashby"
   },
   {
     "name": "ClickUp",
@@ -6524,6 +6552,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Dataiku",
+    "slug": "dataiku",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Datalab USA",
     "slug": "datalabusa",
     "ats": "lever"
@@ -6794,6 +6827,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "DBWebsite"
+  },
+  {
+    "name": "Dev Technology Group",
+    "slug": "devtechnology",
+    "ats": "greenhouse"
   },
   {
     "name": "Devon Energy",
@@ -11028,6 +11066,11 @@
     "site": "HSS_Careers"
   },
   {
+    "name": "Hot Topic",
+    "slug": "hottopic",
+    "ats": "lever"
+  },
+  {
     "name": "Howard County Public School System",
     "slug": "hcpss",
     "ats": "workday",
@@ -11257,6 +11300,13 @@
     "name": "Iambic Therapeutics",
     "slug": "iambic-therapeutics",
     "ats": "ashby"
+  },
+  {
+    "name": "IAT Insurance Group",
+    "slug": "iatinsurancegroup",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "iat"
   },
   {
     "name": "IBC Bank",
@@ -11596,6 +11646,13 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "IngramMicro"
+  },
+  {
+    "name": "Ingredion",
+    "slug": "ingredion",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "IngredionCareers"
   },
   {
     "name": "Inherent",
@@ -14238,6 +14295,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "careers"
+  },
+  {
+    "name": "Mechanical Licensing Collective",
+    "slug": "mechanicallicensingcollective",
+    "ats": "greenhouse"
   },
   {
     "name": "Mechanics Bank",
@@ -17582,6 +17644,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "PointClickCare",
+    "slug": "pointclickcare",
+    "ats": "lever"
+  },
+  {
     "name": "PointOne",
     "slug": "pointone",
     "ats": "ashby"
@@ -18928,6 +18995,11 @@
     "name": "Riveron",
     "slug": "riveron",
     "ats": "ashby"
+  },
+  {
+    "name": "Riverside Natural Foods",
+    "slug": "riversidenaturalfoodsltd",
+    "ats": "greenhouse"
   },
   {
     "name": "Rivet Industries",
@@ -20323,6 +20395,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Skillcloud HCM Solutions",
+    "slug": "skillcloudhcm",
+    "ats": "lever"
+  },
+  {
     "name": "Skydio",
     "slug": "skydio",
     "ats": "ashby"
@@ -20914,6 +20991,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "STAG",
+    "slug": "stag-careers",
+    "ats": "rippling"
+  },
+  {
     "name": "Stand Insurance",
     "slug": "standinsurance",
     "ats": "ashby"
@@ -21407,6 +21489,11 @@
     "ats": "smartrecruiters"
   },
   {
+    "name": "Synack",
+    "slug": "synack",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Synchrony Financial",
     "slug": "synchronyfinancial",
     "ats": "workday",
@@ -21436,6 +21523,11 @@
     "name": "Synergy ECP",
     "slug": "synergyecp",
     "ats": "lever"
+  },
+  {
+    "name": "Syngenta Group",
+    "slug": "SyngentaGroup",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Synlab",
@@ -21607,6 +21699,13 @@
     "site": "targetcareers"
   },
   {
+    "name": "Tarrant Regional Water District",
+    "slug": "trwd",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "TRWDCareers"
+  },
+  {
     "name": "tarte cosmetics",
     "slug": "tarte-inc",
     "ats": "workable"
@@ -21692,6 +21791,11 @@
     "name": "Teamworks",
     "slug": "teamworks-careers",
     "ats": "rippling"
+  },
+  {
+    "name": "Tebra",
+    "slug": "tebra",
+    "ats": "greenhouse"
   },
   {
     "name": "Tech Tammina",
@@ -22566,6 +22670,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Trace Labs",
+    "slug": "tracelabs",
+    "ats": "ashby"
+  },
+  {
     "name": "Trace3",
     "slug": "trace3",
     "ats": "greenhouse"
@@ -23040,6 +23149,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "UFP Industries",
+    "slug": "ufpi",
+    "ats": "workday",
+    "wd": "wd503",
+    "site": "ufpi"
+  },
+  {
     "name": "Uhaul",
     "slug": "uhaul",
     "ats": "workday",
@@ -23368,6 +23484,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Unlimited",
+    "slug": "unlimitedindustries",
+    "ats": "ashby"
+  },
+  {
     "name": "Unlimited Technology",
     "slug": "unlimitedtechnology",
     "ats": "greenhouse"
@@ -23425,6 +23546,13 @@
     "name": "US Conec",
     "slug": "usconec",
     "ats": "greenhouse"
+  },
+  {
+    "name": "US Foods",
+    "slug": "usfoods",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "usfoodscareersExternal"
   },
   {
     "name": "US IT Solutions",
@@ -23763,6 +23891,11 @@
     "name": "Verne Robotics",
     "slug": "verne",
     "ats": "ashby"
+  },
+  {
+    "name": "Versant",
+    "slug": "Versant3",
+    "ats": "smartrecruiters"
   },
   {
     "name": "Versapay",

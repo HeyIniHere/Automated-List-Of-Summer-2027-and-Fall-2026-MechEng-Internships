@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-01T23:17:24Z</updated>
+  <updated>2026-09-02T04:02:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
+    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, California, United States · Python, AWS, Terraform, Linux · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
+    <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
+    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
+    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2</id>
+    <title>Rockwell Automation: Intern, Content IDE Software Development (LCS) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mayfield Heights, Ohio, United States · Git · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64</id>
+    <title>Valon: Software Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · $60/hr · Python, React, GCP, Kubernetes, Docker</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:eulerity:4709040006</id>
+    <title>Eulerity: Backend Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709040006"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York · $17–$19/hr · Java, LLMs, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechatronics-Intern_JR-051269</id>
     <title>Brunswick: Mercury Marine: Mechatronics Intern</title>
@@ -22,46 +78,6 @@
     <updated>2026-09-01T23:17:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Office - New York · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12198</id>
-    <title>CWAN: Technical Product Management Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12198"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - New York · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12094</id>
-    <title>CWAN: Technical Product Management Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12094"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - New York · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12058</id>
-    <title>CWAN: Technical Product Management Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12058"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Office - New York · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12185</id>
-    <title>CWAN: Quant Developer Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12185"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Office - New York · Java</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12184</id>
-    <title>CWAN: Quant Developer Intern</title>
-    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12184"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Office - New York · Java</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12182</id>
@@ -80,28 +96,44 @@
     <summary>Not stated · Quant · Office - New York · Java</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:eulerity:4709040006</id>
-    <title>Eulerity: Backend Developer Intern</title>
-    <link href="https://job-boards.greenhouse.io/eulerity/jobs/4709040006"/>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12184</id>
+    <title>CWAN: Quant Developer Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12184"/>
     <updated>2026-09-01T23:17:22Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York · $17–$19/hr · Java, LLMs, Git</summary>
+    <summary>Not stated · Quant · Office - New York · Java</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering General Assembly</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346"/>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Quant-Developer-Intern_R12185</id>
+    <title>CWAN: Quant Developer Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Quant-Developer-Intern_R12185"/>
     <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Office - New York · Java</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering Global Automation</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"/>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12058</id>
+    <title>CWAN: Technical Product Management Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12058"/>
     <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Office - New York · Java</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12094</id>
+    <title>CWAN: Technical Product Management Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12094"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Office - New York · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:clearwateranalytics:/job/Office---New-York/Technical-Product-Management-Intern_R12198</id>
+    <title>CWAN: Technical Product Management Intern</title>
+    <link href="https://clearwateranalytics.wd1.myworkdayjobs.com/Clearwater_Analytics_Careers/job/Office---New-York/Technical-Product-Management-Intern_R12198"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Office - New York · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352</id>
@@ -120,6 +152,30 @@
     <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · Python, MATLAB · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering General Assembly</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering Global Automation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597</id>
+    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Intern - Chicago IL 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597"/>
+    <updated>2026-09-01T23:17:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - JEFFERSON HUB (ILJEF) · $16–$33.44/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838</id>
     <title>Northrop Grumman: 2027 Industrial Engineering Intern 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838"/>
@@ -136,28 +192,12 @@
     <summary>Not stated · Hardware · Redmond, Washington · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597</id>
-    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Intern - Chicago IL 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - JEFFERSON HUB (ILJEF) · $16–$33.44/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:valmont:/job/Bellville-TX/Civil-Structural-Engineering-Intern_R28720</id>
     <title>Valmont: Civil/Structural Engineering Intern</title>
     <link href="https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Bellville-TX/Civil-Structural-Engineering-Intern_R28720"/>
     <updated>2026-09-01T23:17:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Bellville TX · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64</id>
-    <title>Valon: Software Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/valon/b5a62c0c-823c-42dd-8cb5-e4b1455bcc64"/>
-    <updated>2026-09-01T23:17:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $60/hr · Python, React, GCP, Kubernetes, Docker</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hpiq:6176783004</id>
@@ -736,14 +776,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Charlotte, NC, United States · Python, Java, SQL, AWS, GCP · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26011831</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Sunrise, FL</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011831"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunrise, FL, United States · Python, Java, SQL, AWS, GCP · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012057</id>
     <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- New York, NY</title>
     <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012057"/>
@@ -774,37 +806,5 @@
     <updated>2026-09-01T07:41:38Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Phoenix, AZ, United States · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012678</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012678"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26012681</id>
-    <title>American Express: Campus Graduate Masters Summer Internship Program - 2027 Digital Product Management, Enterprise Technology Services- Phoenix, AZ</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012681"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Phoenix, AZ, United States · LLMs, Tableau · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013190</id>
-    <title>American Express: Campus Graduate I Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013190"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26013191</id>
-    <title>American Express: Campus Graduate II Summer Internship Program - 2027 Data Science, Finance - New York, NY</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013191"/>
-    <updated>2026-09-01T07:41:38Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, SQL, LLMs · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

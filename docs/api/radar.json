@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T04:02:57Z",
+ "generated_at": "2026-09-02T08:48:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -928,20 +928,6 @@
    "note": ""
   },
   {
-   "company": "Grant Thornton",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115639",
-   "note": ""
-  },
-  {
    "company": "Sensata",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1320,20 +1306,6 @@
    "note": ""
   },
   {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
-   "note": ""
-  },
-  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1400,7 +1372,7 @@
    "expected": "2026-09-01",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/hermeus/445db430-6f81-41cf-847a-56a947afb936",
+   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
    "note": ""
   },
   {
@@ -2216,6 +2188,20 @@
    "note": ""
   },
   {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -2267,6 +2253,20 @@
    "source": "engine",
    "expected": "2026-08-28",
    "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -2,
    "status": "dropped",
    "url": "",
    "note": ""

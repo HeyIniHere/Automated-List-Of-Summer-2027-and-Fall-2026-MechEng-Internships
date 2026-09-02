@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-02T04:02:57Z</updated>
+  <updated>2026-09-02T08:48:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
-    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, California, United States · Python, AWS, Terraform, Linux · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
     <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
@@ -32,12 +24,12 @@
     <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
-    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
+    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
+    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
+    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
     <updated>2026-09-02T04:02:54Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · San Jose, California, United States · Python, AWS, Terraform, Linux · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2</id>
@@ -46,6 +38,14 @@
     <updated>2026-09-02T04:02:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Mayfield Heights, Ohio, United States · Git · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
+    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
+    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
+    <updated>2026-09-02T04:02:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:valon:b5a62c0c-823c-42dd-8cb5-e4b1455bcc64</id>

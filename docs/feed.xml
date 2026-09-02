@@ -5,31 +5,135 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-02T17:54:54Z</updated>
+  <updated>2026-09-02T20:59:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147036623</id>
-    <title>AECOM: Structural Intern- Hiring Event with AECOM - New York City</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147036623"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Piscataway, NJ, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147037399</id>
-    <title>AECOM: Structural Intern- Hiring Event with AECOM - New York City</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147037399"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · New York, NY, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712</id>
-    <title>Cigna Group: Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship</title>
-    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"/>
-    <updated>2026-09-02T17:54:51Z</updated>
+    <id>urn:intern-engine:workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727</id>
+    <title>ABB: Mechanical Design Engineer Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727"/>
+    <updated>2026-09-02T20:59:44Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · NC, Raleigh, 701 Corporate Center Dr STE 200 · $25–$27/hr · Python, SQL, LLMs</summary>
+    <summary>Summer 2027 · Hardware · Fort Smith, Arkansas, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1</id>
+    <title>Allegion: Mechanical Engineering Intern, Access Technologies – Farmington, Connecticut</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington, CT · $25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074</id>
+    <title>Allied Solutions: AI Solutions Intern</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077</id>
+    <title>Allied Solutions: Data Science Intern</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Data-Science-Intern_R-011077"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Carmel, IN · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087</id>
+    <title>Allied Solutions: Software Engineering Intern</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Engineering-Intern_R-011087"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Carmel, IN · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086</id>
+    <title>Allied Solutions: Software Delivery Management Intern</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Carmel, IN · Azure</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliedsolutions:/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083</id>
+    <title>Allied Solutions: Product Management Intern - Risk Management</title>
+    <link href="https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · St. Paul, MN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Test Development Co-op</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Beverly, MA · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Test Development Engineer Co-op</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Beverly, MA · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001</id>
+    <title>Axcelis Technologies, Inc.: Manufacturing Engineer Co-op Production Support</title>
+    <link href="https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Beverly, MA · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173</id>
+    <title>Copart: Software Engineering Intern</title>
+    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Dallas, TX - Headquarters · JavaScript · H-1B track record: ~83 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:generalmatter:5377131008</id>
+    <title>General Matter: Summer 2027 Internship - Embedded Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5377131008"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $32–$46/hr · Python, C++, Go, Rust</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952</id>
+    <title>HD Supply: Graduate Intern, Artificial Intelligence &amp; Data Science - Summer 2027</title>
+    <link href="https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta-GA-US · Python, SQL, LLMs, AWS, GCP · H-1B track record: ~27 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1</id>
+    <title>Hewlett Packard (HP): Software Product Security Engineer Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769</id>
+    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Intern - Atlanta, GA 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793</id>
+    <title>United Parcel Service (UPS): 2027 Industrial Engineering Summer Intern - Bayonne NJ 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793"/>
+    <updated>2026-09-02T20:59:44Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - BAYONNE CENTER (NJBAY) · $16–$33.44/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fspco-op012325:8769080002</id>
@@ -40,30 +144,6 @@
     <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA · $25–$45/hr · Python</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
-    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
-    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617</id>
-    <title>Magna International: Intern - Engineering Software</title>
-    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Southfield, Michigan, US · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nisc:8167858</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
-    <link href="https://job-boards.greenhouse.io/nisc/jobs/8167858"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA or Lake Saint Louis, MO or Mandan, ND · Python, Java, SQL, Scala, LLMs</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:nisc:8092699</id>
     <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
     <link href="https://job-boards.greenhouse.io/nisc/jobs/8092699"/>
@@ -72,68 +152,12 @@
     <summary>Not stated · Software · Cedar Rapids, IA or Lake Saint Louis, MO or Mandan, ND · Java, TypeScript, JavaScript, Angular, AWS</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8167886</id>
+    <id>urn:intern-engine:greenhouse:nisc:8167858</id>
     <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167886"/>
+    <link href="https://job-boards.greenhouse.io/nisc/jobs/8167858"/>
     <updated>2026-09-02T17:54:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mandan, ND · Python, Java, SQL, Scala, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8167884</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167884"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, SQL, Scala, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8167883</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167883"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA · Python, Java, SQL, Scala, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8174096</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174096"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mandan, ND · Java, TypeScript, JavaScript, Angular, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8174090</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174090"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Lake Saint Louis, MO · Java, TypeScript, JavaScript, Angular, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8174088</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174088"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cedar Rapids, IA · Java, TypeScript, JavaScript, Angular, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910</id>
-    <title>Northrop Grumman: 2027 Software Engineer Intern - Linthicum Maryland 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · United States-Maryland-Linthicum · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708</id>
-    <title>Philips: Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Cambridge (US), Massachusetts, United States · Python, Java, C#, Azure, Git</summary>
+    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA or Lake Saint Louis, MO or Mandan, ND · Python, Java, SQL, Scala, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rebuildmanufacturing:4729848005</id>
@@ -152,12 +176,60 @@
     <summary>Summer 2027 · Software · San Mateo, CA, United States · H-1B track record: ~186 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"/>
+    <id>urn:intern-engine:greenhouse:testnisc:8167883</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167883"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA · Python, Java, SQL, Scala, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8167884</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167884"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Lake Saint Louis, MO · Python, Java, SQL, Scala, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8167886</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Data Engineer</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8167886"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mandan, ND · Python, Java, SQL, Scala, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8174088</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174088"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cedar Rapids, IA · Java, TypeScript, JavaScript, Angular, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8174090</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174090"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Lake Saint Louis, MO · Java, TypeScript, JavaScript, Angular, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:testnisc:8174096</id>
+    <title>National Information Solutions Cooperative (NISC): Intern - Software Development</title>
+    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8174096"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Mandan, ND · Java, TypeScript, JavaScript, Angular, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ehzq.fa.us2.oraclecloud.com:115752</id>
+    <title>Grant Thornton: Cybersecurity and Privacy Intern - Summer 2027 🛂</title>
+    <link href="https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752"/>
     <updated>2026-09-02T17:54:51Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++ · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · Los Angeles, CA, United States · $40/hr · sponsorship: no-sponsorship · H-1B track record: ~118 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2622615</id>
@@ -176,12 +248,44 @@
     <summary>Fall 2026 · Software · Raleigh, NC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941</id>
-    <title>Stryker: Commercial Operations Software Engineering Intern - Flower Mound, TX</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"/>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147036623</id>
+    <title>AECOM: Structural Intern- Hiring Event with AECOM - New York City</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147036623"/>
     <updated>2026-09-02T17:54:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Flower Mound, Texas · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Piscataway, NJ, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000147037399</id>
+    <title>AECOM: Structural Intern- Hiring Event with AECOM - New York City</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000147037399"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · New York, NY, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014717</id>
+    <title>Winsupply: Software Developer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014717"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Moraine, OH, United States · Python, Java, Angular · H-1B track record: ~13 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712</id>
+    <title>Cigna Group: Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship</title>
+    <link href="https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · NC, Raleigh, 701 Corporate Center Dr STE 200 · $25–$27/hr · Python, SQL, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194</id>
+    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709</id>
@@ -200,20 +304,44 @@
     <summary>Summer 2027 · Hardware · US - UTAH REGIONAL HUB (UTLKE) · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617</id>
+    <title>Magna International: Intern - Engineering Software</title>
+    <link href="https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Southfield, Michigan, US · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910</id>
+    <title>Northrop Grumman: 2027 Software Engineer Intern - Linthicum Maryland 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Maryland-Linthicum · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708</id>
+    <title>Philips: Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Cambridge (US), Massachusetts, United States · Python, Java, C#, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941</id>
+    <title>Stryker: Commercial Operations Software Engineering Intern - Flower Mound, TX</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941"/>
+    <updated>2026-09-02T17:54:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Flower Mound, Texas · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:valmont:/job/Tuscaloosa-AL/Civil-Structural-Engineering-Intern_R28717</id>
     <title>Valmont: Civil/Structural Engineering Intern</title>
     <link href="https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Tuscaloosa-AL/Civil-Structural-Engineering-Intern_R28717"/>
     <updated>2026-09-02T17:54:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Tuscaloosa AL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015014717</id>
-    <title>Winsupply: Software Developer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015014717"/>
-    <updated>2026-09-02T17:54:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Moraine, OH, United States · Python, Java, Angular · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:devtechnology:8726074002</id>
@@ -608,30 +736,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Pittsburgh, PA · Python, SQL, scikit-learn, Pandas, Docker · sponsorship: no-sponsorship · H-1B track record: ~39 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133</id>
-    <title>Genuine Parts Company: Cloud Developer Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-Developer-Intern_R26_0000029133"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, GCP, Linux, Git · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134</id>
-    <title>Genuine Parts Company: Cloud SRE Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Cloud-SRE-Intern_R26_0000029134"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · GCP · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135</id>
-    <title>Genuine Parts Company: Customer Software Development Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Customer-Software-Development-Intern_R26_0000029135"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, SQL · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137</id>
     <title>Genuine Parts Company: GRC/Cybersecurity Analyst Intern</title>
     <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/GRC-Cybersecurity-Analyst-Intern_R26_0000029137"/>
@@ -702,109 +806,5 @@
     <updated>2026-09-01T20:59:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Chicago, IL · LLMs · sponsorship: no-sponsorship · H-1B track record: ~144 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ntrs:/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1</id>
-    <title>Northern Trust: Technology Intern – Software Engineering 🛂</title>
-    <link href="https://ntrs.wd1.myworkdayjobs.com/northerntrust/job/Chicago-IL/Technology-Intern---Software-Engineering_R160832-1"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Chicago, IL · Python, Java, SQL, LLMs, Azure · sponsorship: no-sponsorship · H-1B track record: ~144 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Florida-Virtual-Address/Data-Science-Intern_R572731</id>
-    <title>Stryker: Data Science Intern - Remote</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Florida-Virtual-Address/Data-Science-Intern_R572731"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Florida, Virtual Address · Python, SQL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178</id>
-    <title>Vermeer: IT Software Engineer Internship Summer 2027</title>
-    <link href="https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/IT-Software-Engineer-Internship-Summer-2027_REQ-22178"/>
-    <updated>2026-09-01T20:59:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pella, Iowa, USA - Corporate Office · C#, TypeScript, JavaScript, Azure</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:pluralis-research:c8f78978-a693-4863-bcc0-66af5c3fd0be</id>
-    <title>Pluralis Research: Research Scientist Intern</title>
-    <link href="https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA or Australia · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:generalmatter:5377104008</id>
-    <title>General Matter: Summer 2027 Internship - Mechanical Engineering (HVAC)</title>
-    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5377104008"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Los Angeles, CA · $30–$40/hr · Python, C#, Airflow</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309794</id>
-    <title>Michael Baker International: Bridge Structural Intern</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309794"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Chicago, IL, United States · $22–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000146769559</id>
-    <title>Intuitive Surgical: Mechanical Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000146769559"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sunnyvale, CA, United States · Python, MATLAB · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406</id>
-    <title>Booz Allen: University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Honolulu, HI · $141k/yr · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Honolulu, HI 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Cyber-Security-Intern---Honolulu--HI_R0248411"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Honolulu, HI · $108k/yr · Linux · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393</id>
-    <title>Booz Allen: University - 2027 Summer Games Software Developer Intern - Honolulu, HI 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Honolulu, HI · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412</id>
-    <title>Booz Allen: University - 2027 Summer Games Cyber Security Intern - Huntsville, AL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Cyber-Security-Intern---Huntsville--AL_R0248412"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Huntsville, AL · $108k/yr · Linux · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407</id>
-    <title>Booz Allen: University - 2027 Summer Games Data Scientist Intern - Huntsville, AL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Huntsville, AL · $141k/yr · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394</id>
-    <title>Booz Allen: University - 2027 Summer Games Software Developer Intern - Huntsville, AL 🇺🇸</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394"/>
-    <updated>2026-09-01T17:51:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Huntsville, AL · $108k/yr · Python, Java, C++, JavaScript · sponsorship: citizens-only · H-1B track record: ~38 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

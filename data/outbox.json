@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
+    "workday:allegion:/job/Farmington-CT/Mechanical-Engineering-Intern--Access-Technologies---Farmington--Connecticut_JR37466-1",
+    "workday:alliedsolutions:/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+    "workday:alliedsolutions:/job/Carmel-IN/Data-Science-Intern_R-011077",
+    "workday:alliedsolutions:/job/Carmel-IN/Software-Engineering-Intern_R-011087",
+    "workday:alliedsolutions:/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+    "workday:alliedsolutions:/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
+    "workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009",
+    "workday:axcelis:/job/Beverly-MA/Manufacturing-Test-Development-Engineer-Co-op_12010",
+    "workday:axcelis:/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001",
+    "workday:copart:/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173",
+    "greenhouse:generalmatter:5377131008",
+    "workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
+    "workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4744-1",
+    "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769",
+    "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793"
+  ]
 }

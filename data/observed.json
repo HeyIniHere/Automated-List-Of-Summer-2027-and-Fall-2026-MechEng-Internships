@@ -673,6 +673,18 @@
     }
    }
   },
+  "cigna group": {
+   "name": "Cigna Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"
+     ],
+     "count": 1
+    }
+   }
+  },
   "clarios": {
    "name": "Clarios",
    "cycles": {
@@ -1138,9 +1150,10 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115687",
       "oracle:ehzq.fa.us2.oraclecloud.com:115704",
       "oracle:ehzq.fa.us2.oraclecloud.com:115733",
-      "oracle:ehzq.fa.us2.oraclecloud.com:115750"
+      "oracle:ehzq.fa.us2.oraclecloud.com:115750",
+      "oracle:ehzq.fa.us2.oraclecloud.com:115752"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -1724,7 +1737,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 12,
+     "count": 13,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -1737,6 +1750,7 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838"
      ]
     },
@@ -1936,9 +1950,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905"
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905",
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2082,9 +2097,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-05",
      "role_ids": [
-      "greenhouse:roblox:8072713"
+      "greenhouse:roblox:8072713",
+      "greenhouse:roblox:8143981"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2108,9 +2124,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-12",
      "role_ids": [
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2312,9 +2329,10 @@
     "Fall 2026": {
      "first_posted": "2026-06-18",
      "role_ids": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1006349"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1006349",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497"
      ],
-     "count": 1
+     "count": 2
     },
     "Summer 2027": {
      "first_posted": "2026-08-28",
@@ -2527,10 +2545,12 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
+      "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761",
-      "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1"
+      "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
+      "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 3
+     "count": 5
     }
    }
   },
@@ -2821,5 +2841,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T13:37:12Z"
+ "updated_at": "2026-09-02T17:54:51Z"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-02T13:37:15Z",
+ "generated_at": "2026-09-02T17:54:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -728,7 +728,7 @@
    "expected": "2026-08-19",
    "days_until": -14,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8728292002",
+   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
    "note": ""
   },
   {
@@ -939,6 +939,20 @@
    "days_until": -8,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000145517564",
+   "note": ""
+  },
+  {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -8,
+   "status": "open",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752",
    "note": ""
   },
   {
@@ -1513,6 +1527,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297",
+   "note": ""
+  },
+  {
+   "company": "Cigna Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
    "note": ""
   },
   {
@@ -2244,20 +2272,6 @@
    "note": ""
   },
   {
-   "company": "Grant Thornton",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -8,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -2314,5 +2328,5 @@
    "note": ""
   }
  ],
- "count": 165
+ "count": 166
 }

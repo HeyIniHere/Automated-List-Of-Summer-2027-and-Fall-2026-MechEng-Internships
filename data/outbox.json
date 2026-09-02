@@ -1,30 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000147036623",
-    "smartrecruiters:AECOM2:744000147037399",
-    "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
-    "greenhouse:fspco-op012325:8769080002",
-    "oracle:ehzq.fa.us2.oraclecloud.com:115752",
-    "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617",
-    "greenhouse:nisc:8167858",
-    "greenhouse:nisc:8092699",
-    "greenhouse:testnisc:8167886",
-    "greenhouse:testnisc:8167884",
-    "greenhouse:testnisc:8167883",
-    "greenhouse:testnisc:8174096",
-    "greenhouse:testnisc:8174090",
-    "greenhouse:testnisc:8174088",
-    "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-    "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
-    "greenhouse:rebuildmanufacturing:4729848005",
-    "greenhouse:roblox:8143981",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
-    "oracle:ejhp.fa.us6.oraclecloud.com:2622615",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
-    "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-    "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
-    "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699",
-    "workday:valmont:/job/Tuscaloosa-AL/Civil-Structural-Engineering-Intern_R28717",
-    "smartrecruiters:Winsupply1:3743990015014717"
-  ]
+  "pending": []
 }

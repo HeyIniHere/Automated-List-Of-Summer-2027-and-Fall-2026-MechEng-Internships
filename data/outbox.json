@@ -1,12 +1,3 @@
 {
-  "pending": [
-    "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
-    "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
-    "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
-    "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
-    "workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304",
-    "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
-    "workday:stryker:/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846",
-    "workday:stryker:/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922"
-  ]
+  "pending": []
 }

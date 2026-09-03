@@ -5,23 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-02T23:18:50Z</updated>
+  <updated>2026-09-03T04:00:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475</id>
-    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering – Body Center</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475"/>
-    <updated>2026-09-02T23:18:47Z</updated>
+    <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
+    <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"/>
+    <updated>2026-09-03T04:00:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Atlanta, GA · 25–33 USD/hr · C++, TypeScript, JavaScript, React, Angular · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e</id>
-    <title>Hadrian: Software Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e"/>
-    <updated>2026-09-02T23:18:47Z</updated>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635</id>
+    <title>McKesson: Software Development Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, TX, Irving · Python, Java, C# · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469</id>
+    <title>McKesson: Software Engineer Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CO, Longmont · Python, Java, C++, C#, Git · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742</id>
+    <title>McKesson: Software Engineer Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CO, Longmont · Python, C#, SQL, Git, PostgreSQL · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304</id>
+    <title>McKesson: Software Installation &amp; IT Support Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, CO, Longmont · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844</id>
+    <title>McKesson: Data Analyst Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA, OH, Columbus · SQL, Tableau · H-1B track record: ~147 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846</id>
+    <title>Stryker: Manufacturing Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846"/>
+    <updated>2026-09-03T04:00:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Los Angeles, CA · Python, TypeScript · sponsorship: citizens-only</summary>
+    <summary>Not stated · Hardware · Redmond, Washington · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922</id>
+    <title>Stryker: Manufacturing Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Cary, Illinois · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:hadrian-automation:02e33109-08c5-4db7-8881-67294c172584</id>
@@ -32,6 +80,14 @@
     <summary>Not stated · Hardware · Los Angeles, CA · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:ashby:hadrian-automation:2b0423c6-947d-4226-8d23-90743bd5e63e</id>
+    <title>Hadrian: Software Engineer Intern 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Los Angeles, CA · Python, TypeScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:ashby:hadrian-automation:f718bcfe-3f5b-4682-a294-697499caf813</id>
     <title>Hadrian: Data Science/ Data Engineer Intern 🇺🇸</title>
     <link href="https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813"/>
@@ -40,12 +96,36 @@
     <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hp:/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1</id>
-    <title>Hewlett Packard (HP): Personal Systems Product Management Intern</title>
-    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1"/>
+    <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
+    <title>Reflect Orbital: Flight Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, Texas, United States of America · $29–$33/hr</summary>
+    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
+    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reflect-orbital:e27b6a4f-3556-45ed-bcca-0d56e302ba07</id>
+    <title>Reflect Orbital: Thermal Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/e27b6a4f-3556-45ed-bcca-0d56e302ba07"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reflect-orbital:ed0c926a-9a52-4c84-8488-2552b1f0cca6</id>
+    <title>Reflect Orbital: Mechanical Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Intuitive:744000147091674</id>
@@ -64,20 +144,20 @@
     <summary>Not stated · Data &amp; ML/AI · Livermore, CA, United States (Remote) · LLMs · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56049</id>
-    <title>Niagara Bottling: Manufacturing Intern - Atlanta</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56049"/>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475</id>
+    <title>General Motors: 2027 Summer Intern – Manufacturing Engineering – Body Center</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475"/>
     <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Atlanta - Newnan, GA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56048</id>
-    <title>Niagara Bottling: Manufacturing Intern - Atlanta</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56048"/>
+    <id>urn:intern-engine:workday:hp:/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1</id>
+    <title>Hewlett Packard (HP): Personal Systems Product Management Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Personal-Systems-Product-Management-Intern_UNI4755-1"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Atlanta - Newnan, GA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Austin, Texas, United States of America · $29–$33/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Allentown---Allentown-PA/Manufacturing-Intern---Allentown_R56046</id>
@@ -96,17 +176,33 @@
     <summary>Not stated · Hardware · Allentown - Allentown, PA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56051</id>
-    <title>Niagara Bottling: Manufacturing Intern - Baytown</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56051"/>
+    <id>urn:intern-engine:workday:niagarawater:/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56048</id>
+    <title>Niagara Bottling: Manufacturing Intern - Atlanta</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56048"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Baytown - Baytown, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Atlanta - Newnan, GA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56049</id>
+    <title>Niagara Bottling: Manufacturing Intern - Atlanta</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Atlanta---Newnan-GA/Manufacturing-Intern---Atlanta_R56049"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Atlanta - Newnan, GA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56050</id>
     <title>Niagara Bottling: Manufacturing Intern - Baytown</title>
     <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56050"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Baytown - Baytown, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56051</id>
+    <title>Niagara Bottling: Manufacturing Intern - Baytown</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Baytown---Baytown-TX/Manufacturing-Intern---Baytown_R56051"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Baytown - Baytown, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
@@ -128,20 +224,20 @@
     <summary>Not stated · Hardware · Cincinnati - Elsmere, KY · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Dallas---Dallas-TX/Manufacturing-Intern---Dallas_R56054</id>
+    <title>Niagara Bottling: Manufacturing Intern - Dallas</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Dallas---Dallas-TX/Manufacturing-Intern---Dallas_R56054"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Dallas - Dallas, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Hazleton---Hazle-Township-PA/Manufacturing-Intern---Hazleton_R56056</id>
     <title>Niagara Bottling: Manufacturing Intern - Hazleton</title>
     <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Hazleton---Hazle-Township-PA/Manufacturing-Intern---Hazleton_R56056"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Hazleton - Hazle Township, PA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058</id>
-    <title>Niagara Bottling: Manufacturing Intern - Jacksonville</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56057</id>
@@ -152,12 +248,28 @@
     <summary>Not stated · Hardware · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Dallas---Dallas-TX/Manufacturing-Intern---Dallas_R56054</id>
-    <title>Niagara Bottling: Manufacturing Intern - Dallas</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Dallas---Dallas-TX/Manufacturing-Intern---Dallas_R56054"/>
+    <id>urn:intern-engine:workday:niagarawater:/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058</id>
+    <title>Niagara Bottling: Manufacturing Intern - Jacksonville</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Dallas - Dallas, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059</id>
+    <title>Niagara Bottling: Manufacturing Intern - Kansas City</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · KNC - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060</id>
+    <title>Niagara Bottling: Manufacturing Intern - Kansas City 2</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Kansas City 2 - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Kenosha---Pleasant-Prairie-WI/Manufacturing-Intern---Kenosha_R56061</id>
@@ -216,22 +328,6 @@
     <summary>Not stated · Hardware · Rialto - Rialto, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073</id>
-    <title>Niagara Bottling: Manufacturing Intern - Tacoma</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Tacoma - Puyallup, WA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kansas City</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/KNC---Kansas-City-MO/Manufacturing-Intern---Kansas-City_R56059"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · KNC - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:niagarawater:/job/Stockton---Stockton-CA/Manufacturing-Intern---Stockton-3_R56070</id>
     <title>Niagara Bottling: Manufacturing Intern - Stockton 3</title>
     <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Stockton---Stockton-CA/Manufacturing-Intern---Stockton-3_R56070"/>
@@ -256,44 +352,12 @@
     <summary>Not stated · Hardware · Stockton 4 - Stockton, CA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kansas City 2</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060"/>
+    <id>urn:intern-engine:workday:niagarawater:/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073</id>
+    <title>Niagara Bottling: Manufacturing Intern - Tacoma</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Tacoma---Puyallup-WA/Manufacturing-Intern---Tacoma_R56073"/>
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Kansas City 2 - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d5ade048-5555-4a77-b002-d117254b6e6b</id>
-    <title>Reflect Orbital: Embedded Firmware Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d5ade048-5555-4a77-b002-d117254b6e6b"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:d2ad1427-89aa-404d-8678-7b8e6dace5e2</id>
-    <title>Reflect Orbital: Flight Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/d2ad1427-89aa-404d-8678-7b8e6dace5e2"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:ed0c926a-9a52-4c84-8488-2552b1f0cca6</id>
-    <title>Reflect Orbital: Mechanical Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/ed0c926a-9a52-4c84-8488-2552b1f0cca6"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reflect-orbital:e27b6a4f-3556-45ed-bcca-0d56e302ba07</id>
-    <title>Reflect Orbital: Thermal Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/reflect-orbital/e27b6a4f-3556-45ed-bcca-0d56e302ba07"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hawthorne, CA · $27 – $31 per hour</summary>
+    <summary>Not stated · Hardware · Tacoma - Puyallup, WA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/San-Jose-California/Manufacturing-Engineering-Intern_R572749-1</id>
@@ -688,22 +752,6 @@
     <summary>Summer 2027 · Software · Lansing, MI · Python, SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235</id>
-    <title>Genuine Parts Company: Software Engineer - QA Analyst Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029235"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, SQL · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236</id>
-    <title>Genuine Parts Company: Software Engineer - QA Analyst Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Software-Engineer---QA-Analyst-Intern_R26_0000029236"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, SQL · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238</id>
     <title>Genuine Parts Company: Web Developer Intern</title>
     <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238"/>
@@ -744,30 +792,6 @@
     <summary>Not stated · Data &amp; ML/AI · Rosemont IL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R282116</id>
-    <title>US Foods: Intern – Data Engineer (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Engineer--Hybrid--Onsite---Remote-_R282116"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rosemont IL · Python, SQL, Pandas, LLMs, AWS · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111</id>
-    <title>US Foods: Intern – Software Engineer, Digital Commerce (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Digital-Commerce--Hybrid--Onsite---Remote-_R282111"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rosemont IL · Java, JavaScript, Angular, AWS, Kubernetes · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106</id>
-    <title>US Foods: Intern – Software Engineer, Legacy Systems (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Software-Engineer--Legacy-Systems--Hybrid--Onsite---Remote-_R282106"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rosemont IL · SQL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
     <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
@@ -782,29 +806,5 @@
     <updated>2026-09-02T04:02:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:altera:/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066</id>
-    <title>Altera Corporation: Graduate Intern - Engineering Infrastructure</title>
-    <link href="https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, California, United States · Python, AWS, Terraform, Linux · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2</id>
-    <title>Rockwell Automation: Intern, Content IDE Software Development (LCS) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Content-IDE-Software-Development--LCS-_R26-5010-2"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Mayfield Heights, Ohio, United States · Git · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2</id>
-    <title>Rockwell Automation: Intern, Cyber Professional Services (LCS) 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Mayfield-Heights-Ohio-United-States/Intern--Cyber-Professional-Services--LCS-_R26-5042-2"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Mayfield Heights, Ohio, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

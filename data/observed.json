@@ -1251,10 +1251,11 @@
      "role_ids": [
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1578,6 +1579,22 @@
       "greenhouse:lexingtonmedical:5404584008"
      ],
      "count": 2
+    }
+   }
+  },
+  "mckesson": {
+   "name": "McKesson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
+      "workday:mckesson:/job/USA-CO-Longmont/Software-Installation---IT-Support-Intern---Summer-2027_JR0152304",
+      "workday:mckesson:/job/USA-OH-Columbus/Data-Analyst-Intern---Summer-2027_JR0150844",
+      "workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"
+     ],
+     "count": 5
     }
    }
   },
@@ -2874,5 +2891,5 @@
    }
   }
  },
- "updated_at": "2026-09-02T23:18:47Z"
+ "updated_at": "2026-09-03T04:00:34Z"
 }

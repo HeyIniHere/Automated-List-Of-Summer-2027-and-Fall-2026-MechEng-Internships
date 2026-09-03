@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T17:51:25Z",
+ "generated_at": "2026-09-03T20:56:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1404,6 +1404,20 @@
    "note": ""
   },
   {
+   "company": "FOTH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://jobs.lever.co/foth/072d5e17-c095-49bc-ac02-4cd558bb5d64",
+   "note": ""
+  },
+  {
    "company": "General Motors",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1414,7 +1428,7 @@
    "expected": "2026-09-01",
    "days_until": -2,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
    "note": ""
   },
   {
@@ -1600,6 +1614,20 @@
    "note": ""
   },
   {
+   "company": "DriveTime",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
+   "note": ""
+  },
+  {
    "company": "Momentive",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1653,6 +1681,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
+   "note": ""
+  },
+  {
+   "company": "Sierra Nevada Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
    "note": ""
   },
   {
@@ -2454,5 +2496,5 @@
    "note": ""
   }
  ],
- "count": 175
+ "count": 178
 }

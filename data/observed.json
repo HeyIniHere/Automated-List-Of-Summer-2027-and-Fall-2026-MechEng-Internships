@@ -89,9 +89,10 @@
       "smartrecruiters:AECOM2:744000145646379",
       "smartrecruiters:AECOM2:744000145646439",
       "smartrecruiters:AECOM2:744000145837999",
-      "smartrecruiters:AECOM2:744000146989469"
+      "smartrecruiters:AECOM2:744000146989469",
+      "smartrecruiters:AECOM2:744000147333760"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -405,6 +406,18 @@
     }
    }
   },
+  "availity": {
+   "name": "Availity",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008483"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -448,9 +461,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
-      "workday:barr:/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306"
+      "workday:barr:/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306",
+      "workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -868,6 +882,19 @@
     }
    }
   },
+  "drivetime": {
+   "name": "DriveTime",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:drivetime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
+      "workday:drivetime:/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294"
+     ],
+     "count": 2
+    }
+   }
+  },
   "dtcc": {
    "name": "DTCC",
    "cycles": {
@@ -1045,6 +1072,27 @@
       "workday:flextronics:/job/USA-SC-Orangeburg/Mechanical-Engineering-Co-op---Fall-2026_WD227049"
      ],
      "count": 2
+    }
+   }
+  },
+  "foth": {
+   "name": "FOTH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "lever:foth:072d5e17-c095-49bc-ac02-4cd558bb5d64",
+      "lever:foth:2dab53e6-9f06-41fe-a2c9-c9808402c1e7",
+      "lever:foth:6cc70042-0140-4979-9878-828edf973a83",
+      "lever:foth:78374fff-0ecd-4505-9f9d-bbfb0686c51e",
+      "lever:foth:95f75d08-ec27-48ff-8c60-dcf2d5720885",
+      "lever:foth:9b9e654e-cca7-463f-b0c0-fab83c0acd81",
+      "lever:foth:b087b7bd-e1a0-41af-a2e1-46c56b6e5ccb",
+      "lever:foth:c074a997-c723-4c6f-b531-686ef1461c25",
+      "lever:foth:d4e4eaf1-4046-4a8d-ae73-882f39355907",
+      "lever:foth:d8cc43b0-5927-407f-9f0a-84bf51460354"
+     ],
+     "count": 10
     }
    }
   },
@@ -1265,11 +1313,12 @@
      "role_ids": [
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
+      "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7",
       "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1779,9 +1828,10 @@
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
       "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
+      "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2370,6 +2420,21 @@
     }
    }
   },
+  "sierra nevada": {
+   "name": "Sierra Nevada Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
+      "workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
+      "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736"
+     ],
+     "count": 4
+    }
+   }
+  },
   "sierra space": {
    "name": "Sierra Space",
    "cycles": {
@@ -2887,9 +2952,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "greenhouse:waymo:8174099"
+      "greenhouse:waymo:8174099",
+      "greenhouse:waymo:8174504"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2963,9 +3029,12 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93910",
       "oracle:emit.fa.ca3.oraclecloud.com:94283",
       "oracle:emit.fa.ca3.oraclecloud.com:94305",
-      "oracle:emit.fa.ca3.oraclecloud.com:94540"
+      "oracle:emit.fa.ca3.oraclecloud.com:94400",
+      "oracle:emit.fa.ca3.oraclecloud.com:94533",
+      "oracle:emit.fa.ca3.oraclecloud.com:94540",
+      "oracle:emit.fa.ca3.oraclecloud.com:94545"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -2994,5 +3063,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T17:51:22Z"
+ "updated_at": "2026-09-03T20:56:54Z"
 }

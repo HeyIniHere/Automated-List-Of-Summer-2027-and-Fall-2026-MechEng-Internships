@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T20:56:58Z",
+ "generated_at": "2026-09-03T23:15:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -588,7 +588,7 @@
    "expected": "2026-08-14",
    "days_until": -20,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
    "note": ""
   },
   {
@@ -826,7 +826,7 @@
    "expected": "2026-08-20",
    "days_until": -14,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94540",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400",
    "note": ""
   },
   {
@@ -1624,7 +1624,7 @@
    "expected": "2026-09-03",
    "days_until": 0,
    "status": "open",
-   "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Data-Engineer-Intern--Summer-2027-_R16300",
+   "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
    "note": ""
   },
   {
@@ -1639,20 +1639,6 @@
    "days_until": 0,
    "status": "open",
    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
-   "note": ""
-  },
-  {
-   "company": "Neighbor",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": 0,
-   "status": "open",
-   "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
    "note": ""
   },
   {
@@ -1694,7 +1680,7 @@
    "expected": "2026-09-03",
    "days_until": 0,
    "status": "open",
-   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
+   "url": "https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
    "note": ""
   },
   {
@@ -1709,6 +1695,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/Skyward1/744000147320799",
+   "note": ""
+  },
+  {
+   "company": "The Exploration Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac",
    "note": ""
   },
   {
@@ -2494,7 +2494,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Neighbor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 178
+ "count": 179
 }

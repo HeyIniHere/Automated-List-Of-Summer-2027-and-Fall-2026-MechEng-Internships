@@ -461,10 +461,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:barr:/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315",
+      "workday:barr:/job/Hibbing-MN/Internship---Structural-Engineer--Hybrid-_R-102316",
       "workday:barr:/job/Minneapolis-MN/Internship---Mechanical-Engineer--Hybrid-_R-102306",
       "workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -980,6 +982,18 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "smartrecruiters:Eurofins:744000147214369"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "exploration": {
+   "name": "The Exploration Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "ashby:the-exploration-company:86270058-8eec-4692-b49d-97ce59fd54ac"
      ],
      "count": 1
     }
@@ -2427,11 +2441,22 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:snc:/job/Dayton-OH/Aerospace-Engineering-Intern--Summer-2027-_R0030727",
+      "workday:snc:/job/Dayton-OH/Mechanical-Engineer-Intern--Summer-2027-_R0030744",
+      "workday:snc:/job/Dayton-OH/Software-Engineering-Intern--Summer-2027-_R0030754",
+      "workday:snc:/job/Folsom-CA/Software-Engineering-Intern--Summer-2027-_R0030761-1",
       "workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
+      "workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784",
+      "workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
-      "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736"
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
+      "workday:snc:/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757",
+      "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
+      "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1",
+      "workday:snc:/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758",
+      "workday:snc:/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
+      "workday:snc:/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
      ],
-     "count": 4
+     "count": 15
     }
    }
   },
@@ -3063,5 +3088,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T20:56:54Z"
+ "updated_at": "2026-09-03T23:15:31Z"
 }

@@ -1410,9 +1410,10 @@
       "smartrecruiters:InfiniteQuant:744000143287594",
       "smartrecruiters:InfiniteQuant:744000144281579",
       "smartrecruiters:InfiniteQuant:744000145205764",
-      "smartrecruiters:InfiniteQuant:744000145263134"
+      "smartrecruiters:InfiniteQuant:744000145263134",
+      "smartrecruiters:InfiniteQuant:744000147163879"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1675,6 +1676,19 @@
       "workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744"
      ],
      "count": 1
+    }
+   }
+  },
+  "momentive": {
+   "name": "Momentive",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
+     ],
+     "count": 2
     }
    }
   },
@@ -2891,5 +2905,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T04:00:34Z"
+ "updated_at": "2026-09-03T08:56:35Z"
 }

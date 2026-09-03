@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T04:00:37Z",
+ "generated_at": "2026-09-03T08:56:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1568,7 +1568,21 @@
    "expected": "2026-09-02",
    "days_until": -1,
    "status": "open",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+   "note": ""
+  },
+  {
+   "company": "Momentive",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
    "note": ""
   },
   {
@@ -2370,5 +2384,5 @@
    "note": ""
   }
  ],
- "count": 169
+ "count": 170
 }

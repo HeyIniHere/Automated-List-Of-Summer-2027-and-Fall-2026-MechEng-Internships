@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-03T04:00:36Z</updated>
+  <updated>2026-09-03T08:56:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000147163879</id>
+    <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879"/>
+    <updated>2026-09-03T08:56:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756</id>
+    <title>Momentive: Summer 2027 Intern - Software Development</title>
+    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"/>
+    <updated>2026-09-03T08:56:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US NY Niskayuna · Java, SQL, Git · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1</id>
+    <title>Momentive: Summer 2027 Intern - Enterprise Reporting &amp; Analytics - Data Science</title>
+    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"/>
+    <updated>2026-09-03T08:56:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · US NY Niskayuna · Python, SQL, LLMs, Tableau · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
     <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
@@ -14,14 +38,6 @@
     <updated>2026-09-03T04:00:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Atlanta, GA · 25–33 USD/hr · C++, TypeScript, JavaScript, React, Angular · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635</id>
-    <title>McKesson: Software Development Intern - Summer 2027</title>
-    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"/>
-    <updated>2026-09-03T04:00:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, TX, Irving · Python, Java, C# · H-1B track record: ~147 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:mckesson:/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469</id>
@@ -56,12 +72,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · USA, OH, Columbus · SQL, Tableau · H-1B track record: ~147 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846</id>
-    <title>Stryker: Manufacturing Engineering Intern</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846"/>
+    <id>urn:intern-engine:workday:mckesson:/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635</id>
+    <title>McKesson: Software Development Intern - Summer 2027</title>
+    <link href="https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-TX-Irving/Software-Development-Intern---Summer-2027_JR0152635"/>
     <updated>2026-09-03T04:00:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Redmond, Washington · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, TX, Irving · Python, Java, C# · H-1B track record: ~147 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:stryker:/job/Cary-Illinois/Manufacturing-Engineering-Intern_R572922</id>
@@ -70,6 +86,14 @@
     <updated>2026-09-03T04:00:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Cary, Illinois · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846</id>
+    <title>Stryker: Manufacturing Engineering Intern</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Redmond-Washington/Manufacturing-Engineering-Intern_R572846"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Redmond, Washington · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:hadrian-automation:02e33109-08c5-4db7-8881-67294c172584</id>
@@ -752,14 +776,6 @@
     <summary>Summer 2027 · Software · Lansing, MI · Python, SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:genpt:/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238</id>
-    <title>Genuine Parts Company: Web Developer Intern</title>
-    <link href="https://genpt.wd1.myworkdayjobs.com/Careers/job/Birmingham-AL-USA/Web-Developer-Intern_R26_0000029238"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Birmingham, AL, USA · Java, React, Angular, GCP, Linux · H-1B track record: ~63 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410</id>
     <title>IAT Insurance Group: Cyber Security Internship 🛂</title>
     <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"/>
@@ -784,25 +800,9 @@
     <summary>Summer 2027 · Software · Fort Worth, TX · $18.54–$27.82/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:usfoods:/job/Rosemont-IL/Intern---Data-Analyst--Hybrid--Onsite---Remote-_R282121</id>
-    <title>US Foods: Intern – Data Analyst (Hybrid: Onsite &amp; Remote) 🛂</title>
-    <link href="https://usfoods.wd1.myworkdayjobs.com/usfoodscareersExternal/job/Rosemont-IL/Intern---Data-Analyst--Hybrid--Onsite---Remote-_R282121"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Rosemont IL · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
     <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
     <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761</id>
-    <title>Hermeus: Structures/Mechanical Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/60b5d40a-1065-4bd2-8c72-6b2fb69d4761"/>
     <updated>2026-09-02T04:02:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>

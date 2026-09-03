@@ -1,9 +1,54 @@
 {
- "generated_at": "2026-09-03T08:56:38Z",
+ "generated_at": "2026-09-03T13:35:57Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 588,
+ "count": 595,
  "jobs": [
+  {
+   "id": "smartrecruiters:Eurofins:744000147214369",
+   "company": "Eurofins",
+   "title": "AI & Automation Intern",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Barcelona, CT, ES",
+   "url": "https://jobs.smartrecruiters.com/Eurofins/744000147214369",
+   "posted_at": "2026-09-03T10:31:16.848Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "oracle:emit.fa.ca3.oraclecloud.com:94540",
+   "company": "WSP",
+   "title": "Civil/Structural Engineering (Overhead Transmission Lines) Intern - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Houston, TX, United States",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94540",
+   "posted_at": "2026-09-03",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "oracle",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "smartrecruiters:InfiniteQuant:744000147163879",
    "company": "InfiniteQuant",
@@ -27,31 +72,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
-   "company": "Momentive",
-   "title": "Summer 2027 Intern - Software Development",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "US NY Niskayuna",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
-   "posted_at": "2026-09-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T08:56:35Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "SQL",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": 44,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
@@ -80,6 +100,31 @@
    "remote": false
   },
   {
+   "id": "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "company": "Momentive",
+   "title": "Summer 2027 Intern - Software Development",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "US NY Niskayuna",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "posted_at": "2026-09-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-03T08:56:35Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Java",
+    "SQL",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 44,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
    "company": "Hermeus",
    "title": "Software Engineering Intern (Command & Control) - Spring/Summer 2027",
@@ -100,6 +145,52 @@
     "JavaScript",
     "React",
     "Angular"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad",
+   "company": "Dynamic Catholic",
+   "title": "Internship - Front-End UX Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Other",
+   "location": "Erlanger, Kentucky",
+   "url": "https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad",
+   "posted_at": "2026-09-02T18:00:46Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "no-sponsorship",
+   "salary": null,
+   "skills": [
+    "JavaScript"
+   ],
+   "source": "lever",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57",
+   "company": "Dynamic Catholic",
+   "title": "Internship - Software Developer - Commerce Cloud",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Erlanger, Kentucky",
+   "url": "https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57",
+   "posted_at": "2026-09-02T20:55:13Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "JavaScript"
    ],
    "source": "lever",
    "h1b_approvals": null,
@@ -2165,6 +2256,30 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
+  },
+  {
+   "id": "smartrecruiters:Acumatica:744000146749696",
+   "company": "Acumatica",
+   "title": "AI & Automation Intern, Office of the CFO",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Bellevue, WA, United States (Remote)",
+   "url": "https://jobs.smartrecruiters.com/Acumatica/744000146749696",
+   "posted_at": "2026-09-01T14:56:25.616Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": "$20/hr",
+   "skills": [
+    "Python",
+    "LLMs"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": true
   },
   {
    "id": "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410",
@@ -9266,30 +9381,6 @@
    "remote": false
   },
   {
-   "id": "smartrecruiters:InfiniteQuant:744000145263134",
-   "company": "InfiniteQuant",
-   "title": "Quantitative Developer - Internship - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Quant",
-   "location": "New York, New York, United States (Remote)",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
-   "posted_at": "2026-08-24T12:26:03.762Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-24T13:08:53Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
-  },
-  {
    "id": "greenhouse:audaxgroup:4722770005",
    "company": "Audax Group",
    "title": "Data Engineer Co-Op",
@@ -11859,6 +11950,30 @@
    "remote": false
   },
   {
+   "id": "ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307",
+   "company": "Niantic Spatial",
+   "title": "Robotics Engineering Intern - Fall 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "San Francisco, CA",
+   "url": "https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307",
+   "posted_at": "2026-08-06T15:45:03.413+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": "$50 – $65 per hour",
+   "skills": [
+    "Python",
+    "PyTorch"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
    "company": "Centerfield",
    "title": "Frontend Engineer Intern (6 month internship)",
@@ -11927,6 +12042,31 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "greenhouse:faradayfuture:7828531003",
+   "company": "Faraday Future",
+   "title": "Robotics Data Operator Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "El Segundo, California, United States",
+   "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/7828531003",
+   "posted_at": "2026-08-05T13:17:01-04:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "Linux",
+    "ROS"
+   ],
+   "source": "greenhouse",
+   "h1b_approvals": 82,
    "program": "Internship",
    "remote": false
   },
@@ -12008,6 +12148,29 @@
    ],
    "source": "workday",
    "h1b_approvals": 1526,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "ashby:contoro:7de98745-6a26-4a96-b82c-0cecf4900eb1",
+   "company": "Contoro",
+   "title": "Robotics Test & Validation Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Austin, TX",
+   "url": "https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1",
+   "posted_at": "2026-08-04T19:37:38.313+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-03T13:35:54Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Linux"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

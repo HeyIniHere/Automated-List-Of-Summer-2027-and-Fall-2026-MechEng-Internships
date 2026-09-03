@@ -1,3 +1,12 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:Acumatica:744000146749696",
+    "ashby:contoro:7de98745-6a26-4a96-b82c-0cecf4900eb1",
+    "lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad",
+    "lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57",
+    "smartrecruiters:Eurofins:744000147214369",
+    "greenhouse:faradayfuture:7828531003",
+    "ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307",
+    "oracle:emit.fa.ca3.oraclecloud.com:94540"
+  ]
 }

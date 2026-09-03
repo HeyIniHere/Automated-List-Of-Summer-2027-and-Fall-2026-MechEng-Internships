@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-03T08:56:38Z",
+ "generated_at": "2026-09-03T13:35:57Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -546,7 +546,7 @@
    "expected": "2026-08-13",
    "days_until": -21,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000145263134",
+   "url": "https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879",
    "note": ""
   },
   {
@@ -799,6 +799,20 @@
    "days_until": -14,
    "status": "open",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94540",
    "note": ""
   },
   {
@@ -1582,7 +1596,7 @@
    "expected": "2026-09-03",
    "days_until": 0,
    "status": "open",
-   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+   "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
    "note": ""
   },
   {
@@ -2259,20 +2273,6 @@
   },
   {
    "company": "General Dynamics Information Technology",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -14,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "WSP",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
    "precision": "day",

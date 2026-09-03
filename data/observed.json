@@ -946,6 +946,18 @@
     }
    }
   },
+  "eurofins": {
+   "name": "Eurofins",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "smartrecruiters:Eurofins:744000147214369"
+     ],
+     "count": 1
+    }
+   }
+  },
   "fannie mae": {
    "name": "Fannie Mae",
    "cycles": {
@@ -1789,6 +1801,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:newrez:/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "niantic spatial": {
+   "name": "Niantic Spatial",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-08-06",
+     "role_ids": [
+      "ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307"
      ],
      "count": 1
     }
@@ -2874,9 +2898,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:93468",
       "oracle:emit.fa.ca3.oraclecloud.com:93910",
       "oracle:emit.fa.ca3.oraclecloud.com:94283",
-      "oracle:emit.fa.ca3.oraclecloud.com:94305"
+      "oracle:emit.fa.ca3.oraclecloud.com:94305",
+      "oracle:emit.fa.ca3.oraclecloud.com:94540"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2905,5 +2930,5 @@
    }
   }
  },
- "updated_at": "2026-09-03T08:56:35Z"
+ "updated_at": "2026-09-03T13:35:54Z"
 }

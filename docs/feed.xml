@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-03T08:56:38Z</updated>
+  <updated>2026-09-03T13:35:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Acumatica:744000146749696</id>
+    <title>Acumatica: AI &amp; Automation Intern, Office of the CFO</title>
+    <link href="https://jobs.smartrecruiters.com/Acumatica/744000146749696"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA, United States (Remote) · $20/hr · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:contoro:7de98745-6a26-4a96-b82c-0cecf4900eb1</id>
+    <title>Contoro: Robotics Test &amp; Validation Intern</title>
+    <link href="https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Austin, TX · Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad</id>
+    <title>Dynamic Catholic: Internship - Front-End UX Intern 🛂</title>
+    <link href="https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Other · Erlanger, Kentucky · JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57</id>
+    <title>Dynamic Catholic: Internship - Software Developer - Commerce Cloud</title>
+    <link href="https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Erlanger, Kentucky · JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000147214369</id>
+    <title>Eurofins: AI &amp; Automation Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000147214369"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, ES · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:faradayfuture:7828531003</id>
+    <title>Faraday Future: Robotics Data Operator Intern</title>
+    <link href="https://job-boards.greenhouse.io/faradayfuture/jobs/7828531003"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · El Segundo, California, United States · Python, Linux, ROS · H-1B track record: ~82 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307</id>
+    <title>Niantic Spatial: Robotics Engineering Intern - Fall 2026</title>
+    <link href="https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · San Francisco, CA · $50 – $65 per hour · Python, PyTorch</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94540</id>
+    <title>WSP: Civil/Structural Engineering (Overhead Transmission Lines) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94540"/>
+    <updated>2026-09-03T13:35:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Houston, TX, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000147163879</id>
     <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
@@ -16,20 +80,20 @@
     <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756</id>
-    <title>Momentive: Summer 2027 Intern - Software Development</title>
-    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"/>
-    <updated>2026-09-03T08:56:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US NY Niskayuna · Java, SQL, Git · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1</id>
     <title>Momentive: Summer 2027 Intern - Enterprise Reporting &amp; Analytics - Data Science</title>
     <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"/>
     <updated>2026-09-03T08:56:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · US NY Niskayuna · Python, SQL, LLMs, Tableau · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756</id>
+    <title>Momentive: Summer 2027 Intern - Software Development</title>
+    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"/>
+    <updated>2026-09-03T08:56:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US NY Niskayuna · Java, SQL, Git · H-1B track record: ~44 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
@@ -742,69 +806,5 @@
     <updated>2026-09-02T13:37:12Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Reston, Virginia · $21–$30/hr · Java, TypeScript, JavaScript, SQL, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:devtechnology:8726259002</id>
-    <title>Dev Technology Group: Microsoft Power Platform &amp; AI Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/devtechnology/jobs/8726259002"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Reston, Virginia · $21–$30/hr · Python, Java, C#, JavaScript, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:devtechnology:8728292002</id>
-    <title>Dev Technology Group: AI/Agentic Solution Engineer Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/devtechnology/jobs/8728292002"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Reston, Virginia · $21–$30/hr · Python, Rust, TypeScript, JavaScript, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000146989469</id>
-    <title>AECOM: Structural Engineering Intern - Bridge &amp; Transportation Structures</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000146989469"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Glen Allen, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417</id>
-    <title>Auto-Owners Insurance: Business Intelligence Developer Internship - Summer 2027</title>
-    <link href="https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lansing, MI · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410</id>
-    <title>IAT Insurance Group: Cyber Security Internship 🛂</title>
-    <link href="https://iatinsurancegroup.wd1.myworkdayjobs.com/iat/job/Raleigh-NC/Cyber-Security-Internship_JR100410"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Raleigh NC · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ingredion:/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1</id>
-    <title>Ingredion: AI &amp; Data Scientist Intern</title>
-    <link href="https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Westchester, IL · $20–$25/hr · SQL, PyTorch, TensorFlow, scikit-learn, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trwd:/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218</id>
-    <title>Tarrant Regional Water District: Summer 2027 Infrastructure Engineering Intern (T036)</title>
-    <link href="https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218"/>
-    <updated>2026-09-02T13:37:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Fort Worth, TX · $18.54–$27.82/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f</id>
-    <title>Hermeus: Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f"/>
-    <updated>2026-09-02T04:02:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Atlanta, GA · 25–33 USD/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

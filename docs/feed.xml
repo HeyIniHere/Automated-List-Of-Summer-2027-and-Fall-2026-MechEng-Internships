@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-04T20:41:21Z</updated>
+  <updated>2026-09-04T23:03:21Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:garnerhealth:6164698004</id>
+    <title>Garner Health: Software Engineering Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004"/>
+    <updated>2026-09-04T23:03:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City, New York · Python, TypeScript, JavaScript, React, Node.js · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:genscript:5231601007</id>
+    <title>GenScript: mRNA Manufacturing Intern (Full Time)</title>
+    <link href="https://job-boards.greenhouse.io/genscript/jobs/5231601007"/>
+    <updated>2026-09-04T23:03:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Redmond, Washington, United States · $22–$24/hr · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94617</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617"/>
+    <updated>2026-09-04T20:41:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Milwaukee, WI, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000147581370</id>
     <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🇺🇸</title>
@@ -14,6 +38,30 @@
     <updated>2026-09-04T20:41:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Philadelphia, PA, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:6F93C25627</id>
+    <title>Talentpluto: AI/ML Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/6F93C25627/"/>
+    <updated>2026-09-04T20:41:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:CCC60EBB0C</id>
+    <title>Talentpluto: Backend Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/CCC60EBB0C/"/>
+    <updated>2026-09-04T20:41:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:talentpluto:D3050663DF</id>
+    <title>Talentpluto: Full Stack Engineering Intern</title>
+    <link href="https://apply.workable.com/talentpluto/j/D3050663DF/"/>
+    <updated>2026-09-04T20:41:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, New York, United States · $35–$50/hr · TypeScript, JavaScript, React</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1</id>
@@ -56,14 +104,6 @@
     <summary>Summer 2027 · Software · East Syracuse, NY (Collamer) · $20.27–$22.3/hr · Java, JavaScript, SQL, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223</id>
-    <title>Saab: Mechanical Engineer (Summer Intern 2027) 🇺🇸</title>
-    <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223"/>
-    <updated>2026-09-04T20:41:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · West Lafayette, IN · $21–$24/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:saabusa:/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234</id>
     <title>Saab: Manufacturing Engineer (Summer Intern 2027) 🇺🇸</title>
     <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234"/>
@@ -72,36 +112,12 @@
     <summary>Summer 2027 · Hardware · West Lafayette, IN · $21–$24/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:talentpluto:CCC60EBB0C</id>
-    <title>Talentpluto: Backend Engineering Intern</title>
-    <link href="https://apply.workable.com/talentpluto/j/CCC60EBB0C/"/>
-    <updated>2026-09-04T20:41:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:talentpluto:6F93C25627</id>
-    <title>Talentpluto: AI/ML Engineering Intern</title>
-    <link href="https://apply.workable.com/talentpluto/j/6F93C25627/"/>
-    <updated>2026-09-04T20:41:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States (Remote) · $35–$50/hr · Python, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:talentpluto:D3050663DF</id>
-    <title>Talentpluto: Full Stack Engineering Intern</title>
-    <link href="https://apply.workable.com/talentpluto/j/D3050663DF/"/>
-    <updated>2026-09-04T20:41:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, New York, United States · $35–$50/hr · TypeScript, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94617</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617"/>
+    <id>urn:intern-engine:workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223</id>
+    <title>Saab: Mechanical Engineer (Summer Intern 2027) 🇺🇸</title>
+    <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223"/>
     <updated>2026-09-04T20:41:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Milwaukee, WI, United States</summary>
+    <summary>Summer 2027 · Hardware · West Lafayette, IN · $21–$24/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:idmeuniversityrecruiting:7980429003</id>
@@ -504,22 +520,6 @@
     <summary>Summer 2027 · Hardware · Portland, OR, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94533</id>
-    <title>WSP: Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94533"/>
-    <updated>2026-09-03T20:56:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Ann Arbor, MI, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94545</id>
-    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94545"/>
-    <updated>2026-09-03T20:56:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Tulsa, OK, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000147333760</id>
     <title>AECOM: Mechanical Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/AECOM2/744000147333760"/>
@@ -760,14 +760,6 @@
     <summary>Not stated · Software · Erlanger, Kentucky · JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94540</id>
-    <title>WSP: Civil/Structural Engineering (Overhead Transmission Lines) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94540"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, TX, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:Acumatica:744000146749696</id>
     <title>Acumatica: AI &amp; Automation Intern, Office of the CFO</title>
     <link href="https://jobs.smartrecruiters.com/Acumatica/744000146749696"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-03T08:56:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US NY Niskayuna · Java, SQL, Git · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
+    <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"/>
+    <updated>2026-09-03T04:00:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta, GA · 25–33 USD/hr · C++, TypeScript, JavaScript, React, Angular · sponsorship: citizens-only</summary>
   </entry>
 </feed>

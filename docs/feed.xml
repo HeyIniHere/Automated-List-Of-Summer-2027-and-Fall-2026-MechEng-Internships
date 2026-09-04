@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-04T04:03:16Z</updated>
+  <updated>2026-09-04T08:51:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10529525</id>
@@ -270,14 +270,6 @@
     <updated>2026-09-03T20:56:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Arlington, VA, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008483</id>
-    <title>Availity: Data Science Intern</title>
-    <link href="https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008483"/>
-    <updated>2026-09-03T20:56:54Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote - United States · Python, SQL, scikit-learn, Pandas, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Kenosha - Pleasant Prairie, WI · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:niagarawater:/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062</id>
+    <title>Niagara Bottling: Manufacturing Intern - Lancaster</title>
+    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062"/>
+    <updated>2026-09-02T23:18:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Lancaster - Lancaster, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

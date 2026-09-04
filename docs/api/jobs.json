@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-04T04:03:16Z",
+ "generated_at": "2026-09-04T08:51:40Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 640,
+ "count": 637,
  "jobs": [
   {
    "id": "amazon:amazon:10529525",
@@ -531,34 +531,6 @@
    "h1b_approvals": 246,
    "program": "Internship",
    "remote": false
-  },
-  {
-   "id": "workday:availity:/job/Remote---United-States/Data-Science-Intern_R0008483",
-   "company": "Availity",
-   "title": "Data Science Intern",
-   "season": "Fall 2026",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "Remote - United States",
-   "url": "https://availity.wd1.myworkdayjobs.com/availity_careers_us/job/Remote---United-States/Data-Science-Intern_R0008483",
-   "posted_at": "2026-09-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-03T20:56:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "scikit-learn",
-    "Pandas",
-    "LLMs",
-    "AWS"
-   ],
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:barr:/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314",
@@ -5496,31 +5468,6 @@
    "skills": [
     "C++",
     "C#"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 8,
-   "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "oracle:hdjq.fa.us2.oraclecloud.com:26008761",
-   "company": "Emerson Electric",
-   "title": "Firmware Engineer Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Marshalltown, IA, United States",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008761",
-   "posted_at": "2026-09-01",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T01:15:27Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++",
-    "Azure",
-    "Git"
    ],
    "source": "oracle",
    "h1b_approvals": 8,
@@ -13131,30 +13078,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 186,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:draper:/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
-   "company": "Draper",
-   "title": "Embedded Quality & Fielded Systems Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Cambridge, MA",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Embedded-Quality---Fielded-Systems-Intern_JR002718",
-   "posted_at": "2026-08-05T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C#"
-   ],
-   "source": "workday",
-   "h1b_approvals": 2,
    "program": "Internship",
    "remote": false
   },

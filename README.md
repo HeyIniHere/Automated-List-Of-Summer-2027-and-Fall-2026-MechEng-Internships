@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 654 open roles (440 listed below) · 356 new this week
+### 663 open roles (446 listed below) · 368 new this week
 
-4,382 employers tracked · updated Sep 04, 2026 at 17:38 UTC
+4,382 employers tracked · updated Sep 04, 2026 at 20:41 UTC
 
-_388 have a cycle the employer stated · 266 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_390 have a cycle the employer stated · 273 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -71,21 +71,26 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 
 ---
 
-## Summer 2027  (233 employer-stated)
+## Summer 2027  (234 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| Hy-Vee | Digital Software Engineering Intern - Summer 2027 🆕 | Software | Corporate Office +3 more | Sep 04, 2026 | [Apply](https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133) |
+| Saab | Software Engineering Co-Op (Spring - Summer 2027) 🇺🇸 🆕 | Software | East Syracuse, NY (Collamer) | Sep 04, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1) |
+| Saab | Mechanical Engineer (Summer Intern 2027) 🇺🇸 🆕 | Hardware | West Lafayette, IN | Sep 04, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223) |
+| Saab | Manufacturing Engineer (Summer Intern 2027) 🇺🇸 🆕 | Hardware | West Lafayette, IN | Sep 04, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234) |
+| WSP | Mechanical Engineering Intern - Summer 2027 🆕 | Hardware | Milwaukee, WI, United States | Sep 04, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617) |
+| Scale AI ✓ | Software Engineering Intern (Summer 2027) 🆕 | Software | San Francisco, CA | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
+| Schonfeld ✓ | 2027 Data Science Intern 🆕 | Data & ML/AI | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
+| Schonfeld ✓ | 2027 Cybersecurity Operations Intern 🆕 | Security | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
+| Schonfeld ✓ | 2027 Software Engineering Intern 🆕 | Software | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
+| ENFOS | Software Engineer Intern (Summer 2027) 🆕 | Software | Durham, North Carolina, United States | Sep 04, 2026 | [Apply](https://apply.workable.com/enfos-inc/j/CA15908E0A/) |
 | CIBC ✓ | 2027 Summer Intern - Software Engineering 🛂 🆕 | Software | Chicago, IL | Sep 04, 2026 | [Apply](https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1) |
 | Elanco | Manufacturing Scientist/Technical Services Intern – Fort Dodge, Iowa (Summer 2027) 🆕 | Hardware | Fort Dodge, IA | Sep 04, 2026 | [Apply](https://elanco.wd5.myworkdayjobs.com/External_Career/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1) |
-| ENFOS | Software Engineer Intern (Summer 2027) 🆕 | Software | Durham, North Carolina, United States | Sep 04, 2026 | [Apply](https://apply.workable.com/enfos-inc/j/CA15908E0A/) |
 | Gevernova | GE Vernova Nuclear - Manufacturing Intern (Summer 2027) 🛂 🆕 | Hardware | Wilmington NC USA | Sep 04, 2026 | [Apply](https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2) |
-| Scale AI ✓ | Software Engineering Intern (Summer 2027) 🆕 | Software | San Francisco, CA | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4730845005) |
-| Schonfeld ✓ | 2027 Cybersecurity Operations Intern 🆕 | Security | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171696) |
-| Schonfeld ✓ | 2027 Data Science Intern 🆕 | Data & ML/AI | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8171692) |
-| Schonfeld ✓ | 2027 Software Engineering Intern 🆕 | Software | New York, New York, United States | Sep 04, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8180089) |
 | Stantec ✓ | Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027) 🆕 | Software | Washington, DC, United States | Sep 04, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589) |
 | Amazon ✓ | Software Development Engineer Intern, ROBOTICS - 2027 🆕 | Hardware | North Reading, Massachusetts, USA | Sep 04, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10529525/software-development-engineer-intern-robotics-2027) |
-| ID.me | Summer Intern 2027 - Software Development Engineer 🆕 | Software | Mountain View, CA | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) |
+| ID.me | Summer Intern 2027 - Software Development Engineer Intern 🆕 | Software | Mountain View, CA | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003) |
 | Skydio ✓ | Autonomy Engineer Intern, Computer Vision / Deep Learning, Summer 2027 🆕 | Data & ML/AI | San Mateo, California, United States | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/skydio/ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9) |
 | The Exploration Company | Summer 2027 Internship (Software) 🇺🇸 🆕 | Software | California | Sep 03, 2026 | [Apply](https://jobs.ashbyhq.com/the-exploration-company/86270058-8eec-4692-b49d-97ce59fd54ac) |
 | Barr | Internship – Structural Engineer (Hybrid) 🛂 🆕 | Hardware | Ann Arbor, MI | Sep 03, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315) |
@@ -97,7 +102,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Hermeus | GNC & Flight Software Intern - Spring/Summer 2027 🇺🇸 🆕 | Software | Atlanta, GA | Sep 03, 2026 | [Apply](https://jobs.lever.co/hermeus/555263f6-c5ec-4489-ab07-1aea546b70e7) |
 | WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 🆕 | Hardware | Portland, OR, United States | Sep 03, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400) |
 | WSP | Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027 🆕 | Hardware | Ann Arbor, MI, United States | Sep 03, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94533) |
-| WSP | Mechanical Engineering (Transmission) Intern - Summer 2027 🆕 | Hardware | Tulsa, OK, United States | Sep 03, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94545) |
 | AECOM ✓ | Mechanical Engineering Intern 🆕 | Hardware | Arlington, VA, United States | Sep 03, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147333760) |
 | Barr | Internship – Structural Engineer (Hybrid) 🛂 🆕 | Hardware | Minneapolis, MN | Sep 03, 2026 | [Apply](https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Structural-Engineer--Hybrid-_R-102314) |
 | DriveTime | Software Engineering Intern (Summer 2027) 🆕 | Software | 1720 W Rio Salado Pkwy Tempe, AZ 85281 | Sep 03, 2026 | [Apply](https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294) |
@@ -108,7 +112,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | General Motors ✓ | 2027 Summer Intern – Manufacturing Weld Engineer 🆕 | Hardware | Lake Orion +2 more | Sep 03, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474) |
 | Motorola ✓ | Industrial Engineer: Continuous Improvement Summer Internship 2027 🆕 | Hardware | Elgin, IL | Sep 03, 2026 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051) |
 | POET | Mechanical Engineering Intern - Summer 2027 🆕 | Hardware | Sioux Falls, SD | Sep 03, 2026 | [Apply](https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696) |
-| Saab | Software Engineering Co-Op (Summer 2027) 🇺🇸 🆕 | Software | East Syracuse, NY (Collamer) | Sep 03, 2026 | [Apply](https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1) |
 | InfiniteQuant | Quantitative Developer - Internship - Summer 2027 🏠 🆕 | Quant | New York +2 more | Sep 03, 2026 | [Apply](https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879) |
 | Momentive ✓ | Summer 2027 Intern - Enterprise Reporting & Analytics - Data Science 🆕 | Data & ML/AI | US NY Niskayuna | Sep 03, 2026 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1) |
 | Momentive ✓ | Summer 2027 Intern - Software Development 🆕 | Software | US NY Niskayuna | Sep 03, 2026 | [Apply](https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756) |
@@ -128,12 +131,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Bayonne NJ 🇺🇸 🆕 | Hardware | US - BAYONNE CENTER (NJBAY) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793) |
 | United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Atlanta, GA 🇺🇸 🆕 | Hardware | US - UPS CORPORATE OFFICES (GACOR) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769) |
 | HD Supply ✓ | Graduate Intern, Artificial Intelligence & Data Science - Summer 2027 🆕 | Data & ML/AI | Atlanta-GA-US | Sep 02, 2026 | [Apply](https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952) |
-| Roblox ✓ | [Summer 2027] Product Management Intern 🆕 | Software | San Mateo, CA, United States | Sep 02, 2026 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
-| Grant Thornton ✓ | Cybersecurity and Privacy Intern - Summer 2027 🛂 🆕 | Security | Los Angeles, CA, United States | Sep 02, 2026 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752) |
-| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship 🆕 | Data & ML/AI | NC +2 more | Sep 02, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
-| RTX | Software Engineering Co-op (Summer/Fall 2027) 🇺🇸 🆕 | Software | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Sep 02, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194) |
-| United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Portland, OR 🇺🇸 🆕 | Hardware | US - PORTLAND HUB (ORPOR) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709) |
-| Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland 🇺🇸 🆕 | Software | United States-Maryland-Linthicum | Sep 02, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
+| Roblox ✓ | [Summer 2027] Product Management Intern | Software | San Mateo, CA, United States | Sep 02, 2026 | [Apply](https://careers.roblox.com/jobs/8143981?gh_jid=8143981) |
+| Grant Thornton ✓ | Cybersecurity and Privacy Intern - Summer 2027 🛂 | Security | Los Angeles, CA, United States | Sep 02, 2026 | [Apply](https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752) |
+| Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | Data & ML/AI | NC +2 more | Sep 02, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
+| RTX | Software Engineering Co-op (Summer/Fall 2027) 🇺🇸 | Software | US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd… | Sep 02, 2026 | [Apply](https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194) |
+| United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Portland, OR 🇺🇸 | Hardware | US - PORTLAND HUB (ORPOR) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709) |
+| Northrop Grumman | 2027 Software Engineer Intern - Linthicum Maryland 🇺🇸 | Software | United States-Maryland-Linthicum | Sep 02, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) |
 | AECOM ✓ | Structural Engineering Intern - Bridge & Transportation Structures | Hardware | Glen Allen, VA, United States | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000146989469) |
 | Auto-Owners Insurance | Business Intelligence Developer Internship - Summer 2027 | Software | Lansing, MI | Sep 02, 2026 | [Apply](https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417) |
 | Hermeus | Manufacturing Engineering Intern - Spring/Summer 2027 🇺🇸 | Hardware | Atlanta, GA | Sep 02, 2026 | [Apply](https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f) |
@@ -249,7 +252,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Freeform | Mechanical Engineering Intern (Summer 2027) | Hardware | Los Angeles, CA (On-site) | Aug 18, 2026 | [Apply](https://job-boards.greenhouse.io/freeformfuturecorp/jobs/7894117003) |
 | H3X Technologies | Advanced Manufacturing Engineering Intern (Spring) | Hardware | Louisville, Colorado | Aug 18, 2026 | [Apply](https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be) |
 | PIMCO ✓ | 2027 Summer Intern - Technology Analyst, Software Engineering | Software | Austin, TX USA | Aug 18, 2026 | [Apply](https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745) |
-| Hilton Worldwide | 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber) | Security | Memphis, TN, United States | Aug 17, 2026 | [Apply](https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257) |
 | Conagra Brands ✓ | IT Infrastructure Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/IT-Infrastructure-Internship---Summer-2027_Req-039788) |
 | Conagra Brands ✓ | Software Development Internship - Summer 2027 | Software | Omaha, Nebraska | Aug 17, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787) |
 | KeyBank ✓ | 2027 Summer Key Technology & Services: Cyber/Information Security Track Internship- Cleveland | Security | Brooklyn, OH | Aug 17, 2026 | [Apply](https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384) |
@@ -292,7 +294,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Virtu Financial ✓ | 2027 Internship - Software Engineer | Software | Austin, TX; New York | Jul 21, 2026 | [Apply](https://job-boards.greenhouse.io/virtu/jobs/8624410002) |
 | Chicago Trading Company | Software Engineering Internship - Summer 2027 | Software | Chicago, Illinois, United States | Jul 20, 2026 | [Apply](https://job-boards.greenhouse.io/ctccampusboard/jobs/4708230005) |
 | Chevron Corporation ✓ | 2026-2027 Information Technology - Software Engineer - Intern 🛂 | Software | Houston, Texas, United States of America | Jul 16, 2026 | [Apply](https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1) |
-| The Trade Desk ✓ | 2027 North America Software Engineering Internship | Software | Bellevue +5 more | Jul 15, 2026 | [Apply](https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007) |
 | Five Rings | Summer Intern 2027 - Software Developer | Software | New York | Jul 14, 2026 | [Apply](https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008) |
 | Akuna Capital ✓ | Software Engineer Intern - C++, Summer 2027 | Software | Chicago, IL | Jul 13, 2026 | [Apply](https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847) |
 | Akuna Capital ✓ | Software Engineer Intern - Python, Summer 2027 | Software | Chicago, IL | Jul 13, 2026 | [Apply](https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853) |
@@ -309,14 +310,14 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Ellipsis Labs | Software Engineer - 2027 Interns | Software | New York, New York | Mar 26, 2026 | [Apply](https://jobs.ashbyhq.com/ellipsislabs/02136b22-35b1-4b3d-8bef-567c3380a849) |
 | Databricks ✓ | Product Management Intern (Summer 2027) | Software | Bellevue +5 more | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 
-## Fall 2026  (39 employer-stated)
+## Fall 2026  (38 employer-stated)
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
 | Eurofins | AI & Automation Intern 🆕 | Data & ML/AI | Barcelona, CT, ES | Sep 03, 2026 | [Apply](https://jobs.smartrecruiters.com/Eurofins/744000147214369) |
-| Re:Build Manufacturing | Manufacturing Engineer Intern Fall 2026 🆕 | Hardware | Merrimack, NH | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005) |
-| Stantec ✓ | Roadway Design Co-op Student - Infrastructure (Fall 2026) 🆕 | Software | Raleigh, NC, United States | Sep 02, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497) |
-| Philips | Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026 🆕 | Software | Cambridge (US) +2 more | Sep 02, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708) |
+| Re:Build Manufacturing | Manufacturing Engineer Intern Fall 2026 | Hardware | Merrimack, NH | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/rebuildmanufacturing/jobs/4729848005) |
+| Stantec ✓ | Roadway Design Co-op Student - Infrastructure (Fall 2026) | Software | Raleigh, NC, United States | Sep 02, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007497) |
+| Philips | Co-op - Software Development Engineer (Automation) – Cambridge, MA – Fall 2026 | Software | Cambridge (US) +2 more | Sep 02, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708) |
 | Northrop Grumman | 2026 Part-Time Cyber Security Engineering Intern - Aurora CO 🇺🇸 | Security | United States-Colorado-Aurora | Aug 31, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2026-Part-Time-Cyber-Security-Engineering-Intern---Aurora-CO_R10248520) |
 | Xcel Energy | IT Infrastructure Intern - CO | Software | Denver, CO, 80205 | Aug 31, 2026 | [Apply](https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/IT-Infrastructure-Intern---CO_JR115917) |
 | Amazon ✓ | Robotics - Software Development Engineer Fall Intern/Co-op - 2026 | Hardware | Westboro, Massachusetts, USA | Aug 27, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10517149/robotics-software-development-engineer-fall-intern-co-op-2026) |
@@ -326,7 +327,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Rivet Industries | Software Engineer Intern, XR Team (Fall 2026) 🇺🇸 | Software | Bellevue, WA | Aug 24, 2026 | [Apply](https://jobs.ashbyhq.com/rivet/4e02461a-9f6c-4d3c-a511-6d54f31999bc) |
 | Moog | Intern, IT Computer Science | Software | Buffalo, NY | Aug 19, 2026 | [Apply](https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--IT-Computer-Science_R-26-19378) |
 | ABB ✓ | Manufacturing Engineering/Documentation Intern - Fall 2026 🛂 | Hardware | USA, AR, Jonesboro | Aug 19, 2026 | [Apply](https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-AR-Jonesboro/Manufacturing-Engineering-Documentation-Intern---Fall-2026_JR00042298) |
-| Conagra Brands ✓ | Manufacturing Co-Op | Hardware | Waterloo, Iowa | Aug 18, 2026 | [Apply](https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Waterloo-Iowa/Manufacturing-Co-Op_Req-039806) |
 | The Nuclear Company | Fall 2026 AI/ML Engineering Intern 🇺🇸 | Data & ML/AI | Washington, DC | Aug 07, 2026 | [Apply](https://job-boards.greenhouse.io/thenuclearcompany/jobs/5383163008) |
 | Johnson & Johnson | Software Engineer Coop | Software | Cincinnati +2 more | Aug 07, 2026 | [Apply](https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Software-Engineer-Coop_R-092820) |
 | Niantic Spatial | Robotics Engineering Intern - Fall 2026 🆕 | Hardware | San Francisco, CA | Aug 06, 2026 | [Apply](https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307) |
@@ -353,20 +353,24 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Hardware | Westboro, Massachusetts, USA | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Hermeus | Manufacturing Engineering Intern - Fall 2026 🇺🇸 | Hardware | Los Angeles, CA | Sep 30, 2025 | [Apply](https://jobs.lever.co/hermeus/a1f3aa29-72ea-4843-b2ea-801f3bef73ae) |
 
-## Recently posted — cycle not stated  (168 roles)
+## Recently posted — cycle not stated  (174 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| AECOM ✓ | Structural Engineering Intern - Hiring Event with AECOM - Philadelphia 🇺🇸 🆕 | Hardware | Philadelphia, PA, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147581370) |
+| Allegion | Summer Intern - Manufacturing Engineering 🆕 | Hardware | Indianapolis, IN - Tobey Dr | Sep 04, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering_JR37477-1) |
+| Hewlett Packard Enterprise ✓ | Mechanical Engineer Intern 🆕 | Hardware | Spring, Texas, United States of America | Sep 04, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Spring-Texas-United-States-of-America/Mechanical-Engineer-Intern_1213393) |
+| Ingredion | AI & Data Scientist Intern 🆕 | Data & ML/AI | Westchester, IL | Sep 04, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40220) |
+| Texas Instruments ✓ | Systems Engineering Intern - Machine Learning Expert 🆕 | Data & ML/AI | Dallas, TX, United States | Sep 04, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) |
+| Nokia ✓ | AI-Agent Development Co-op 🆕 | Data & ML/AI | United States | Sep 04, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978) |
 | AECOM ✓ | Structural Engineering Intern - Bridge & Transportation Structures 🇺🇸 🆕 | Hardware | Mechanicsburg, PA, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147531571) |
+| Loram | Mechanical Engineering Intern 🆕 | Hardware | Hamel, MN, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015079155) |
+| Loram | Machine Learning / Artificial Intelligence (AI) Intern 🆕 | Data & ML/AI | Hamel, MN, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015082845) |
 | Axcelis Technologies, Inc. ✓ | Manufacturing Engineer Co-op Production Support 🆕 | Hardware | Beverly, MA | Sep 04, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12008) |
 | Johnson Controls ✓ | Software/Controls Engineering Grad Intern 🆕 | Software | Salem-Virginia-United States of America | Sep 04, 2026 | [Apply](https://jci.wd5.myworkdayjobs.com/JCI/job/Salem-Virginia-United-States-of-America/Software-Controls-Engineering-Grad-Intern_WD30278205-1) |
-| Loram | Machine Learning / Artificial Intelligence (AI) Intern 🆕 | Data & ML/AI | Hamel, MN, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015082845) |
-| Loram | Mechanical Engineering Intern 🆕 | Hardware | Hamel, MN, United States | Sep 04, 2026 | [Apply](https://jobs.smartrecruiters.com/Loram1/3743990015079155) |
-| Nokia ✓ | AI-Agent Development Co-op 🆕 | Data & ML/AI | United States | Sep 04, 2026 | [Apply](https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/39978) |
 | Stryker ✓ | Customer One Intern (Data Analyst) - Cary, IL 🆕 | Data & ML/AI | Cary, Illinois | Sep 04, 2026 | [Apply](https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Cary-Illinois/Customer-One-Intern--Data-Analyst----Cary--IL_R572734) |
-| Texas Instruments ✓ | Systems Engineering Intern - Machine Learning Expert 🆕 | Data & ML/AI | Dallas, TX, United States | Sep 04, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25017705) |
 | skillz ✓ | Co-op, Software Engineer 🆕 | Software | Las Vegas, Nevada, United States | Sep 03, 2026 | [Apply](https://job-boards.greenhouse.io/skillzinc/jobs/8168006) |
 | AECOM ✓ | Structural Engineer Intern 🇺🇸 🆕 | Hardware | Arlington, VA, United States | Sep 03, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147334384) |
 | Corteva ✓ | R&D Intern – Computer & Data Science 🆕 | Data & ML/AI | Indianapolis, Indiana, United States | Sep 03, 2026 | [Apply](https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W) |
@@ -396,15 +400,14 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Axcelis Technologies, Inc. ✓ | Manufacturing Engineer Co-op Production Support 🆕 | Hardware | Beverly, MA | Sep 02, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Engineer-Co-op-Production-Support_12001) |
 | Axcelis Technologies, Inc. ✓ | Manufacturing Test Development Co-op 🆕 | Hardware | Beverly, MA | Sep 02, 2026 | [Apply](https://axcelis.wd1.myworkdayjobs.com/axcelis/job/Beverly-MA/Manufacturing-Test-Development-Co-op_12009) |
 | Copart ✓ | Software Engineering Intern 🆕 | Software | Dallas, TX - Headquarters | Sep 02, 2026 | [Apply](https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Software-Engineering-Intern_JR111173) |
-| Flagship Pioneering | Pioneering Intelligence: Agentic AI Co-Op 🆕 | Data & ML/AI | Cambridge, MA USA | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002) |
-| National Information Solutions Cooperative (NISC) | Intern - Software Development 🆕 | Software | Cedar Rapids +3 more | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8092699) |
-| National Information Solutions Cooperative (NISC) | Intern - Data Engineer 🆕 | Data & ML/AI | Cedar Rapids +3 more | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8167858) |
-| National Information Solutions Cooperative (NISC) | Intern - Data Engineer 🆕 | Data & ML/AI | Cedar Rapids, IA | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8167883) |
-| Sherwin-Williams ✓ | Year-Round IT Co-op, Cybersecurity 🆕 | Security | Cleveland, OH, United States | Sep 02, 2026 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615) |
-| AECOM ✓ | Structural Intern- Hiring Event with AECOM - New York City 🆕 | Hardware | Piscataway, NJ, United States | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/AECOM2/744000147036623) |
-| Winsupply ✓ | Software Developer Intern 🆕 | Software | Moraine, OH, United States | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Winsupply1/3743990015014717) |
-| Magna International | Intern - Engineering Software 🆕 | Software | Southfield, Michigan, US | Sep 02, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617) |
-| Valmont ✓ | Civil/Structural Engineering Intern 🆕 | Hardware | Tuscaloosa AL | Sep 02, 2026 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Tuscaloosa-AL/Civil-Structural-Engineering-Intern_R28717) |
+| Flagship Pioneering | Pioneering Intelligence: Agentic AI Co-Op | Data & ML/AI | Cambridge, MA USA | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/fspco-op012325/jobs/8769080002) |
+| National Information Solutions Cooperative (NISC) | Intern - Software Development | Software | Cedar Rapids +3 more | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8092699) |
+| National Information Solutions Cooperative (NISC) | Intern - Data Engineer | Data & ML/AI | Cedar Rapids +3 more | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8167858) |
+| National Information Solutions Cooperative (NISC) | Intern - Data Engineer | Data & ML/AI | Cedar Rapids, IA | Sep 02, 2026 | [Apply](https://job-boards.greenhouse.io/testnisc/jobs/8167883) |
+| Sherwin-Williams ✓ | Year-Round IT Co-op, Cybersecurity | Security | Cleveland, OH, United States | Sep 02, 2026 | [Apply](https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2622615) |
+| Winsupply ✓ | Software Developer Intern | Software | Moraine, OH, United States | Sep 02, 2026 | [Apply](https://jobs.smartrecruiters.com/Winsupply1/3743990015014717) |
+| Magna International | Intern - Engineering Software | Software | Southfield, Michigan, US | Sep 02, 2026 | [Apply](https://magna.wd3.myworkdayjobs.com/Magna/job/Southfield-Michigan-US/Intern---Engineering-Software_R00258617) |
+| Valmont ✓ | Civil/Structural Engineering Intern | Hardware | Tuscaloosa AL | Sep 02, 2026 | [Apply](https://valmont.wd1.myworkdayjobs.com/ValmontCareers/job/Tuscaloosa-AL/Civil-Structural-Engineering-Intern_R28717) |
 | Acumatica | AI & Automation Intern, Office of the CFO 🏠 🆕 | Data & ML/AI | Bellevue, WA, United States (Remote) | Sep 01, 2026 | [Apply](https://jobs.smartrecruiters.com/Acumatica/744000146749696) |
 | Ingredion | AI & Data Scientist Intern | Data & ML/AI | Westchester, IL | Sep 01, 2026 | [Apply](https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/Westchester-IL/AI---Data-Scientist-Intern_Req-40007-1) |
 | Altera Corporation ✓ | Graduate Intern - Engineering Infrastructure | Software | San Jose, California, United States | Sep 01, 2026 | [Apply](https://altera.wd1.myworkdayjobs.com/altera/job/San-Jose-California-United-States/Graduate-Intern---Engineering-Infrastructure_R03066) |
@@ -436,6 +439,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Emerson Electric | Software Engineering Co-Op | Software | Marshalltown, IA, United States | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008442) |
 | Emerson Electric | Embedded Software Co-Op | Software | Marshalltown, IA, United States | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26008443) |
 | Emerson Electric | Manufacturing Engineering Co-Op | Hardware | Marshalltown, IA, United States | Sep 01, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009034) |
+| Talentpluto | Backend Engineering Intern 🏠 🆕 | Software | United States (Remote) | Aug 31, 2026 | [Apply](https://apply.workable.com/talentpluto/j/CCC60EBB0C/) |
+| Talentpluto | AI/ML Engineering Intern 🏠 🆕 | Data & ML/AI | United States (Remote) | Aug 31, 2026 | [Apply](https://apply.workable.com/talentpluto/j/6F93C25627/) |
 | Pluralis Research | Research Scientist Intern | Data & ML/AI | USA or Australia | Aug 31, 2026 | [Apply](https://jobs.ashbyhq.com/pluralis-research/c8f78978-a693-4863-bcc0-66af5c3fd0be) |
 | Katalyst Space Technologies | Engineering Intern (Electrical / Mechanical / GNC / Software) 🇺🇸 | Hardware | Broomfield, Colorado, United States | Aug 31, 2026 | [Apply](https://job-boards.greenhouse.io/katalyst/jobs/6176711004) |
 | Stripe ✓ | Software Engineer, Intern (Summer or Winter) | Software | San Francisco, Seattle, New York City | Aug 31, 2026 | [Apply](https://stripe.com/jobs/search?gh_jid=8128745) |
@@ -452,6 +457,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Nike ✓ | NIKE, Inc. Software Engineering Undergraduate Internship | Software | Beaverton, Oregon | Aug 31, 2026 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Software-Engineering-Undergraduate-Internship_R-91111) |
 | IGS Energy | Software Engineer Intern 🛂 🏠 | Software | Ohio Remote | Aug 31, 2026 | [Apply](https://igsenergy.wd1.myworkdayjobs.com/IGS/job/Ohio-Remote/Software-Engineer-Intern_R6263) |
 | Nike ✓ | NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship | Data & ML/AI | Beaverton, Oregon | Aug 31, 2026 | [Apply](https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110) |
+| Talentpluto | Full Stack Engineering Intern 🆕 | Software | New York, New York, United States | Aug 28, 2026 | [Apply](https://apply.workable.com/talentpluto/j/D3050663DF/) |
 | Booz Allen ✓ | University – Summer 27, Cybersecurity Analyst Intern 🇺🇸 | Security | McLean, VA | Aug 28, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University---Summer-27--Cybersecurity-Analyst-Intern_R0248214) |
 | Booz Allen ✓ | AI Software Developer Intern 🇺🇸 | Data & ML/AI | San Diego, CA | Aug 28, 2026 | [Apply](https://bah.wd1.myworkdayjobs.com/bah_jobs/job/San-Diego-CA/AI-Software-Developer-Intern_R0248115) |
 | Xaira Therapeutics | AI Scientist Intern, Computational Protein Design | Data & ML/AI | Seattle +5 more | Aug 28, 2026 | [Apply](https://job-boards.greenhouse.io/xairatherapeutics/jobs/5225658007) |
@@ -569,7 +575,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Microsoft | rolling | year-round | ⏳ waiting |
 | Millennium | rolling | year-round | ⏳ waiting |
 
-_186 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **154** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
+_187 companies on the [full radar](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#radar). **155** dated from our own live observations 🎯 (this grows every cycle). "~Aug" = hand-verified typical month, not a promise of the day; "rolling" = posts year-round; "waiting" = not seen in our tracked feeds yet, not a guarantee it isn't out somewhere else._
 
 <details>
 <summary><strong>Recently closed</strong> — 40 roles that left the list in the last 14 days</summary>
@@ -578,6 +584,9 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| The Trade Desk | 2027 North America Software Engineering Internship | Summer 2027 | 2026-09-04 | gone from feed |
+| Hilton Worldwide | 2027 Corporate Summer Internship - Technology (Software Engineering and Cyber) | Summer 2027 | 2026-09-04 | gone from feed |
+| Conagra Brands | Manufacturing Co-Op | Fall 2026 | 2026-09-04 | gone from feed |
 | Philips | Intern – Data AI/ML Engineering – Plymouth, MN – Summer 2027 | Summer 2027 | 2026-09-04 | gone from feed |
 | Booz Allen | University - 2027 Summer Games Cyber Security Intern - Huntsville, AL | Summer 2027 | 2026-09-04 | gone from feed |
 | Availity | Data Science Intern | Fall 2026 | 2026-09-04 | gone from feed |
@@ -615,9 +624,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | American Express | Campus Undergraduate Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-09-01 | gone from feed |
 | American Express | Campus Graduate Masters Summer Internship Program - 2027 Data Engineer, Enterprise Technology Services- Phoenix, AZ | Summer 2027 | 2026-09-01 | gone from feed |
 | Grant Thornton | AI, Data & Technology Intern - Summer 2027 | Summer 2027 | 2026-09-01 | gone from feed |
-| Grant Thornton | AI, Data & Technology Intern - Summer 2027 | Summer 2027 | 2026-09-01 | gone from feed |
-| Stantec | Roadway Design Intern - Infrastructure (Summer 2027) | Summer 2027 | 2026-09-01 | gone from feed |
-| First National Bank | Summer 2027 Data Science Intern - Pittsburgh, PA | Summer 2027 | 2026-09-01 | gone from feed |
 
 </details>
 
@@ -636,7 +642,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,099 of 4,489 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 91% of the full registry) · completed in 523.9s · 112 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
+_Engine (last run): 4,189 of 4,489 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 93% of the full registry) · completed in 313.2s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 100% of open roles._
 
 ## How this list is built
 

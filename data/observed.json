@@ -1464,6 +1464,18 @@
     }
    }
   },
+  "hy vee": {
+   "name": "Hy-Vee",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133"
+     ],
+     "count": 1
+    }
+   }
+  },
   "iat insurance group": {
    "name": "IAT Insurance Group",
    "cycles": {
@@ -2389,9 +2401,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1"
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1",
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
+      "workday:saabusa:/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234",
+      "workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -3166,9 +3181,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94400",
       "oracle:emit.fa.ca3.oraclecloud.com:94533",
       "oracle:emit.fa.ca3.oraclecloud.com:94540",
-      "oracle:emit.fa.ca3.oraclecloud.com:94545"
+      "oracle:emit.fa.ca3.oraclecloud.com:94545",
+      "oracle:emit.fa.ca3.oraclecloud.com:94617"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -3197,5 +3213,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T17:38:48Z"
+ "updated_at": "2026-09-04T20:41:19Z"
 }

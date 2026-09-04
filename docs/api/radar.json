@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T17:38:52Z",
+ "generated_at": "2026-09-04T20:41:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -184,20 +184,6 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
    "note": "opens ~Aug, very early"
-  },
-  {
-   "company": "The Trade Desk",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-15",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/thetradedesk/jobs/5187605007",
-   "note": ""
   },
   {
    "company": "Chevron Corporation",
@@ -659,20 +645,6 @@
    "days_until": -18,
    "status": "open",
    "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
-   "note": ""
-  },
-  {
-   "company": "Hilton Worldwide",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://efet.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1009/job/218257",
    "note": ""
   },
   {
@@ -1852,6 +1824,20 @@
    "note": ""
   },
   {
+   "company": "Hy-Vee",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133",
+   "note": ""
+  },
+  {
    "company": "Scale AI",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -1876,7 +1862,7 @@
    "expected": "2026-09-04",
    "days_until": 0,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
    "note": ""
   },
   {
@@ -2328,6 +2314,20 @@
    "note": "rolling SWE internship postings"
   },
   {
+   "company": "The Trade Desk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Deepgram",
    "last_cycle_posted": "",
    "posted_on": "2026-07-17",
@@ -2510,6 +2510,20 @@
    "note": ""
   },
   {
+   "company": "Hilton Worldwide",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -18,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "General Dynamics Information Technology",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -2608,5 +2622,5 @@
    "note": ""
   }
  ],
- "count": 186
+ "count": 187
 }

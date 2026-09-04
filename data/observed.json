@@ -707,6 +707,18 @@
     }
    }
   },
+  "cibc": {
+   "name": "CIBC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:cibc:/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cigna group": {
    "name": "Cigna Group",
    "cycles": {
@@ -946,9 +958,10 @@
      "role_ids": [
       "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1",
       "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
+      "workday:elanco:/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1",
       "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -961,6 +974,18 @@
      "role_ids": [
       "ashby:ellipsislabs:02136b22-35b1-4b3d-8bef-567c3380a849"
      ]
+    }
+   }
+  },
+  "enfos": {
+   "name": "ENFOS",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workable:enfos-inc:CA15908E0A"
+     ],
+     "count": 1
     }
    }
   },
@@ -1216,6 +1241,18 @@
     }
    }
   },
+  "gevernova": {
+   "name": "Gevernova",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:gevernova:/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2"
+     ],
+     "count": 1
+    }
+   }
+  },
   "globalfoundries": {
    "name": "GlobalFoundries",
    "cycles": {
@@ -1434,6 +1471,18 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:iatinsurancegroup:/job/Raleigh-NC/Cyber-Security-Internship_JR100410"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "id me": {
+   "name": "ID.me",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-03",
+     "role_ids": [
+      "greenhouse:idmeuniversityrecruiting:7980429003"
      ],
      "count": 1
     }
@@ -2397,6 +2446,32 @@
     }
    }
   },
+  "scale ai": {
+   "name": "Scale AI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:scaleai:4730845005"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "schonfeld": {
+   "name": "Schonfeld",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:schonfeld:8171692",
+      "greenhouse:schonfeld:8171696",
+      "greenhouse:schonfeld:8180089"
+     ],
+     "count": 3
+    }
+   }
+  },
   "sensata": {
    "name": "Sensata",
    "cycles": {
@@ -3122,5 +3197,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T13:26:18Z"
+ "updated_at": "2026-09-04T17:38:48Z"
 }

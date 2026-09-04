@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T13:26:21Z",
+ "generated_at": "2026-09-04T17:38:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -690,6 +690,20 @@
    "note": ""
   },
   {
+   "company": "KeyBank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
+   "note": ""
+  },
+  {
    "company": "Continental Resources",
    "last_cycle_posted": "",
    "posted_on": "2026-08-18",
@@ -841,6 +855,20 @@
    "days_until": -15,
    "status": "open",
    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400",
+   "note": ""
+  },
+  {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "note": ""
   },
   {
@@ -1656,6 +1684,20 @@
    "note": ""
   },
   {
+   "company": "ID.me",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/idmeuniversityrecruiting/jobs/7980429003",
+   "note": ""
+  },
+  {
    "company": "Momentive",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1765,6 +1807,76 @@
    "days_until": -1,
    "status": "open",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174099",
+   "note": ""
+  },
+  {
+   "company": "CIBC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
+   "note": ""
+  },
+  {
+   "company": "ENFOS",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://apply.workable.com/enfos-inc/j/CA15908E0A/",
+   "note": ""
+  },
+  {
+   "company": "Gevernova",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2",
+   "note": ""
+  },
+  {
+   "company": "Scale AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
+   "note": "posts roles year-round"
+  },
+  {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
    "note": ""
   },
   {
@@ -2216,20 +2328,6 @@
    "note": "rolling SWE internship postings"
   },
   {
-   "company": "Scale AI",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": true,
-   "confidence": "rolling",
-   "source": "known",
-   "expected": "",
-   "days_until": null,
-   "status": "waiting",
-   "url": "",
-   "note": "posts roles year-round"
-  },
-  {
    "company": "Deepgram",
    "last_cycle_posted": "",
    "posted_on": "2026-07-17",
@@ -2412,20 +2510,6 @@
    "note": ""
   },
   {
-   "company": "KeyBank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -18,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "General Dynamics Information Technology",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -2435,20 +2519,6 @@
    "source": "engine",
    "expected": "2026-08-20",
    "days_until": -15,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -14,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -2538,5 +2608,5 @@
    "note": ""
   }
  ],
- "count": 181
+ "count": 186
 }

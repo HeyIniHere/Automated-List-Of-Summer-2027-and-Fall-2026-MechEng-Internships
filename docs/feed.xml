@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-04T08:51:39Z</updated>
+  <updated>2026-09-04T13:26:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:nexuse-group:a284c926-1072-4dff-9e62-c07365503224</id>
+    <title>Nexus Engineering Group: Civil/Structural Engineer Internship or Co-Op (Summer 2027)</title>
+    <link href="https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224"/>
+    <updated>2026-09-04T13:26:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Maumee, OH</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:nexuse-group:fd0f60a1-bee2-4ff2-8d90-ef42d1fc033f</id>
+    <title>Nexus Engineering Group: Civil/Structural Engineer Internship or Co-Op (Summer 2027)</title>
+    <link href="https://jobs.lever.co/nexuse-group/fd0f60a1-bee2-4ff2-8d90-ef42d1fc033f"/>
+    <updated>2026-09-04T13:26:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Cleveland, OH</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:skillzinc:8168006</id>
+    <title>skillz: Co-op, Software Engineer</title>
+    <link href="https://job-boards.greenhouse.io/skillzinc/jobs/8168006"/>
+    <updated>2026-09-04T13:26:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Las Vegas, Nevada, United States · $32/hr · Java, AWS, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007589</id>
+    <title>Stantec: Digital Practice Co-op/Intern - Infrastructure (Spring/Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589"/>
+    <updated>2026-09-04T13:26:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Washington, DC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10529525</id>
     <title>Amazon: Software Development Engineer Intern, ROBOTICS - 2027</title>
@@ -774,37 +806,5 @@
     <updated>2026-09-02T23:18:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058</id>
-    <title>Niagara Bottling: Manufacturing Intern - Jacksonville</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Jacksonville---Middleburg-FL/Manufacturing-Intern---Jacksonville_R56058"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Jacksonville - Middleburg, FL · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kansas City 2</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kansas-City-2---Kansas-City-MO/Manufacturing-Intern---Kansas-City-2_R56060"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Kansas City 2 - Kansas City, MO · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Kenosha---Pleasant-Prairie-WI/Manufacturing-Intern---Kenosha_R56061</id>
-    <title>Niagara Bottling: Manufacturing Intern - Kenosha</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Kenosha---Pleasant-Prairie-WI/Manufacturing-Intern---Kenosha_R56061"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Kenosha - Pleasant Prairie, WI · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:niagarawater:/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062</id>
-    <title>Niagara Bottling: Manufacturing Intern - Lancaster</title>
-    <link href="https://niagarawater.wd5.myworkdayjobs.com/niagara/job/Lancaster---Lancaster-TX/Manufacturing-Intern---Lancaster_R56062"/>
-    <updated>2026-09-02T23:18:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Lancaster - Lancaster, TX · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

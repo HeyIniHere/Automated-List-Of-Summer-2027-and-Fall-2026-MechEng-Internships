@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-04T08:51:40Z",
+ "generated_at": "2026-09-04T13:26:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -337,6 +337,20 @@
    "days_until": -42,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/quadrillion-labs/a4acc44c-31ce-41a0-ab44-2500487b4d05",
+   "note": ""
+  },
+  {
+   "company": "Nexus Engineering Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-27",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224",
    "note": ""
   },
   {
@@ -1191,6 +1205,20 @@
    "days_until": -7,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/charlesriverassociates/jobs/8128811",
+   "note": ""
+  },
+  {
+   "company": "Stantec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-28",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007589",
    "note": ""
   },
   {
@@ -2482,20 +2510,6 @@
    "note": ""
   },
   {
-   "company": "Stantec",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-28",
-   "days_until": -7,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -2524,5 +2538,5 @@
    "note": ""
   }
  ],
- "count": 180
+ "count": 181
 }

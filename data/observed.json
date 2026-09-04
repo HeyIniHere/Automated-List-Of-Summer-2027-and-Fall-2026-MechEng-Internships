@@ -1886,6 +1886,19 @@
     }
    }
   },
+  "nexus engineering group": {
+   "name": "Nexus Engineering Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-27",
+     "role_ids": [
+      "lever:nexuse-group:a284c926-1072-4dff-9e62-c07365503224",
+      "lever:nexuse-group:fd0f60a1-bee2-4ff2-8d90-ef42d1fc033f"
+     ],
+     "count": 2
+    }
+   }
+  },
   "niantic spatial": {
    "name": "Niantic Spatial",
    "cycles": {
@@ -2190,6 +2203,18 @@
      "first_posted": "2026-07-24",
      "role_ids": [
       "greenhouse:queracomputinginc:5370312008"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "re build manufacturing": {
+   "name": "Re:Build Manufacturing",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-02",
+     "role_ids": [
+      "greenhouse:rebuildmanufacturing:4729848005"
      ],
      "count": 1
     }
@@ -2573,9 +2598,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-28",
      "role_ids": [
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007361"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3096,5 +3122,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T08:51:36Z"
+ "updated_at": "2026-09-04T13:26:18Z"
 }

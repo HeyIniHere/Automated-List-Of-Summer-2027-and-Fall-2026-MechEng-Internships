@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-05T05:36:55Z",
+ "generated_at": "2026-09-05T10:27:11Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 666,
+ "count": 665,
  "jobs": [
   {
    "id": "smartrecruiters:SeniorPlc1:3743990015092046",
@@ -5946,27 +5946,6 @@
    "source": "workday",
    "h1b_approvals": 54,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123480",
-   "company": "CAE",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Arlington, TX",
-   "url": "https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Mechanical-Engineering-Intern_123480",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T13:28:09Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

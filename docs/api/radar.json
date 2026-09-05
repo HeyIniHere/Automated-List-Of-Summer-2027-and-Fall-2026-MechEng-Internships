@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-05T13:56:05Z",
+ "generated_at": "2026-09-05T16:49:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1614,20 +1614,6 @@
    "note": ""
   },
   {
-   "company": "HD Supply",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-02",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://hdsupply.wd1.myworkdayjobs.com/External/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952",
-   "note": ""
-  },
-  {
    "company": "McKesson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -2603,6 +2589,20 @@
    "source": "engine",
    "expected": "2026-08-31",
    "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "HD Supply",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -3,
    "status": "dropped",
    "url": "",
    "note": ""

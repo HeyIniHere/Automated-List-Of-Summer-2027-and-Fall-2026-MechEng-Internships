@@ -1470,9 +1470,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-04",
      "role_ids": [
+      "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
       "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3213,5 +3214,5 @@
    }
   }
  },
- "updated_at": "2026-09-04T23:03:17Z"
+ "updated_at": "2026-09-05T00:54:43Z"
 }

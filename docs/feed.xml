@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-04T23:03:21Z</updated>
+  <updated>2026-09-05T00:54:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1</id>
+    <title>CNA Insurance: Technology Internship Program (Cybersecurity) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Cybersecurity-_R-8130-1"/>
+    <updated>2026-09-05T00:54:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Chicago, IL, USA · $35k–$65k/yr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--AI-Strategy-_R-8127-1</id>
+    <title>CNA Insurance: Technology Internship Program (AI Strategy) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Strategy-_R-8127-1"/>
+    <updated>2026-09-05T00:54:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL, USA · $35k–$65k/yr · LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126</id>
+    <title>CNA Insurance: Technology Internship Program (AI Engineering) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--AI-Engineering-_R-8126"/>
+    <updated>2026-09-05T00:54:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL, USA · $35k–$65k/yr · Python, SQL, Terraform · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cna:/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107</id>
+    <title>CNA Insurance: Technology Internship Program (Software Engineering) 🛂</title>
+    <link href="https://cna.wd1.myworkdayjobs.com/CNA_Careers/job/Chicago-IL-USA/Technology-Internship-Program--Software-Engineering-_R-8107"/>
+    <updated>2026-09-05T00:54:43Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL, USA · $35k–$65k/yr · Java, SQL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153</id>
+    <title>Hy-Vee: Cyber Security Intern- Summer 2027</title>
+    <link href="https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153"/>
+    <updated>2026-09-05T00:54:43Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Corporate Office, Westown Pkwy., West Des Moines, IA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:garnerhealth:6164698004</id>
     <title>Garner Health: Software Engineering Intern 🛂</title>
@@ -512,14 +552,6 @@
     <summary>Summer 2027 · Software · Atlanta, GA · 25–33 USD/hr · Python, C++, TypeScript, JavaScript, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94400</id>
-    <title>WSP: Mechanical Engineering (Transmission) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94400"/>
-    <updated>2026-09-03T20:56:54Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Portland, OR, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000147333760</id>
     <title>AECOM: Mechanical Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/AECOM2/744000147333760"/>
@@ -774,37 +806,5 @@
     <updated>2026-09-03T13:35:54Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, ES · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:InfiniteQuant:744000147163879</id>
-    <title>InfiniteQuant: Quantitative Developer - Internship - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/InfiniteQuant/744000147163879"/>
-    <updated>2026-09-03T08:56:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Quant · New York, New York, United States (Remote) · Python, C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1</id>
-    <title>Momentive: Summer 2027 Intern - Enterprise Reporting &amp; Analytics - Data Science</title>
-    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1"/>
-    <updated>2026-09-03T08:56:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · US NY Niskayuna · Python, SQL, LLMs, Tableau · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756</id>
-    <title>Momentive: Summer 2027 Intern - Software Development</title>
-    <link href="https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"/>
-    <updated>2026-09-03T08:56:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US NY Niskayuna · Java, SQL, Git · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796</id>
-    <title>Hermeus: Software Engineering Intern (Command &amp; Control) - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/hermeus/5b08e2df-c9db-4831-aece-67d89e744796"/>
-    <updated>2026-09-03T04:00:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta, GA · 25–33 USD/hr · C++, TypeScript, JavaScript, React, Angular · sponsorship: citizens-only</summary>
   </entry>
 </feed>

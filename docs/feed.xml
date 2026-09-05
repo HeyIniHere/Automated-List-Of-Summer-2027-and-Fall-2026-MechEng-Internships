@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-05T10:27:11Z</updated>
+  <updated>2026-09-05T13:56:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976</id>
+    <title>Simon Property Group: Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976"/>
+    <updated>2026-09-05T13:56:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Indianapolis, IN · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975</id>
+    <title>Simon Property Group: Intern - Front End Developer (Computer Science, Web Development, or Information Sciences Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Front-End-Developer--Computer-Science--Web-Development--or-Information-Sciences-Majors-_R13975"/>
+    <updated>2026-09-05T13:56:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Indianapolis, IN · JavaScript, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947</id>
+    <title>Simon Property Group: Intern - Project Delivery (Information Services / Computer Science Majors)</title>
+    <link href="https://simon.wd1.myworkdayjobs.com/Simon/job/Indianapolis-IN/Intern---Project-Delivery--Information-Services---Computer-Science-Majors-_R13947"/>
+    <updated>2026-09-05T13:56:01Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Indianapolis, IN</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:SeniorPlc1:3743990015092046</id>
     <title>Senior plc: Manufacturing Engineering Intern 🇺🇸</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-03T13:35:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · El Segundo, California, United States · Python, Linux, ROS · H-1B track record: ~82 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:dynamiccatholic:603f082e-07c8-4b1c-ac09-8963c51229ad</id>
-    <title>Dynamic Catholic: Internship - Front-End UX Intern 🛂</title>
-    <link href="https://jobs.lever.co/dynamiccatholic/603f082e-07c8-4b1c-ac09-8963c51229ad"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Other · Erlanger, Kentucky · JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:dynamiccatholic:e94fa581-892c-4958-9515-0221f862ce57</id>
-    <title>Dynamic Catholic: Internship - Software Developer - Commerce Cloud</title>
-    <link href="https://jobs.lever.co/dynamiccatholic/e94fa581-892c-4958-9515-0221f862ce57"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Erlanger, Kentucky · JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Acumatica:744000146749696</id>
-    <title>Acumatica: AI &amp; Automation Intern, Office of the CFO</title>
-    <link href="https://jobs.smartrecruiters.com/Acumatica/744000146749696"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA, United States (Remote) · $20/hr · Python, LLMs</summary>
   </entry>
 </feed>

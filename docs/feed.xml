@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-05T23:48:51Z</updated>
+  <updated>2026-09-06T04:06:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
+    <title>Harbinger Motors: Intern, Cybersecurity</title>
+    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
+    <updated>2026-09-06T04:05:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Garden Grove, CA · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:harbingermotors:5231838007</id>
+    <title>Harbinger Motors: Intern, Powertrain Manufacturing</title>
+    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231838007"/>
+    <updated>2026-09-06T04:05:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Garden Grove, CA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:simon:/job/Indianapolis-IN/Intern---Data-Engineering--Data-Analytics--Information-Sciences--Computer-Science-Majors-_R13976</id>
     <title>Simon Property Group: Intern - Data Engineering (Data Analytics, Information Sciences, Computer Science Majors)</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-03T13:35:54Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Austin, TX · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:niantic-spatial:02fe210c-a0d9-419f-a0c0-da32d9ff7307</id>
-    <title>Niantic Spatial: Robotics Engineering Intern - Fall 2026</title>
-    <link href="https://jobs.ashbyhq.com/niantic-spatial/02fe210c-a0d9-419f-a0c0-da32d9ff7307"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · San Francisco, CA · $50 – $65 per hour · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:faradayfuture:7828531003</id>
-    <title>Faraday Future: Robotics Data Operator Intern</title>
-    <link href="https://job-boards.greenhouse.io/faradayfuture/jobs/7828531003"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · El Segundo, California, United States · Python, Linux, ROS · H-1B track record: ~82 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

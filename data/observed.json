@@ -2708,6 +2708,18 @@
     }
    }
   },
+  "stokespacetechnologies": {
+   "name": "Stokespacetechnologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "greenhouse:stokespacetechnologies:6176786004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -3214,5 +3226,5 @@
    }
   }
  },
- "updated_at": "2026-09-06T08:43:06Z"
+ "updated_at": "2026-09-06T12:53:24Z"
 }

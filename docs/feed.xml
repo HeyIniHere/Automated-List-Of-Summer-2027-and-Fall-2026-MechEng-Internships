@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-06T08:43:09Z</updated>
+  <updated>2026-09-06T12:53:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:stokespacetechnologies:6176786004</id>
+    <title>Stokespacetechnologies: Summer 2027 Internship - Software 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"/>
+    <updated>2026-09-06T12:53:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Kent, Washington · $28/hr · Python, C++, Rust, TypeScript, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:harbingermotors:5231838007</id>
     <title>Harbinger Motors: Intern, Powertrain Manufacturing</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T17:51:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Farmington, CT</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:contoro:7de98745-6a26-4a96-b82c-0cecf4900eb1</id>
-    <title>Contoro: Robotics Test &amp; Validation Intern</title>
-    <link href="https://jobs.ashbyhq.com/contoro/7de98745-6a26-4a96-b82c-0cecf4900eb1"/>
-    <updated>2026-09-03T13:35:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Austin, TX · Linux</summary>
   </entry>
 </feed>

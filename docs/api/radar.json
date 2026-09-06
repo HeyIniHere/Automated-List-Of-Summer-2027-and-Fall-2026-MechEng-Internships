@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-06T08:43:09Z",
+ "generated_at": "2026-09-06T12:53:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1558,6 +1558,20 @@
    "note": ""
   },
   {
+   "company": "Stokespacetechnologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004",
+   "note": ""
+  },
+  {
    "company": "Tarrant Regional Water District",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -2622,5 +2636,5 @@
    "note": ""
   }
  ],
- "count": 187
+ "count": 188
 }

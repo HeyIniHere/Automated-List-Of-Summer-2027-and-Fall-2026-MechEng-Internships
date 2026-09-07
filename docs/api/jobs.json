@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-09-07T15:48:55Z",
+ "generated_at": "2026-09-07T19:54:15Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 668,
+ "count": 669,
  "jobs": [
+  {
+   "id": "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
+   "company": "Johnson & Johnson",
+   "title": "Athens Manufacturing Plant 2027 Co-Op",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Athens, Georgia, United States of America",
+   "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-07T19:54:11Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 8,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "greenhouse:dropbox:8106224",
    "company": "Dropbox",

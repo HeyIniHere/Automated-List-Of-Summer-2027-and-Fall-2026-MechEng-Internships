@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-07T15:48:55Z</updated>
+  <updated>2026-09-07T19:54:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1</id>
+    <title>Johnson &amp; Johnson: Athens Manufacturing Plant 2027 Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1"/>
+    <updated>2026-09-07T19:54:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Athens, Georgia, United States of America</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:dropbox:8106224</id>
     <title>Dropbox: Software Engineering Intern (Summer 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T17:51:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Stevens Point, WI, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Winsupply1:3743990015046116</id>
-    <title>Winsupply: Data Analyst Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Winsupply1/3743990015046116"/>
-    <updated>2026-09-03T17:51:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

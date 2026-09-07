@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-07T09:25:47Z</updated>
+  <updated>2026-09-07T15:48:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:dropbox:8106224</id>
+    <title>Dropbox: Software Engineering Intern (Summer 2027)</title>
+    <link href="https://jobs.dropbox.com/listing/8106224?gh_jid=8106224"/>
+    <updated>2026-09-07T15:48:52Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote - US: All locations · Python, JavaScript · H-1B track record: ~211 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cox:/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1</id>
     <title>Cox: Software Engineering Intern - Summer 2027 (North Hills, NY)</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T17:51:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Moraine, OH, United States · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W</id>
-    <title>Corteva: R &amp; D Intern - Computer &amp; Data Science</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R---D-Intern---Computer---Data-Science_248131W"/>
-    <updated>2026-09-03T17:51:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · Python, AWS, GCP, Azure · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

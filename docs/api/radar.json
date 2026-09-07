@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-07T04:04:00Z",
+ "generated_at": "2026-09-07T09:25:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -827,20 +827,6 @@
    "days_until": -18,
    "status": "open",
    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
-   "note": ""
-  },
-  {
-   "company": "Airbus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -17,
-   "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Mobile-Area-AL/XMLNAME-2027-Summer-Internship---Industrial-Engineering---PPE-IE_JR10435140",
    "note": ""
   },
   {
@@ -1796,6 +1782,20 @@
    "note": ""
   },
   {
+   "company": "Cox",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1",
+   "note": ""
+  },
+  {
    "company": "ENFOS",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -1863,6 +1863,48 @@
    "days_until": -3,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+   "note": ""
+  },
+  {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+   "note": ""
+  },
+  {
+   "company": "Merck",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Bioprocess-Clinical-Manufacturing---Technology-Co-Op_R413123",
+   "note": ""
+  },
+  {
+   "company": "Xcel Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
    "note": ""
   },
   {
@@ -2538,6 +2580,20 @@
    "note": ""
   },
   {
+   "company": "Airbus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "BNY",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -2636,5 +2692,5 @@
    "note": ""
   }
  ],
- "count": 188
+ "count": 192
 }

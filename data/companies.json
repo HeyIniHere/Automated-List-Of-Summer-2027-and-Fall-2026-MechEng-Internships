@@ -6305,6 +6305,11 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Cribl",
+    "slug": "cribl",
+    "ats": "ashby"
+  },
+  {
     "name": "Criteo",
     "slug": "criteo",
     "ats": "workday",
@@ -11054,6 +11059,11 @@
     "name": "Hightouch",
     "slug": "hightouch",
     "ats": "greenhouse"
+  },
+  {
+    "name": "Hightouch",
+    "slug": "hightouch",
+    "ats": "ashby"
   },
   {
     "name": "Hiive",

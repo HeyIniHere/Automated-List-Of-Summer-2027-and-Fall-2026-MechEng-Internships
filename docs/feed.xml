@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-06T23:47:58Z</updated>
+  <updated>2026-09-07T04:04:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
+    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
+    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
+    <updated>2026-09-07T04:03:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bloomington, Minnesota, United States of America · Python, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:stokespacetechnologies:6176786004</id>
     <title>Stokespacetechnologies: Summer 2027 Internship - Software 🇺🇸</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T17:51:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · East Syracuse, NY (Collamer) · $20.27–$22.3/hr · Python, Java, C++, JavaScript, SQL · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:trumpf:/job/Farmington-CT/Manufacturing-Intern_R00042879</id>
-    <title>TRUMPF: Manufacturing Intern</title>
-    <link href="https://trumpf.wd3.myworkdayjobs.com/TRUMPF_Students/job/Farmington-CT/Manufacturing-Intern_R00042879"/>
-    <updated>2026-09-03T17:51:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Farmington, CT</summary>
   </entry>
 </feed>

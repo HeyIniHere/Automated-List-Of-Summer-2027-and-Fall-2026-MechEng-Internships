@@ -157,6 +157,18 @@
     }
    }
   },
+  "allegion": {
+   "name": "Allegion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-07",
+     "role_ids": [
+      "workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "allied solutions": {
    "name": "Allied Solutions",
    "cycles": {
@@ -3278,5 +3290,5 @@
    }
   }
  },
- "updated_at": "2026-09-07T19:54:11Z"
+ "updated_at": "2026-09-07T22:47:57Z"
 }

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-07T19:54:15Z</updated>
+  <updated>2026-09-07T22:48:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1</id>
+    <title>Allegion: Summer Intern - Robotics Technician</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1"/>
+    <updated>2026-09-07T22:47:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Indianapolis, IN - Tobey Dr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hp:/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1</id>
+    <title>Hewlett Packard (HP): Software Product Security Engineer Intern</title>
+    <link href="https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Software-Product-Security-Engineer-Intern_UNI4740-1"/>
+    <updated>2026-09-07T22:47:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Spring, Texas, United States of America · $35–$40/hr · Python, Java, C#, TypeScript, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1</id>
     <title>Johnson &amp; Johnson: Athens Manufacturing Plant 2027 Co-Op</title>
@@ -182,14 +198,6 @@
     <updated>2026-09-04T23:03:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Redmond, Washington, United States · $22–$24/hr · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94617</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617"/>
-    <updated>2026-09-04T20:41:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Milwaukee, WI, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000147581370</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T17:51:22Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, California, USA · Python, C++ · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Skyward1:744000147320799</id>
-    <title>Skyward: Software Engineer - Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Skyward1/744000147320799"/>
-    <updated>2026-09-03T17:51:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Stevens Point, WI, United States</summary>
   </entry>
 </feed>

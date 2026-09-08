@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-08T07:15:09Z</updated>
+  <updated>2026-09-08T12:53:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
-    <title>Gilead Sciences: Intern - CFO - IT (AI Engineer)</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744"/>
+    <id>urn:intern-engine:workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1</id>
+    <title>AtkinsRéalis: Water Infrastructure Engineering Intern - Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1"/>
+    <updated>2026-09-08T12:52:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US.GA.Atlanta.2018 Powers Ferry Rd</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:maticrobots:a0d77cc5-555f-46d8-89b1-e1df201a77dc</id>
+    <title>Matic: Robotics Customer Success Intern</title>
+    <link href="https://jobs.ashbyhq.com/maticrobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc"/>
     <updated>2026-09-08T07:15:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - North Carolina - Raleigh · LLMs, AWS · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Menlo Park, CA · $25–$35/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---PDM---Manufacturing--Biologics-_R0054750</id>
@@ -24,12 +32,36 @@
     <summary>Not stated · Hardware · United States - California - Foster City · H-1B track record: ~272 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:maticrobots:a0d77cc5-555f-46d8-89b1-e1df201a77dc</id>
-    <title>Matic: Robotics Customer Success Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/a0d77cc5-555f-46d8-89b1-e1df201a77dc"/>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744</id>
+    <title>Gilead Sciences: Intern - CFO - IT (AI Engineer)</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744"/>
     <updated>2026-09-08T07:15:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Menlo Park, CA · $25–$35/hr</summary>
+    <summary>Not stated · Data &amp; ML/AI · United States - North Carolina - Raleigh · LLMs, AWS · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550</id>
+    <title>Micron Technology: Intern - Software Engineer</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"/>
+    <updated>2026-09-08T07:15:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
+    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
+    <updated>2026-09-08T07:15:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
+    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
+    <updated>2026-09-08T07:15:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871</id>
@@ -48,22 +80,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403</id>
-    <title>Merck: 2027 Future Talent Program - Medical Data Scientist - Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403"/>
-    <updated>2026-09-08T07:15:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - North Wales (Upper Gwynedd) · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861</id>
-    <title>Merck: 2027 Future Talent Program - Nonclinical Drug Safety Data Scientist - Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861"/>
-    <updated>2026-09-08T07:15:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA - Massachusetts - Boston (MA Parcel B Laboratory) · Python, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939</id>
     <title>Merck: 2027 Future Talent Program - Standardizing Automation Scripting Practices Through AI-Enabled Knowledge Repository - Intern</title>
     <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"/>
@@ -72,12 +88,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, C++, C#, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550</id>
-    <title>Micron Technology: Intern - Software Engineer</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550"/>
+    <id>urn:intern-engine:workday:thermofisher:/job/Bohemia-New-York-USA/Manufacturing-Engineering-Technician-Intern---Clinical-Labeling_R-01366610</id>
+    <title>Thermo Fisher Scientific: Manufacturing Engineering Technician Intern – Clinical Labeling</title>
+    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Manufacturing-Engineering-Technician-Intern---Clinical-Labeling_R-01366610"/>
     <updated>2026-09-08T07:15:06Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Boise, ID - Main Site · Python, C#, JavaScript, SQL, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Bohemia, New York, USA · H-1B track record: ~368 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:thermofisher:/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576</id>
@@ -86,14 +102,6 @@
     <updated>2026-09-08T07:15:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Rockford, Illinois, USA · H-1B track record: ~368 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thermofisher:/job/Bohemia-New-York-USA/Manufacturing-Engineering-Technician-Intern---Clinical-Labeling_R-01366610</id>
-    <title>Thermo Fisher Scientific: Manufacturing Engineering Technician Intern – Clinical Labeling</title>
-    <link href="https://thermofisher.wd5.myworkdayjobs.com/ThermoFisherCareers/job/Bohemia-New-York-USA/Manufacturing-Engineering-Technician-Intern---Clinical-Labeling_R-01366610"/>
-    <updated>2026-09-08T07:15:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Bohemia, New York, USA · H-1B track record: ~368 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-03T20:56:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Minneapolis, MN · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:corteva:/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W</id>
-    <title>Corteva: R&amp;D Intern – Computer &amp; Data Science</title>
-    <link href="https://corteva.wd5.myworkdayjobs.com/corteva/job/Indianapolis-Indiana-United-States/R-D-Intern---Computer---Data-Science-_248071W"/>
-    <updated>2026-09-03T20:56:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Indianapolis, Indiana, United States · H-1B track record: ~63 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

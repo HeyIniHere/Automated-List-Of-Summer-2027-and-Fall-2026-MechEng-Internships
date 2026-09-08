@@ -1,15 +1,3 @@
 {
-  "pending": [
-    "workday:gilead:/job/United-States---North-Carolina---Raleigh/Intern---CFO---IT--AI-Engineer-_R0054744",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---PDM---Manufacturing--Biologics-_R0054750",
-    "ashby:maticrobots:a0d77cc5-555f-46d8-89b1-e1df201a77dc",
-    "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
-    "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
-    "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
-    "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
-    "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939",
-    "workday:micron:/job/Boise-ID---Main-Site/Intern---Software-Engineer_JR108550",
-    "workday:thermofisher:/job/Rockford-Illinois-USA/Manufacturing-Sciences-Intern_R-01366576",
-    "workday:thermofisher:/job/Bohemia-New-York-USA/Manufacturing-Engineering-Technician-Intern---Clinical-Labeling_R-01366610"
-  ]
+  "pending": []
 }

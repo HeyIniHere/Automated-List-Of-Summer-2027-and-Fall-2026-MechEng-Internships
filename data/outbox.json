@@ -1,3 +1,31 @@
 {
-  "pending": []
+  "pending": [
+    "workday:allegion:/job/Princeton-IL/Summer-Intern---Mechanical-Engineer_JR37342-2",
+    "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+    "greenhouse:datadog:8052118",
+    "greenhouse:fspco-op012325:8783960002",
+    "smartrecruiters:LLNL:3743990015112846",
+    "smartrecruiters:M3USA:744000148244649",
+    "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
+    "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
+    "smartrecruiters:BoschGroup:744000148250353",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1007581",
+    "greenhouse:syskahennessy:8175600",
+    "greenhouse:syskahennessy:8177975",
+    "greenhouse:syskahennessy:8177222",
+    "greenhouse:syskahennessy:8177404",
+    "greenhouse:syskahennessy:8177739",
+    "greenhouse:syskahennessy:8177511",
+    "greenhouse:syskahennessy:8177276",
+    "greenhouse:syskahennessy:8177938",
+    "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977",
+    "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
+    "oracle:edbz.fa.us2.oraclecloud.com:25017627",
+    "oracle:edbz.fa.us2.oraclecloud.com:25017629",
+    "oracle:edbz.fa.us2.oraclecloud.com:25017628",
+    "oracle:edbz.fa.us2.oraclecloud.com:25017630",
+    "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
+    "workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1"
+  ]
 }

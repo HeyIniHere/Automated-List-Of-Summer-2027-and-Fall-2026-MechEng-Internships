@@ -622,6 +622,18 @@
     }
    }
   },
+  "c h robinson": {
+   "name": "C.H. Robinson",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323"
+     ],
+     "count": 1
+    }
+   }
+  },
   "caci": {
    "name": "CACI",
    "cycles": {
@@ -844,6 +856,18 @@
      "first_posted": "2023-08-17",
      "role_ids": [
       "greenhouse:databricks:6883068002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "datadog": {
+   "name": "Datadog",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:datadog:8052118"
      ],
      "count": 1
     }
@@ -1812,6 +1836,18 @@
     }
    }
   },
+  "meijer": {
+   "name": "Meijer",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
+     ],
+     "count": 1
+    }
+   }
+  },
   "melius": {
    "name": "Melius",
    "cycles": {
@@ -1976,12 +2012,13 @@
      "first_posted": "2026-08-14",
      "role_ids": [
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
+      "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
       "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2463,9 +2500,10 @@
      "first_posted": "2026-08-12",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875"
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2755,9 +2793,10 @@
      "first_posted": "2026-06-18",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1006349",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007497"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007581"
      ],
-     "count": 2
+     "count": 3
     },
     "Summer 2027": {
      "first_posted": "2026-08-28",
@@ -2819,6 +2858,19 @@
       "ashby:sunday:08feb65a-08b0-462d-aebf-4f0239a16ed8"
      ],
      "count": 1
+    }
+   }
+  },
+  "talos": {
+   "name": "Talos",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "ashby:talos-trading:2c833180-484f-4657-80e3-f822cf1a0285",
+      "ashby:talos-trading:91fd5274-3b6b-43cf-b366-9f6dc2ae5977"
+     ],
+     "count": 2
     }
    }
   },
@@ -2961,6 +3013,18 @@
      "role_ids": [
       "greenhouse:thetradedesk:5187605007"
      ]
+    }
+   }
+  },
+  "u s bank": {
+   "name": "U.S. Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+     ],
+     "count": 1
     }
    }
   },
@@ -3287,10 +3351,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-07",
      "role_ids": [
+      "workday:xcelenergy:/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1",
       "workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1",
       "workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3307,5 +3372,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T12:52:56Z"
+ "updated_at": "2026-09-08T17:18:21Z"
 }

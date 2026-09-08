@@ -299,9 +299,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
       "lever:anavationllc:f7c83978-8510-409c-a5a3-17618511f819"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -425,9 +426,10 @@
      "first_posted": "2026-08-26",
      "role_ids": [
       "workday:aoins:/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14417",
+      "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
       "workday:aoins:/job/Lansing-MI/Software-Developer-Internship_R_2121"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1341,6 +1343,23 @@
     }
    }
   },
+  "graco": {
+   "name": "Graco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
+      "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
+      "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
+      "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"
+     ],
+     "count": 6
+    }
+   }
+  },
   "grant thornton": {
    "name": "Grant Thornton",
    "cycles": {
@@ -1842,9 +1861,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579"
+      "workday:meijer:/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
+      "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
+      "workday:meijer:/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -1882,13 +1903,17 @@
      "first_posted": "2026-09-07",
      "role_ids": [
       "workday:msd:/job/USA---Massachusetts---Boston-MA-Parcel-B-Laboratory/XMLNAME-2027-Future-Talent-Program---Nonclinical-Drug-Safety-Data-Scientist---Intern_R412861",
+      "workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
       "workday:msd:/job/USA---Pennsylvania---North-Wales-Upper-Gwynedd/XMLNAME-2027-Future-Talent-Program---Medical-Data-Scientist---Intern_R412403",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---AI-ML-Computational-Toxicology---Intern_R412871",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Bioprocess-Clinical-Manufacturing---Technology-Co-Op_R413123",
       "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Laboratory-Operations-AI---Digital-Transformation---Intern_R413048",
-      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939"
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Standardizing-Automation-Scripting-Practices-Through-AI-Enabled-Knowledge-Repository---Intern_R412939",
+      "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751",
+      "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910",
+      "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907"
      ],
-     "count": 6
+     "count": 10
     }
    }
   },
@@ -2088,7 +2113,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 13,
+     "count": 15,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -2102,7 +2127,9 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
-      "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838"
+      "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ]
     },
     "Fall 2026": {
@@ -2454,6 +2481,18 @@
     }
    }
   },
+  "rf smart": {
+   "name": "RF-SMART",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:rfsmart:5409034008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rivet industries": {
    "name": "Rivet Industries",
    "cycles": {
@@ -2500,10 +2539,11 @@
      "first_posted": "2026-08-12",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3022,9 +3062,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
-      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770"
+      "workday:usbank:/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
+      "workday:usbank:/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3317,9 +3358,10 @@
     "Fall 2026": {
      "first_posted": "2026-08-11",
      "role_ids": [
-      "oracle:emit.fa.ca3.oraclecloud.com:93007"
+      "oracle:emit.fa.ca3.oraclecloud.com:93007",
+      "oracle:emit.fa.ca3.oraclecloud.com:94559"
      ],
-     "count": 1
+     "count": 2
     },
     "Summer 2027": {
      "first_posted": "2026-08-20",
@@ -3332,9 +3374,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94533",
       "oracle:emit.fa.ca3.oraclecloud.com:94540",
       "oracle:emit.fa.ca3.oraclecloud.com:94545",
-      "oracle:emit.fa.ca3.oraclecloud.com:94617"
+      "oracle:emit.fa.ca3.oraclecloud.com:94617",
+      "oracle:emit.fa.ca3.oraclecloud.com:94637"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -3372,5 +3415,5 @@
    }
   }
  },
- "updated_at": "2026-09-08T17:18:21Z"
+ "updated_at": "2026-09-08T21:06:03Z"
 }

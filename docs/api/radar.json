@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-08T21:06:08Z",
+ "generated_at": "2026-09-08T23:26:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -956,20 +956,6 @@
    "note": ""
   },
   {
-   "company": "Grant Thornton",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -14,
-   "status": "open",
-   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115752",
-   "note": ""
-  },
-  {
    "company": "Sensata",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1120,7 +1106,7 @@
    "expected": "2026-08-27",
    "days_until": -12,
    "status": "open",
-   "url": "https://jobs.lever.co/anavationllc/f7c83978-8510-409c-a5a3-17618511f819",
+   "url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b",
    "note": ""
   },
   {
@@ -1670,6 +1656,20 @@
    "note": ""
   },
   {
+   "company": "Neighbor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -5,
+   "status": "open",
+   "url": "https://jobs.lever.co/neighbor/7d66629f-3f4b-41ee-a324-fe0154e13c46",
+   "note": ""
+  },
+  {
    "company": "POET",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
@@ -1936,6 +1936,20 @@
    "note": ""
   },
   {
+   "company": "Allen Control Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68",
+   "note": ""
+  },
+  {
    "company": "AtkinsRéalis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1964,6 +1978,34 @@
    "note": ""
   },
   {
+   "company": "Coinbase",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471",
+   "note": "Dec-Jan, peak hiring Feb"
+  },
+  {
+   "company": "Danaher Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859",
+   "note": ""
+  },
+  {
    "company": "Datadog",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1976,6 +2018,20 @@
    "status": "open",
    "url": "https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118",
    "note": "posts roles across the year"
+  },
+  {
+   "company": "Devon Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://wd5.myworkdaysite.com/recruiting/devonenergy/Careers/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
+   "note": ""
   },
   {
    "company": "Graco",
@@ -2340,20 +2396,6 @@
    "status": "waiting",
    "url": "",
    "note": "apply by end of prior year; class set early Q1"
-  },
-  {
-   "company": "Coinbase",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-12-01",
-   "days_until": 84,
-   "status": "waiting",
-   "url": "",
-   "note": "Dec-Jan, peak hiring Feb"
   },
   {
    "company": "Ramp",
@@ -2734,6 +2776,20 @@
    "note": ""
   },
   {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -2788,21 +2844,7 @@
    "status": "dropped",
    "url": "",
    "note": ""
-  },
-  {
-   "company": "Neighbor",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -5,
-   "status": "dropped",
-   "url": "",
-   "note": ""
   }
  ],
- "count": 200
+ "count": 203
 }

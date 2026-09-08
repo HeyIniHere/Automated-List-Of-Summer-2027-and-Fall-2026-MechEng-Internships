@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    "workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1",
+    "ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68",
+    "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
+    "greenhouse:coinbase:8175471",
+    "greenhouse:coinbase:8175459",
+    "greenhouse:coinbase:8175462",
+    "greenhouse:coinbase:8175441",
+    "greenhouse:coinbase:8168315",
+    "workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859",
+    "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1",
+    "oracle:hdjq.fa.us2.oraclecloud.com:26010396",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872",
+    "workday:swbc:/job/San-Antonio-TX/DevOps-Intern_R0015484-2",
+    "oracle:emit.fa.ca3.oraclecloud.com:94817",
+    "oracle:emit.fa.ca3.oraclecloud.com:94364",
+    "oracle:emit.fa.ca3.oraclecloud.com:94360"
+  ]
 }

@@ -1,37 +1,3 @@
 {
-  "pending": [
-    "workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer--Advanced-Development----Indianapolis--IN_JR37458-1",
-    "amazon:amazon:3117694",
-    "lever:anavationllc:a5c70b6a-2d16-4774-9043-677456614b1b",
-    "workday:aoins:/job/Lansing-MI/IT-Security-Engineer-Internship---Summer-2027_R_14477",
-    "workday:deluxe:/job/Minneapolis-MN-USA/Software-Engineer---Intern_261115WD",
-    "greenhouse:eudia:4020078009",
-    "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023507",
-    "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
-    "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
-    "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
-    "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
-    "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
-    "greenhouse:graphcore:8780063002",
-    "workday:meijer:/job/Grand-Rapids-MI/Labor-Industrial-Engineering-Intern--Summer-2027_R000698645",
-    "workday:meijer:/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
-    "workday:msd:/job/USA---North-Carolina---Durham-Old-Oxford/XMLNAME-2027-Future-Talent-Program---Manufacturing-Intern_R416739",
-    "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R416751",
-    "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Co-op_R412910",
-    "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907",
-    "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
-    "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
-    "greenhouse:rfsmart:5409034008",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
-    "workday:swbc:/job/San-Antonio-TX/Software-Engineering-Intern_R0015482-2",
-    "greenhouse:syskahennessy:8178051",
-    "oracle:edbz.fa.us2.oraclecloud.com:25017827",
-    "workday:boeing:/job/USA---Huntington-Beach-CA/Boeing-Engineering---Technology-Innovation--Graduate-Researcher-Program----Computational-Fluid-Dynamics-Intern_JR2026523774",
-    "workday:boeing:/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687",
-    "workday:boeing:/job/USA---Hazelwood-MO/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Computational-Fluid-Dynamics--CFD--Intern_JR2026523768",
-    "workday:trumpf:/job/Chicago-IL/Smart-Factory-Robotics---Operations-Intern_R00042570",
-    "workday:usbank:/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766",
-    "oracle:emit.fa.ca3.oraclecloud.com:94637",
-    "oracle:emit.fa.ca3.oraclecloud.com:94559"
-  ]
+  "pending": []
 }

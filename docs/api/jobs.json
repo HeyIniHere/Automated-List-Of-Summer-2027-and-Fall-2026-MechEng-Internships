@@ -1,9 +1,30 @@
 {
- "generated_at": "2026-09-07T22:48:00Z",
+ "generated_at": "2026-09-08T01:12:07Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 670,
+ "count": 671,
  "jobs": [
+  {
+   "id": "workday:hp:/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+   "company": "Hewlett Packard (HP)",
+   "title": "Business Intelligence and Infrastructure Analysts  Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Vancouver, Washington, United States of America",
+   "url": "https://hp.wd5.myworkdayjobs.com/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Business-Intelligence-and-Infrastructure-Analysts--Intern_UNI4669-1",
+   "posted_at": "2026-09-07T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-08T01:12:03Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Robotics-Technician_JR37367-1",
    "company": "Allegion",

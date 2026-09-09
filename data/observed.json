@@ -91,9 +91,10 @@
       "smartrecruiters:AECOM2:744000145837999",
       "smartrecruiters:AECOM2:744000146989469",
       "smartrecruiters:AECOM2:744000147333760",
-      "smartrecruiters:AECOM2:744000148574554"
+      "smartrecruiters:AECOM2:744000148574554",
+      "smartrecruiters:AECOM2:744000148586189"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -245,13 +246,14 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 5,
+     "count": 6,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
-      "amazon:amazon:10529525"
+      "amazon:amazon:10529525",
+      "amazon:amazon:10535282"
      ]
     }
    }
@@ -634,12 +636,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
+      "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -807,9 +811,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-02",
      "role_ids": [
-      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712"
+      "workday:cigna:/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
+      "workday:cigna:/job/TX-Austin-11501-Alterra-Pkwy-STE-500/The-Cigna-Group-s-Technology-Development-Program---AI-Engineering-Track-Summer-Internship_26009535"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -819,9 +824,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-01",
      "role_ids": [
+      "workday:clarios:/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
       "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1404,11 +1410,12 @@
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2075,9 +2082,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
-      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756"
+      "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
+      "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2733,6 +2741,15 @@
       "ashby:saronic:1c74957f-0895-415b-9324-08b0994747d7",
       "ashby:saronic:c95c2e3a-4c67-47b0-a03d-0e0317ac11a3"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "ashby:saronic:2b037fca-754c-4077-b224-eb35cf2b2b97",
+      "ashby:saronic:60afb634-5515-4347-824a-3816735541c2",
+      "ashby:saronic:f52ae6eb-7eba-4c64-97c7-57e2a234e088"
+     ],
+     "count": 3
     }
    }
   },
@@ -2820,6 +2837,18 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sierra": {
+   "name": "Sierra",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-31",
+     "role_ids": [
+      "ashby:sierra:34b31b67-268c-4270-b48f-72e59064c96e"
      ],
      "count": 1
     }
@@ -3567,5 +3596,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T18:34:11Z"
+ "updated_at": "2026-09-09T21:43:20Z"
 }

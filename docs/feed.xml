@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-09T04:14:09Z</updated>
+  <updated>2026-09-09T09:37:22Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cisco:/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180</id>
+    <title>Cisco: Software Consulting Engineer I (Intern) United States</title>
+    <link href="https://cisco.wd5.myworkdayjobs.com/cisco_careers/job/USA-RESEARCH-TRIANGLE-PARK/Software-Consulting-Engineer-I--Intern--United-States_2025180"/>
+    <updated>2026-09-09T09:37:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA-RESEARCH TRIANGLE PARK · Python, Java, SQL, Vue, Spring · H-1B track record: ~3.4k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1</id>
+    <title>Moog: Intern, Software Engineering</title>
+    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"/>
+    <updated>2026-09-09T09:37:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mineral Wells, TX</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd</id>
     <title>Allen Control Systems: Manufacturing Engineering Co-op / Intern, 2027</title>
@@ -32,17 +48,17 @@
     <summary>Summer 2027 · Hardware · Austin, TX, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127776</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127776"/>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127766</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127766"/>
     <updated>2026-09-09T04:14:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127766</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127766"/>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127776</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127776"/>
     <updated>2026-09-09T04:14:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
@@ -790,21 +806,5 @@
     <updated>2026-09-07T09:25:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Reston, VA · Python, Java, JavaScript, SQL, Git · sponsorship: no-sponsorship · H-1B track record: ~35 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Bioprocess-Clinical-Manufacturing---Technology-Co-Op_R413123</id>
-    <title>Merck: 2027 Future Talent Program - Bioprocess Clinical Manufacturing &amp; Technology Co-Op</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Bioprocess-Clinical-Manufacturing---Technology-Co-Op_R413123"/>
-    <updated>2026-09-07T09:25:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - Pennsylvania - West Point · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1</id>
-    <title>Xcel Energy: AI &amp; Automation Intern- CO</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80205/AI---Automation-Intern--CO_JR115739-1"/>
-    <updated>2026-09-07T09:25:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80205 · $20.9–$22.1/hr</summary>
   </entry>
 </feed>

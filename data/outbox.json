@@ -1,9 +1,3 @@
 {
-  "pending": [
-    "ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd",
-    "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26009934",
-    "smartrecruiters:LLNL:3743990015127776",
-    "smartrecruiters:LLNL:3743990015127766"
-  ]
+  "pending": []
 }

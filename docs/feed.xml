@@ -5,23 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-08T23:26:46Z</updated>
+  <updated>2026-09-09T04:14:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1</id>
-    <title>Allegion: Summer Intern - Firmware Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"/>
-    <updated>2026-09-08T23:26:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Farmington, CT · $25–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68</id>
-    <title>Allen Control Systems: Mechanical Engineering Intern, 2027</title>
-    <link href="https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68"/>
-    <updated>2026-09-08T23:26:42Z</updated>
+    <id>urn:intern-engine:ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd</id>
+    <title>Allen Control Systems: Manufacturing Engineering Co-op / Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/e7cefcf6-7322-43ba-861e-22e76f8186bd"/>
+    <updated>2026-09-09T04:14:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Austin, TX · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c</id>
+    <title>Allen Control Systems: Software Engineering Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"/>
+    <updated>2026-09-09T04:14:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Austin, TX · Python, Java, C++, Kotlin, Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26009934</id>
+    <title>Emerson Electric: Mechanical Engineering Internship - Summer 2027 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009934"/>
+    <updated>2026-09-09T04:14:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Austin, TX, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127776</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127776"/>
+    <updated>2026-09-09T04:14:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015127766</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015127766"/>
+    <updated>2026-09-09T04:14:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037</id>
@@ -32,12 +56,28 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Austin, TX · Python, C++, PyTorch, TensorFlow, Computer Vision</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175471</id>
-    <title>Coinbase: Analytics Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"/>
+    <id>urn:intern-engine:ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68</id>
+    <title>Allen Control Systems: Mechanical Engineering Intern, 2027</title>
+    <link href="https://jobs.ashbyhq.com/allen-control-systems/ad41a645-7b94-407d-a579-003fba1b8e68"/>
     <updated>2026-09-08T23:26:42Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Austin, TX · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:coinbase:8168315</id>
+    <title>Coinbase: Software Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Hybrid - San Francisco, CA · LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:coinbase:8175441</id>
+    <title>Coinbase: Machine Learning Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:coinbase:8175459</id>
@@ -56,20 +96,52 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8175441</id>
-    <title>Coinbase: Machine Learning Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441"/>
+    <id>urn:intern-engine:greenhouse:coinbase:8175471</id>
+    <title>Coinbase: Analytics Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8175471?gh_jid=8175471"/>
     <updated>2026-09-08T23:26:42Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Hybrid - San Francisco, CA · Python, SQL, LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:coinbase:8168315</id>
-    <title>Coinbase: Software Engineer Intern</title>
-    <link href="https://www.coinbase.com/careers/positions/8168315?gh_jid=8168315"/>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94360</id>
+    <title>WSP: Civil/Structural Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94360"/>
     <updated>2026-09-08T23:26:42Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Hybrid - San Francisco, CA · LLMs · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Duluth, GA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94364</id>
+    <title>WSP: Civil/Structural Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94364"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Oradell, NJ, United States · $24.76–$32.22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94817</id>
+    <title>WSP: Mechanical Engineering (Thermal Generation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Mount Laurel, NJ, United States · $23.9–$31.11/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010396</id>
+    <title>Emerson Electric: Software Development Intern</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, TX, United States · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1</id>
+    <title>Allegion: Summer Intern - Firmware Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Farmington-CT/Firmware-Engineer-Intern_JR37449-1"/>
+    <updated>2026-09-08T23:26:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Farmington, CT · $25–$26/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859</id>
@@ -88,14 +160,6 @@
     <summary>Summer 2027 · Security · Oklahoma City, OK</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010396</id>
-    <title>Emerson Electric: Software Development Intern</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010396"/>
-    <updated>2026-09-08T23:26:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Austin, TX, United States · Python, Java, C++, C#, JavaScript</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872</id>
     <title>RTX: Electrical Firmware (Winter/Spring Co-op)(Onsite) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Electrical-Firmware--Winter-Spring-Co-op--Onsite-_01871872"/>
@@ -110,30 +174,6 @@
     <updated>2026-09-08T23:26:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · San Antonio, TX · Java, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94817</id>
-    <title>WSP: Mechanical Engineering (Thermal Generation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94817"/>
-    <updated>2026-09-08T23:26:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mount Laurel, NJ, United States · $23.9–$31.11/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94364</id>
-    <title>WSP: Civil/Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94364"/>
-    <updated>2026-09-08T23:26:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Oradell, NJ, United States · $24.76–$32.22/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94360</id>
-    <title>WSP: Civil/Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94360"/>
-    <updated>2026-09-08T23:26:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Duluth, GA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:3117694</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-07T09:25:43Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80205 · $20.9–$22.1/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xcelenergy:/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833</id>
-    <title>Xcel Energy: Reliability Data Analyst Intern- CO</title>
-    <link href="https://xcelenergy.wd1.myworkdayjobs.com/External/job/Denver-CO-80223/Reliability-Data-Analyst-Intern--CO_JR115833"/>
-    <updated>2026-09-07T09:25:43Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Denver, CO, 80223 · $19–$20.9/hr · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396</id>
-    <title>Hewlett Packard Enterprise: HPC AI Systems Administrator Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Bloomington-Minnesota-United-States-of-America/HPC-AI-Systems-Administrator-Intern_1213396"/>
-    <updated>2026-09-07T04:03:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bloomington, Minnesota, United States of America · Python, Linux, Git · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stokespacetechnologies:6176786004</id>
-    <title>Stokespacetechnologies: Summer 2027 Internship - Software 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/stokespacetechnologies/jobs/6176786004"/>
-    <updated>2026-09-06T12:53:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Kent, Washington · $28/hr · Python, C++, Rust, TypeScript, JavaScript · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:harbingermotors:5231838007</id>
-    <title>Harbinger Motors: Intern, Powertrain Manufacturing</title>
-    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231838007"/>
-    <updated>2026-09-06T04:05:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Garden Grove, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:harbingermotors:5231842007</id>
-    <title>Harbinger Motors: Intern, Cybersecurity</title>
-    <link href="https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007"/>
-    <updated>2026-09-06T04:05:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Garden Grove, CA · Python</summary>
   </entry>
 </feed>

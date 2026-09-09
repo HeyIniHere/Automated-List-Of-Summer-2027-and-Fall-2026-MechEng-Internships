@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-09T14:26:22Z",
+ "generated_at": "2026-09-09T18:34:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -350,7 +350,7 @@
    "expected": "2026-07-29",
    "days_until": -42,
    "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
    "note": ""
   },
   {
@@ -662,20 +662,6 @@
    "note": ""
   },
   {
-   "company": "KeyBank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-17",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://keybank.wd5.myworkdayjobs.com/External_Career_Site/job/Brooklyn-OH/XMLNAME-2027-Summer-Key-Technology---Services--Cyber-Information-Security-Track-Internship--Cleveland_R-41384",
-   "note": ""
-  },
-  {
    "company": "Continental Resources",
    "last_cycle_posted": "",
    "posted_on": "2026-08-18",
@@ -826,7 +812,7 @@
    "expected": "2026-08-20",
    "days_until": -20,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94360",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94810",
    "note": ""
   },
   {
@@ -1306,6 +1292,20 @@
    "note": ""
   },
   {
+   "company": "Hermeus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -9,
+   "status": "open",
+   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
+   "note": ""
+  },
+  {
    "company": "HP IQ",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1415,20 +1415,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
-   "note": ""
-  },
-  {
-   "company": "Hermeus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://jobs.lever.co/hermeus/1bdf3754-5649-4a50-913e-b05140cb004f",
    "note": ""
   },
   {
@@ -1974,7 +1960,7 @@
    "expected": "2026-09-08",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226636007",
+   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226634007",
    "note": ""
   },
   {
@@ -2791,6 +2777,20 @@
   },
   {
    "company": "Hilton Worldwide",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-17",
+   "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "KeyBank",
    "last_cycle_posted": "",
    "posted_on": "2026-08-17",
    "precision": "day",

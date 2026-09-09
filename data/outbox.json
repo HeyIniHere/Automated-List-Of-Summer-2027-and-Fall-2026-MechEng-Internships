@@ -1,3 +1,23 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:AECOM2:744000148574554",
+    "workday:allegion:/job/Indianapolis-IN---Tobey-Dr/Summer-Intern---Manufacturing-Engineering---Assembly_JR37346-1",
+    "workday:cranecompany:/job/Spartanburg-South-Carolina/Manufacturing-Engineering-Co-op_JR102426",
+    "lever:crestoperations:e012721c-e731-483d-a4e3-1a240c48bfbd",
+    "smartrecruiters:Eurofins:744000148531473",
+    "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Manufacturing-Engineering-Intern_R0023564",
+    "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
+    "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
+    "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60",
+    "workday:idexcorp:/job/Oklahoma-City-Oklahoma/Mechanical-Engineer-Intern_R-09824-1",
+    "ashby:interplay:bdf67758-1f20-4a01-8bb3-ccebfa79e9ac",
+    "workday:leidos:/job/Huntsville-AL/Aerospace-M-S-Engineer-Intern_R-00191760",
+    "workday:leidos:/job/Huntsville-AL/Mechanical-Design-Engineer-Summer-Intern_R-00191782",
+    "greenhouse:lexingtonmedical:5400236008",
+    "workday:myhrhome:/job/Evansville-IN/Software-Developer-Intern---Document-Shared-Services--Part-Time-_R2608-52284",
+    "smartrecruiters:BoschGroup:744000148575999",
+    "smartrecruiters:BoschGroup:744000148542054",
+    "oracle:edbz.fa.us2.oraclecloud.com:25017573",
+    "oracle:emit.fa.ca3.oraclecloud.com:94814"
+  ]
 }

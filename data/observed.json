@@ -90,9 +90,10 @@
       "smartrecruiters:AECOM2:744000145646439",
       "smartrecruiters:AECOM2:744000145837999",
       "smartrecruiters:AECOM2:744000146989469",
-      "smartrecruiters:AECOM2:744000147333760"
+      "smartrecruiters:AECOM2:744000147333760",
+      "smartrecruiters:AECOM2:744000148574554"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -620,9 +621,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "smartrecruiters:BoschGroup:744000148518808"
+      "smartrecruiters:BoschGroup:744000148518808",
+      "smartrecruiters:BoschGroup:744000148542054"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1175,9 +1177,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "smartrecruiters:Eurofins:744000147214369"
+      "smartrecruiters:Eurofins:744000147214369",
+      "smartrecruiters:Eurofins:744000148531473"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1447,10 +1450,11 @@
       "workday:graco:/job/Anoka-Minnesota-USA/Manufacturing-Engineering-Co-op--May---December-2027-_R0023613",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-Op_R0023506",
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1546,16 +1550,18 @@
      ]
     },
     "Summer 2027": {
-     "first_posted": "2026-09-01",
+     "first_posted": "2026-08-31",
      "role_ids": [
+      "lever:hermeus:1bc5c858-1b04-4093-80a0-2ba3491afc60",
       "lever:hermeus:1bdf3754-5649-4a50-913e-b05140cb004f",
       "lever:hermeus:445db430-6f81-41cf-847a-56a947afb936",
       "lever:hermeus:555263f6-c5ec-4489-ab07-1aea546b70e7",
       "lever:hermeus:5b08e2df-c9db-4831-aece-67d89e744796",
+      "lever:hermeus:5f6a6e79-9836-4c33-b40b-a2bb6c27bd06",
       "lever:hermeus:60b5d40a-1065-4bd2-8c72-6b2fb69d4761",
       "lever:hermeus:d87ed913-affc-475e-b721-c5b5f11c3c7b"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -1929,9 +1935,10 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "greenhouse:lexingtonmedical:5400185008",
+      "greenhouse:lexingtonmedical:5400236008",
       "greenhouse:lexingtonmedical:5404584008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3519,9 +3526,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94617",
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
+      "oracle:emit.fa.ca3.oraclecloud.com:94814",
       "oracle:emit.fa.ca3.oraclecloud.com:94817"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -3559,5 +3567,5 @@
    }
   }
  },
- "updated_at": "2026-09-09T14:26:17Z"
+ "updated_at": "2026-09-09T18:34:11Z"
 }

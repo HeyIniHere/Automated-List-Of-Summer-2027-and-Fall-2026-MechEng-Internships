@@ -1,26 +1,3 @@
 {
-  "pending": [
-    "workday:ameriprise:/job/Minneapolis-Minnesota/Data-Analytics---AI-Intern---RiverSource_R26_3595",
-    "workday:bah:/job/McLean-VA/Enterprise-Cybersecurity-Data-Loss-Prevention-Intern_R0249131-1",
-    "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
-    "workday:cae:/job/Arlington-TX/Mechanical-Engineering-Intern_123573",
-    "workday:cigna:/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
-    "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Mechanical-Engineering-Intern_R0023509",
-    "workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023603",
-    "workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554",
-    "workday:graco:/job/Flagstaff-Arizona-USA/Mechanical-Engineering-Intern_R0023604",
-    "oracle:eevd.fa.us6.oraclecloud.com:2027455",
-    "greenhouse:hudl:8114314",
-    "workday:labcorp:/job/Baltimore-MD/Intern---Data-Science---Oncology_2630590",
-    "greenhouse:nisc:8094408",
-    "greenhouse:testnisc:8191885",
-    "greenhouse:testnisc:8191898",
-    "greenhouse:perpay:4076988007",
-    "workday:polarsemi:/job/Bloomington-MN-USA/Industrial-Engineering-Intern_R3772",
-    "workday:polarsemi:/job/Bloomington-MN-USA/Manufacturing-Planning-Intern_R3785",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineer-Co-Op---Onsite_01871478",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Co-Op--Software-Engineer--Onsite_01871298",
-    "greenhouse:schonfeld:8171699",
-    "oracle:edbz.fa.us2.oraclecloud.com:25017625"
-  ]
+  "pending": []
 }

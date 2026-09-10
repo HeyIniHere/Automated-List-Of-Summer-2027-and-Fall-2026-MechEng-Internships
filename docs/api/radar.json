@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T00:06:08Z",
+ "generated_at": "2026-09-10T04:34:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -350,7 +350,7 @@
    "expected": "2026-07-29",
    "days_until": -43,
    "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
    "note": ""
   },
   {
@@ -1568,7 +1568,7 @@
    "expected": "2026-09-01",
    "days_until": -9,
    "status": "open",
-   "url": "https://apply.workable.com/twgai/j/AC536E5EE2/",
+   "url": "https://apply.workable.com/twgai/j/263B34D737/",
    "note": ""
   },
   {
@@ -1975,20 +1975,6 @@
    "days_until": -2,
    "status": "open",
    "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
-   "note": ""
-  },
-  {
-   "company": "CHAOS Industries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/chaosindustries/jobs/5226634007",
    "note": ""
   },
   {
@@ -2995,6 +2981,20 @@
    "source": "engine",
    "expected": "2026-09-02",
    "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "CHAOS Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -2,
    "status": "dropped",
    "url": "",
    "note": ""

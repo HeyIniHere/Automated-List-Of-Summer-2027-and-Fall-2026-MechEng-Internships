@@ -2849,9 +2849,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3625,5 +3626,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T00:06:03Z"
+ "updated_at": "2026-09-10T04:34:05Z"
 }

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-10T04:34:09Z</updated>
+  <updated>2026-09-10T09:38:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Eurofins:744000148712379</id>
+    <title>Eurofins: 6-month paid internship - AI &amp; Automation</title>
+    <link href="https://jobs.smartrecruiters.com/Eurofins/744000148712379"/>
+    <updated>2026-09-10T09:38:09Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Barcelona, CT, ES · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010</id>
+    <title>Shield AI: Summer 2027 - Software Engineer Intern</title>
+    <link href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"/>
+    <updated>2026-09-10T04:34:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Diego, California · 37–97 USD/hr · Python, Java, C++, JavaScript, PyTorch</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Mechanical-Engineer_JR37316-1</id>
     <title>Allegion: Summer Intern - Mechanical Engineer</title>
@@ -24,12 +40,12 @@
     <summary>Not stated · Hardware · Everett, WA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1</id>
-    <title>Allegion: Summer Intern - Mechanical Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1"/>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2</id>
+    <title>Allegion: Summer Intern – Mechanical Engineer – Golden, CO</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2"/>
     <updated>2026-09-10T04:34:05Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Indianapolis, IN - Hague Rd</summary>
+    <summary>Not stated · Hardware · Golden, CO</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Firmware-Engineer_JR37333-1</id>
@@ -40,14 +56,6 @@
     <summary>Not stated · Hardware · Indianapolis, IN - Hague Rd · Python, C#</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2</id>
-    <title>Allegion: Summer Intern – Mechanical Engineer – Golden, CO</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Mechanical-Engineer---Golden--CO_JR37455-2"/>
-    <updated>2026-09-10T04:34:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Golden, CO</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer--Indianapolis--IN_JR37453-1</id>
     <title>Allegion: Summer Intern – Mechanical Engineer, Indianapolis, IN</title>
     <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer--Indianapolis--IN_JR37453-1"/>
@@ -56,12 +64,12 @@
     <summary>Not stated · Hardware · Indianapolis, IN - Hague Rd</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010</id>
-    <title>Shield AI: Summer 2027 - Software Engineer Intern</title>
-    <link href="https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010"/>
+    <id>urn:intern-engine:workday:allegion:/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1</id>
+    <title>Allegion: Summer Intern - Mechanical Engineer</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Indianapolis-IN---Hague-Rd/Summer-Intern---Mechanical-Engineer_JR37491-1"/>
     <updated>2026-09-10T04:34:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Diego, California · 37–97 USD/hr · Python, Java, C++, JavaScript, PyTorch</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Indianapolis, IN - Hague Rd</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7984600003</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-08T21:06:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Highlands Ranch, Colorado, United States · $25/hr · JavaScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8178051</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8178051"/>
-    <updated>2026-09-08T21:06:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Jacksonville, FL</summary>
   </entry>
 </feed>

@@ -247,14 +247,15 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 6,
+     "count": 7,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
       "amazon:amazon:10459543",
       "amazon:amazon:10517567",
       "amazon:amazon:10529525",
-      "amazon:amazon:10535282"
+      "amazon:amazon:10535282",
+      "amazon:amazon:10536817"
      ]
     }
    }
@@ -478,6 +479,18 @@
     }
    }
   },
+  "avav": {
+   "name": "Avav",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:avav:/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549"
+     ],
+     "count": 1
+    }
+   }
+  },
   "awetomaton": {
    "name": "Awetomaton",
    "cycles": {
@@ -548,6 +561,19 @@
     "Fall 2026": {
      "first_posted": "2026-06-02",
      "count": 0
+    }
+   }
+  },
+  "bedrock robotics": {
+   "name": "Bedrock Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+      "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1"
+     ],
+     "count": 2
     }
    }
   },
@@ -1835,6 +1861,24 @@
     }
    }
   },
+  "insulet": {
+   "name": "Insulet Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209"
+     ],
+     "count": 7
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -2240,10 +2284,13 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "greenhouse:nisc:8094408",
+      "greenhouse:nisc:8191724",
       "greenhouse:testnisc:8191885",
-      "greenhouse:testnisc:8191898"
+      "greenhouse:testnisc:8191898",
+      "greenhouse:testnisc:8191986",
+      "greenhouse:testnisc:8191987"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -2408,6 +2455,18 @@
       "greenhouse:thenuclearcompany:5391923008"
      ],
      "count": 4
+    }
+   }
+  },
+  "nvent": {
+   "name": "nVent",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
+     ],
+     "count": 1
     }
    }
   },
@@ -2737,9 +2796,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "greenhouse:rfsmart:5407206008",
       "greenhouse:rfsmart:5409034008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2799,12 +2859,13 @@
      "first_posted": "2026-08-12",
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2907,6 +2968,18 @@
       "greenhouse:schonfeld:8180089"
      ],
      "count": 4
+    }
+   }
+  },
+  "securian financial group": {
+   "name": "Securian Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:hq:/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894"
+     ],
+     "count": 1
     }
    }
   },
@@ -3198,6 +3271,18 @@
     }
    }
   },
+  "target": {
+   "name": "Target",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:target:/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082"
+     ],
+     "count": 1
+    }
+   }
+  },
   "tarrant regional water district": {
    "name": "Tarrant Regional Water District",
    "cycles": {
@@ -3296,6 +3381,20 @@
      "role_ids": [
       "workable:tmeic-corporation-americas:FD4C9770FF"
      ]
+    }
+   }
+  },
+  "toro": {
+   "name": "The Toro Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
+      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
+      "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
+     ],
+     "count": 3
     }
    }
   },
@@ -3744,5 +3843,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T18:22:25Z"
+ "updated_at": "2026-09-10T21:38:55Z"
 }

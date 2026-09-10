@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-10T18:22:30Z",
+ "generated_at": "2026-09-10T21:39:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -364,7 +364,7 @@
    "expected": "2026-07-29",
    "days_until": -43,
    "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
    "note": ""
   },
   {
@@ -802,20 +802,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952",
-   "note": ""
-  },
-  {
    "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1079,20 +1065,6 @@
    "days_until": -14,
    "status": "open",
    "url": "https://airproducts.wd5.myworkdayjobs.com/AP0001/job/Allentown-Pennsylvania/Summer-Intern--IT---Cyber-Audit--2027-_JR-2026-21954",
-   "note": ""
-  },
-  {
-   "company": "AnaVation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -14,
-   "status": "open",
-   "url": "https://jobs.lever.co/anavationllc/a5c70b6a-2d16-4774-9043-677456614b1b",
    "note": ""
   },
   {
@@ -1610,7 +1582,7 @@
    "expected": "2026-09-02",
    "days_until": -8,
    "status": "open",
-   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712",
+   "url": "https://cigna.wd5.myworkdayjobs.com/cignacareers/job/CT-Bloomfield-900-Cottage-Grove-Rd-Wilde-Bldg/The-Cigna-Group-s-Technology-Development-Program-----Infrastructure---Cloud-Engineering-Track_26009529",
    "note": ""
   },
   {
@@ -2286,6 +2258,34 @@
    "note": ""
   },
   {
+   "company": "Avav",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549",
+   "note": ""
+  },
+  {
+   "company": "Bedrock Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+   "note": ""
+  },
+  {
    "company": "Brevan Howard",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2297,6 +2297,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+   "note": ""
+  },
+  {
+   "company": "Insulet Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
    "note": ""
   },
   {
@@ -2325,6 +2339,62 @@
    "days_until": 0,
    "status": "open",
    "url": "https://nelnet.wd1.myworkdayjobs.com/MyNelnet/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098",
+   "note": ""
+  },
+  {
+   "company": "nVent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539",
+   "note": ""
+  },
+  {
+   "company": "Securian Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894",
+   "note": ""
+  },
+  {
+   "company": "Target",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
+   "note": ""
+  },
+  {
+   "company": "The Toro Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
    "note": ""
   },
   {
@@ -3000,6 +3070,20 @@
    "note": ""
   },
   {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -3070,6 +3154,20 @@
    "note": ""
   },
   {
+   "company": "AnaVation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -3126,5 +3224,5 @@
    "note": ""
   }
  ],
- "count": 223
+ "count": 230
 }

@@ -1,3 +1,35 @@
 {
-  "pending": []
+  "pending": [
+    "amazon:amazon:10536817",
+    "workday:avav:/job/Centreville-VA/Software-Engineering-Intern_8593",
+    "workday:avav:/job/Melbourne-FL/Software-Engineering-Intern_8613",
+    "workday:avav:/job/Pottstown-PA/Mechanical-Engineering-Intern_8627",
+    "workday:avav:/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549",
+    "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
+    "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
+    "workday:magna:/job/Southfield-Michigan-US/Intern---Engineering-Software_R00260232",
+    "greenhouse:nisc:8191724",
+    "greenhouse:testnisc:8191987",
+    "greenhouse:testnisc:8191986",
+    "workday:niagarawater:/job/Plainfield---Plainfield-IN/Manufacturing-Internship---Plainfield_R56553",
+    "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539",
+    "workday:nvent:/job/Blue-Ash-OH-US/Mechanical-Engineering-Co-Op_R23566",
+    "greenhouse:rfsmart:5407206008",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
+    "oracle:fa-errt-saasfaprod1.fa.ocs.oraclecloud.com:5393",
+    "workday:hq:/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894",
+    "workday:target:/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
+    "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
+    "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101",
+    "workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
+    "greenhouse:vast:4711403006",
+    "greenhouse:vast:4711400006"
+  ]
 }

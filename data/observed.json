@@ -1587,6 +1587,20 @@
     }
    }
   },
+  "hmh": {
+   "name": "HMH",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:hmhw:/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
+      "workday:hmhw:/job/Houston-TX/Mechanical-Engineering-Intern_JR102383",
+      "workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384"
+     ],
+     "count": 3
+    }
+   }
+  },
   "hntb": {
    "name": "HNTB",
    "cycles": {
@@ -1751,6 +1765,19 @@
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
      "count": 16
+    }
+   }
+  },
+  "immuta": {
+   "name": "Immuta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "lever:immuta:3c4cb235-6138-4a50-add2-666a5216427e",
+      "lever:immuta:b9b21075-74a4-4b64-8f1b-f0be1fb0b24d"
+     ],
+     "count": 2
     }
    }
   },
@@ -2193,6 +2220,18 @@
     }
    }
   },
+  "nelnet": {
+   "name": "Nelnet",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "workday:nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netsmart": {
    "name": "Netsmart",
    "cycles": {
@@ -2415,6 +2454,20 @@
     }
    }
   },
+  "pacific fusion": {
+   "name": "Pacific Fusion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "greenhouse:pacificfusion:4398312009",
+      "greenhouse:pacificfusion:4398373009",
+      "greenhouse:pacificfusion:4398388009"
+     ],
+     "count": 3
+    }
+   }
+  },
   "pdt partners": {
    "name": "PDT Partners",
    "cycles": {
@@ -2476,6 +2529,18 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "greenhouse:phoenixcontact:7817228003"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "pilot": {
+   "name": "Pilot Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:PilotCompany:744000148577368"
      ],
      "count": 1
     }
@@ -3627,5 +3692,5 @@
    }
   }
  },
- "updated_at": "2026-09-10T09:38:09Z"
+ "updated_at": "2026-09-10T14:19:23Z"
 }

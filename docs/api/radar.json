@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-11T18:25:49Z",
+ "generated_at": "2026-09-11T21:42:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -812,7 +812,7 @@
    "expected": "2026-08-20",
    "days_until": -22,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94841",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94815",
    "note": ""
   },
   {
@@ -1107,6 +1107,20 @@
    "days_until": -15,
    "status": "open",
    "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -15,
+   "status": "open",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
    "note": ""
   },
   {
@@ -2450,7 +2464,21 @@
    "expected": "2026-09-11",
    "days_until": 0,
    "status": "open",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
+   "note": ""
+  },
+  {
+   "company": "Blue Origin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
    "note": ""
   },
   {
@@ -2482,6 +2510,34 @@
    "note": ""
   },
   {
+   "company": "EMC Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
+   "note": ""
+  },
+  {
+   "company": "ibotta",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269",
+   "note": ""
+  },
+  {
    "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2506,7 +2562,7 @@
    "expected": "2026-09-11",
    "days_until": 0,
    "status": "open",
-   "url": "https://app.careerpuck.com/job-board/lyft/job/8796124002?gh_jid=8796124002",
+   "url": "https://app.careerpuck.com/job-board/lyft/job/8767723002?gh_jid=8767723002",
    "note": ""
   },
   {
@@ -3266,20 +3322,6 @@
    "note": ""
   },
   {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -15,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -3322,5 +3364,5 @@
    "note": ""
   }
  ],
- "count": 237
+ "count": 240
 }

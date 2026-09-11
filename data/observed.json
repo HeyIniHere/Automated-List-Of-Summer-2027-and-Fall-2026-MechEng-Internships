@@ -870,6 +870,21 @@
     }
    }
   },
+  "citizens financial group": {
+   "name": "Citizens Financial Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "oracle:hcgn.fa.us2.oraclecloud.com:49276",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49280",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+      "oracle:hcgn.fa.us2.oraclecloud.com:49286"
+     ],
+     "count": 4
+    }
+   }
+  },
   "clarios": {
    "name": "Clarios",
    "cycles": {
@@ -1744,6 +1759,18 @@
     }
    }
   },
+  "hypertherm": {
+   "name": "Hypertherm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "workday:hypertherm:/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "iat insurance group": {
    "name": "IAT Insurance Group",
    "cycles": {
@@ -1890,6 +1917,18 @@
       "smartrecruiters:Intuitive:744000133458290",
       "smartrecruiters:Intuitive:744000145329669"
      ]
+    }
+   }
+  },
+  "jabil": {
+   "name": "Jabil",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
+     ],
+     "count": 1
     }
    }
   },
@@ -2619,10 +2658,11 @@
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 11
+     "count": 12
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -2846,11 +2886,12 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "greenhouse:rocketlab:7984600003",
+      "greenhouse:rocketlab:7986690003",
       "greenhouse:rocketlab:7986794003",
       "greenhouse:rocketlab:7989722003",
       "greenhouse:rocketlab:7990365003"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3273,6 +3314,18 @@
     }
    }
   },
+  "tanium": {
+   "name": "Tanium",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "greenhouse:tanium:8181017"
+     ],
+     "count": 1
+    }
+   }
+  },
   "target": {
    "name": "Target",
    "cycles": {
@@ -3392,12 +3445,19 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+      "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---The-Toro-Company_JR17141",
+      "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
+      "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17101"
      ],
-     "count": 4
+     "count": 11
     }
    }
   },
@@ -3805,10 +3865,12 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
       "oracle:emit.fa.ca3.oraclecloud.com:94817",
+      "oracle:emit.fa.ca3.oraclecloud.com:94841",
+      "oracle:emit.fa.ca3.oraclecloud.com:94927",
       "oracle:emit.fa.ca3.oraclecloud.com:94952",
       "oracle:emit.fa.ca3.oraclecloud.com:94959"
      ],
-     "count": 17
+     "count": 19
     }
    }
   },
@@ -3846,5 +3908,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T09:34:09Z"
+ "updated_at": "2026-09-11T14:19:51Z"
 }

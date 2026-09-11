@@ -1,3 +1,25 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:hcgn.fa.us2.oraclecloud.com:49286",
+    "oracle:hcgn.fa.us2.oraclecloud.com:49285",
+    "oracle:hcgn.fa.us2.oraclecloud.com:49276",
+    "oracle:hcgn.fa.us2.oraclecloud.com:49280",
+    "workday:hypertherm:/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1",
+    "workday:hypertherm:/job/Hanover-NH/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--NH-_R4060",
+    "workday:hypertherm:/job/Kent-WA/Mechanical-Engineering-Winter-Spring-Internship-or-Co-Op---Central-Engineering--WA-_R4061",
+    "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+    "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868",
+    "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
+    "greenhouse:rocketlab:7986690003",
+    "greenhouse:tanium:8181017",
+    "workday:ttc:/job/Bloomington-MN/Robotics-Engineering-Intern---The-Toro-Company_JR17194",
+    "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---The-Toro-Company_JR17141",
+    "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
+    "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+    "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
+    "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
+    "workday:ttc:/job/Bloomington-MN/Mechanical-Engineering-Intern---Value-Engineering--VAVE----The-Toro-Company_JR17204",
+    "oracle:emit.fa.ca3.oraclecloud.com:94841",
+    "oracle:emit.fa.ca3.oraclecloud.com:94927"
+  ]
 }

@@ -1,29 +1,3 @@
 {
-  "pending": [
-    "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
-    "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
-    "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
-    "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
-    "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719",
-    "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-    "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3",
-    "workday:crowe:/job/Chicago-IL-USA/D365-ERP-Technical-Intern_R-71039",
-    "workday:digikey:/job/Thief-River-Falls-MN/Product-Management---Supplier-Development-Intern_R5829",
-    "workday:directsupply:/job/Milwaukee-WI/AI-Engineer-Intern_REQ-2026-2553",
-    "workday:directsupply:/job/Milwaukee-WI/Software-Engineer-Intern_REQ-2026-2559",
-    "greenhouse:dvtrading:4733138005",
-    "oracle:hdjq.fa.us2.oraclecloud.com:26010799",
-    "workday:graco:/job/Sioux-Falls-South-Dakota-USA/Manufacturing-Engineering-Intern---Summer-2027_R0023643",
-    "greenhouse:hudl:8155102",
-    "greenhouse:lyft:8796124002",
-    "greenhouse:lyft:8767723002",
-    "greenhouse:lyft:8767726002",
-    "greenhouse:lyft:8797837002",
-    "workday:momentive:/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816",
-    "workday:moog:/job/Blacksburg-VA/Intern--Mechanical-Manufacturing-Engineering_R-26-19925",
-    "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
-    "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
-    "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Cyber-Security-Intern_R50267",
-    "oracle:emit.fa.ca3.oraclecloud.com:94815"
-  ]
+  "pending": []
 }

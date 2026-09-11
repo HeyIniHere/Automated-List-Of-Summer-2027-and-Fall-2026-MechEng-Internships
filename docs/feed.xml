@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-11T00:00:27Z</updated>
+  <updated>2026-09-11T04:09:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010738</id>
+    <title>Emerson Electric: Software Engineering Co-op (Jun-Dec 2027)</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"/>
+    <updated>2026-09-11T00:00:23Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Eden Prairie, MN, United States · C#</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:allegion:/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1</id>
     <title>Allegion: Summer Intern - Manufacturing Process Engineer</title>
@@ -22,14 +30,6 @@
     <updated>2026-09-11T00:00:23Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Simi Valley, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26010738</id>
-    <title>Emerson Electric: Software Engineering Co-op (Jun-Dec 2027)</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738"/>
-    <updated>2026-09-11T00:00:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Eden Prairie, MN, United States · C#</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R413566</id>

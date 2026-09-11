@@ -325,6 +325,23 @@
     }
    }
   },
+  "amgen": {
+   "name": "Amgen",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
+     ],
+     "count": 6
+    }
+   }
+  },
   "anavation": {
    "name": "AnaVation",
    "cycles": {
@@ -927,6 +944,18 @@
     }
    }
   },
+  "commure": {
+   "name": "Commure",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "ashby:commure:62841aa1-3ee5-4547-8380-637b737b2cb3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "conagra brands": {
    "name": "Conagra Brands",
    "cycles": {
@@ -1175,9 +1204,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-10",
      "role_ids": [
-      "greenhouse:dvtrading:4719119005"
+      "greenhouse:dvtrading:4719119005",
+      "greenhouse:dvtrading:4733138005"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1529,9 +1559,10 @@
       "workday:graco:/job/Dayton-Minnesota-USA/Manufacturing-Engineering-Co-op--January---August-2027-_R0023612",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering--Operational-Technology--Co-op--January---August-2027-_R0023574",
       "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-Op_R0023504",
-      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611"
+      "workday:graco:/job/Rogers-Minnesota-USA-David-Koch-Center/Manufacturing-Engineering-Co-op--January---August-2027-_R0023611",
+      "workday:graco:/job/Sioux-Falls-South-Dakota-USA/Manufacturing-Engineering-Intern---Summer-2027_R0023643"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -2088,6 +2119,21 @@
     }
    }
   },
+  "lyft": {
+   "name": "Lyft",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-11",
+     "role_ids": [
+      "greenhouse:lyft:8767723002",
+      "greenhouse:lyft:8767726002",
+      "greenhouse:lyft:8796124002",
+      "greenhouse:lyft:8797837002"
+     ],
+     "count": 4
+    }
+   }
+  },
   "mckesson": {
    "name": "McKesson",
    "cycles": {
@@ -2224,9 +2270,10 @@
      "role_ids": [
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
-      "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885"
+      "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885",
+      "workday:momentive:/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2312,9 +2359,11 @@
       "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
+      "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -3864,13 +3913,14 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
+      "oracle:emit.fa.ca3.oraclecloud.com:94815",
       "oracle:emit.fa.ca3.oraclecloud.com:94817",
       "oracle:emit.fa.ca3.oraclecloud.com:94841",
       "oracle:emit.fa.ca3.oraclecloud.com:94927",
       "oracle:emit.fa.ca3.oraclecloud.com:94952",
       "oracle:emit.fa.ca3.oraclecloud.com:94959"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -3908,5 +3958,5 @@
    }
   }
  },
- "updated_at": "2026-09-11T14:19:51Z"
+ "updated_at": "2026-09-11T18:25:45Z"
 }

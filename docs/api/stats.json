@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-11T04:09:25Z",
- "duration_seconds": 510.3,
+ "generated_at": "2026-09-11T09:34:09Z",
+ "duration_seconds": 465.9,
  "companies_total": 4547,
  "companies_by_source": {
   "greenhouse": 1069,
@@ -16,55 +16,54 @@
   "breezy": 12,
   "eightfold": 1
  },
- "quarantined": 301,
- "fetched_ok": 4150,
- "fetch_errors": 96,
+ "quarantined": 326,
+ "fetched_ok": 4213,
+ "fetch_errors": 8,
  "errors_by_source": {
-  "workday": 82,
-  "greenhouse": 2,
-  "ashby": 1,
-  "workable": 11
+  "workday": 6,
+  "greenhouse": 1,
+  "workable": 1
  },
- "fetch_success_rate": 0.977,
- "fetch_success_rate_registry": 0.913,
- "snapshots_complete": 4044,
- "snapshots_partial": 106,
- "roles_matched": 738,
+ "fetch_success_rate": 0.998,
+ "fetch_success_rate_registry": 0.927,
+ "snapshots_complete": 4103,
+ "snapshots_partial": 110,
+ "roles_matched": 742,
  "dropped_no_year_in_title": 392,
  "dropped_offcycle_by_text": 174,
- "roles_cycle_inferred": 347,
+ "roles_cycle_inferred": 345,
  "roles_by_source": {
   "amazon": 9,
   "ashby": 55,
   "breezy": 2,
-  "greenhouse": 185,
+  "greenhouse": 184,
   "lever": 36,
   "oracle": 24,
   "rippling": 4,
   "smartrecruiters": 58,
   "workable": 11,
-  "workday": 464
+  "workday": 460
  },
  "roles_by_cycle": {
   "Fall 2026": 36,
-  "Summer 2027": 465,
-  "Not stated": 347
+  "Summer 2027": 462,
+  "Not stated": 345
  },
  "roles_by_region": {
-  "US": 848
+  "US": 843
  },
  "sponsorship_counts": {
-  "unknown": 586,
-  "citizens-only": 174,
+  "unknown": 583,
+  "citizens-only": 171,
   "offers": 6,
-  "no-sponsorship": 82
+  "no-sponsorship": 83
  },
  "posted_date_coverage": 0.995,
  "enriched_this_run": 0,
  "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
  "new_this_run": 0,
- "open_total": 848,
+ "open_total": 843,
  "detection_latency": {
   "median_minutes": 96.9,
   "p95_minutes": 1291.1,
@@ -73,7 +72,7 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 6,
-  "sample_size": 627
+  "median_days": 6.0,
+  "sample_size": 632
  }
 }

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-12T04:33:51Z</updated>
+  <updated>2026-09-12T09:16:48Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
-    <updated>2026-09-12T04:33:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · C++ · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
     <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-12T04:33:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
+    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
+    <updated>2026-09-12T04:33:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Fort Washington, PA, United States · C++ · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>

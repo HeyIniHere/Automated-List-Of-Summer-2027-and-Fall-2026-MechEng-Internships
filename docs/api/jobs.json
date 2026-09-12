@@ -1,32 +1,9 @@
 {
- "generated_at": "2026-09-12T04:33:51Z",
+ "generated_at": "2026-09-12T09:16:48Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 896,
  "jobs": [
-  {
-   "id": "oracle:etyy.fa.ap2.oraclecloud.com:11649",
-   "company": "Kulicke & Soffa",
-   "title": "Intern, Software Engineering",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fort Washington, PA, United States",
-   "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649",
-   "posted_at": "2026-09-12",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-12T04:33:48Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "C++"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 17,
-   "program": "Internship",
-   "remote": false
-  },
   {
    "id": "oracle:etyy.fa.ap2.oraclecloud.com:11648",
    "company": "Kulicke & Soffa",
@@ -46,6 +23,29 @@
     "Python",
     "C++",
     "MATLAB"
+   ],
+   "source": "oracle",
+   "h1b_approvals": 17,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "oracle:etyy.fa.ap2.oraclecloud.com:11649",
+   "company": "Kulicke & Soffa",
+   "title": "Intern, Software Engineering",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Fort Washington, PA, United States",
+   "url": "https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649",
+   "posted_at": "2026-09-12",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-12T04:33:48Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "C++"
    ],
    "source": "oracle",
    "h1b_approvals": 17,

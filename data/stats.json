@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-12T13:36:56Z",
-  "duration_seconds": 498.0,
+  "generated_at": "2026-09-12T17:00:24Z",
+  "duration_seconds": 462.1,
   "companies_total": 4575,
   "companies_by_source": {
     "greenhouse": 1075,
@@ -16,27 +16,27 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 313,
-  "fetched_ok": 4218,
-  "fetch_errors": 44,
+  "quarantined": 300,
+  "fetched_ok": 4198,
+  "fetch_errors": 77,
   "errors_by_source": {
-    "workday": 30,
-    "workable": 14
+    "workday": 64,
+    "workable": 13
   },
-  "fetch_success_rate": 0.99,
-  "fetch_success_rate_registry": 0.922,
-  "snapshots_complete": 4117,
+  "fetch_success_rate": 0.982,
+  "fetch_success_rate_registry": 0.918,
+  "snapshots_complete": 4097,
   "snapshots_partial": 101,
-  "roles_matched": 795,
-  "dropped_no_year_in_title": 396,
-  "dropped_offcycle_by_text": 162,
+  "roles_matched": 781,
+  "dropped_no_year_in_title": 394,
+  "dropped_offcycle_by_text": 151,
   "roles_cycle_inferred": 363,
   "roles_by_source": {
     "amazon": 9,
     "ashby": 58,
     "breezy": 2,
     "greenhouse": 196,
-    "lever": 38,
+    "lever": 39,
     "oracle": 30,
     "rippling": 4,
     "smartrecruiters": 59,
@@ -45,28 +45,28 @@
   },
   "roles_by_cycle": {
     "Fall 2026": 36,
-    "Summer 2027": 508,
+    "Summer 2027": 509,
     "Not stated": 363
   },
   "roles_by_region": {
-    "US": 907
+    "US": 908
   },
   "sponsorship_counts": {
     "unknown": 636,
-    "citizens-only": 173,
+    "citizens-only": 174,
     "offers": 6,
     "no-sponsorship": 92
   },
   "posted_date_coverage": 0.996,
-  "enriched_this_run": 12,
-  "enrichment_detail_fetches": 8,
+  "enriched_this_run": 1,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 11,
-  "open_total": 907,
+  "new_this_run": 1,
+  "open_total": 908,
   "detection_latency": {
-    "median_minutes": 99.0,
+    "median_minutes": 98.8,
     "p95_minutes": 1326.0,
-    "sample_size": 105,
+    "sample_size": 106,
     "window_days": 7,
     "basis": "roles published in the window with an exact source timestamp"
   },

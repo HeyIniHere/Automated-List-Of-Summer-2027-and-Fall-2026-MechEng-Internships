@@ -5,63 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-12T13:37:00Z</updated>
+  <updated>2026-09-12T17:00:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
-    <title>Bracco: Software Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
-    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
-    <updated>2026-09-12T13:36:56Z</updated>
+    <id>urn:intern-engine:lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7</id>
+    <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7"/>
+    <updated>2026-09-12T17:00:24Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312</id>
-    <title>Bracco: Manufacturing Engineering Co-op</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
-    <title>Fortune Brands: Product Management Intern, B2B Security</title>
-    <link href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Deerfield, ILLINOIS, United States · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:klaviyocampus:7989364003</id>
-    <title>Klaviyo: Software Engineer Intern (Summer 2027) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Chantilly, VA · Python, Java, Node.js, AWS, GCP · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca</id>
@@ -80,12 +32,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Rochester, NY · $27 – $29 per hour · Python, SQL, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:xcimer:fee9965c-8040-4614-8fd1-10bddfe3b911</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Computational and Software Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"/>
+    <id>urn:intern-engine:greenhouse:klaviyocampus:7989364003</id>
+    <title>Klaviyo: Software Engineer Intern (Summer 2027) 🛂</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"/>
     <updated>2026-09-12T13:36:56Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
@@ -94,6 +46,62 @@
     <updated>2026-09-12T13:36:56Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:xcimer:fee9965c-8040-4614-8fd1-10bddfe3b911</id>
+    <title>Xcimer Energy: Summer 2027 Internship - Computational and Software Engineering 🇺🇸</title>
+    <link href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
+    <title>Fortune Brands: Product Management Intern, B2B Security</title>
+    <link href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Deerfield, ILLINOIS, United States · Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312</id>
+    <title>Bracco: Manufacturing Engineering Co-op</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
+    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
+    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C#</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
+    <title>Bracco: Software Engineering Intern</title>
+    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
+    <updated>2026-09-12T13:36:56Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-10T21:38:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Mandan, ND · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vast:4711400006</id>
-    <title>VAST: Emerging Talent - Mechanical/Aerospace Engineering Internship 🇺🇸</title>
-    <link href="https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Long Beach, California, United States · sponsorship: citizens-only</summary>
   </entry>
 </feed>

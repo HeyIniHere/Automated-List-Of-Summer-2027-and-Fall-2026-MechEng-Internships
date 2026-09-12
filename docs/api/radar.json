@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-12T13:37:00Z",
+ "generated_at": "2026-09-12T17:00:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1082,6 +1082,20 @@
    "note": ""
   },
   {
+   "company": "AnaVation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7",
+   "note": ""
+  },
+  {
    "company": "Booz Allen",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -1638,7 +1652,7 @@
    "expected": "2026-09-03",
    "days_until": -9,
    "status": "open",
-   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316",
    "note": ""
   },
   {
@@ -2590,7 +2604,7 @@
    "expected": "2026-09-11",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911",
+   "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
    "note": ""
   },
   {
@@ -3331,20 +3345,6 @@
    "source": "engine",
    "expected": "2026-08-25",
    "days_until": -18,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "AnaVation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -16,
    "status": "dropped",
    "url": "",
    "note": ""

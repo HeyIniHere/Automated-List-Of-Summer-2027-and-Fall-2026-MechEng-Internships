@@ -5,23 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-12T00:09:34Z</updated>
+  <updated>2026-09-12T04:33:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1</id>
-    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1"/>
-    <updated>2026-09-12T00:09:29Z</updated>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
+    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
+    <updated>2026-09-12T04:33:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Carmel, IN</summary>
+    <summary>Not stated · Software · Fort Washington, PA, United States · C++ · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1</id>
-    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1"/>
-    <updated>2026-09-12T00:09:29Z</updated>
+    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11648</id>
+    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
+    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11648"/>
+    <updated>2026-09-12T04:33:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Carmel, IN</summary>
+    <summary>Not stated · Software · Fort Washington, PA, United States · Python, C++, MATLAB · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
@@ -30,14 +30,6 @@
     <updated>2026-09-12T00:09:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sbdinc:/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1</id>
-    <title>Stanley Black &amp; Decker: Manufacturing Internship - 1st shift, $15.00hr</title>
-    <link href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1"/>
-    <updated>2026-09-12T00:09:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Mission, TX, United States · H-1B track record: ~124 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94965</id>
@@ -54,6 +46,30 @@
     <updated>2026-09-12T00:09:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Hamilton, NJ, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1</id>
+    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37416-1"/>
+    <updated>2026-09-12T00:09:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Carmel, IN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1</id>
+    <title>Allegion: Summer Intern - Advanced Manufacturing Engineering</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering_JR37418-1"/>
+    <updated>2026-09-12T00:09:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Carmel, IN</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sbdinc:/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1</id>
+    <title>Stanley Black &amp; Decker: Manufacturing Internship - 1st shift, $15.00hr</title>
+    <link href="https://sbdinc.wd1.myworkdayjobs.com/Stanley_Black_Decker_Career_Site/job/Mission-TX-United-States/Manufacturing-Internship_REQ-1000052318-1"/>
+    <updated>2026-09-12T00:09:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Mission, TX, United States · H-1B track record: ~124 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ibotta:3130669e-16aa-4f63-834d-b83571c8d269</id>
@@ -528,14 +544,6 @@
     <summary>Not stated · Hardware · Kent, WA</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367</id>
-    <title>Jabil: Manufacturing Engineering Co-op - January 4, 2027-July 6, 2027</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"/>
-    <updated>2026-09-11T14:19:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Elmira, NY · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868</id>
     <title>Oshkosh: Data Engineer Intern</title>
     <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868"/>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078</id>
     <title>Insulet Corporation: Co-op, Manufacturing Engineering: January - June 2027 (Onsite)</title>
     <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Acton, Massachusetts · H-1B track record: ~46 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086</id>
-    <title>Insulet Corporation: Co-op, Manufacturing Graduate: January - June 2027 (Onsite)</title>
-    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086"/>
     <updated>2026-09-10T21:38:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Acton, Massachusetts · H-1B track record: ~46 approvals (FY2022–2023)</summary>

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-13T11:36:56Z</updated>
+  <updated>2026-09-13T16:04:36Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
+    <title>Autostore: Co-Op - Software Engineering</title>
+    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692"/>
+    <updated>2026-09-13T16:04:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Atlanta, GA, USA · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
+    <title>Autostore: Co-Op - Mechanical Engineer</title>
+    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694"/>
+    <updated>2026-09-13T16:04:31Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Atlanta, GA, USA</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7</id>
     <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-10T21:38:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Jacksonville, Florida, United States · $25/hr · C#, TypeScript · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191986</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191986"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Lake St. Louis, MO · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8191987</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8191987"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Mandan, ND · Linux</summary>
   </entry>
 </feed>

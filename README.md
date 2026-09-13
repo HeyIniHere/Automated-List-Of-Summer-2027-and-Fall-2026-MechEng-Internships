@@ -8,7 +8,7 @@
 
 ### 907 open roles (576 listed below) · 315 new this week
 
-4,465 employers tracked · updated Sep 12, 2026 at 22:11 UTC
+4,465 employers tracked · updated Sep 13, 2026 at 00:51 UTC
 
 _545 have a cycle the employer stated · 362 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -113,8 +113,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Amazon ✓ | Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027 | Hardware | North Reading, Massachusetts, USA | Sep 10, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027) |
 | Bracco | Software Engineering Intern/ Co-op (R&D Sustaining) 🆕 | Software | USA, Eden Prairie, Minnesota, 55344 | Sep 10, 2026 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327) |
 | Tanium ✓ | Software Engineering Intern – Summer 2027 🆕 | Software | Durham +3 more | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8181017) |
-| Emerson Electric | Software Engineering Co-op (Jun-Dec 2027) 🆕 | Software | Eden Prairie, MN, United States | Sep 10, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738) |
-| Merck | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern 🆕 | Hardware | USA - Pennsylvania - West Point | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R413566) |
+| Emerson Electric | Software Engineering Co-op (Jun-Dec 2027) | Software | Eden Prairie, MN, United States | Sep 10, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010738) |
+| Merck | 2027 Future Talent Program – West Point Vaccine Manufacturing Intern | Hardware | USA - Pennsylvania - West Point | Sep 10, 2026 | [Apply](https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---West-Point-Vaccine-Manufacturing-Intern_R413566) |
 | Bedrock Robotics | Internship 2027 Onboard Infrastructure Engineer, ML Inference | Data & ML/AI | San Francisco, CA | Sep 10, 2026 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8) |
 | Bedrock Robotics | Internship 2027 Behavior Machine Learning Engineer, World Models | Data & ML/AI | San Francisco, CA | Sep 10, 2026 | [Apply](https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1) |
 | National Information Solutions Cooperative (NISC) | Intern - Information Security (Cybersecurity) | Security | Lake St. Louis, MO or Mandan, ND | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/nisc/jobs/8191724) |
@@ -448,8 +448,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Oshkosh | Data Engineer Intern 🆕 | Data & ML/AI | Oshkosh, Wisconsin, United States | Sep 11, 2026 | [Apply](https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/Data-Engineer-Intern_R49868) |
 | Bracco | Software Engineering Intern 🆕 | Software | USA, Eden Prairie, Minnesota, 55344 | Sep 10, 2026 | [Apply](https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328) |
 | Hudl | Software Quality Assurance Engineering Intern 🆕 | Software | Lincoln, NE, United States | Sep 10, 2026 | [Apply](https://job-boards.greenhouse.io/hudl/jobs/8155102) |
-| Allegion | Summer Intern - Manufacturing Process Engineer 🆕 | Hardware | Colorado Springs, CO | Sep 10, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1) |
-| Avav | Mechanical Engineering Intern 🇺🇸 🆕 | Hardware | Simi Valley, CA | Sep 10, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
+| Allegion | Summer Intern - Manufacturing Process Engineer | Hardware | Colorado Springs, CO | Sep 10, 2026 | [Apply](https://allegion.wd5.myworkdayjobs.com/careers/job/Colorado-Springs-CO/Summer-Intern---Manufacturing-Process-Engineer_JR37469-1) |
+| Avav | Mechanical Engineering Intern 🇺🇸 | Hardware | Simi Valley, CA | Sep 10, 2026 | [Apply](https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Mechanical-Engineering-Intern_8591) |
 | VAST | Emerging Talent - Mechanical/Aerospace Engineering Internship 🇺🇸 | Hardware | Long Beach, California, United States | Sep 10, 2026 | [Apply](https://boards.greenhouse.io/vast/jobs/4711400006?gh_jid=4711400006) |
 | VAST | Emerging Talent - Manufacturing Engineering Internship 🇺🇸 | Hardware | Long Beach, California, United States | Sep 10, 2026 | [Apply](https://boards.greenhouse.io/vast/jobs/4711403006?gh_jid=4711403006) |
 | SCOR ✓ | Data Science Intern | Data & ML/AI | Charlotte, North Carolina, United States | Sep 10, 2026 | [Apply](https://fa-errt-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/5393) |
@@ -694,7 +694,7 @@ Stop refreshing career pages. 🎯 = the employer's **own posted date**, read fr
 | Point72 | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Robinhood | ~Sep | ~Sep · any day now | ⏳ waiting |
 | Stripe | ~Sep | ~Sep · any day now | ⏳ waiting |
-| D.E. Shaw | ~Oct | ~Oct · in ~19d | ⏳ waiting |
+| D.E. Shaw | ~Oct | ~Oct · in ~18d | ⏳ waiting |
 | Ramp | ~Dec | ~Dec | ⏳ waiting |
 | Two Sigma | ~Dec | ~Dec | ⏳ waiting |
 | Apple | rolling | year-round | ⏳ waiting |
@@ -772,7 +772,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,217 of 4,575 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 92% of the full registry) · completed in 401.6s · 105 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,174 of 4,575 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 91% of the full registry) · completed in 462.4s · 99 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

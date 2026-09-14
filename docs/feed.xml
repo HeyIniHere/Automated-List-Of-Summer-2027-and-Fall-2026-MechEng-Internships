@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-14T00:08:51Z</updated>
+  <updated>2026-09-14T04:55:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
+    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
+    <updated>2026-09-14T04:55:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
+    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"/>
+    <updated>2026-09-14T04:55:07Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
     <title>Autostore: Co-Op - Mechanical Engineer</title>
@@ -790,21 +806,5 @@
     <updated>2026-09-10T21:38:55Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA · Python, PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nisc:8191724</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Information Security (Cybersecurity)</title>
-    <link href="https://job-boards.greenhouse.io/nisc/jobs/8191724"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Lake St. Louis, MO or Mandan, ND · Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rfsmart:5407206008</id>
-    <title>RF-SMART: Product Engineering Software Developer Internship - Spring &amp; Summer 2027 🛂</title>
-    <link href="https://job-boards.greenhouse.io/rfsmart/jobs/5407206008"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Jacksonville, Florida, United States · $25/hr · C#, TypeScript · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

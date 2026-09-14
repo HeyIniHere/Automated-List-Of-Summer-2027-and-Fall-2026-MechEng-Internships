@@ -1,20 +1,3 @@
 {
-  "pending": [
-    "workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
-    "greenhouse:doordashusa:8171041",
-    "workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
-    "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
-    "workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
-    "workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330",
-    "smartrecruiters:RESPECInc:744000149447560",
-    "oracle:edbz.fa.us2.oraclecloud.com:25017932",
-    "greenhouse:waymo:8198218",
-    "workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551",
-    "workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056",
-    "workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494",
-    "workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055",
-    "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
-    "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
-    "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073"
-  ]
+  "pending": []
 }

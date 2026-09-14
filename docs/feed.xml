@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-14T04:55:12Z</updated>
+  <updated>2026-09-14T10:36:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
-    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
-    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
-    <updated>2026-09-14T04:55:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
+    <id>urn:intern-engine:workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403</id>
+    <title>Philips: Intern – Software Engineering – Plymouth, MN – Summer 2027</title>
+    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403"/>
+    <updated>2026-09-14T10:36:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plymouth, Minnesota, United States · Python, Java, C++, C#, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1</id>
+    <title>The Walt Disney Company: Disneyland Resort Industrial Engineering Intern, Summer 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1"/>
+    <updated>2026-09-14T10:36:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Anaheim, CA, USA · $32/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1</id>
+    <title>The Walt Disney Company: Walt Disney World Industrial Engineering Intern, Summer/Fall 2027</title>
+    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1"/>
+    <updated>2026-09-14T10:36:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lake Buena Vista, FL, USA · $32/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
@@ -22,6 +38,14 @@
     <updated>2026-09-14T04:55:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
+    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
+    <updated>2026-09-14T04:55:07Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
@@ -568,6 +592,14 @@
     <summary>Not stated · Hardware · Blacksburg, VA</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734</id>
+    <title>Motorola: DSP (Digital Signal Processing) Software Engineering Intern - Summer 2027</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734"/>
+    <updated>2026-09-11T18:25:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Plantation, FL · Python, C++, MATLAB, Linux, Git · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125</id>
     <title>Motorola: 2027 Software Engineering Summer Internship 🇺🇸</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125"/>
@@ -774,37 +806,5 @@
     <updated>2026-09-11T00:00:23Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - Pennsylvania - West Point</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004</id>
-    <title>The Toro Company: Robotics System Test Intern - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004"/>
-    <updated>2026-09-11T00:00:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Frederick, CO · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10536817</id>
-    <title>Amazon: Industrial Development Engineer Intern/Co-op, ROBOTICS - 2027</title>
-    <link href="https://www.amazon.jobs/en/jobs/10536817/industrial-development-engineer-intern-co-op-robotics-2027"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · North Reading, Massachusetts, USA · Computer Vision · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8</id>
-    <title>Bedrock Robotics: Internship 2027 Onboard Infrastructure Engineer, ML Inference</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/0331551e-c18e-428a-8e91-e6cb25c9c2e8"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA · C++, Rust, PyTorch, LLMs, CUDA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1</id>
-    <title>Bedrock Robotics: Internship 2027 Behavior Machine Learning Engineer, World Models</title>
-    <link href="https://jobs.ashbyhq.com/bedrock-robotics/c51d682e-58ee-44de-886f-4cfacb56d2e1"/>
-    <updated>2026-09-10T21:38:55Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA · Python, PyTorch</summary>
   </entry>
 </feed>

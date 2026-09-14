@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T10:36:25Z",
+ "generated_at": "2026-09-14T17:01:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -522,6 +522,20 @@
    "note": ""
   },
   {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744",
+   "note": ""
+  },
+  {
    "company": "RTX",
    "last_cycle_posted": "",
    "posted_on": "2026-08-12",
@@ -910,7 +924,7 @@
    "expected": "2026-08-24",
    "days_until": -21,
    "status": "open",
-   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Workforce-Management-Industrial-Engineering-Intern--Spring-Summer-2027_10158144",
+   "url": "https://disney.wd5.myworkdayjobs.com/disneycareer/job/Anaheim-CA-USA/Disneyland-Resort-Industrial-Engineering-Intern--Summer-2027_10159978-1",
    "note": ""
   },
   {
@@ -1009,20 +1023,6 @@
    "days_until": -19,
    "status": "open",
    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906",
-   "note": ""
-  },
-  {
-   "company": "Verisk",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -19,
-   "status": "open",
-   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/4682",
    "note": ""
   },
   {
@@ -2426,6 +2426,20 @@
    "note": ""
   },
   {
+   "company": "SEP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -4,
+   "status": "open",
+   "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
+   "note": ""
+  },
+  {
    "company": "Tanium",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2606,6 +2620,48 @@
    "status": "open",
    "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
    "note": ""
+  },
+  {
+   "company": "CoStar Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+   "note": ""
+  },
+  {
+   "company": "Genworth Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+   "note": ""
+  },
+  {
+   "company": "Robinhood",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "note": "opens fall"
   },
   {
    "company": "Collier Aerospace",
@@ -2872,20 +2928,6 @@
    "status": "waiting",
    "url": "",
    "note": "Cubist/academy, opens fall"
-  },
-  {
-   "company": "Robinhood",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -13,
-   "status": "waiting",
-   "url": "",
-   "note": "opens fall"
   },
   {
    "company": "Stripe",
@@ -3182,20 +3224,6 @@
    "note": ""
   },
   {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "American Express",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
@@ -3350,6 +3378,20 @@
    "note": ""
   },
   {
+   "company": "Verisk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -19,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -3420,5 +3462,5 @@
    "note": ""
   }
  ],
- "count": 244
+ "count": 247
 }

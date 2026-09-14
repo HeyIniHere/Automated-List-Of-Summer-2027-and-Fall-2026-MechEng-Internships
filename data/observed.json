@@ -334,14 +334,16 @@
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
+      "workday:amgen:/job/United-States---Remote/Grad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255744",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255743",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745",
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255708",
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255704",
+      "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Digital-Product---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255711",
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
      ],
-     "count": 9
+     "count": 11
     }
    }
   },
@@ -1020,6 +1022,19 @@
     }
    }
   },
+  "costar group": {
+   "name": "CoStar Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
+      "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
+     ],
+     "count": 2
+    }
+   }
+  },
   "cox": {
    "name": "Cox",
    "cycles": {
@@ -1288,9 +1303,10 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "oracle:hdjq.fa.us2.oraclecloud.com:26009934",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010048",
       "oracle:hdjq.fa.us2.oraclecloud.com:26010738"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1559,6 +1575,19 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950"
      ],
      "count": 9
+    }
+   }
+  },
+  "genworth financial": {
+   "name": "Genworth Financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:gnw:/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1",
+      "workday:gnw:/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1"
+     ],
+     "count": 2
     }
    }
   },
@@ -2637,9 +2666,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
+      "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--January---August-2027-_R23572",
+      "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--June---December-2027-_R23573",
+      "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 1
+     "count": 6
     }
    }
   },
@@ -2718,11 +2752,13 @@
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
       "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
+      "workday:oshkoshcorporation:/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
       "workday:oshkoshcorporation:/job/Kewaunee-Wisconsin-United-States/Engineer-Intern---Manufacturing--Summer-2027-_R49737",
+      "workday:oshkoshcorporation:/job/New-Hudson-Michigan-United-States/Manufacturing-Intern---Summer-2027_R50275",
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
       "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265"
      ],
-     "count": 9
+     "count": 11
     }
    }
   },
@@ -2992,6 +3028,21 @@
     }
    }
   },
+  "robinhood": {
+   "name": "Robinhood",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:robinhood:8123225",
+      "greenhouse:robinhood:8142959",
+      "greenhouse:robinhood:8142961",
+      "greenhouse:robinhood:8142963"
+     ],
+     "count": 4
+    }
+   }
+  },
   "roblox": {
    "name": "Roblox",
    "cycles": {
@@ -3042,9 +3093,10 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
-      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006"
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
+      "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -3195,6 +3247,18 @@
      "first_posted": "2026-08-01",
      "role_ids": [
       "ashby:sentry:672e2a76-d8e1-49c1-b227-4a189c4e49a1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "sep": {
+   "name": "SEP",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-10",
+     "role_ids": [
+      "lever:sep:4efbdbce-a753-41b5-8ed7-0661cd193178"
      ],
      "count": 1
     }
@@ -3916,9 +3980,10 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "greenhouse:waymo:8174099",
-      "greenhouse:waymo:8174504"
+      "greenhouse:waymo:8174504",
+      "greenhouse:waymo:8193731"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4064,5 +4129,5 @@
    }
   }
  },
- "updated_at": "2026-09-14T10:36:21Z"
+ "updated_at": "2026-09-14T17:01:10Z"
 }

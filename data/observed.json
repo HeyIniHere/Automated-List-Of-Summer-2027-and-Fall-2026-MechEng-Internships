@@ -946,9 +946,10 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:clarios:/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
-      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910"
+      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
+      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1166,6 +1167,18 @@
      "role_ids": [
       "workday:dmainc:/job/Fort-Wayne-IN/Software-Development-Intern_REQ460"
      ]
+    }
+   }
+  },
+  "doordash": {
+   "name": "DoorDash",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:doordashusa:8171041"
+     ],
+     "count": 1
     }
    }
   },
@@ -2091,9 +2104,12 @@
      "role_ids": [
       "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
-      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743"
+      "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -4025,9 +4041,10 @@
      "role_ids": [
       "greenhouse:waymo:8174099",
       "greenhouse:waymo:8174504",
-      "greenhouse:waymo:8193731"
+      "greenhouse:waymo:8193731",
+      "greenhouse:waymo:8198218"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -4171,7 +4188,21 @@
      ]
     }
    }
+  },
+  "zurn elkay water solutions": {
+   "name": "Zurn Elkay Water Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
+      "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
+      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"
+     ],
+     "count": 3
+    }
+   }
   }
  },
- "updated_at": "2026-09-14T20:57:28Z"
+ "updated_at": "2026-09-14T23:53:39Z"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T20:57:34Z",
+ "generated_at": "2026-09-14T23:53:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -812,7 +812,7 @@
    "expected": "2026-08-20",
    "days_until": -25,
    "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
    "note": ""
   },
   {
@@ -1516,20 +1516,6 @@
    "note": ""
   },
   {
-   "company": "Newrez",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
-   "note": ""
-  },
-  {
    "company": "Stanley Black & Decker",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -1988,7 +1974,7 @@
    "expected": "2026-09-08",
    "days_until": -6,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
    "note": ""
   },
   {
@@ -2338,7 +2324,7 @@
    "expected": "2026-09-10",
    "days_until": -4,
    "status": "open",
-   "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597",
+   "url": "https://wd3.myworkdaysite.com/recruiting/brevanhoward/BH_ExternalCareers/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
    "note": ""
   },
   {
@@ -2478,21 +2464,7 @@
    "expected": "2026-09-11",
    "days_until": -3,
    "status": "open",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
-   "note": ""
-  },
-  {
-   "company": "Blue Origin",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://blueorigin.wd5.myworkdayjobs.com/blueorigin/job/Space-Coast-FL/Summer-2027-Marine-Mechanical---Test-Engineering-Internship---Undergraduate_R72238",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
    "note": ""
   },
   {
@@ -2622,6 +2594,20 @@
    "note": ""
   },
   {
+   "company": "DoorDash",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/doordashusa/jobs/8171041",
+   "note": "opens ~Aug-Sep"
+  },
+  {
    "company": "Figma",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2632,7 +2618,7 @@
    "expected": "2026-09-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "url": "https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004",
    "note": ""
   },
   {
@@ -2692,6 +2678,20 @@
    "note": ""
   },
   {
+   "company": "Zurn Elkay Water Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -2746,20 +2746,6 @@
    "status": "waiting",
    "url": "",
    "note": "Aug-Oct"
-  },
-  {
-   "company": "DoorDash",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -44,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Aug-Sep"
   },
   {
    "company": "DRW",
@@ -3462,6 +3448,20 @@
    "note": ""
   },
   {
+   "company": "Newrez",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -13,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "HD Supply",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -3504,6 +3504,20 @@
    "note": ""
   },
   {
+   "company": "Blue Origin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -3,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -3518,5 +3532,5 @@
    "note": ""
   }
  ],
- "count": 251
+ "count": 252
 }

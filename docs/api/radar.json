@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-14T17:01:14Z",
+ "generated_at": "2026-09-14T20:57:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -816,17 +816,17 @@
    "note": ""
   },
   {
-   "company": "WSP",
+   "company": "Airbus",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
+   "posted_on": "2026-08-21",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -25,
+   "expected": "2026-08-21",
+   "days_until": -24,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94815",
+   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
    "note": ""
   },
   {
@@ -1134,7 +1134,7 @@
    "expected": "2026-08-27",
    "days_until": -18,
    "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265",
+   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
    "note": ""
   },
   {
@@ -1936,20 +1936,6 @@
    "note": "opens ~Sep"
   },
   {
-   "company": "ICF",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-   "note": ""
-  },
-  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -2184,7 +2170,7 @@
    "expected": "2026-09-09",
    "days_until": -5,
    "status": "open",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26009934",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010048",
    "note": ""
   },
   {
@@ -2408,7 +2394,7 @@
    "expected": "2026-09-10",
    "days_until": -4,
    "status": "open",
-   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539",
+   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
    "note": ""
   },
   {
@@ -2636,6 +2622,20 @@
    "note": ""
   },
   {
+   "company": "Figma",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/figma/jobs/6178857004?gh_jid=6178857004",
+   "note": ""
+  },
+  {
    "company": "Genworth Financial",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2646,7 +2646,21 @@
    "expected": "2026-09-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Software-Engineering-Intern_REQ-260367-1",
+   "url": "https://gnw.wd1.myworkdayjobs.com/GNW/job/Raleigh-North-Carolina/Data-Science-Intern_REQ-260362-1",
+   "note": ""
+  },
+  {
+   "company": "OpenGov",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
    "note": ""
   },
   {
@@ -2660,8 +2674,36 @@
    "expected": "2026-09-14",
    "days_until": 0,
    "status": "open",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8142961?t=gh_src=&gh_jid=8142961",
+   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
    "note": "opens fall"
+  },
+  {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
+   "note": ""
+  },
+  {
+   "company": "American Rare Earths",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/usare/jobs/affd3b55-48c3-4d5d-88f4-859441845337",
+   "note": ""
   },
   {
    "company": "Collier Aerospace",
@@ -3308,15 +3350,15 @@
    "note": ""
   },
   {
-   "company": "Airbus",
+   "company": "WSP",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
+   "posted_on": "2026-08-20",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -24,
+   "expected": "2026-08-20",
+   "days_until": -25,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -3434,6 +3476,20 @@
    "note": ""
   },
   {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -3462,5 +3518,5 @@
    "note": ""
   }
  ],
- "count": 247
+ "count": 251
 }

@@ -1,3 +1,36 @@
 {
-  "pending": []
+  "pending": [
+    "workday:ag:/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
+    "rippling:usare:affd3b55-48c3-4d5d-88f4-859441845337",
+    "greenhouse:andurilindustries:5236893007",
+    "workday:slihrms:/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+    "ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e",
+    "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---AI---Quantitative-Analyst--New-York_JR101602",
+    "greenhouse:figma:6178857004",
+    "greenhouse:figma:6143238004",
+    "ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08",
+    "ashby:opengov:d036cfd6-5a01-41ed-af73-78fc32854849",
+    "workday:oshkoshcorporation:/job/Greencastle-Pennsylvania-United-States/Robotics-Programming-Engineer-Intern_R49597",
+    "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Robotic-Programming-Welding-Intern--Summer-2027-_R49598",
+    "workday:oshkoshcorporation:/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49696",
+    "workday:oshkoshcorporation:/job/Bedford-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49700",
+    "workday:oshkoshcorporation:/job/Houston-Texas-United-States/Manufacturing-Engineering-Intern_R49702",
+    "workday:oshkoshcorporation:/job/Bedford-Pennsylvania-United-States/Manufacturing-Safety-Intern_R49622",
+    "workday:oshkoshcorporation:/job/Hagerstown-Maryland-United-States/Product-Management-Intern_R49414",
+    "smartrecruiters:RESPECInc:744000149430049",
+    "smartrecruiters:RESPECInc:744000149427190",
+    "smartrecruiters:RESPECInc:744000149422860",
+    "smartrecruiters:RESPECInc:744000149420667",
+    "smartrecruiters:RESPECInc:744000149419399",
+    "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
+    "oracle:ekbq.fa.em2.oraclecloud.com:2061",
+    "greenhouse:singlestore:8154399",
+    "workday:tencent:/job/US-California-Palo-Alto/Cyber-Security-Engineer-Intern_R108141-2",
+    "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern--Undergraduate-_R22593",
+    "workday:wexinc:/job/US---Remote/DevOps---Backend-Software-Engineer-Intern--Undergraduate-_R22584",
+    "workday:wexinc:/job/US---Remote/Software-Engineer-Intern---AI---Cloud--Graduate-Master-s-_R22546",
+    "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---Java---AI--Master-s-_R22547",
+    "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C--Java---AI-Workflows--Undergraduate-_R22586",
+    "workday:wexinc:/job/US---Remote/Backend-Software-Engineer-Intern---C---Cloud-Security---AI--Undergraduate-_R22589"
+  ]
 }

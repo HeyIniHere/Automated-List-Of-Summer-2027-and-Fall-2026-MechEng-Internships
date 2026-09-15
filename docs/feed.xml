@@ -5,15 +5,151 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-14T23:53:44Z</updated>
+  <updated>2026-09-15T04:28:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216</id>
-    <title>Clarios: People Analytics &amp; AI Intern (Summer 2027) 🛂</title>
-    <link href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"/>
-    <updated>2026-09-14T23:53:39Z</updated>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000149483177</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Boston, MA</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000149483177"/>
+    <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · United States, Wisconsin, Milwaukee · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Rocky Hill, CT, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357</id>
+    <title>Cox: Infrastructure Operations Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · SQL, AWS, Azure, Terraform, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Burlington, VT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342</id>
+    <title>Cox: AI/Automation Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta GA · $24.23–$36.35/hr · Python, Java, C#, TypeScript, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338</id>
+    <title>Cox: Infrastructure Automation Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Azure, Terraform, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288</id>
+    <title>Cox: Cybersecurity Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Atlanta GA · $24.23–$36.35/hr · Python, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Irvine, CA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Irvine CA · $29.09–$43.61/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Draper, UT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Draper UT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Austin, TX)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Austin TX · $26.63–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Austin, TX)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Austin TX · $26.63–$40/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164</id>
+    <title>Cox: Data Scientist Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta GA · $24.23–$36.35/hr · Python, SQL, Spark, Hadoop</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Burlington, VT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185</id>
+    <title>Cox: Product Management Intern - Summer 2027 (North Hills, NY)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Long Island NY · $29.09–$43.61/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629</id>
+    <title>Intel: AI Solutions Engineering Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, Java, C++, scikit-learn, Pandas · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Bloomfield-CT/Intern---Mechanical-Engineer_2632739-1</id>
+    <title>LabCorp: Intern - Mechanical Engineer 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Bloomfield-CT/Intern---Mechanical-Engineer_2632739-1"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Bloomfield CT · $23–$28/hr · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:doordashusa:8171041</id>
@@ -24,44 +160,12 @@
     <summary>Summer 2027 · Software · New York, NY; San Francisco, CA; Sunnyvale, CA; Los Angeles, CA; Seattle, WA · Python, Java, SQL, Kotlin, AWS · H-1B track record: ~685 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1</id>
-    <title>Johnson &amp; Johnson: Robotics Controls &amp; Autonomy Interns - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"/>
+    <id>urn:intern-engine:greenhouse:waymo:8198218</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8198218"/>
     <updated>2026-09-14T23:53:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1</id>
-    <title>Johnson &amp; Johnson: Mechanical Engineering Intern - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1</id>
-    <title>Johnson &amp; Johnson: Electrical Engineering Intern - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330</id>
-    <title>LabCorp: Intern - Software Developer 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Durham NC · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000149447560</id>
-    <title>RESPEC: Student Engineering Intern (Structural)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000149447560"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sioux Falls, SD, United States</summary>
+    <summary>Summer 2027 · Software · Mountain View, California, United States; San Francisco, California, United States · C++ · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017932</id>
@@ -72,12 +176,84 @@
     <summary>Not stated · Hardware · Lehi, UT, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8198218</id>
-    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Commercialization</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8198218"/>
+    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000149447560</id>
+    <title>RESPEC: Student Engineering Intern (Structural)</title>
+    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000149447560"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Sioux Falls, SD, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216</id>
+    <title>Clarios: People Analytics &amp; AI Intern (Summer 2027) 🛂</title>
+    <link href="https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"/>
     <updated>2026-09-14T23:53:39Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, California, United States; San Francisco, California, United States · C++ · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States, Wisconsin, Milwaukee · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073</id>
+    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Freeport, IL · $19.5–$21.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075</id>
+    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lanark, IL · $19.5–$21.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074</id>
+    <title>Zurn Elkay Water Solutions: Manufacturing Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lanark, IL · $19.5–$21.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1</id>
+    <title>Johnson &amp; Johnson: Electrical Engineering Intern - Robotics R&amp;D 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, MATLAB · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1</id>
+    <title>Johnson &amp; Johnson: Mechanical Engineering Intern - Robotics R&amp;D 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1</id>
+    <title>Johnson &amp; Johnson: Robotics Controls &amp; Autonomy Interns - Robotics R&amp;D 🛂</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330</id>
+    <title>LabCorp: Intern - Software Developer 🛂</title>
+    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Durham NC · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
+    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
+    <updated>2026-09-14T23:53:39Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551</id>
@@ -102,38 +278,6 @@
     <updated>2026-09-14T23:53:39Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US - Remote · Python, AWS, GCP, Azure, Linux · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075</id>
-    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lanark, IL · $19.5–$21.5/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074</id>
-    <title>Zurn Elkay Water Solutions: Manufacturing Engineering Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lanark, IL · $19.5–$21.5/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073</id>
-    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Freeport, IL · $19.5–$21.5/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e</id>
@@ -222,14 +366,6 @@
     <updated>2026-09-14T20:57:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Denver, CO, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RESPECInc:744000149422860</id>
-    <title>RESPEC: Student Engineering Intern (Structural)</title>
-    <link href="https://jobs.smartrecruiters.com/RESPECInc/744000149422860"/>
-    <updated>2026-09-14T20:57:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sioux Falls, SD, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RESPECInc:744000149427190</id>
@@ -670,141 +806,5 @@
     <updated>2026-09-14T04:55:07Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:acronaviation:34cf5ad0-840a-4c1b-8231-02a433d0479e</id>
-    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
-    <link href="https://jobs.lever.co/acronaviation/34cf5ad0-840a-4c1b-8231-02a433d0479e"/>
-    <updated>2026-09-14T04:55:07Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694</id>
-    <title>Autostore: Co-Op/Intern - Mechanical Engineer</title>
-    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Mechanical-Engineer_JR102694"/>
-    <updated>2026-09-13T16:04:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Atlanta, GA, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:autostore:/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692</id>
-    <title>Autostore: Co-Op/Intern - Software Engineering</title>
-    <link href="https://autostore.wd3.myworkdayjobs.com/autostore/job/Atlanta-GA-USA/Co-Op---Software-Engineering_JR102692"/>
-    <updated>2026-09-13T16:04:31Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, GA, USA · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:anavationllc:4a82ae00-30f0-410c-bf3c-f1cdd18739e7</id>
-    <title>AnaVation: Computer Science Internship Summer 2027 🇺🇸</title>
-    <link href="https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7"/>
-    <updated>2026-09-12T17:00:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chantilly, VA · Python, Java, Node.js, AWS, GCP · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:megazone:e2889469-cf20-4227-bf24-2a6e885f8dca</id>
-    <title>MegazoneCloud: Software Engineer Co-op 2027 🛂</title>
-    <link href="https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Rochester, NY · $27 – $28 per hour · Python, Java, JavaScript, LLMs, AWS · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:megazone:fde09888-986f-4207-88fe-3ff5b921a1fa</id>
-    <title>MegazoneCloud: Data Engineer Co-op 2027 🛂</title>
-    <link href="https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Rochester, NY · $27 – $29 per hour · Python, SQL, LLMs, AWS, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:klaviyocampus:7989364003</id>
-    <title>Klaviyo: Software Engineer Intern (Summer 2027) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/7989364003"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, MA · Python, TypeScript, React, Django, AWS · sponsorship: no-sponsorship · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xcimer:c672a37e-007d-45ee-a4f9-b5d4dd25a2e3</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Mechanical Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:xcimer:fee9965c-8040-4614-8fd1-10bddfe3b911</id>
-    <title>Xcimer Energy: Summer 2027 Internship - Computational and Software Engineering 🇺🇸</title>
-    <link href="https://jobs.lever.co/xcimer/fee9965c-8040-4614-8fd1-10bddfe3b911"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Denver, CO · 25–35 USD/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:FortuneBrands:744000149058098</id>
-    <title>Fortune Brands: Product Management Intern, B2B Security</title>
-    <link href="https://jobs.smartrecruiters.com/FortuneBrands/744000149058098"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Deerfield, ILLINOIS, United States · Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312</id>
-    <title>Bracco: Manufacturing Engineering Co-op</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Manufacturing-Engineering-Co-op_JR100312"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317</id>
-    <title>Bracco: Mechanical Engineering Co-op (R&amp;D Sustaining) 🛂</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327</id>
-    <title>Bracco: Software Engineering Intern/ Co-op (R&amp;D Sustaining)</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · C++, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328</id>
-    <title>Bracco: Software Engineering Intern</title>
-    <link href="https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern_JR100328"/>
-    <updated>2026-09-12T13:36:56Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA, Eden Prairie, Minnesota, 55344 · $23–$25/hr · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:etyy.fa.ap2.oraclecloud.com:11649</id>
-    <title>Kulicke &amp; Soffa: Intern, Software Engineering</title>
-    <link href="https://etyy.fa.ap2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/11649"/>
-    <updated>2026-09-12T04:33:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Fort Washington, PA, United States · C++ · H-1B track record: ~17 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:newsbreak:4712896006</id>
-    <title>NewsBreak: Nearby AI Internship Program - Engineering Track</title>
-    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4712896006"/>
-    <updated>2026-09-12T00:09:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, California, United States · Python, Java, LLMs, Git, PostgreSQL</summary>
   </entry>
 </feed>

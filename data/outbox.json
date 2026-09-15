@@ -1,22 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000149483177",
-    "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
-    "workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1",
-    "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
-    "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
-    "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
-    "workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173",
-    "workday:cox:/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188",
-    "workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169",
-    "workday:cox:/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189",
-    "workday:cox:/job/Austin-TX/Software-Engineering-Intern---Summer-2027--Austin--TX-_R202682168",
-    "workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
-    "workday:cox:/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174",
-    "workday:cox:/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191",
-    "workday:cox:/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185",
-    "workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166",
-    "workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629",
-    "workday:labcorp:/job/Bloomfield-CT/Intern---Mechanical-Engineer_2632739-1"
-  ]
+  "pending": []
 }

@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-15T04:28:52Z</updated>
+  <updated>2026-09-15T10:02:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cai:/job/California/Cybersecurity-Analyst-Intern_R8488</id>
+    <title>CAI: Cybersecurity Analyst Intern</title>
+    <link href="https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488"/>
+    <updated>2026-09-15T10:02:38Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · California · Python, AWS, Azure, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1</id>
+    <title>Tencent: Machine Learning Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Machine-Learning-Intern_R108140-1"/>
+    <updated>2026-09-15T10:02:38Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $28.27–$60/hr · Python, SQL, LLMs · H-1B track record: ~53 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000149483177</id>
     <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Boston, MA</title>
@@ -14,22 +30,6 @@
     <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Rocky Hill, CT, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357</id>
-    <title>Cox: Infrastructure Operations Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · SQL, AWS, Azure, Terraform, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Burlington, VT)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr · AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342</id>
@@ -40,14 +40,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Atlanta GA · $24.23–$36.35/hr · Python, Java, C#, TypeScript, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338</id>
-    <title>Cox: Infrastructure Automation Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Azure, Terraform, Linux, Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288</id>
     <title>Cox: Cybersecurity Intern - Summer 2027</title>
     <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288"/>
@@ -56,28 +48,44 @@
     <summary>Summer 2027 · Security · Atlanta GA · $24.23–$36.35/hr · Python, JavaScript</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Irvine, CA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"/>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164</id>
+    <title>Cox: Data Scientist Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164"/>
     <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Irvine CA · $29.09–$43.61/hr · AWS, Linux</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta GA · $24.23–$36.35/hr · Python, SQL, Spark, Hadoop</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188</id>
-    <title>Cox: Product Management Intern - Summer 2027 (Draper, UT)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188"/>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338</id>
+    <title>Cox: Infrastructure Automation Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338"/>
     <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr</summary>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Azure, Terraform, Linux, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Draper UT)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"/>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357</id>
+    <title>Cox: Infrastructure Operations Intern - Summer 2027</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357"/>
     <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr · AWS, Linux</summary>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · SQL, AWS, Azure, Terraform, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Atlanta, GA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cox:/job/Austin-TX/Product-Management-Intern---Summer-2027--Austin--TX-_R202682189</id>
@@ -96,22 +104,6 @@
     <summary>Summer 2027 · Software · Austin TX · $26.63–$40/hr · AWS, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164</id>
-    <title>Cox: Data Scientist Intern - Summer 2027 (Atlanta, GA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Atlanta GA · $24.23–$36.35/hr · Python, SQL, Spark, Hadoop</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174</id>
-    <title>Cox: Product Management Intern - Summer 2027 (Atlanta, GA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Product-Management-Intern---Summer-2027--Atlanta--GA-_R202682174"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191</id>
     <title>Cox: Product Management Intern - Summer 2027 (Burlington, VT)</title>
     <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Product-Management-Intern---Summer-2027--Burlington--VT-_R202682191"/>
@@ -120,20 +112,44 @@
     <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:cox:/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Burlington, VT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Burlington-VT/Software-Engineering-Intern---Summer-2027--Burlington--VT-_R202682172-1"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Burlington VT · $24.23–$36.35/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188</id>
+    <title>Cox: Product Management Intern - Summer 2027 (Draper, UT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Product-Management-Intern---Summer-2027--Draper--UT-_R202682188"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Draper UT)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Draper-UT/Software-Engineering-Intern---Summer-2027--Draper-UT-_R202682169"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Draper UT · $24.23–$36.35/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173</id>
+    <title>Cox: Software Engineering Intern - Summer 2027 (Irvine, CA)</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173"/>
+    <updated>2026-09-15T04:28:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Irvine CA · $29.09–$43.61/hr · AWS, Linux</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:cox:/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185</id>
     <title>Cox: Product Management Intern - Summer 2027 (North Hills, NY)</title>
     <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185"/>
     <updated>2026-09-15T04:28:47Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Long Island NY · $29.09–$43.61/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166</id>
-    <title>Cox: Software Engineering Intern - Summer 2027 (Atlanta, GA)</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineering-Intern---Summer-2027--Atlanta--GA-_R202682166"/>
-    <updated>2026-09-15T04:28:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta GA · $24.23–$36.35/hr · AWS, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solutions-Engineering-Undergraduate-Intern_JR0286629</id>
@@ -790,21 +806,5 @@
     <updated>2026-09-14T10:36:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Anaheim, CA, USA · $32/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:disney:/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1</id>
-    <title>The Walt Disney Company: Walt Disney World Industrial Engineering Intern, Summer/Fall 2027</title>
-    <link href="https://disney.wd5.myworkdayjobs.com/disneycareer/job/Lake-Buena-Vista-FL-USA/Walt-Disney-World-Industrial-Engineering-Intern--Summer-Fall-2027_10159994-1"/>
-    <updated>2026-09-14T10:36:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lake Buena Vista, FL, USA · $32/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7991448003</id>
-    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7991448003"/>
-    <updated>2026-09-14T04:55:07Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
   </entry>
 </feed>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T04:28:52Z",
+ "generated_at": "2026-09-15T10:02:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1820,7 +1820,7 @@
    "expected": "2026-09-04",
    "days_until": -11,
    "status": "open",
-   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1",
+   "url": "https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
    "note": ""
   },
   {
@@ -2692,6 +2692,20 @@
    "note": ""
   },
   {
+   "company": "CAI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3532,5 +3546,5 @@
    "note": ""
   }
  ],
- "count": 252
+ "count": 253
 }

@@ -100,6 +100,18 @@
     }
    }
   },
+  "ai intern to the ceo": {
+   "name": "AI Intern to the CEO",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "ashby:cyvl:8bfc4116-b0bb-47f8-bca1-7069a37db328"
+     ],
+     "count": 1
+    }
+   }
+  },
   "air products": {
    "name": "Air Products",
    "cycles": {
@@ -2147,12 +2159,14 @@
       "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Clinical-Engineering---Human-Factors-Intern---Robotics-R-D_R-099931",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechatronics---Systems-Integration-Intern---R-D_R-099833",
-      "workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1",
+      "workday:jj:/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -2930,6 +2944,7 @@
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
+      "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
       "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Graduate-Level-Co-op---Data-Scientist---Plymouth--MN---Summer-2027_590567",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
@@ -2939,7 +2954,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 13
+     "count": 14
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -3576,9 +3591,12 @@
      "first_posted": "2026-08-28",
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1007361",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007589"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -4234,9 +4252,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94959",
       "oracle:emit.fa.ca3.oraclecloud.com:94965",
       "oracle:emit.fa.ca3.oraclecloud.com:94976",
-      "oracle:emit.fa.ca3.oraclecloud.com:95114"
+      "oracle:emit.fa.ca3.oraclecloud.com:95114",
+      "oracle:emit.fa.ca3.oraclecloud.com:95367"
      ],
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -4301,5 +4320,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T18:57:36Z"
+ "updated_at": "2026-09-15T22:05:59Z"
 }

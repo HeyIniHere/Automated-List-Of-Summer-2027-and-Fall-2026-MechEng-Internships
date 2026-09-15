@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T18:57:40Z",
+ "generated_at": "2026-09-15T22:06:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -392,7 +392,7 @@
    "expected": "2026-07-31",
    "days_until": -46,
    "status": "open",
-   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
+   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Kirksville-MO/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Kirksville--Missouri_R-105273",
    "note": ""
   },
   {
@@ -816,17 +816,17 @@
    "note": ""
   },
   {
-   "company": "Airbus",
+   "company": "WSP",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-21",
+   "posted_on": "2026-08-20",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-21",
-   "days_until": -25,
+   "expected": "2026-08-20",
+   "days_until": -26,
    "status": "open",
-   "url": "https://ag.wd3.myworkdayjobs.com/Airbus/job/Kinston-NC/XMLNAME-2027-Summer-Internship---Manufacturing-Engineer_JR10441369",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95367",
    "note": ""
   },
   {
@@ -1121,20 +1121,6 @@
    "days_until": -19,
    "status": "open",
    "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -19,
-   "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Huntersville-North-Carolina-United-States/Software-Engineer-Intern---Summer-2027_R50321",
    "note": ""
   },
   {
@@ -1638,7 +1624,7 @@
    "expected": "2026-09-03",
    "days_until": -12,
    "status": "open",
-   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316",
+   "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
    "note": ""
   },
   {
@@ -2426,20 +2412,6 @@
    "note": ""
   },
   {
-   "company": "Target",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-10",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://target.wd5.myworkdayjobs.com/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
-   "note": ""
-  },
-  {
    "company": "The Toro Company",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -2577,6 +2549,20 @@
    "days_until": -4,
    "status": "open",
    "url": "https://jobs.lever.co/xcimer/c672a37e-007d-45ee-a4f9-b5d4dd25a2e3",
+   "note": ""
+  },
+  {
+   "company": "AI Intern to the CEO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
    "note": ""
   },
   {
@@ -2758,7 +2744,7 @@
    "expected": "2026-09-15",
    "days_until": 0,
    "status": "open",
-   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+   "url": "https://q2ebanking.wd5.myworkdayjobs.com/Q2/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
    "note": ""
   },
   {
@@ -2800,7 +2786,7 @@
    "expected": "",
    "days_until": null,
    "status": "open",
-   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/40e4727d-e132-4de0-89ba-b4fdbd5860a7",
+   "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
    "note": ""
   },
   {
@@ -3434,15 +3420,15 @@
    "note": ""
   },
   {
-   "company": "WSP",
+   "company": "Airbus",
    "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
+   "posted_on": "2026-08-21",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -26,
+   "expected": "2026-08-21",
+   "days_until": -25,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -3513,6 +3499,20 @@
    "source": "engine",
    "expected": "2026-08-26",
    "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -19,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -3602,6 +3602,20 @@
    "note": ""
   },
   {
+   "company": "Target",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Blue Origin",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -3630,5 +3644,5 @@
    "note": ""
   }
  ],
- "count": 259
+ "count": 260
 }

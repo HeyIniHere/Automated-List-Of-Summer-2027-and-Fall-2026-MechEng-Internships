@@ -1,15 +1,3 @@
 {
-  "pending": [
-    "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Co-op---Engine-Solenoids_R2026-3583",
-    "workday:brunswick:/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
-    "workday:digikey:/job/Thief-River-Falls-MN/Industrial-Engineering-Intern_R5775",
-    "greenhouse:ensco:5421861008",
-    "smartrecruiters:Interco:744000149591449",
-    "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
-    "workday:oshkoshcorporation:/job/San-Francisco-California-United-States/Software-Engineering-Intern_R49493",
-    "workday:oshkoshcorporation:/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49677",
-    "workday:psu:/job/Warminster-PA/Embedded-Systems-and-Hardware-Co-Op_REQ_0000066566-2",
-    "workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088",
-    "greenhouse:workshop:5237900007"
-  ]
+  "pending": []
 }

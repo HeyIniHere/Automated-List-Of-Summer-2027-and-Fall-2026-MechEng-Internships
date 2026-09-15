@@ -1,3 +1,31 @@
 {
-  "pending": []
+  "pending": [
+    "rippling:apexanalytix-careers:40e4727d-e132-4de0-89ba-b4fdbd5860a7",
+    "rippling:apexanalytix-careers:e275fd70-45a3-4a64-8688-cace8a3f87ef",
+    "rippling:apexanalytix-careers:0cfde729-9d23-4186-91a7-464a4b87af53",
+    "workday:aspentech:/job/Bedford-Massachusetts/Data-Science-Intern---Summer-2027---Bedford--MA_R9459",
+    "workday:baxter:/job/Skaneateles-NY/Associate-Software-Engineer-Co-op_JR-207560-1",
+    "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
+    "greenhouse:duolingo:8805925002",
+    "greenhouse:duolingo:8806114002",
+    "workday:ebi:/job/Simsbury-CT/Electronics-Manufacturing-Engineer-Intern_REQ107696-1",
+    "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechatronics---Systems-Integration-Intern---R-D_R-099833",
+    "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Firmware-Engineer_JR111584",
+    "workday:micron:/job/Longmont-MAX--Office-CO/Intern---Data-Center-SSD-Firmware_JR111461",
+    "workday:micron:/job/Folsom-CA/Intern---AI-Hardware-and-Memory-Systems_JR111017",
+    "workday:moog:/job/Torrance-CA/Intern--Mechanical-Engineering_R-26-19918-1",
+    "greenhouse:nisc:8204086",
+    "greenhouse:testnisc:8204161",
+    "greenhouse:testnisc:8204156",
+    "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+    "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
+    "oracle:egay.fa.us6.oraclecloud.com:44449",
+    "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49618",
+    "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49614",
+    "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49617",
+    "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+    "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
+    "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
+    "workday:ssctech:/job/Braintree-MA---30-Braintree-Hill-Park/RS-Operational-AI-Analyst-Intern_R45766"
+  ]
 }

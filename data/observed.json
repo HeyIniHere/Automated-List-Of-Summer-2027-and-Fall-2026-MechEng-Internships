@@ -742,6 +742,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:brunswick:/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
@@ -749,7 +750,7 @@
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2635,7 +2636,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 15,
+     "count": 16,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -2650,6 +2651,7 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
      ]
@@ -4115,6 +4117,18 @@
     }
    }
   },
+  "woodward governor": {
+   "name": "Woodward Governor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-15",
+     "role_ids": [
+      "workday:woodward:/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088"
+     ],
+     "count": 1
+    }
+   }
+  },
   "workiva": {
    "name": "Workiva",
    "cycles": {
@@ -4126,6 +4140,18 @@
       "workday:workiva:/job/USA---Remote/Summer-2027-Intern---Software-Engineering_R12190"
      ],
      "count": 3
+    }
+   }
+  },
+  "workshop": {
+   "name": "Workshop",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:workshop:5237900007"
+     ],
+     "count": 1
     }
    }
   },
@@ -4232,5 +4258,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T10:02:38Z"
+ "updated_at": "2026-09-15T14:54:38Z"
 }

@@ -770,3 +770,4 @@
 {"ts": "2026-09-14T23:53:39Z", "open": 971, "new": 16, "companies": 4577, "ok_rate": 0.992, "quarantined": 310, "secs": 417.8}
 {"ts": "2026-09-15T04:28:47Z", "open": 981, "new": 18, "companies": 4577, "ok_rate": 0.999, "quarantined": 295, "secs": 459.9}
 {"ts": "2026-09-15T10:02:38Z", "open": 983, "new": 2, "companies": 4577, "ok_rate": 0.982, "quarantined": 288, "secs": 549.8}
+{"ts": "2026-09-15T14:54:38Z", "open": 995, "new": 11, "companies": 4587, "ok_rate": 0.983, "quarantined": 286, "secs": 496.6}

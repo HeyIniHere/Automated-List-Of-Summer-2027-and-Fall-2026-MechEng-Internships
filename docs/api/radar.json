@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-15T10:02:44Z",
+ "generated_at": "2026-09-15T14:54:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2678,6 +2678,20 @@
    "note": ""
   },
   {
+   "company": "Workshop",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/workshop/jobs/5237900007",
+   "note": ""
+  },
+  {
    "company": "Zurn Elkay Water Solutions",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2703,6 +2717,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
+   "note": ""
+  },
+  {
+   "company": "Woodward Governor",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088",
    "note": ""
   },
   {
@@ -3546,5 +3574,5 @@
    "note": ""
   }
  ],
- "count": 253
+ "count": 255
 }

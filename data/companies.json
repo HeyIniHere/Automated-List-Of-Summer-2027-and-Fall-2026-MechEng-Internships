@@ -5010,6 +5010,11 @@
     "site": "Brambles_Careers"
   },
   {
+    "name": "Cherry Technologies",
+    "slug": "withcherry",
+    "ats": "ashby"
+  },
+  {
     "name": "Chevron Corporation",
     "slug": "chevron",
     "ats": "workday",
@@ -6189,6 +6194,11 @@
     "ats": "workday",
     "wd": "wd5",
     "site": "copeland_external_careers_page"
+  },
+  {
+    "name": "Coram AI",
+    "slug": "coram-ai",
+    "ats": "ashby"
   },
   {
     "name": "Corcept Therapeutics",
@@ -7644,6 +7654,11 @@
   {
     "name": "Duolingo",
     "slug": "duolingo",
+    "ats": "greenhouse"
+  },
+  {
+    "name": "Duolingo",
+    "slug": "duolingounirecruitment",
     "ats": "greenhouse"
   },
   {
@@ -14461,6 +14476,11 @@
     "site": "Mets"
   },
   {
+    "name": "Major League Baseball",
+    "slug": "clevelandguardiansbops",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Makai Labs",
     "slug": "makai-labs",
     "ats": "ashby"
@@ -16910,6 +16930,13 @@
     "site": "halma"
   },
   {
+    "name": "Ocean Spray",
+    "slug": "oceanspray",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "OceanSprayJobs"
+  },
+  {
     "name": "OceanComm",
     "slug": "oceancomm",
     "ats": "workable"
@@ -17361,6 +17388,11 @@
     "name": "OraSure Technologies",
     "slug": "dnagenotek",
     "ats": "lever"
+  },
+  {
+    "name": "Oratomic",
+    "slug": "oratomic",
+    "ats": "ashby"
   },
   {
     "name": "Orb",
@@ -18307,6 +18339,13 @@
     "site": "pmexternalcareers"
   },
   {
+    "name": "Plastipak",
+    "slug": "plastipak",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Plastipak"
+  },
+  {
     "name": "PlayStation",
     "slug": "waterloocoop",
     "ats": "greenhouse"
@@ -18614,6 +18653,11 @@
     "name": "Presidency Solutions",
     "slug": "PresidencySolutions1",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "PressW",
+    "slug": "pressw",
+    "ats": "ashby"
   },
   {
     "name": "Priceline",
@@ -19039,6 +19083,11 @@
     "name": "Quantexa",
     "slug": "quantexa",
     "ats": "ashby"
+  },
+  {
+    "name": "Quantiq",
+    "slug": "quantiq",
+    "ats": "greenhouse"
   },
   {
     "name": "Quantix SCS",
@@ -19766,6 +19815,11 @@
     "ats": "lever"
   },
   {
+    "name": "Rilla",
+    "slug": "rilla",
+    "ats": "ashby"
+  },
+  {
     "name": "RingCentral",
     "slug": "ringcentral",
     "ats": "workday",
@@ -19868,6 +19922,11 @@
     "wd": "wd1",
     "site": "careers",
     "host": "wd1.myworkdaysite.com"
+  },
+  {
+    "name": "RoadRunner",
+    "slug": "roadrunner",
+    "ats": "ashby"
   },
   {
     "name": "RoadRunner Recycling",
@@ -23450,6 +23509,13 @@
     "name": "Tidal Financial Group",
     "slug": "open-roles",
     "ats": "rippling"
+  },
+  {
+    "name": "Tihinsurance",
+    "slug": "tihinsurance",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "crc_careers"
   },
   {
     "name": "Tilde Research",

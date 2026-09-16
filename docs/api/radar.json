@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T01:21:23Z",
+ "generated_at": "2026-09-16T07:37:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1992,20 +1992,6 @@
    "note": "Dec-Jan, peak hiring Feb"
   },
   {
-   "company": "Danaher Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://danaher.wd1.myworkdayjobs.com/danaherjobs/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859",
-   "note": ""
-  },
-  {
    "company": "Datadog",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2734,6 +2720,20 @@
    "note": ""
   },
   {
+   "company": "The Aerospace Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+   "note": ""
+  },
+  {
    "company": "Woodward Governor",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -2745,6 +2745,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088",
+   "note": ""
+  },
+  {
+   "company": "Live Oak Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
    "note": ""
   },
   {
@@ -3588,6 +3602,20 @@
    "note": ""
   },
   {
+   "company": "Danaher Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Target",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -3644,5 +3672,5 @@
    "note": ""
   }
  ],
- "count": 260
+ "count": 262
 }

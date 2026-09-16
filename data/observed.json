@@ -380,12 +380,13 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 4,
+     "count": 5,
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
       "greenhouse:andurilindustries:5153187007",
       "greenhouse:andurilindustries:5153218007",
-      "greenhouse:andurilindustries:5236893007"
+      "greenhouse:andurilindustries:5236893007",
+      "greenhouse:andurilindustries:5239083007"
      ]
     }
    }
@@ -2254,9 +2255,11 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "smartrecruiters:LLNL:3743990015127766",
-      "smartrecruiters:LLNL:3743990015127776"
+      "smartrecruiters:LLNL:3743990015127776",
+      "smartrecruiters:LLNL:3743990015289136",
+      "smartrecruiters:LLNL:3743990015289146"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -2943,6 +2946,7 @@
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
+      "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
       "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
@@ -2954,7 +2958,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 14
+     "count": 15
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -4320,5 +4324,5 @@
    }
   }
  },
- "updated_at": "2026-09-15T22:05:59Z"
+ "updated_at": "2026-09-16T01:21:18Z"
 }

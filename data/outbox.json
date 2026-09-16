@@ -1,3 +1,35 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:AECOM2:744000149913009",
+    "workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456",
+    "workday:avav:/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550",
+    "greenhouse:cartesiansystems:4408204009",
+    "greenhouse:clockworksystems:6174230004",
+    "rippling:collieraerospace:5a8bf9a3-c4f5-4c5a-ba9a-188979106827",
+    "ashby:contoro:cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5",
+    "greenhouse:duolingounirecruitment:8806115002",
+    "greenhouse:duolingounirecruitment:8806878002",
+    "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1399",
+    "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1400",
+    "workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259",
+    "workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1",
+    "workday:gfs:/job/Atlanta-Georgia/IT-Infrastructure-Project-Support-Internship_R-56286",
+    "workday:insulet:/job/Acton-Massachusetts/Intern--R-D-Manufacturing--June---August--Onsite-_REQ-2026-18070-1",
+    "workday:jj:/job/Santa-Clara-California-United-States-of-America/Systems---Simulation-Engineering-Intern---Robotics-R-D_R-100027",
+    "workday:lonza:/job/US---Portsmouth-NH/Summer-2026-Manufacturing--Science---Technology-Internship_R79570",
+    "workday:nasdaq:/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
+    "workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Manufacturing-Engineering-Intern_R49603",
+    "workday:plastipak:/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512",
+    "greenhouse:quantiq:4287936009",
+    "greenhouse:relaypro:8176774",
+    "greenhouse:relaypro:8180836",
+    "greenhouse:rendezvousrobotics:4408601009",
+    "greenhouse:rendezvousrobotics:4408590009",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
+    "oracle:ejia.fa.us6.oraclecloud.com:107256",
+    "workday:thermofisher:/job/Marietta-Ohio-USA/Manufacturing-Engineering-Co-op_R-01366628",
+    "workday:tihinsurance:/job/Dallas-TX---12377-Merit-Dr/Internship---Software-Engineering_R0000003172",
+    "workday:vermeer:/job/Pella-Iowa-USA---Corporate-Office/IT-Data-Engineer-Intern_REQ-22171",
+    "oracle:emit.fa.ca3.oraclecloud.com:95483"
+  ]
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T07:37:02Z",
+ "generated_at": "2026-09-16T13:26:06Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2748,6 +2748,34 @@
    "note": ""
   },
   {
+   "company": "Bass Pro Shops",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
+   "note": ""
+  },
+  {
+   "company": "Gecko Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8",
+   "note": ""
+  },
+  {
    "company": "Live Oak Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3672,5 +3700,5 @@
    "note": ""
   }
  ],
- "count": 262
+ "count": 264
 }

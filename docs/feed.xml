@@ -5,15 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-16T07:37:02Z</updated>
+  <updated>2026-09-16T13:26:06Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624</id>
-    <title>Live Oak Bank: Summer 2027 Intern: AI Enablement &amp; Forward-Deployed Engineering</title>
-    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"/>
-    <updated>2026-09-16T07:36:57Z</updated>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444</id>
+    <title>Bass Pro Shops: Cybersecurity Intern Summer 2027</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444"/>
+    <updated>2026-09-16T13:26:00Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Git</summary>
+    <summary>Summer 2027 · Security · Springfield, MO (Bass Pro Shops Base Camp)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1</id>
+    <title>Bass Pro Shops: IT Developer Intern Summer 2027</title>
+    <link href="https://basspro.wd1.myworkdayjobs.com/careers/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Springfield, MO (Bass Pro Shops Base Camp)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4</id>
+    <title>Bedrock Robotics: Internship 2027 Software Engineer, Fleet Platform</title>
+    <link href="https://jobs.ashbyhq.com/bedrock-robotics/8927dd7e-a48d-49a2-92eb-09ec059432f4"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · Python, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:c097505b-0a28-4a33-a917-268f463641e8</id>
+    <title>Gecko Robotics: AI/Machine Learning Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/c097505b-0a28-4a33-a917-268f463641e8"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York City · $50 – $90 per hour · Python, SQL, PyTorch, Pandas, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:gecko-robotics:01138338-ff3c-4982-8ba3-5401386bf082</id>
+    <title>Gecko Robotics: Full Stack Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/gecko-robotics/01138338-ff3c-4982-8ba3-5401386bf082"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York City · $40 – $80 per hour · Python, TypeScript, JavaScript, LLMs, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0023570-1</id>
+    <title>Graco: Manufacturing Engineering Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Manufacturing-Engineering-Intern_R0023570-1"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · North Canton, Ohio, USA · React · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:graco:/job/North-Canton-Ohio-USA/Mechanical-Engineer-Intern_R0023517</id>
+    <title>Graco: Mechanical Engineer Intern 🛂</title>
+    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/North-Canton-Ohio-USA/Mechanical-Engineer-Intern_R0023517"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · North Canton, Ohio, USA · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonoco:/job/Jefferson-TX-USA/Manufacturing-Internship_JR-159774</id>
+    <title>Sonoco: Manufacturing Internship</title>
+    <link href="https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Jefferson-TX-USA/Manufacturing-Internship_JR-159774"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Jefferson, TX, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonoco:/job/Hartselle-AL-USA/Mechanical-Internship_JR-159771</id>
+    <title>Sonoco: Mechanical Internship</title>
+    <link href="https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartselle-AL-USA/Mechanical-Internship_JR-159771"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hartselle, AL, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sonoco:/job/Hartselle-AL-USA/Manufacturing-Internship_JR-159794</id>
+    <title>Sonoco: Manufacturing Internship</title>
+    <link href="https://sonoco.wd1.myworkdayjobs.com/CorporateCareers/job/Hartselle-AL-USA/Manufacturing-Internship_JR-159794"/>
+    <updated>2026-09-16T13:26:00Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hartselle, AL, USA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25017994</id>
@@ -30,6 +102,14 @@
     <updated>2026-09-16T07:36:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624</id>
+    <title>Live Oak Bank: Summer 2027 Intern: AI Enablement &amp; Forward-Deployed Engineering</title>
+    <link href="https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"/>
+    <updated>2026-09-16T07:36:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5239083007</id>
@@ -726,85 +806,5 @@
     <updated>2026-09-14T23:53:39Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1</id>
-    <title>Johnson &amp; Johnson: Mechanical Engineering Intern - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1</id>
-    <title>Johnson &amp; Johnson: Robotics Controls &amp; Autonomy Intern - Robotics R&amp;D 🛂</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Santa-Clara-California-United-States-of-America/RC---A---Robotics-R-D_R-099654-1"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:labcorp:/job/Durham-NC/Intern---Software-Developer_2632330</id>
-    <title>LabCorp: Intern - Software Developer 🛂</title>
-    <link href="https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Software-Developer_2632330"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Durham NC · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055</id>
-    <title>Wex: AI &amp; Data Platform Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/AI---Data-Platform-Engineering-Intern--Undergraduate-_R23055"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, LLMs, AWS · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551</id>
-    <title>Wex: Data &amp; AI Intern (Graduate/Master’s)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Data---AI-Intern--Graduate-Master-s-_R22551"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, C++, C#, JavaScript · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056</id>
-    <title>Wex: DevOps &amp; AI Engineering Intern (Undergraduate)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/DevOps---AI-Engineering-Intern--Undergraduate-_R23056"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, TypeScript, JavaScript, LLMs · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494</id>
-    <title>Wex: SRE &amp; Application Services Intern (Graduate/Master's)</title>
-    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/SRE---Application-Services-Intern--Graduate-Master-s-_R22494"/>
-    <updated>2026-09-14T23:53:39Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US - Remote · Python, AWS, GCP, Azure, Linux · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:base-power:b6b2332e-1226-4575-b2c9-9e5258f2540e</id>
-    <title>Base Power: Quantitative Developer Intern</title>
-    <link href="https://jobs.ashbyhq.com/base-power/b6b2332e-1226-4575-b2c9-9e5258f2540e"/>
-    <updated>2026-09-14T20:57:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Quant · Austin, TX · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:opengov:c31622c1-be01-4d4a-b7cf-d116be84cc08</id>
-    <title>OpenGov: Intern, Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08"/>
-    <updated>2026-09-14T20:57:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US | Massachusetts | Boston · $30 per hour · TypeScript, JavaScript, React, Angular, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:opengov:d036cfd6-5a01-41ed-af73-78fc32854849</id>
-    <title>OpenGov: Intern, Software Engineer</title>
-    <link href="https://jobs.ashbyhq.com/opengov/d036cfd6-5a01-41ed-af73-78fc32854849"/>
-    <updated>2026-09-14T20:57:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US | Georgia | Atlanta · $25 per hour · TypeScript, JavaScript, React, Angular, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

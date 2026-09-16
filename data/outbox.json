@@ -1,3 +1,36 @@
 {
-  "pending": []
+  "pending": [
+    "lever:acronaviation:2893b51b-c93c-4875-9912-1292ab0f4926",
+    "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
+    "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458",
+    "workday:cisco:/job/RTP-North-Carolina-US/Security-Engineer-I--Intern----United-States_2025885",
+    "workday:cisco:/job/RTP-North-Carolina-US/Software-Engineer-I--Intern----United-States_2025890",
+    "oracle:hdjq.fa.us2.oraclecloud.com:26011001",
+    "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839",
+    "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
+    "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
+    "workday:kbr:/job/Sioux-Falls-South-Dakota/Image-Processing-Software-Engineer-Intern_R2130067",
+    "lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75",
+    "lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906",
+    "smartrecruiters:RenesasElectronics:744000149952164",
+    "greenhouse:rocketlab:7988835003",
+    "greenhouse:rocketlab:7984564003",
+    "greenhouse:rocketlab:7989904003",
+    "workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971-1",
+    "workday:sensata:/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482",
+    "workday:sensata:/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483",
+    "workday:terex:/job/US-SD-Watertown/Manufacturing-Engineer-Intern_REQ-14323",
+    "workday:valeo:/job/Troy-MI/Systems-Engineering-Co-Op--Software-_REQ2026071241",
+    "workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1",
+    "workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1",
+    "workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Currency-Forward-Specialist-Co-Op_R94821-1",
+    "workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829",
+    "oracle:emit.fa.ca3.oraclecloud.com:95437",
+    "oracle:emit.fa.ca3.oraclecloud.com:95528",
+    "oracle:emit.fa.ca3.oraclecloud.com:95458",
+    "oracle:emit.fa.ca3.oraclecloud.com:94665",
+    "oracle:emit.fa.ca3.oraclecloud.com:95526",
+    "workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"
+  ]
 }

@@ -616,10 +616,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-16",
      "role_ids": [
+      "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458",
       "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Cybersecurity-Intern-Summer-2027_R267444",
       "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/IT-Developer-Intern-Summer-2027_R267441-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1430,9 +1431,10 @@
      "role_ids": [
       "oracle:hdjq.fa.us2.oraclecloud.com:26009934",
       "oracle:hdjq.fa.us2.oraclecloud.com:26010048",
-      "oracle:hdjq.fa.us2.oraclecloud.com:26010738"
+      "oracle:hdjq.fa.us2.oraclecloud.com:26010738",
+      "oracle:hdjq.fa.us2.oraclecloud.com:26011001"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1768,6 +1770,18 @@
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
      "count": 5
+    }
+   }
+  },
+  "gm financial": {
+   "name": "GM financial",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839"
+     ],
+     "count": 1
     }
    }
   },
@@ -2165,15 +2179,17 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
       "workday:insulet:/job/Acton-Massachusetts/Intern--R-D-Manufacturing--June---August--Onsite-_REQ-2026-18070-1"
      ],
-     "count": 8
+     "count": 10
     }
    }
   },
@@ -3362,14 +3378,17 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "greenhouse:rocketlab:7984564003",
       "greenhouse:rocketlab:7984600003",
       "greenhouse:rocketlab:7986690003",
       "greenhouse:rocketlab:7986794003",
+      "greenhouse:rocketlab:7988835003",
       "greenhouse:rocketlab:7989722003",
+      "greenhouse:rocketlab:7989904003",
       "greenhouse:rocketlab:7990365003",
       "greenhouse:rocketlab:7991448003"
      ],
-     "count": 6
+     "count": 9
     }
    }
   },
@@ -3538,9 +3557,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334"
+      "workday:sensata:/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
+      "workday:sensata:/job/Thousand-Oaks-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98482",
+      "workday:sensata:/job/Vista-CA/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98483"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -4411,6 +4432,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94545",
       "oracle:emit.fa.ca3.oraclecloud.com:94617",
       "oracle:emit.fa.ca3.oraclecloud.com:94637",
+      "oracle:emit.fa.ca3.oraclecloud.com:94665",
       "oracle:emit.fa.ca3.oraclecloud.com:94810",
       "oracle:emit.fa.ca3.oraclecloud.com:94814",
       "oracle:emit.fa.ca3.oraclecloud.com:94815",
@@ -4423,9 +4445,13 @@
       "oracle:emit.fa.ca3.oraclecloud.com:94976",
       "oracle:emit.fa.ca3.oraclecloud.com:95114",
       "oracle:emit.fa.ca3.oraclecloud.com:95367",
-      "oracle:emit.fa.ca3.oraclecloud.com:95483"
+      "oracle:emit.fa.ca3.oraclecloud.com:95437",
+      "oracle:emit.fa.ca3.oraclecloud.com:95458",
+      "oracle:emit.fa.ca3.oraclecloud.com:95483",
+      "oracle:emit.fa.ca3.oraclecloud.com:95526",
+      "oracle:emit.fa.ca3.oraclecloud.com:95528"
      ],
-     "count": 25
+     "count": 30
     }
    }
   },
@@ -4481,14 +4507,15 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
       "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"
      ],
-     "count": 3
+     "count": 4
     }
    }
   }
  },
- "updated_at": "2026-09-16T18:12:12Z"
+ "updated_at": "2026-09-16T22:04:19Z"
 }

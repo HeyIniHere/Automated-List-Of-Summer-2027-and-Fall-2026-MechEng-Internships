@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-16T18:12:18Z",
+ "generated_at": "2026-09-16T22:04:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -365,20 +365,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224",
-   "note": ""
-  },
-  {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -49,
-   "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00192042",
    "note": ""
   },
   {
@@ -840,7 +826,7 @@
    "expected": "2026-08-20",
    "days_until": -27,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95367",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95483",
    "note": ""
   },
   {
@@ -1414,7 +1400,7 @@
    "expected": "2026-09-01",
    "days_until": -15,
    "status": "open",
-   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
+   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
    "note": ""
   },
   {
@@ -2282,7 +2268,7 @@
    "expected": "2026-09-10",
    "days_until": -6,
    "status": "open",
-   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549",
+   "url": "https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550",
    "note": ""
   },
   {
@@ -2622,20 +2608,6 @@
    "note": "opens fall"
   },
   {
-   "company": "Schroders",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
-   "note": ""
-  },
-  {
    "company": "Workshop",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2804,6 +2776,20 @@
    "note": ""
   },
   {
+   "company": "GM financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839",
+   "note": ""
+  },
+  {
    "company": "Live Oak Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -2884,7 +2870,7 @@
    "expected": "2026-09-16",
    "days_until": 0,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408601009",
+   "url": "https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408590009",
    "note": ""
   },
   {
@@ -3350,6 +3336,20 @@
    "note": ""
   },
   {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Sentry",
    "last_cycle_posted": "",
    "posted_on": "2026-08-01",
@@ -3810,7 +3810,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 272
+ "count": 273
 }

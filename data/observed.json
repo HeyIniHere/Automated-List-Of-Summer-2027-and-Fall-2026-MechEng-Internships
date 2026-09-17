@@ -1040,10 +1040,11 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:clarios:/job/United-States-Michigan-Holland/Advanced-Manufacturing-Intern--Summer-2027-_WD49914",
+      "workday:clarios:/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211",
       "workday:clarios:/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
       "workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1131,6 +1132,18 @@
       "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
      ],
      "count": 2
+    }
+   }
+  },
+  "covar": {
+   "name": "CoVar",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:covar:5240360007"
+     ],
+     "count": 1
     }
    }
   },
@@ -1791,9 +1804,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-16",
      "role_ids": [
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
       "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2026,6 +2041,18 @@
      "role_ids": [
       "greenhouse:wehrtyou:8052083"
      ]
+    }
+   }
+  },
+  "hunt oil": {
+   "name": "Hunt Oil Company",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067"
+     ],
+     "count": 1
     }
    }
   },
@@ -2696,6 +2723,18 @@
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782"
      ],
      "count": 8
+    }
+   }
+  },
+  "nanopath": {
+   "name": "Nanopath",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "greenhouse:nanopathinc:4732881005"
+     ],
+     "count": 1
     }
    }
   },
@@ -3415,6 +3454,7 @@
      "role_ids": [
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870637",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
@@ -3422,7 +3462,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -4255,6 +4295,27 @@
     }
    }
   },
+  "visa": {
+   "name": "Visa",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:visa:/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
+      "workday:visa:/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF088599W-1",
+      "workday:visa:/job/US---Austin-TX/Software-Engineer--Intern---2027-Austin--TX_REF088544W-1",
+      "workday:visa:/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
+      "workday:visa:/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+      "workday:visa:/job/US---Bellevue-WA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Bellevue_REF088594W-1",
+      "workday:visa:/job/US---Denver-CO/Software-Engineer--Intern--Highlands-Ranch--CO---2027_REF088583W",
+      "workday:visa:/job/US---Denver-CO/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Highlands-Ranch_REF088597W-1",
+      "workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1",
+      "workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"
+     ],
+     "count": 10
+    }
+   }
+  },
   "voleon group": {
    "name": "The Voleon Group",
    "cycles": {
@@ -4485,6 +4546,18 @@
     }
    }
   },
+  "x energy": {
+   "name": "X-energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:xenergy:/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "xcel energy": {
    "name": "Xcel Energy",
    "cycles": {
@@ -4547,5 +4620,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T11:33:30Z"
+ "updated_at": "2026-09-17T16:46:15Z"
 }

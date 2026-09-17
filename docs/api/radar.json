@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T20:14:51Z",
+ "generated_at": "2026-09-17T23:35:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -939,6 +939,20 @@
    "days_until": -23,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000145517564",
+   "note": ""
+  },
+  {
+   "company": "Honeywell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -23,
+   "status": "open",
+   "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
    "note": ""
   },
   {
@@ -3673,20 +3687,6 @@
   },
   {
    "company": "Grant Thornton",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -23,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Honeywell",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
    "precision": "day",

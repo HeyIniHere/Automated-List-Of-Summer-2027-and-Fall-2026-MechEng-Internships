@@ -274,7 +274,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 7,
+     "count": 8,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -282,7 +282,8 @@
       "amazon:amazon:10517567",
       "amazon:amazon:10529525",
       "amazon:amazon:10535282",
-      "amazon:amazon:10536817"
+      "amazon:amazon:10536817",
+      "amazon:amazon:10552937"
      ]
     }
    }
@@ -770,9 +771,10 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "smartrecruiters:BoschGroup:744000148518808",
-      "smartrecruiters:BoschGroup:744000148542054"
+      "smartrecruiters:BoschGroup:744000148542054",
+      "smartrecruiters:BoschGroup:744000150217869"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1996,9 +1998,11 @@
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155574",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155576",
       "oracle:ibqbjb.fa.ocs.oraclecloud.com:155583",
-      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155584"
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:155584",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:157903",
+      "oracle:ibqbjb.fa.ocs.oraclecloud.com:158088"
      ],
-     "count": 13
+     "count": 15
     }
    }
   },
@@ -3464,9 +3468,10 @@
       "greenhouse:rocketlab:7989722003",
       "greenhouse:rocketlab:7989904003",
       "greenhouse:rocketlab:7990365003",
-      "greenhouse:rocketlab:7991448003"
+      "greenhouse:rocketlab:7991448003",
+      "greenhouse:rocketlab:7996623003"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -4118,9 +4123,10 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-05",
-     "count": 1,
+     "count": 2,
      "role_ids": [
-      "greenhouse:towerresearchcapital:8044334"
+      "greenhouse:towerresearchcapital:8044334",
+      "greenhouse:towerresearchcapital:8212158"
      ]
     }
    }
@@ -4637,12 +4643,13 @@
       "workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
-      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074"
+      "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
+      "workday:elkay:/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
      ],
-     "count": 4
+     "count": 5
     }
    }
   }
  },
- "updated_at": "2026-09-17T20:14:45Z"
+ "updated_at": "2026-09-17T23:35:35Z"
 }

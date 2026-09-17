@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-17T06:04:51Z</updated>
+  <updated>2026-09-17T11:33:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
@@ -16,12 +16,12 @@
     <summary>Not stated · Software · Reno, Nevada, United States · TypeScript, LLMs, React, AWS, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
-    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
+    <id>urn:intern-engine:greenhouse:waymo:8203200</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
     <updated>2026-09-17T06:04:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · San Francisco, California · Python, C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508</id>
@@ -32,20 +32,20 @@
     <summary>Summer 2027 · Hardware · Pittsburgh, PA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
+    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
+    <updated>2026-09-17T06:04:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
     <title>Smith+Nephew: Intern Robotics Software Engineering</title>
     <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
     <updated>2026-09-17T06:04:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8203200</id>
-    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, California · Python, C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
@@ -393,7 +393,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:relaypro:8176774</id>
-    <title>Relay: Relay Launchpad Intern - Software Engineer (AI/ML)</title>
+    <title>Relay: Software Engineering Intern (AI/ML) - Summer 2027</title>
     <link href="https://job-boards.greenhouse.io/relaypro/jobs/8176774"/>
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>
@@ -401,7 +401,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:relaypro:8180836</id>
-    <title>Relay: Relay Launchpad Intern - Software Engineer (Device Team)</title>
+    <title>Relay: Software Engineering Intern (Device Team) - Summer 2027</title>
     <link href="https://job-boards.greenhouse.io/relaypro/jobs/8180836"/>
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>

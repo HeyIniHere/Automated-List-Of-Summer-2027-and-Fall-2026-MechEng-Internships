@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-17T16:46:20Z",
+ "generated_at": "2026-09-17T20:14:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -816,20 +816,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665",
-   "note": ""
-  },
-  {
    "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1110,20 +1096,6 @@
    "note": ""
   },
   {
-   "company": "Johns Manville (JM)",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
-   "note": ""
-  },
-  {
    "company": "Shield AI",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -1400,7 +1372,7 @@
    "expected": "2026-09-01",
    "days_until": -16,
    "status": "open",
-   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
+   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211",
    "note": ""
   },
   {
@@ -1443,20 +1415,6 @@
    "days_until": -16,
    "status": "open",
    "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
-   "note": ""
-  },
-  {
-   "company": "Hypertherm",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -16,
-   "status": "open",
-   "url": "https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern---Manufacturing-Process-Engineer_R4063-1",
    "note": ""
   },
   {
@@ -1568,7 +1526,7 @@
    "expected": "2026-09-01",
    "days_until": -16,
    "status": "open",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253297",
+   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299",
    "note": ""
   },
   {
@@ -2814,7 +2772,7 @@
    "expected": "2026-09-16",
    "days_until": -1,
    "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
    "note": ""
   },
   {
@@ -2916,6 +2874,34 @@
    "note": ""
   },
   {
+   "company": "Lowe's",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lowes.wd5.myworkdayjobs.com/LWS_External_CS/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1",
+   "note": ""
+  },
+  {
+   "company": "Marvell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+   "note": ""
+  },
+  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2940,7 +2926,7 @@
    "expected": "2026-09-17",
    "days_until": 0,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Bellevue-WA/Software-Engineer--Intern--Bellevue---2027_REF088585W-2",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF088577W-1",
    "note": ""
   },
   {
@@ -3630,6 +3616,20 @@
    "note": ""
   },
   {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -3714,6 +3714,20 @@
    "note": ""
   },
   {
+   "company": "Johns Manville (JM)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -3737,6 +3751,20 @@
    "source": "engine",
    "expected": "2026-08-31",
    "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -16,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -3896,5 +3924,5 @@
    "note": ""
   }
  ],
- "count": 278
+ "count": 280
 }

@@ -1,3 +1,11 @@
 {
-  "pending": []
+  "pending": [
+    "workday:idexcorp:/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910",
+    "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103294",
+    "workday:labcorp:/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795",
+    "workday:leidos:/job/Pittsburgh-PA/Research-Engineer-Intern_R-00192500",
+    "workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1",
+    "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+    "smartrecruiters:RenesasElectronics:744000150194379"
+  ]
 }

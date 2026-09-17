@@ -2459,6 +2459,18 @@
     }
    }
   },
+  "lowe s": {
+   "name": "Lowe's",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lyft": {
    "name": "Lyft",
    "cycles": {
@@ -2472,6 +2484,18 @@
       "greenhouse:lyft:8802198002"
      ],
      "count": 5
+    }
+   }
+  },
+  "marvell": {
+   "name": "Marvell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+     ],
+     "count": 1
     }
    }
   },
@@ -4620,5 +4644,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T16:46:15Z"
+ "updated_at": "2026-09-17T20:14:45Z"
 }

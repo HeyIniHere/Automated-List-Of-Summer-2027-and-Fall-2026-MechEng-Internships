@@ -5,31 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-17T00:29:11Z</updated>
+  <updated>2026-09-17T06:04:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
+    <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
+    <title>Amperesand: Software Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4409254009"/>
+    <updated>2026-09-17T06:04:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Reno, Nevada, United States · TypeScript, LLMs, React, AWS, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309903</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309903"/>
-    <updated>2026-09-17T00:29:06Z</updated>
+    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
+    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
+    <updated>2026-09-17T06:04:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309902</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902"/>
-    <updated>2026-09-17T00:29:06Z</updated>
+    <id>urn:intern-engine:workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508</id>
+    <title>Smith+Nephew: Intern Mechanical Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508"/>
+    <updated>2026-09-17T06:04:46Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Jacksonville, FL, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Pittsburgh, PA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
+    <title>Smith+Nephew: Intern Robotics Software Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
+    <updated>2026-09-17T06:04:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8203200</id>
+    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
+    <updated>2026-09-17T06:04:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California · Python, C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
+    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
+    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309900</id>
@@ -40,12 +64,28 @@
     <summary>Summer 2027 · Hardware · Salt Lake City, UT, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
-    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
-    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309902</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902"/>
     <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Jacksonville, FL, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309903</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309903"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
+    <title>American Century Investments: Cybersecurity Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7984564003</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-15T22:05:59Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Santa Clara, California, United States of America · $32/hr · Python, C++, Computer Vision, Git · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:newperkinelmer:/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421</id>
-    <title>PerkinElmer: Data Science Intern, Asset Intelligence</title>
-    <link href="https://newperkinelmer.wd1.myworkdayjobs.com/External/job/US-Remote---NY/Data-Science-Intern--Asset-Intelligence_REQ-058421"/>
-    <updated>2026-09-15T22:05:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US Remote - NY · Python, SQL, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611</id>
-    <title>Oshkosh: Advanced Manufacturing Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Advanced-Manufacturing-Intern_R49611"/>
-    <updated>2026-09-15T22:05:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · McConnellsburg, Pennsylvania, United States · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667</id>
-    <title>Oshkosh: Manufacturing Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Shippensburg-Pennsylvania-United-States/Manufacturing-Engineer-Intern_R49667"/>
-    <updated>2026-09-15T22:05:59Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Shippensburg, Pennsylvania, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986</id>
-    <title>Philips: Intern- AI Business Operations-Nashville, TN-Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986"/>
-    <updated>2026-09-15T22:05:59Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Nashville, Tennessee, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingo:8805925002</id>
-    <title>Duolingo: Software Engineer, Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8805925002?gh_jid=8805925002"/>
-    <updated>2026-09-15T18:57:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

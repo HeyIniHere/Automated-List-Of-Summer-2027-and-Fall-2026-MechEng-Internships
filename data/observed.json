@@ -287,6 +287,18 @@
     }
    }
   },
+  "american century investments": {
+   "name": "American Century Investments",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -2547,9 +2559,12 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "oracle:ebxs.fa.us2.oraclecloud.com:309794",
-      "oracle:ebxs.fa.us2.oraclecloud.com:309855"
+      "oracle:ebxs.fa.us2.oraclecloud.com:309855",
+      "oracle:ebxs.fa.us2.oraclecloud.com:309900",
+      "oracle:ebxs.fa.us2.oraclecloud.com:309902",
+      "oracle:ebxs.fa.us2.oraclecloud.com:309903"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -4517,5 +4532,5 @@
    }
   }
  },
- "updated_at": "2026-09-16T22:04:19Z"
+ "updated_at": "2026-09-17T00:29:06Z"
 }

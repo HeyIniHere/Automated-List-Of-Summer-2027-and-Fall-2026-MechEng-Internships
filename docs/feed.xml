@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-16T22:04:23Z</updated>
+  <updated>2026-09-17T00:29:11Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
+    <title>American Century Investments: Cybersecurity Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309903</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309903"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309902</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Jacksonville, FL, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309900</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309900"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Salt Lake City, UT, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
+    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
+    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7984564003</id>
+    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7988835003</id>
+    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Middle River, MD · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:rocketlab:7989904003</id>
+    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7989904003"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Silver Spring, MD · Python · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:2893b51b-c93c-4875-9912-1292ab0f4926</id>
     <title>Acron Aviation: Manufacturing Engineer Intern - Grand Rapids Site</title>
@@ -14,6 +78,86 @@
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Grand Rapids, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906</id>
+    <title>Kitware: Software Developer Internship 🇺🇸</title>
+    <link href="https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Clifton Park, New York · 30–45 USD/hr · Python, C++, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75</id>
+    <title>Kitware: AI Research Internship 🇺🇸</title>
+    <link href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 40–60 USD/hr · Python, PyTorch, TensorFlow, LLMs, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94665</id>
+    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Freeport, ME, United States · $22.17–$32.22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95437</id>
+    <title>WSP: Structural Engineering Intern- Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95437"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Baltimore, MD, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95458</id>
+    <title>WSP: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95458"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Denver, CO, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95526</id>
+    <title>WSP: Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95526"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Maitland, FL, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95528</id>
+    <title>WSP: Structural Engineering Intern- Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95528"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Herndon, VA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839</id>
+    <title>GM financial: Intern - Data Science</title>
+    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, TX, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011001</id>
+    <title>Emerson Electric: Mechanical Engineering Co-op (Summer 2027)</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Elyria, OH, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000149952164</id>
+    <title>Renesas Electronics: Software Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CALIFORNIA, United States · $38/hr · Python, Java · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342</id>
@@ -48,20 +192,12 @@
     <summary>Not stated · Software · RTP, North Carolina, US · Python, Java, C++, AWS, GCP · sponsorship: citizens-only · H-1B track record: ~3.4k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26011001</id>
-    <title>Emerson Electric: Mechanical Engineering Co-op (Summer 2027)</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001"/>
+    <id>urn:intern-engine:workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1</id>
+    <title>Zurn Elkay Water Solutions: Product Management Intern - Summer 2027</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"/>
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Elyria, OH, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839</id>
-    <title>GM financial: Intern - Data Science</title>
-    <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260839"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Fort Worth, TX, United States</summary>
+    <summary>Summer 2027 · Software · Erie, PA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Software-Engineer-Intern_R0023556</id>
@@ -94,54 +230,6 @@
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Sioux Falls, South Dakota · Python, C++, AWS, Linux, PostgreSQL · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:kitware:ff25a349-a362-45d2-b1e4-2487c1df4f75</id>
-    <title>Kitware: AI Research Internship 🇺🇸</title>
-    <link href="https://jobs.lever.co/kitware/ff25a349-a362-45d2-b1e4-2487c1df4f75"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Clifton Park, New York · 40–60 USD/hr · Python, PyTorch, TensorFlow, LLMs, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:kitware:7b6ff8f9-34c6-4338-845d-4e1bbc142906</id>
-    <title>Kitware: Software Developer Internship 🇺🇸</title>
-    <link href="https://jobs.lever.co/kitware/7b6ff8f9-34c6-4338-845d-4e1bbc142906"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Clifton Park, New York · 30–45 USD/hr · Python, C++, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000149952164</id>
-    <title>Renesas Electronics: Software Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CALIFORNIA, United States · $38/hr · Python, Java · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7988835003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Middle River, MD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7984564003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7989904003</id>
-    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7989904003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Silver Spring, MD · Python · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rockwellautomation:/job/Mequon-Wisconsin-United-States/Intern--Product-Management_R26-6971-1</id>
@@ -184,17 +272,25 @@
     <summary>Not stated · Software · Troy, MI · Python, C++, Linux · sponsorship: no-sponsorship · H-1B track record: ~72 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
-    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829</id>
+    <title>Wellington Management: Portfolio Reference Data Analyst Co-op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829"/>
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA, United States · $19–$35/hr · Python, SQL · H-1B track record: ~112 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1</id>
     <title>Wellington Management: Trading Infrastructure Risk, Bond Forward Co Op</title>
     <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-Risk--Bond-Forward-Co-Op_R94823-1"/>
+    <updated>2026-09-16T22:04:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · H-1B track record: ~112 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1</id>
+    <title>Wellington Management: Trading Infrastructure and Risk, Alert Specialist Co Op</title>
+    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Trading-Infrastructure-and-Risk--Alert-Specialist-Co-Op_R94819-1"/>
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · H-1B track record: ~112 approvals (FY2022–2023)</summary>
@@ -206,62 +302,6 @@
     <updated>2026-09-16T22:04:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Quant · Boston, MA, United States · $19–$35/hr · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:wellington:/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829</id>
-    <title>Wellington Management: Portfolio Reference Data Analyst Co-op</title>
-    <link href="https://wellington.wd5.myworkdayjobs.com/external/job/Boston-MA-United-States/Portfolio-Reference-Data-Analyst-Co-op_R94829"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boston, MA, United States · $19–$35/hr · Python, SQL · H-1B track record: ~112 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95437</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95437"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Baltimore, MD, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95528</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95528"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Herndon, VA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95458</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95458"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Denver, CO, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:94665</id>
-    <title>WSP: Structural Engineering (Substation) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94665"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Freeport, ME, United States · $22.17–$32.22/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95526</id>
-    <title>WSP: Civil/Structural Engineering (Transmission Lines) Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95526"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Maitland, FL, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1</id>
-    <title>Zurn Elkay Water Solutions: Product Management Intern - Summer 2027</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Erie, PA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:contoro:cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5</id>
@@ -342,14 +382,6 @@
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Golden, CO · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107256</id>
-    <title>S&amp;C Electric Company: Cyber Security Analyst- Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107256"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95483</id>
@@ -438,14 +470,6 @@
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:insulet:/job/Acton-Massachusetts/Intern--R-D-Manufacturing--June---August--Onsite-_REQ-2026-18070-1</id>
-    <title>Insulet Corporation: Intern, R&amp;D Manufacturing: June - August (Onsite)</title>
-    <link href="https://insulet.wd5.myworkdayjobs.com/insuletcareers/job/Acton-Massachusetts/Intern--R-D-Manufacturing--June---August--Onsite-_REQ-2026-18070-1"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Acton, Massachusetts · H-1B track record: ~46 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Santa-Clara-California-United-States-of-America/Systems---Simulation-Engineering-Intern---Robotics-R-D_R-100027</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-15T18:57:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York, NY; New York, NY; Pittsburgh, PA; Pittsburgh, PA; Seattle, WA; Seattle, WA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingo:8806114002</id>
-    <title>Duolingo: Software Engineer, Thrive Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8806114002?gh_jid=8806114002"/>
-    <updated>2026-09-15T18:57:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Pittsburgh, PA · Python, Java, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:nisc:8204086</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development (AI Development)</title>
-    <link href="https://job-boards.greenhouse.io/nisc/jobs/8204086"/>
-    <updated>2026-09-15T18:57:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA or Lake Saint Louis, MO · Python, Java, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:testnisc:8204156</id>
-    <title>National Information Solutions Cooperative (NISC): Intern - Software Development (AI Development)</title>
-    <link href="https://job-boards.greenhouse.io/testnisc/jobs/8204156"/>
-    <updated>2026-09-15T18:57:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cedar Rapids, IA · Python, Java, LLMs</summary>
   </entry>
 </feed>

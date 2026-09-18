@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T04:15:15Z",
+ "generated_at": "2026-09-18T09:36:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -421,6 +421,20 @@
    "days_until": -48,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/hyannisportresearch/jobs/7822989003",
+   "note": ""
+  },
+  {
+   "company": "Netsmart",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-03",
+   "days_until": -46,
+   "status": "open",
+   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
    "note": ""
   },
   {
@@ -1107,6 +1121,20 @@
    "days_until": -22,
    "status": "open",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
+   "note": ""
+  },
+  {
+   "company": "Johns Manville (JM)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
    "note": ""
   },
   {
@@ -3490,20 +3518,6 @@
    "note": ""
   },
   {
-   "company": "Netsmart",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-03",
-   "days_until": -46,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Regions Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-08-05",
@@ -3723,20 +3737,6 @@
    "source": "engine",
    "expected": "2026-08-26",
    "days_until": -23,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Johns Manville (JM)",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""

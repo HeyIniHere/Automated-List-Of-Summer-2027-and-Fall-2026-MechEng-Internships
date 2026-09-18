@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T04:15:10Z",
-  "duration_seconds": 492.1,
+  "generated_at": "2026-09-18T09:36:16Z",
+  "duration_seconds": 312.3,
   "companies_total": 4609,
   "companies_by_source": {
     "greenhouse": 1084,
@@ -16,23 +16,22 @@
     "breezy": 12,
     "eightfold": 1
   },
-  "quarantined": 315,
-  "fetched_ok": 4171,
-  "fetch_errors": 123,
+  "quarantined": 307,
+  "fetched_ok": 4293,
+  "fetch_errors": 9,
   "errors_by_source": {
-    "workday": 109,
+    "greenhouse": 6,
     "ashby": 2,
-    "workable": 11,
-    "greenhouse": 1
+    "workday": 1
   },
-  "fetch_success_rate": 0.971,
-  "fetch_success_rate_registry": 0.905,
-  "snapshots_complete": 4072,
-  "snapshots_partial": 99,
-  "roles_matched": 907,
-  "dropped_no_year_in_title": 403,
-  "dropped_offcycle_by_text": 169,
-  "roles_cycle_inferred": 445,
+  "fetch_success_rate": 0.998,
+  "fetch_success_rate_registry": 0.931,
+  "snapshots_complete": 4174,
+  "snapshots_partial": 119,
+  "roles_matched": 976,
+  "dropped_no_year_in_title": 425,
+  "dropped_offcycle_by_text": 188,
+  "roles_cycle_inferred": 443,
   "roles_by_source": {
     "amazon": 10,
     "ashby": 65,
@@ -41,29 +40,29 @@
     "lever": 43,
     "oracle": 36,
     "rippling": 9,
-    "smartrecruiters": 71,
+    "smartrecruiters": 70,
     "workable": 12,
-    "workday": 617
+    "workday": 618
   },
   "roles_by_cycle": {
-    "Fall 2026": 37,
-    "Summer 2027": 627,
-    "Not stated": 445
+    "Fall 2026": 38,
+    "Summer 2027": 628,
+    "Not stated": 443
   },
   "roles_by_region": {
     "US": 1109
   },
   "sponsorship_counts": {
     "unknown": 780,
-    "citizens-only": 197,
+    "citizens-only": 198,
     "offers": 9,
-    "no-sponsorship": 123
+    "no-sponsorship": 122
   },
   "posted_date_coverage": 0.992,
-  "enriched_this_run": 4,
-  "enrichment_detail_fetches": 4,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 4,
+  "new_this_run": 0,
   "open_total": 1109,
   "detection_latency": {
     "median_minutes": 111.7,

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T04:15:15Z",
+ "generated_at": "2026-09-18T09:36:20Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 1109,
@@ -1514,30 +1514,6 @@
    "source": "oracle",
    "h1b_approvals": 8,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:RenesasElectronics:744000149952164",
-   "company": "Renesas Electronics",
-   "title": "Software Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "San Jose, CALIFORNIA, United States",
-   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164",
-   "posted_at": "2026-09-16T20:27:52.343Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-16T22:04:19Z",
-   "sponsorship": "unknown",
-   "salary": "$38/hr",
-   "skills": [
-    "Python",
-    "Java"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": 68,
-   "program": "Internship",
    "remote": false
   },
   {
@@ -4096,30 +4072,6 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:clarios:/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
-   "company": "Clarios",
-   "title": "People Analytics & AI Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Data & ML/AI",
-   "location": "United States, Wisconsin, Milwaukee",
-   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/People-Analytics---AI-Intern--Summer-2027-_WD50216",
-   "posted_at": "2026-09-14T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-14T23:53:39Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": 18,
    "program": "Internship",
    "remote": false
   },
@@ -20187,6 +20139,27 @@
    "remote": false
   },
   {
+   "id": "workday:jm:/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+   "company": "Johns Manville (JM)",
+   "title": "Product Management Intern- Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Denver CO WHQ",
+   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+   "posted_at": "2026-08-27T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-27T19:51:20Z",
+   "sponsorship": "unknown",
+   "salary": "$52.6k/yr",
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:leidos:/job/Bethesda-MD/Cybersecurity-Engineer-Co-op_R-00190764",
    "company": "Leidos",
    "title": "Cybersecurity Engineer Co-op",
@@ -22851,33 +22824,6 @@
    "remote": false
   },
   {
-   "id": "workday:copart:/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
-   "company": "Copart",
-   "title": "Site Reliability Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Dallas, TX - Headquarters",
-   "url": "https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Site-Reliability-Engineer-Intern_JR110631",
-   "posted_at": "2026-08-19T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-19T22:35:39Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "AWS",
-    "GCP",
-    "Kubernetes",
-    "Linux"
-   ],
-   "source": "workday",
-   "h1b_approvals": 83,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "ashby:n1:afe7deb5-9cfd-4926-bcb4-058d418592a6",
    "company": "N1",
    "title": "Software Engineer Intern (Backend, Rust)",
@@ -24659,6 +24605,31 @@
    "remote": false
   },
   {
+   "id": "workday:ntst:/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+   "company": "Netsmart",
+   "title": "Software Engineer Intern (Summer 2027 Internship)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Overland Park, KS",
+   "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
+   "posted_at": "2026-08-03T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-03T19:16:58Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Java",
+    "C++",
+    "C#"
+   ],
+   "source": "workday",
+   "h1b_approvals": 3,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2026-Fall-Co-op-Manufacturing-Engineering---Baltimore-MD_R10243390-1",
    "company": "Northrop Grumman",
    "title": "2026 Fall Co-op Manufacturing Engineering - Baltimore MD",
@@ -26030,6 +26001,27 @@
    "source": "workday",
    "h1b_approvals": 650,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:motorolasolutions:/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+   "company": "Motorola",
+   "title": "Intern - Embedded Software, System, and Test Engineer - 2026",
+   "season": "Fall 2026",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Irvine, CA",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Irvine-CA/Intern---Embedded-Software--System--and-Test-Engineer---2026_R62372",
+   "posted_at": "2026-03-30T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-07-01T20:55:33Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 191,
+   "program": "Internship",
    "remote": false
   },
   {

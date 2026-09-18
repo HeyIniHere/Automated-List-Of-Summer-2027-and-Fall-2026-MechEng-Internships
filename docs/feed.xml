@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-18T04:15:15Z</updated>
+  <updated>2026-09-18T09:36:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:k2spacecorporation:5411915008</id>
@@ -16,20 +16,20 @@
     <summary>Summer 2027 · Hardware · Los Angeles, CA · $30–$40/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5418727008</id>
-    <title>K2 Space: Simulation Software Engineering Intern - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"/>
-    <updated>2026-09-18T04:15:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:k2spacecorporation:5411920008</id>
     <title>K2 Space: Software Engineering Intern – Summer 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"/>
     <updated>2026-09-18T04:15:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · C++, Rust, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5418727008</id>
+    <title>K2 Space: Simulation Software Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"/>
+    <updated>2026-09-18T04:15:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
@@ -544,14 +544,6 @@
     <summary>Summer 2027 · Hardware · Elyria, OH, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000149952164</id>
-    <title>Renesas Electronics: Software Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000149952164"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CALIFORNIA, United States · $38/hr · Python, Java · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342</id>
     <title>Barr: Internship - Data Science (Remote) 🛂</title>
     <link href="https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · New York, NY, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456</id>
+    <title>AspenTech: Software Development Intern - Digital Grid Management - Summer 2027</title>
+    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"/>
+    <updated>2026-09-16T18:12:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Medina, Minnesota · $24–$28/hr · Python, Java, C++, JavaScript, Angular</summary>
   </entry>
 </feed>

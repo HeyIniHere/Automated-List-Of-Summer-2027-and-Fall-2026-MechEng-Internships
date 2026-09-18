@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-18T14:23:36Z",
+ "generated_at": "2026-09-18T18:21:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1121,20 +1121,6 @@
    "days_until": -22,
    "status": "open",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
-   "note": ""
-  },
-  {
-   "company": "Johns Manville (JM)",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
    "note": ""
   },
   {
@@ -3028,6 +3014,20 @@
    "note": ""
   },
   {
+   "company": "Charter Manufacturing",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3067,6 +3067,20 @@
    "days_until": null,
    "status": "open",
    "url": "https://ats.rippling.com/collieraerospace/jobs/4981b0ba-5b6f-4ebe-95c0-9d1cda036b77",
+   "note": ""
+  },
+  {
+   "company": "REV Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/rev-robotics/jobs/6f40fd69-7d97-4142-a5fa-3c535a0b3e6e",
    "note": ""
   },
   {
@@ -3770,6 +3784,20 @@
    "note": ""
   },
   {
+   "company": "Johns Manville (JM)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -22,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -3952,5 +3980,5 @@
    "note": ""
   }
  ],
- "count": 282
+ "count": 284
 }

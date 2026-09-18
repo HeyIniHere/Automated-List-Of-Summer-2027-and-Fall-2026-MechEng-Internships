@@ -181,9 +181,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-31",
      "role_ids": [
+      "workday:alcon:/job/Fort-Worth-Texas/XMLNAME-2027-Spring-Summer-Co-Op---Manufacturing-Engineer_R-2026-49587",
       "workday:alcon:/job/Houston-Texas/Fall---Spring-2026-2027-Co-Op---Manufacturing-Science---Technology_R-2026-47959"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -977,6 +978,18 @@
     "Fall 2026": {
      "first_posted": "2026-06-29",
      "count": 0
+    }
+   }
+  },
+  "charter manufacturing": {
+   "name": "Charter Manufacturing",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102"
+     ],
+     "count": 1
     }
    }
   },
@@ -2898,7 +2911,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 18,
+     "count": 20,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -2913,7 +2926,9 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
+      "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
@@ -3176,6 +3191,7 @@
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
+      "workday:philips:/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
@@ -3188,7 +3204,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 15
+     "count": 16
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -3896,9 +3912,10 @@
      "role_ids": [
       "oracle:hdhl.fa.us6.oraclecloud.com:1006349",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007497",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007581"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007581",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007850"
      ],
-     "count": 3
+     "count": 4
     },
     "Summer 2027": {
      "first_posted": "2026-08-28",
@@ -3907,9 +3924,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007589",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007777"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4216,12 +4234,13 @@
       "workday:hcmportal:/job/US---BAYONNE-CENTER-NJBAY/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Bayonne-NJ_R26030793",
       "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
       "workday:hcmportal:/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709",
+      "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989",
       "workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769",
       "workday:hcmportal:/job/US---UPS-TECHNOLOGY-HEADQUARTERS--DATACENTER-NJRAR/UPS-Information-Security-Summer-2027-Internship---NJ_R26029761",
       "workday:hcmportal:/job/US---UPSCO-GLOBAL-OPERATIONS-CENTER-KYLOA/Summer-2027-Industrial-Engineering-Co-Op_R26030116-1",
       "workday:hcmportal:/job/US---UTAH-REGIONAL-HUB-UTLKE/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Salt-Lake-City--UT_R26030699"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -4441,9 +4460,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4676,5 +4696,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T14:23:29Z"
+ "updated_at": "2026-09-18T18:21:02Z"
 }

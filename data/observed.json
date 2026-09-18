@@ -2327,6 +2327,20 @@
     }
    }
   },
+  "k2 space": {
+   "name": "K2 Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-01",
+     "role_ids": [
+      "greenhouse:k2spacecorporation:5411915008",
+      "greenhouse:k2spacecorporation:5411920008",
+      "greenhouse:k2spacecorporation:5418727008"
+     ],
+     "count": 3
+    }
+   }
+  },
   "kairos power": {
    "name": "Kairos Power",
    "cycles": {
@@ -4651,5 +4665,5 @@
    }
   }
  },
- "updated_at": "2026-09-17T23:35:35Z"
+ "updated_at": "2026-09-18T04:15:10Z"
 }

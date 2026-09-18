@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-17T23:35:40Z</updated>
+  <updated>2026-09-18T04:15:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411915008</id>
+    <title>K2 Space: Mechanical  Engineering Intern – Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008"/>
+    <updated>2026-09-18T04:15:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Los Angeles, CA · $30–$40/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5418727008</id>
+    <title>K2 Space: Simulation Software Engineering Intern - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008"/>
+    <updated>2026-09-18T04:15:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · Python, C++, Rust, MATLAB, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411920008</id>
+    <title>K2 Space: Software Engineering Intern – Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008"/>
+    <updated>2026-09-18T04:15:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Los Angeles, CA · $30–$40/hr · C++, Rust, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:xpengmotors:8819001002</id>
+    <title>XPENG Motors: AI Research Intern – Predictive World Model</title>
+    <link href="https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002"/>
+    <updated>2026-09-18T04:15:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Santa Clara, CA · Python, PyTorch, Computer Vision</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10552937</id>
     <title>Amazon: Software Development Engineer Internship - Summer -2027 (USA)</title>
@@ -14,38 +46,6 @@
     <updated>2026-09-17T23:35:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Seattle, Washington, USA · Python, Java, C++, C#, Rust · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336</id>
-    <title>Gordon Food Service: Digital Product Management Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"/>
-    <updated>2026-09-17T23:35:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158088</id>
-    <title>Honeywell: Software Engineer Co-Op - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088"/>
-    <updated>2026-09-17T23:35:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Pittsford, NY, United States · $20/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157903</id>
-    <title>Honeywell: Data Science Co-Op - Spring/Summer 2027 🇺🇸</title>
-    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903"/>
-    <updated>2026-09-17T23:35:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Pittsford, NY, United States · $20/hr · Python, LLMs, AWS, Azure · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150217869</id>
-    <title>Bosch: AI Engineering Intern (October 2026 - August 2027)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150217869"/>
-    <updated>2026-09-17T23:35:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, MATLAB, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:rocketlab:7996623003</id>
@@ -64,12 +64,44 @@
     <summary>Summer 2027 · Software · New York · Python, Java, C++, Go, Rust · H-1B track record: ~38 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:157903</id>
+    <title>Honeywell: Data Science Co-Op - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/157903"/>
+    <updated>2026-09-17T23:35:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Pittsford, NY, United States · $20/hr · Python, LLMs, AWS, Azure · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibqbjb.fa.ocs.oraclecloud.com:158088</id>
+    <title>Honeywell: Software Engineer Co-Op - Spring/Summer 2027 🇺🇸</title>
+    <link href="https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088"/>
+    <updated>2026-09-17T23:35:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Pittsford, NY, United States · $20/hr · sponsorship: citizens-only · H-1B track record: ~229 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000150217869</id>
+    <title>Bosch: AI Engineering Intern (October 2026 - August 2027)</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000150217869"/>
+    <updated>2026-09-17T23:35:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Plymouth, MI, United States · Python, C++, MATLAB, LLMs</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:elkay:/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109</id>
     <title>Zurn Elkay Water Solutions: Product Management Intern (Summer 2027)</title>
     <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"/>
     <updated>2026-09-17T23:35:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Paso Robles, CA · $18.25–$23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336</id>
+    <title>Gordon Food Service: Digital Product Management Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Digital-Product-Management-Internship_R-57336"/>
+    <updated>2026-09-17T23:35:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-16T18:12:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · New York, NY, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aspentech:/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456</id>
-    <title>AspenTech: Software Development Intern - Digital Grid Management - Summer 2027</title>
-    <link href="https://aspentech.wd5.myworkdayjobs.com/aspentech/job/Medina-Minnesota/Software-Development-Intern---Digital-Grid-Management---Summer-2027_R9456"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Medina, Minnesota · $24–$28/hr · Python, Java, C++, JavaScript, Angular</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:avav:/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550</id>
-    <title>Avav: Summer 2027 Software Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Melbourne, FL · Python, Java, C++, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259</id>
-    <title>Gordon Food Service: Cloud DevOps Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Cloud-DevOps-Internship_R-57259"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia · Python, GCP, Kubernetes, Docker · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1</id>
-    <title>Gordon Food Service: Data Science Engineer Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Atlanta-Georgia/Data-Science-Engineer-Internship_R-57243-1"/>
-    <updated>2026-09-16T18:12:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Atlanta, Georgia · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

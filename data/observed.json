@@ -859,6 +859,17 @@
       "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Fall-2026_327839",
       "workday:caci:/job/King-of-Prussia-PA-US/AI-ML-Engineering-Co-op---Fall-2026_328403"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "workday:caci:/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003",
+      "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:caci:/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
+      "workday:caci:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
+      "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
+     ],
+     "count": 5
     }
    }
   },
@@ -4665,5 +4676,5 @@
    }
   }
  },
- "updated_at": "2026-09-18T09:36:16Z"
+ "updated_at": "2026-09-18T14:23:29Z"
 }

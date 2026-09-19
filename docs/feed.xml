@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-19T14:24:08Z</updated>
+  <updated>2026-09-19T17:59:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
+    <title>Brown Brothers Harriman: 2027 Internal Audit - Information Technology &amp; Cybersecurity Summer Internship</title>
+    <link href="https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899"/>
+    <updated>2026-09-19T17:59:39Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · New York · $25/hr · SQL, Linux · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
     <title>Fable: Software Engineering Intern</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-17T00:29:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309900</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309900"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Salt Lake City, UT, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

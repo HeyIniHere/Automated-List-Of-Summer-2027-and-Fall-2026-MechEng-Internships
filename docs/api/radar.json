@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T14:24:08Z",
+ "generated_at": "2026-09-19T17:59:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3056,6 +3056,20 @@
    "note": ""
   },
   {
+   "company": "Brown Brothers Harriman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4022,5 +4036,5 @@
    "note": ""
   }
  ],
- "count": 287
+ "count": 288
 }

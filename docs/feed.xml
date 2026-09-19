@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-19T05:45:41Z</updated>
+  <updated>2026-09-19T10:46:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:botauto:5429357008</id>
@@ -440,14 +440,6 @@
     <summary>Not stated · Software · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000150194379</id>
-    <title>Renesas Electronics: Embedded Systems Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000150194379"/>
-    <updated>2026-09-17T20:14:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote, REMOTE, United States (Remote) · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:idexcorp:/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910</id>
     <title>IDEX: Manufacturing Engineering Co-Op</title>
     <link href="https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910"/>
@@ -806,5 +798,13 @@
     <updated>2026-09-17T00:29:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
+    <title>American Century Investments: Cybersecurity Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
+    <updated>2026-09-17T00:29:06Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

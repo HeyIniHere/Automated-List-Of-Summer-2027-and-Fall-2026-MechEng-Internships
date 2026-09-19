@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T05:45:41Z",
+ "generated_at": "2026-09-19T10:46:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2454,20 +2454,6 @@
    "note": ""
   },
   {
-   "company": "Citizens Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://hcgn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/49276",
-   "note": ""
-  },
-  {
    "company": "Commure",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -3953,6 +3939,20 @@
   },
   {
    "company": "Blue Origin",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Citizens Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
    "precision": "day",

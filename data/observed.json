@@ -4136,6 +4136,19 @@
     }
    }
   },
+  "thrivent": {
+   "name": "Thrivent",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-18",
+     "role_ids": [
+      "workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334",
+      "workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"
+     ],
+     "count": 2
+    }
+   }
+  },
   "tmeic": {
    "name": "TMEIC",
    "cycles": {
@@ -4734,5 +4747,5 @@
    }
   }
  },
- "updated_at": "2026-09-19T10:46:14Z"
+ "updated_at": "2026-09-19T14:24:03Z"
 }

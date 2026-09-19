@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-19T10:46:20Z</updated>
+  <updated>2026-09-19T14:24:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:fable:3fd04c23-a63d-4b40-bfae-feafaa478caf</id>
+    <title>Fable: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/fable/3fd04c23-a63d-4b40-bfae-feafaa478caf"/>
+    <updated>2026-09-19T14:24:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, CA (Hybrid) · Python, LLMs, React, GraphQL, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334</id>
+    <title>Thrivent: Associate Software Engineer - Junior Intern Summer 2027 🛂</title>
+    <link href="https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334"/>
+    <updated>2026-09-19T14:24:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote-Minnesota · $25–$28/hr · JavaScript · sponsorship: no-sponsorship · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:thrivent:/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457</id>
+    <title>Thrivent: Associate Software Engineer - Sophomore Intern Summer 2027 🛂</title>
+    <link href="https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Sophomore-Intern-Summer-2027_REQ-48457"/>
+    <updated>2026-09-19T14:24:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Remote-Minnesota · $25–$28/hr · JavaScript · sponsorship: no-sponsorship · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:botauto:5429357008</id>
     <title>Bot Auto: Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T00:29:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Salt Lake City, UT, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309902</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Jacksonville, FL, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309903</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309903"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
   </entry>
 </feed>

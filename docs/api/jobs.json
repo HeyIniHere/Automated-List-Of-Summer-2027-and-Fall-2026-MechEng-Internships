@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-19T00:10:32Z",
+ "generated_at": "2026-09-19T05:45:41Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
  "count": 1142,
@@ -30,6 +30,31 @@
     "Azure"
    ],
    "source": "greenhouse",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "smartrecruiters:LLNL:3743990015408206",
+   "company": "Lawrence Livermore National Laboratory (LLNL)",
+   "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Livermore, CA, United States",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990015408206",
+   "posted_at": "2026-09-18T23:00:42.630Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-09-19T00:10:27Z",
+   "sponsorship": "citizens-only",
+   "salary": null,
+   "skills": [
+    "LLMs",
+    "Kubernetes",
+    "Git"
+   ],
+   "source": "smartrecruiters",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -97,31 +122,6 @@
    "source": "workday",
    "h1b_approvals": 8,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:LLNL:3743990015408206",
-   "company": "Lawrence Livermore National Laboratory (LLNL)",
-   "title": "Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Livermore, CA, United States",
-   "url": "https://jobs.smartrecruiters.com/LLNL/3743990015408206",
-   "posted_at": "2026-09-18T23:00:42.630Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-19T00:10:27Z",
-   "sponsorship": "citizens-only",
-   "salary": null,
-   "skills": [
-    "LLMs",
-    "Kubernetes",
-    "Git"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

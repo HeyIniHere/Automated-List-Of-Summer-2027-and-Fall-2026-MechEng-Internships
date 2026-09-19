@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-18T21:40:41Z</updated>
+  <updated>2026-09-19T00:10:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:botauto:5429357008</id>
+    <title>Bot Auto: Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</title>
+    <link href="https://job-boards.greenhouse.io/botauto/jobs/5429357008"/>
+    <updated>2026-09-19T00:10:27Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Houston, TX · Python, Java, TypeScript, JavaScript, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388</id>
+    <title>Johnson &amp; Johnson: Medical Device Cybersecurity Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Medical-Device-Cybersecurity-Co-Op_R-099388"/>
+    <updated>2026-09-19T00:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Danvers, Massachusetts, United States of America · $23.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757</id>
+    <title>Johnson &amp; Johnson: Product Management Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Product-Management-Co-Op_R-096757"/>
+    <updated>2026-09-19T00:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Danvers, Massachusetts, United States of America · $23.5/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904</id>
+    <title>Johnson &amp; Johnson: Production Data Analyst Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Production-Data-Analyst-Co-Op_R-098904"/>
+    <updated>2026-09-19T00:10:27Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Danvers, Massachusetts, United States of America · $23.5/hr · Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015408206</id>
+    <title>Lawrence Livermore National Laboratory (LLNL): Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015408206"/>
+    <updated>2026-09-19T00:10:27Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:acronaviation:19dbac7d-b4fb-4d21-9247-dc610bf55fed</id>
     <title>Acron Aviation: Software Engineer Intern - St. Pete Site</title>
@@ -16,12 +56,12 @@
     <summary>Not stated · Software · St Petersburg, FL · Python, C++, C#, SQL, Linux</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223</id>
-    <title>Cambridge Investment Research: Consulting Services AI &amp; Automation Intern</title>
-    <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223"/>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000150460339</id>
+    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150460339"/>
     <updated>2026-09-18T21:40:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Fairfield, IA · $17–$26/hr</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Trevose, PA, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514</id>
@@ -32,12 +72,28 @@
     <summary>Summer 2027 · Security · Remote-MO · $21–$26/hr · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:cir:/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223</id>
+    <title>Cambridge Investment Research: Consulting Services AI &amp; Automation Intern</title>
+    <link href="https://cir.wd108.myworkdayjobs.com/CIR_External_Career_Site/job/Fairfield-IA/Consulting-Services-AI---Automation-Intern_R-2025-223"/>
+    <updated>2026-09-18T21:40:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Fairfield, IA · $17–$26/hr</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:cranecompany:/job/Saddle-Brook-New-Jersey/Manufacturing-Engineer-Intern_JR102570</id>
     <title>Crane Co.: Manufacturing Engineer Intern</title>
     <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Manufacturing-Engineer-Intern_JR102570"/>
     <updated>2026-09-18T21:40:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Saddle Brook, New Jersey · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373</id>
+    <title>Gordon Food Service: Industrial / Mechanical / Electrical Engineer Internship</title>
+    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373"/>
+    <updated>2026-09-18T21:40:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375</id>
@@ -56,14 +112,6 @@
     <summary>Not stated · Software · Wyoming, Michigan · Java, SQL, Angular, Spring, GCP · H-1B track record: ~21 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gfs:/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373</id>
-    <title>Gordon Food Service: Industrial / Mechanical / Electrical Engineer Internship</title>
-    <link href="https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Industrial---Mechanical---Electrical-Engineer-Internship_R-57373"/>
-    <updated>2026-09-18T21:40:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wyoming, Michigan · H-1B track record: ~21 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369</id>
     <title>Motorola: Cyber Security - 2027 Summer Internship (Chicago Hybrid) 🛂</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369"/>
@@ -78,14 +126,6 @@
     <updated>2026-09-18T21:40:35Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Milesburg - Milesburg, PA · H-1B track record: ~104 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000150460339</id>
-    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150460339"/>
-    <updated>2026-09-18T21:40:35Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Trevose, PA, United States · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40535</id>
@@ -182,14 +222,6 @@
     <updated>2026-09-18T18:21:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Charter Steel - Saukville, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989</id>
-    <title>United Parcel Service (UPS): 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸</title>
-    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"/>
-    <updated>2026-09-18T18:21:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453</id>
@@ -774,37 +806,5 @@
     <updated>2026-09-17T00:29:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Boston, MA, United States · $18–$30/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729</id>
-    <title>American Century Investments: Cybersecurity Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Security · Kansas City, Missouri · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7984564003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7984564003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7988835003</id>
-    <title>Rocket Lab: Manufacturing Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7988835003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Middle River, MD · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:7989904003</id>
-    <title>Rocket Lab: Mechanical Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/7989904003"/>
-    <updated>2026-09-16T22:04:19Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Silver Spring, MD · Python · sponsorship: citizens-only</summary>
   </entry>
 </feed>

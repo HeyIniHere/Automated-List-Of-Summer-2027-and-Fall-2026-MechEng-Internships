@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-20T11:14:51Z</updated>
+  <updated>2026-09-20T15:55:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
+    <title>Ninjaholdings: Data Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"/>
+    <updated>2026-09-20T15:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:85be8c78a2ba</id>
+    <title>Ninjaholdings: Data Science Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"/>
+    <updated>2026-09-20T15:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:23a015fea536</id>
+    <title>Ninjaholdings: Software Engineer Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/23a015fea536-software-engineer-intern"/>
+    <updated>2026-09-20T15:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>
     <title>Brown Brothers Harriman: 2027 Internal Audit - Information Technology &amp; Cybersecurity Summer Internship</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T06:04:46Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Pittsburgh, PA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1</id>
-    <title>Smith+Nephew: Intern AI Center of Excellence Data Science</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · US - Pittsburgh, PA · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482</id>
-    <title>Smith+Nephew: Intern Robotics Software Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - Pittsburgh, PA · C++ · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:newsbreak:4711146006</id>
-    <title>NewsBreak: New Market Launch Intern (MBA), Nearby AI</title>
-    <link href="https://job-boards.greenhouse.io/newsbreak/jobs/4711146006"/>
-    <updated>2026-09-17T00:29:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington, United States; Mountain View, California, United States; New York, New York, United States; Remote</summary>
   </entry>
 </feed>

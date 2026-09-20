@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-19T22:54:29Z",
+ "generated_at": "2026-09-20T01:00:12Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1136,
+ "count": 1135,
  "jobs": [
   {
    "id": "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
@@ -24885,31 +24885,6 @@
    "source": "lever",
    "h1b_approvals": 2,
    "program": "Internship / Co-op",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:faradayfuture:7828531003",
-   "company": "Faraday Future",
-   "title": "Robotics Data Operator Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "El Segundo, California, United States",
-   "url": "https://job-boards.greenhouse.io/faradayfuture/jobs/7828531003",
-   "posted_at": "2026-08-05T13:17:01-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-03T13:35:54Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Linux",
-    "ROS"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 82,
-   "program": "Internship",
    "remote": false
   },
   {

@@ -8,7 +8,7 @@
 
 ### 1135 open roles (634 listed below) · 299 new this week
 
-4,518 employers tracked · updated Sep 20, 2026 at 01:00 UTC
+4,518 employers tracked · updated Sep 20, 2026 at 06:03 UTC
 
 _680 have a cycle the employer stated · 455 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -270,7 +270,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Coinbase ✓ | Machine Learning Engineer Intern | Data & ML/AI | Hybrid - San Francisco, CA | Sep 08, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175441?gh_jid=8175441) |
 | Coinbase ✓ | Data Engineer Intern | Data & ML/AI | Hybrid - San Francisco, CA | Sep 08, 2026 | [Apply](https://www.coinbase.com/careers/positions/8175459?gh_jid=8175459) |
 | Datadog ✓ | Software Engineering Intern (Summer) | Software | Boston +5 more | Sep 08, 2026 | [Apply](https://careers.datadoghq.com/detail/8052118/?gh_jid=8052118) |
-| K2 Space | Simulation Software Engineering Intern - Summer 2027 🇺🇸 🆕 | Software | Los Angeles, CA | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) |
+| K2 Space | Simulation Software Engineering Intern - Summer 2027 🇺🇸 | Software | Los Angeles, CA | Sep 08, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5418727008) |
 | Shield AI | Summer 2027 - Software Engineer Intern | Software | San Diego, California | Sep 08, 2026 | [Apply](https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010) |
 | Brunswick ✓ | Manufacturing Engineering Intern Summer '27 🛂 | Hardware | Edgewater, FL | Sep 08, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339) |
 | Brunswick ✓ | Manufacturing Engineering Intern 🛂 | Hardware | Edgewater, FL | Sep 08, 2026 | [Apply](https://brunswick.wd1.myworkdayjobs.com/search/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540) |
@@ -341,8 +341,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Atlanta, GA 🇺🇸 | Hardware | US - UPS CORPORATE OFFICES (GACOR) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Atlanta--GA_R26030769) |
 | Cigna Group | Artificial Intelligence Innovation Development Program (AIIDP) Summer Internship | Data & ML/AI | NC +2 more | Sep 02, 2026 | [Apply](https://cigna.wd5.myworkdayjobs.com/cignacareers/job/NC-Raleigh-701-Corporate-Center-Dr-STE-200/Ai-Innovation-Development-Program--AIIDP--Summer-internship_26010712) |
 | United Parcel Service (UPS) | 2027 Industrial Engineering Summer Intern - Portland, OR 🇺🇸 | Hardware | US - PORTLAND HUB (ORPOR) | Sep 02, 2026 | [Apply](https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---PORTLAND-HUB-ORPOR/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Portland--OR_R26030709) |
-| K2 Space | Mechanical  Engineering Intern – Summer 2027 🇺🇸 🆕 | Hardware | Los Angeles, CA | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
-| K2 Space | Software Engineering Intern – Summer 2027 🇺🇸 🆕 | Software | Los Angeles, CA | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
+| K2 Space | Mechanical  Engineering Intern – Summer 2027 🇺🇸 | Hardware | Los Angeles, CA | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008) |
+| K2 Space | Software Engineering Intern – Summer 2027 🇺🇸 | Software | Los Angeles, CA | Sep 01, 2026 | [Apply](https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411920008) |
 | TWG Global | AI Data Science Intern (SOLT) - Summer 2027 | Data & ML/AI | Santa Monica, California, United States | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/263B34D737/) |
 | TWG Global | AI Engineering Intern - Summer 2027 | Data & ML/AI | Santa Monica, California, United States | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/772CD136FF/) |
 | TWG Global | AI Data Science Intern (MAQR) - Summer 2027 | Data & ML/AI | Santa Monica, California, United States | Sep 01, 2026 | [Apply](https://apply.workable.com/twgai/j/AC536E5EE2/) |
@@ -441,7 +441,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Valeo ✓ | Mechatronics Engineering Co-Op 🛂 🆕 | Hardware | Troy, MI | Sep 18, 2026 | [Apply](https://valeo.wd3.myworkdayjobs.com/valeo_jobs/job/Troy-MI/Mechatronics-Engineering-Co-Op_REQ2026079866) |
 | GreatAmerica Financial Services | Platform Engineering Intern 🆕 | Software | Cedar Rapids, IA | Sep 18, 2026 | [Apply](https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1) |
 | Church & Dwight | AI Developer Co-op - Graduate Program (9 Months) 🇺🇸 🆕 | Data & ML/AI | USA, Ewing, NJ | Sep 17, 2026 | [Apply](https://churchdwight.wd1.myworkdayjobs.com/chdcareers/job/USA-Ewing-NJ/AI-Developer-Co-op---Graduate-Program--9-Months-_R2026-15686) |
-| XPENG Motors | AI Research Intern – Predictive World Model 🆕 | Data & ML/AI | Santa Clara, CA | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002) |
+| XPENG Motors | AI Research Intern – Predictive World Model | Data & ML/AI | Santa Clara, CA | Sep 17, 2026 | [Apply](https://job-boards.greenhouse.io/xpengmotors/jobs/8819001002) |
 | IDEX | Manufacturing Engineering Co-Op | Hardware | Cedar Falls, Iowa | Sep 17, 2026 | [Apply](https://idexcorp.wd5.myworkdayjobs.com/idex_careers/job/Cedar-Falls-Iowa/Manufacturing-Engineering-Co-Op_R-09910) |
 | Insperity ✓ | Rotational AI Intern | Data & ML/AI | Kingwood, TX | Sep 17, 2026 | [Apply](https://insperity.wd12.myworkdayjobs.com/NSP/job/Kingwood-TX/Rotational-AI-Intern_JR103294) |
 | LabCorp | Intern – Network Infrastructure & Automation Engineering 🛂 | Software | Durham NC | Sep 17, 2026 | [Apply](https://labcorp.wd1.myworkdayjobs.com/external/job/Durham-NC/Intern---Network-Infrastructure---Automation-Engineering_2632795) |
@@ -830,7 +830,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,221 of 4,632 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 461.8s · 101 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,245 of 4,632 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 91% of the full registry) · completed in 496.0s · 100 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

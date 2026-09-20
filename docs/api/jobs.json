@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-20T06:04:05Z",
+ "generated_at": "2026-09-20T11:14:52Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1135,
+ "count": 1132,
  "jobs": [
   {
    "id": "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
@@ -17468,30 +17468,6 @@
    "remote": false
   },
   {
-   "id": "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
-   "company": "General Motors",
-   "title": "2027 Summer Intern - Manufacturing Engineering— Global Propulsion Systems",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Warren, Michigan, United States of America",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
-   "posted_at": "2026-09-01T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-01T23:17:22Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "MATLAB"
-   ],
-   "source": "workday",
-   "h1b_approvals": 928,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:hcmportal:/job/US---JEFFERSON-HUB-ILJEF/XMLNAME-2027-Industrial-Engineering-Summer-Intern---Chicago-IL_R26030597",
    "company": "United Parcel Service (UPS)",
    "title": "2027 Industrial Engineering Summer Intern - Chicago IL",
@@ -23082,27 +23058,6 @@
    "remote": false
   },
   {
-   "id": "workday:heidelbergmaterials:/job/Nazareth-PA/Mechanical-Engineering-Intern_JR10018120",
-   "company": "Heidelberg Materials",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Nazareth, PA",
-   "url": "https://heidelbergmaterials.wd3.myworkdayjobs.com/global_hm_career_site/job/Nazareth-PA/Mechanical-Engineering-Intern_JR10018120",
-   "posted_at": "2026-08-21T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-21T17:40:51Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897",
    "company": "Elanco",
    "title": "Manufacturing Scientist/Technical Services Intern – Elanco Technology Center (Summer 2027)",
@@ -25122,27 +25077,6 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:imeg:/job/Raleigh-NC/Structural-Engineering-Intern---Raleigh--NC_R-16319-1",
-   "company": "IMEG",
-   "title": "Structural Engineering Intern | Raleigh, NC",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Raleigh, NC",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Raleigh-NC/Structural-Engineering-Intern---Raleigh--NC_R-16319-1",
-   "posted_at": "2026-08-03T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-03T19:16:58Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 10,
    "program": "Internship",
    "remote": false
   },

@@ -1364,11 +1364,6 @@
     "last_attempt_at": "2026-09-20T11:14:45Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://clarioclinical.wd1.myworkdayjobs.com/wday/cxs/clarioclinical/clarioclinical_careers/jobs'\nFor more information check: https://dev"
   },
-  "workday:clearesult": {
-    "consecutive_failures": 11,
-    "last_attempt_at": "2026-09-17T20:14:45Z",
-    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://clearesult.wd1.myworkdayjobs.com/wday/cxs/clearesult/CLEAResult_External_Careers/jobs'\nFor more information check: https://develo"
-  },
   "workday:clearwateranalytics": {
     "consecutive_failures": 7,
     "last_attempt_at": "2026-09-19T20:30:31Z",
@@ -1444,10 +1439,20 @@
     "last_attempt_at": "2026-09-19T05:45:35Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://donaldson.wd5.myworkdayjobs.com/wday/cxs/donaldson/donaldsoncareers/jobs'\nFor more information check: https://developer.mozill"
   },
+  "workday:drivenbrands": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-20T21:27:35Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://drivenbrands.wd1.myworkdayjobs.com/wday/cxs/drivenbrands/drivenbrandscareersite/jobs'\nFor more information check: https://develop"
+  },
   "workday:ecolab": {
     "consecutive_failures": 3,
     "last_attempt_at": "2026-09-20T15:55:29Z",
     "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ecolab.wd1.myworkdayjobs.com/wday/cxs/ecolab/ecolab_external/jobs'\nFor more information check: https://developer.mozilla.org/en-U"
+  },
+  "workday:ercot": {
+    "consecutive_failures": 1,
+    "last_attempt_at": "2026-09-20T21:27:35Z",
+    "last_error": "HTTPStatusError: Client error '429 Too Many Requests' for url 'https://ercot.wd1.myworkdayjobs.com/wday/cxs/ercot/ercot_careers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/do"
   },
   "workday:evrazna": {
     "consecutive_failures": 30,
@@ -1498,11 +1503,6 @@
     "consecutive_failures": 30,
     "last_attempt_at": "2026-09-19T05:45:35Z",
     "last_error": "HTTPStatusError: Client error '422 Unprocessable Entity' for url 'https://kohls.wd1.myworkdayjobs.com/wday/cxs/kohls/kohlscareers/jobs'\nFor more information check: https://developer.mozilla.org/en-US/"
-  },
-  "workday:lbg": {
-    "consecutive_failures": 1,
-    "last_attempt_at": "2026-09-20T18:41:09Z",
-    "last_error": "JSONDecodeError: Expecting value: line 1 column 1 (char 0)"
   },
   "workday:lilly": {
     "consecutive_failures": 30,

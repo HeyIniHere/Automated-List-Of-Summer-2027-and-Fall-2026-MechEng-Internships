@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-20T18:41:13Z",
+ "generated_at": "2026-09-20T21:27:40Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1135,
+ "count": 1134,
  "jobs": [
   {
    "id": "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
@@ -2381,30 +2381,6 @@
    "h1b_approvals": 8,
    "program": "Co-op",
    "remote": false
-  },
-  {
-   "id": "workday:barr:/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-   "company": "Barr",
-   "title": "Internship - Data Science (Remote)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Minneapolis, MN",
-   "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Minneapolis-MN/Internship---Data-Science--Remote-_R-102342",
-   "posted_at": "2026-09-16T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-16T22:04:19Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$30–$38/hr",
-   "skills": [
-    "Python",
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": true
   },
   {
    "id": "workday:basspro:/job/Springfield-MO-Bass-Pro-Shops-Base-Camp/Advanced-Manufacturing-Intern-Summer-2027_R267458",

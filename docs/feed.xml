@@ -5,20 +5,12 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-20T15:55:35Z</updated>
+  <updated>2026-09-20T18:41:13Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
     <title>Ninjaholdings: Data Engineer Intern</title>
     <link href="https://ninjaholdings.breezy.hr/p/12b3ed96c30c-data-engineer-intern"/>
-    <updated>2026-09-20T15:55:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:breezy:ninjaholdings:85be8c78a2ba</id>
-    <title>Ninjaholdings: Data Science Intern</title>
-    <link href="https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"/>
     <updated>2026-09-20T15:55:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
@@ -30,6 +22,14 @@
     <updated>2026-09-20T15:55:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Chicago, IL · $20 – $25 / hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:breezy:ninjaholdings:85be8c78a2ba</id>
+    <title>Ninjaholdings: Data Science Intern</title>
+    <link href="https://ninjaholdings.breezy.hr/p/85be8c78a2ba-data-science-intern"/>
+    <updated>2026-09-20T15:55:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Chicago, IL · $20 – $25 / hour</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899</id>

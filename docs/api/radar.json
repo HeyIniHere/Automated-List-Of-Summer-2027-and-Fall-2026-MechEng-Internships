@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T00:06:54Z",
+ "generated_at": "2026-09-21T04:54:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1920,6 +1920,20 @@
    "status": "open",
    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
    "note": "opens ~Sep"
+  },
+  {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+   "note": ""
   },
   {
    "company": "Merck",
@@ -3905,20 +3919,6 @@
    "source": "engine",
    "expected": "2026-09-02",
    "days_until": -19,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "ICF",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -14,
    "status": "dropped",
    "url": "",
    "note": ""

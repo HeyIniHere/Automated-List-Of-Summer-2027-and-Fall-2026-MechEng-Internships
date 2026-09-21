@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-21T00:06:54Z</updated>
+  <updated>2026-09-21T04:54:07Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925</id>
+    <title>Nordson: Intern – Manufacturing Electronics / Software Engineering</title>
+    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925"/>
+    <updated>2026-09-21T04:54:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · USA - Texas - Allen · Verilog</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
+    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464"/>
+    <updated>2026-09-21T04:54:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088</id>
+    <title>Northrop Grumman: 2027 Mechanical Engineer Intern - Baltimore MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088"/>
+    <updated>2026-09-21T04:54:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
     <title>Ninjaholdings: Data Engineer Intern</title>
@@ -65,7 +89,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:botauto:5429357008</id>
-    <title>Bot Auto: Intern, Software Engineer AI Agents (Fall 2026/Winter 2027)</title>
+    <title>Bot Auto: Intern, Software Engineer AI Agents (Fall/Winter 2026)</title>
     <link href="https://job-boards.greenhouse.io/botauto/jobs/5429357008"/>
     <updated>2026-09-19T00:10:27Z</updated>
     <category term="Fall 2026"/>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T16:46:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Rockville, MD · $25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:amperesand:4409254009</id>
-    <title>Amperesand: Software Intern, Factory &amp; Ops</title>
-    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4409254009"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Reno, Nevada, United States · TypeScript, LLMs, React, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8203200</id>
-    <title>Waymo: 2027 Summer Intern, BS/MS, Software Engineering, Maneuvering Tech</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8203200"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, California · Python, C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508</id>
-    <title>Smith+Nephew: Intern Mechanical Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508"/>
-    <updated>2026-09-17T06:04:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Pittsburgh, PA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

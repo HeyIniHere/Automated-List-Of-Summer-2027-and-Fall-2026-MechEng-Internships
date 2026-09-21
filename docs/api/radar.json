@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-21T17:05:29Z",
+ "generated_at": "2026-09-21T21:03:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -970,6 +970,20 @@
    "note": ""
   },
   {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5405775008",
+   "note": ""
+  },
+  {
    "company": "Sensata",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -1569,20 +1583,6 @@
    "days_until": -20,
    "status": "open",
    "url": "https://trwd.wd1.myworkdayjobs.com/TRWDCareers/job/Fort-Worth-TX/Summer-2027-Infrastructure-Engineering-Intern--T036-_JR100218",
-   "note": ""
-  },
-  {
-   "company": "Texas Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -20,
-   "status": "open",
-   "url": "https://ebgj.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/253299",
    "note": ""
   },
   {
@@ -2636,6 +2636,20 @@
    "note": ""
   },
   {
+   "company": "OpenGov",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
+   "note": ""
+  },
+  {
    "company": "Robinhood",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3108,7 +3122,21 @@
    "expected": "2026-09-21",
    "days_until": 0,
    "status": "open",
-   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483",
+   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484",
+   "note": ""
+  },
+  {
+   "company": "Life Fitness",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235",
    "note": ""
   },
   {
@@ -3924,6 +3952,20 @@
    "note": ""
   },
   {
+   "company": "Texas Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "HD Supply",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
@@ -4036,20 +4078,6 @@
    "note": ""
   },
   {
-   "company": "OpenGov",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -7,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "NOV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -4064,5 +4092,5 @@
    "note": ""
   }
  ],
- "count": 290
+ "count": 292
 }

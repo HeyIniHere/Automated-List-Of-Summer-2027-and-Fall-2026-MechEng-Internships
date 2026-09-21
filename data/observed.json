@@ -1036,9 +1036,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1205,6 +1206,18 @@
      "first_posted": "2026-08-18",
      "role_ids": [
       "workday:clr:/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "contoro": {
+   "name": "Contoro",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-16",
+     "role_ids": [
+      "ashby:contoro:cf7c8043-8fbe-4c7e-b91f-ee6db2a616c5"
      ],
      "count": 1
     }
@@ -2308,6 +2321,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--DevOps-Engineer--January---June-2027--Hybrid-_REQ-2026-18027",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Engineering--January-June-2027--Onsite-_REQ-2026-17966",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January---June-2027--Onsite-_REQ-2026-18012",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
@@ -2319,7 +2333,7 @@
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Supplier-Development-Engineering---Mechanical--January-June-2027--Onsite-_REQ-2026-18209",
       "workday:insulet:/job/Acton-Massachusetts/Intern--R-D-Manufacturing--June---August--Onsite-_REQ-2026-18070-1"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2541,6 +2555,18 @@
     }
    }
   },
+  "life fitness": {
+   "name": "Life Fitness",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
+     ],
+     "count": 1
+    }
+   }
+  },
   "live oak bank": {
    "name": "Live Oak Bank",
    "cycles": {
@@ -2548,10 +2574,11 @@
      "first_posted": "2026-09-16",
      "role_ids": [
       "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
       "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647",
       "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2708,6 +2735,18 @@
       "workday:msd:/job/USA---Virginia---Elkton/XMLNAME-2027-Future-Talent-Program---Elkton-Manufacturing-Intern_R412907"
      ],
      "count": 11
+    }
+   }
+  },
+  "metox international": {
+   "name": "MetOx International",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-08-25",
+     "role_ids": [
+      "greenhouse:metoxinternationalinc:5405775008"
+     ],
+     "count": 1
     }
    }
   },
@@ -4001,12 +4040,14 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007876",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007883",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007884",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007885",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007886"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007886",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905"
      ],
-     "count": 11
+     "count": 13
     }
    }
   },
@@ -4800,5 +4841,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T17:05:22Z"
+ "updated_at": "2026-09-21T21:03:41Z"
 }

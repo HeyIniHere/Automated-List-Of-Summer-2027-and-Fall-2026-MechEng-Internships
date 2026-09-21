@@ -853,11 +853,12 @@
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern-Summer--27_JR-051339",
       "workday:brunswick:/job/Edgewater-FL/Manufacturing-Engineering-Intern_JR-051540",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Advanced-Manufacturing-Operations-Analytics-Engineering-Co-op_JR-051238",
+      "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Intern-Design-Analysis-Group-Fluid---Thermal_JR-050977",
       "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Mechanical-Engineering-Intern_JR-051390",
       "workday:brunswick:/job/Lowell-MI/Mechanical-Engineer-Co-op-Intern_JR-051322",
       "workday:brunswick:/job/New-York-Mills-MN/Manufacturing-Engineering-Intern_JR-051341-1"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -1151,6 +1152,19 @@
     }
    }
   },
+  "commerce bank": {
+   "name": "Commerce Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484",
+      "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483"
+     ],
+     "count": 2
+    }
+   }
+  },
   "commure": {
    "name": "Commure",
    "cycles": {
@@ -1398,9 +1412,10 @@
     "Summer 2027": {
      "first_posted": "2026-07-28",
      "role_ids": [
-      "workday:draper:/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735"
+      "workday:draper:/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
+      "workday:draper:/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2532,9 +2547,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624"
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Information-Security_R-002647",
+      "workday:liveoakbancshares:/job/Wilmington-NC/Summer-2027-Intern--Software-Engineering_R-002643"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -3169,6 +3186,7 @@
       "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
       "workday:oshkoshcorporation:/job/Appleton-Wisconsin-United-States/Product-Management-Intern--Summer-2027-_R49746",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49782",
+      "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Mechanical--Summer-2027-_R50502",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Engineer-Intern---Software--Summer-2026-_R49786",
       "workday:oshkoshcorporation:/job/Dodge-Center-Minnesota-United-States/Product-Management-Intern--Summer-2027-_R49796",
       "workday:oshkoshcorporation:/job/Garner-Iowa-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49815",
@@ -3179,7 +3197,7 @@
       "workday:oshkoshcorporation:/job/Orlando-Florida-United-States/Engineering-Intern---Mechanical--Summer-2027-_R49823",
       "workday:oshkoshcorporation:/job/Oshkosh-Wisconsin-United-States/AI-Intern_R50265"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -3263,9 +3281,11 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---Fall-2026_589905",
-      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708"
+      "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer--Automation----Cambridge--MA---Fall-2026_590708",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3563,9 +3583,10 @@
       "greenhouse:rocketlab:7989904003",
       "greenhouse:rocketlab:7990365003",
       "greenhouse:rocketlab:7991448003",
-      "greenhouse:rocketlab:7996623003"
+      "greenhouse:rocketlab:7996623003",
+      "greenhouse:rocketlab:8000958003"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -3978,9 +3999,14 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007774",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007776",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007777",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007804"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007804",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007837",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007883",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007884",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007885",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007886"
      ],
-     "count": 6
+     "count": 11
     }
    }
   },
@@ -4774,5 +4800,5 @@
    }
   }
  },
- "updated_at": "2026-09-21T10:38:57Z"
+ "updated_at": "2026-09-21T17:05:22Z"
 }

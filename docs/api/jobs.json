@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-20T21:27:40Z",
+ "generated_at": "2026-09-21T00:06:54Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1134,
+ "count": 1133,
  "jobs": [
   {
    "id": "workday:bbh:/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
@@ -24785,36 +24785,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:centerfield:1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
-   "company": "Centerfield",
-   "title": "Frontend Engineer Intern (6 month internship)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Los Angeles, California",
-   "url": "https://jobs.ashbyhq.com/centerfield/1d7eacc1-37f7-478c-9b0a-fa7974f1a9e4",
-   "posted_at": "2026-08-06T20:03:54.164+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-07T00:29:47Z",
-   "sponsorship": "unknown",
-   "salary": "$30 per hour",
-   "skills": [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "AWS",
-    "GCP",
-    "Docker"
-   ],
-   "source": "ashby",
-   "h1b_approvals": 12,
    "program": "Internship",
    "remote": false
   },

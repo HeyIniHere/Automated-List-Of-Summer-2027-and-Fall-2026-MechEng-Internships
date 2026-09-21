@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-21T04:54:07Z</updated>
+  <updated>2026-09-21T10:39:01Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925</id>
-    <title>Nordson: Intern – Manufacturing Electronics / Software Engineering</title>
-    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925"/>
-    <updated>2026-09-21T04:54:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA - Texas - Allen · Verilog</summary>
+    <id>urn:intern-engine:oracle:egud.fa.us2.oraclecloud.com:155461</id>
+    <title>AutoZone: AutoZone 2027 Summer Internship – Data Science</title>
+    <link href="https://egud.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/155461"/>
+    <updated>2026-09-21T10:38:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Memphis, TN, United States · Python, Java, SQL, Tableau · H-1B track record: ~81 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835</id>
+    <title>Northrop Grumman: 2027 Embedded Software Engineer Intern - Camarillo CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835"/>
+    <updated>2026-09-21T10:38:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-California-Camarillo · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464</id>
@@ -30,6 +38,14 @@
     <updated>2026-09-21T04:54:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-Maryland-Baltimore · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925</id>
+    <title>Nordson: Intern – Manufacturing Electronics / Software Engineering</title>
+    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---Texas---Allen/Intern---Manufacturing-Electronics---Software-Engineering_REQ52925"/>
+    <updated>2026-09-21T04:54:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · USA - Texas - Allen · Verilog</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:breezy:ninjaholdings:12b3ed96c30c</id>
@@ -302,6 +318,14 @@
     <updated>2026-09-18T18:21:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Charter Steel - Saukville, WI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hcmportal:/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989</id>
+    <title>United Parcel Service (UPS): 2027 Americas Region Industrial Engineering Summer Intern 🇺🇸</title>
+    <link href="https://hcmportal.wd5.myworkdayjobs.com/Search/job/US---UPS-CORPORATE-OFFICES-GACOR/XMLNAME-2027-Americas-Region-Industrial-Engineering-Summer-Intern_R26032989"/>
+    <updated>2026-09-18T18:21:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US - UPS CORPORATE OFFICES (GACOR) · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Clinical-Epidemiology-and-Data-Science-Co-op_R-098453</id>
@@ -782,29 +806,5 @@
     <updated>2026-09-17T16:46:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US - Denver, CO · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~883 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1</id>
-    <title>Visa: Software Engineer, Intern - Foster City 2027 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Software-Engineer--Intern---Foster-City-2027_REF088587W-1"/>
-    <updated>2026-09-17T16:46:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~883 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1</id>
-    <title>Visa: 2027 Sophomore Internship Program - Software Engineer Intern, Foster City 🛂</title>
-    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Foster-City_REF088591W-1"/>
-    <updated>2026-09-17T16:46:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US - Foster City, CA · Python, Java, C++, C#, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~883 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:xenergy:/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1</id>
-    <title>X-energy: Mechanical Engineering Internship - Summer 2027</title>
-    <link href="https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1"/>
-    <updated>2026-09-17T16:46:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Rockville, MD · $25/hr</summary>
   </entry>
 </feed>

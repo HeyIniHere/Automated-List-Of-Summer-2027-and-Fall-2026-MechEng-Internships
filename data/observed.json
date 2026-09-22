@@ -578,9 +578,10 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:avav:/job/Melbourne-FL/Summer-2027-Software-Engineering-Intern_8550",
+      "workday:avav:/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
       "workday:avav:/job/Simi-Valley-CA/Summer-2027-Embedded-Software-Engineering-Intern_8549"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -812,9 +813,10 @@
       "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
       "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100316",
       "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Mechanical-Engineering-Co-op--R-D-Sustaining-_JR100317",
+      "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314",
       "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Software-Engineering-Intern--Co-op--R-D-Sustaining-_JR100327"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -1776,6 +1778,18 @@
       "greenhouse:freeformfuturecorp:7907965003"
      ],
      "count": 4
+    }
+   }
+  },
+  "g2": {
+   "name": "G2",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd"
+     ],
+     "count": 1
     }
    }
   },
@@ -3861,9 +3875,10 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
-      "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a"
+      "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
+      "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4634,9 +4649,10 @@
       "greenhouse:waymo:8174504",
       "greenhouse:waymo:8193731",
       "greenhouse:waymo:8198218",
-      "greenhouse:waymo:8203200"
+      "greenhouse:waymo:8203200",
+      "greenhouse:waymo:8221198"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4834,12 +4850,13 @@
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
       "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
+      "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111",
       "workday:elkay:/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
      ],
-     "count": 5
+     "count": 6
     }
    }
   }
  },
- "updated_at": "2026-09-21T21:03:41Z"
+ "updated_at": "2026-09-22T00:06:30Z"
 }

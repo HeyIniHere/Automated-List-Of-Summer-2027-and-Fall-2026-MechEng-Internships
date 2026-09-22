@@ -1,3 +1,14 @@
 {
-  "pending": []
+  "pending": [
+    "workday:avav:/job/Simi-Valley-CA/Software-Engineering-Intern_8813",
+    "workday:avav:/job/Moorpark-CA/Summer-2027-Autonomy---Robotics-Engineering-Intern_8551",
+    "workday:bracco:/job/USA-Eden-Prairie-Minnesota-55344/Quality-Analyst-Intern--Software-_JR100314",
+    "ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd",
+    "workday:micron:/job/Boise-ID---Main-Site/Intern---Probe-Manufacturing-Engineering--Probe-AME-_JR112368",
+    "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
+    "greenhouse:singlestore:8221924",
+    "greenhouse:singlestore:8220919",
+    "greenhouse:waymo:8221198",
+    "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111"
+  ]
 }

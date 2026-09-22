@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-22T04:48:02Z",
- "duration_seconds": 413.3,
+ "generated_at": "2026-09-22T09:53:45Z",
+ "duration_seconds": 525.8,
  "companies_total": 4636,
  "companies_by_source": {
   "greenhouse": 1089,
@@ -16,24 +16,25 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 326,
- "fetched_ok": 4217,
- "fetch_errors": 93,
+ "quarantined": 114,
+ "fetched_ok": 4220,
+ "fetch_errors": 302,
  "errors_by_source": {
-  "lever": 1,
-  "workday": 86,
-  "rippling": 1,
-  "ashby": 3,
-  "workable": 2
+  "rippling": 2,
+  "workday": 131,
+  "greenhouse": 50,
+  "lever": 36,
+  "ashby": 49,
+  "workable": 34
  },
- "fetch_success_rate": 0.978,
+ "fetch_success_rate": 0.933,
  "fetch_success_rate_registry": 0.91,
- "snapshots_complete": 4117,
- "snapshots_partial": 100,
- "roles_matched": 929,
- "dropped_no_year_in_title": 433,
- "dropped_offcycle_by_text": 190,
- "roles_cycle_inferred": 468,
+ "snapshots_complete": 4111,
+ "snapshots_partial": 109,
+ "roles_matched": 926,
+ "dropped_no_year_in_title": 429,
+ "dropped_offcycle_by_text": 206,
+ "roles_cycle_inferred": 466,
  "roles_by_source": {
   "amazon": 10,
   "ashby": 65,
@@ -44,19 +45,19 @@
   "rippling": 11,
   "smartrecruiters": 70,
   "workable": 16,
-  "workday": 659
+  "workday": 658
  },
  "roles_by_cycle": {
-  "Fall 2026": 42,
-  "Summer 2027": 662,
-  "Not stated": 468
+  "Fall 2026": 41,
+  "Summer 2027": 664,
+  "Not stated": 466
  },
  "roles_by_region": {
-  "US": 1172
+  "US": 1171
  },
  "sponsorship_counts": {
-  "unknown": 826,
-  "citizens-only": 215,
+  "unknown": 824,
+  "citizens-only": 216,
   "offers": 10,
   "no-sponsorship": 121
  },
@@ -64,8 +65,8 @@
  "enriched_this_run": 2,
  "enrichment_detail_fetches": 2,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 1172,
+ "new_this_run": 2,
+ "open_total": 1171,
  "detection_latency": {
   "median_minutes": 111.7,
   "p95_minutes": 1572.2,
@@ -74,7 +75,7 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 5,
-  "sample_size": 809
+  "median_days": 5.0,
+  "sample_size": 812
  }
 }

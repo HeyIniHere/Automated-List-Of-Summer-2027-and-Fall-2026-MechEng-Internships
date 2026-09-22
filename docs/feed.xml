@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-22T04:48:07Z</updated>
+  <updated>2026-09-22T09:53:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139</id>
+    <title>Northrop Grumman: 2027 Mechanical Engineer Intern - San Diego CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139"/>
+    <updated>2026-09-22T09:53:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-California-San Diego · $21.5–$39/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150</id>
+    <title>Northrop Grumman: 2027 Software Engineer Intern - San Diego CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150"/>
+    <updated>2026-09-22T09:53:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-California-San Diego · $21.5–$39/hr · Python, Java, C++, Rust, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:g2:64dcc04a-a0e7-493b-b899-dd4c56e561fd</id>
     <title>G2: Intern, AI Agent Evaluations</title>
@@ -182,14 +198,6 @@
     <updated>2026-09-21T21:03:40Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Wilmington, NC · $19.77–$32.12/hr · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonyglobal:/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643</id>
-    <title>Sony: Sony Research - Internship on Audio Processing and Machine Learning</title>
-    <link href="https://sonyglobal.wd1.myworkdayjobs.com/SonyGlobalCareers/job/New-York/Sony-Research---Internship-on-Audio-Processing-and-Machine-Learning_JR-119643"/>
-    <updated>2026-09-21T21:03:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York · $50/hr · Python, PyTorch</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:collinear-ai:ae85fd08-dfd8-42e5-9b3b-9921ba24742b</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-18T14:23:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Titusville, New Jersey, United States of America · $23.5/hr · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:k2spacecorporation:5411915008</id>
-    <title>K2 Space: Mechanical  Engineering Intern – Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008"/>
-    <updated>2026-09-18T04:15:10Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Los Angeles, CA · $30–$40/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

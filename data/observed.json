@@ -1250,6 +1250,18 @@
     }
    }
   },
+  "cowboy space": {
+   "name": "Cowboy Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "ashby:cowboyspace:56d1d7e4-fa7e-4c25-aa8b-6828447fc64a"
+     ],
+     "count": 1
+    }
+   }
+  },
   "cox": {
    "name": "Cox",
    "cycles": {
@@ -1599,9 +1611,10 @@
      "role_ids": [
       "smartrecruiters:Eurofins:744000147214369",
       "smartrecruiters:Eurofins:744000148531473",
-      "smartrecruiters:Eurofins:744000148712379"
+      "smartrecruiters:Eurofins:744000148712379",
+      "smartrecruiters:Eurofins:744000150986035"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3232,6 +3245,18 @@
     }
    }
   },
+  "optiver": {
+   "name": "Optiver",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-21",
+     "role_ids": [
+      "greenhouse:optiverprivate:8784302002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -4450,9 +4475,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605"
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605",
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -4860,5 +4887,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T09:53:45Z"
+ "updated_at": "2026-09-22T14:40:41Z"
 }

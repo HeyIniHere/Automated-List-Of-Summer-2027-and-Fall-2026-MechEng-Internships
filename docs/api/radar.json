@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T09:53:51Z",
+ "generated_at": "2026-09-22T14:40:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3098,6 +3098,20 @@
    "note": ""
   },
   {
+   "company": "Cowboy Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/cowboyspace/56d1d7e4-fa7e-4c25-aa8b-6828447fc64a",
+   "note": ""
+  },
+  {
    "company": "Life Fitness",
    "last_cycle_posted": "",
    "posted_on": "2026-09-21",
@@ -3110,6 +3124,20 @@
    "status": "open",
    "url": "https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235",
    "note": ""
+  },
+  {
+   "company": "Optiver",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
+   "note": "opens ~Aug for next summer"
   },
   {
    "company": "American Rare Earths",
@@ -3250,20 +3278,6 @@
    "status": "waiting",
    "url": "",
    "note": "late Aug, rolling into Nov"
-  },
-  {
-   "company": "Optiver",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -52,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Aug for next summer"
   },
   {
    "company": "Pinterest",
@@ -4092,5 +4106,5 @@
    "note": ""
   }
  ],
- "count": 292
+ "count": 293
 }

@@ -1,3 +1,16 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:egug.fa.us2.oraclecloud.com:26014224",
+    "workday:clearwateranalytics:/job/Office---New-York/Product-Management-Intern_R12287",
+    "workday:clearwateranalytics:/job/Office---New-York/Product-Management-Intern_R12288",
+    "workday:clearwateranalytics:/job/Office---New-York/Product-Management-Intern_R12286",
+    "workday:clearwateranalytics:/job/Office---New-York/Product-Management-Intern_R12285",
+    "oracle:hdjq.fa.us2.oraclecloud.com:26011295",
+    "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+    "workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239",
+    "workday:mastercard:/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1007925",
+    "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
+    "workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605"
+  ]
 }

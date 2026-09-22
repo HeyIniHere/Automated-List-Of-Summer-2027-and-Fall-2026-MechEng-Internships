@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-22T18:48:08Z",
+ "generated_at": "2026-09-22T22:03:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -382,6 +382,20 @@
    "note": ""
   },
   {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -55,
+   "status": "open",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+   "note": ""
+  },
+  {
    "company": "Heliux",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -561,6 +575,20 @@
    "days_until": -41,
    "status": "open",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
+   "note": ""
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
    "note": ""
   },
   {
@@ -1526,7 +1554,7 @@
    "expected": "2026-09-01",
    "days_until": -21,
    "status": "open",
-   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309900",
+   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309902",
    "note": ""
   },
   {
@@ -1988,7 +2016,7 @@
    "expected": "2026-09-08",
    "days_until": -14,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
    "note": ""
   },
   {
@@ -3154,6 +3182,20 @@
    "note": "opens ~Aug for next summer"
   },
   {
+   "company": "Mastercard",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3220,7 +3262,7 @@
    "expected": "",
    "days_until": null,
    "status": "open",
-   "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
+   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
    "note": ""
   },
   {
@@ -3616,20 +3658,6 @@
    "note": ""
   },
   {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -55,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Sentry",
    "last_cycle_posted": "",
    "posted_on": "2026-08-01",
@@ -3737,20 +3765,6 @@
    "source": "engine",
    "expected": "2026-08-11",
    "days_until": -42,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -40,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4134,5 +4148,5 @@
    "note": ""
   }
  ],
- "count": 295
+ "count": 296
 }

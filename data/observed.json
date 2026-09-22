@@ -107,9 +107,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -348,9 +349,10 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012764",
       "oracle:egug.fa.us2.oraclecloud.com:26012781",
       "oracle:egug.fa.us2.oraclecloud.com:26013190",
-      "oracle:egug.fa.us2.oraclecloud.com:26013191"
+      "oracle:egug.fa.us2.oraclecloud.com:26013191",
+      "oracle:egug.fa.us2.oraclecloud.com:26014224"
      ],
-     "count": 42
+     "count": 43
     }
    }
   },
@@ -2557,6 +2559,7 @@
       "workday:leidos:/job/Alexandria-VA/Cybersecurity-Analyst-Intern_R-00190671",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
+      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
@@ -2564,7 +2567,7 @@
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -2588,9 +2591,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-21",
      "role_ids": [
+      "workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239",
       "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2656,6 +2660,18 @@
      "first_posted": "2026-09-17",
      "role_ids": [
       "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mastercard": {
+   "name": "Mastercard",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "workday:mastercard:/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
      ],
      "count": 1
     }
@@ -3353,12 +3369,13 @@
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Data-AI-ML-Engineering---Plymouth--MN---Summer-2027_590404",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern---Software-Engineering---Plymouth--MN---Summer-2027_590403",
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op---Mechanical-Process-Engineer---Reedsville--PA---2026_592206",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 17
+     "count": 18
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -4104,9 +4121,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007885",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007886",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007919"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007925"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -4904,5 +4922,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T18:48:02Z"
+ "updated_at": "2026-09-22T22:03:48Z"
 }

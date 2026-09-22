@@ -3044,7 +3044,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 25,
+     "count": 27,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3060,6 +3060,8 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
+      "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
@@ -3353,9 +3355,10 @@
       "workday:philips:/job/Plymouth-Minnesota-United-States/Intern-Co-op---Software-System-Engineering---Plymouth--MN---Summer-2027_590406",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Industrial-Engineering-Reedsville--PA--January-to-June-2027-_591145",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Reedsville--PA--July---December-2027_587808",
+      "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 16
+     "count": 17
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -3959,6 +3962,19 @@
     }
    }
   },
+  "singlestore": {
+   "name": "SingleStore",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-14",
+     "role_ids": [
+      "greenhouse:singlestore:8154399",
+      "greenhouse:singlestore:8205514"
+     ],
+     "count": 2
+    }
+   }
+  },
   "skydio": {
    "name": "Skydio",
    "cycles": {
@@ -4087,9 +4103,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007884",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007885",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007886",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007905"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007919"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -4887,5 +4904,5 @@
    }
   }
  },
- "updated_at": "2026-09-22T14:40:41Z"
+ "updated_at": "2026-09-22T18:48:02Z"
 }

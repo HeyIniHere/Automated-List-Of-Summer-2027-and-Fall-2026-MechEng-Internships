@@ -5,15 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-23T20:12:41Z</updated>
+  <updated>2026-09-23T23:39:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000151439229</id>
-    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000151439229"/>
-    <updated>2026-09-23T20:12:36Z</updated>
+    <id>urn:intern-engine:greenhouse:boxinc:8226667</id>
+    <title>Box: Cloud &amp; AI Finance Intern</title>
+    <link href="https://job-boards.greenhouse.io/boxinc/jobs/8226667"/>
+    <updated>2026-09-23T23:39:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Philadelphia, PA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · Redwood City, CA, United States · SQL, LLMs, AWS, GCP, Tableau · H-1B track record: ~108 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8841894002</id>
+    <title>Graphcore: Firmware Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841894002"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Austin, Texas, United States · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
+    <title>Hypertherm: Firmware Developer - Internship</title>
+    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
+    <title>Klaviyo: AI Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584</id>
+    <title>Sierra Nevada Corporation: Software Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Plano, TX · Python, Java, C++, C# · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671</id>
+    <title>The Aerospace Corporation: 2027 Flight Loads Structural Dynamics Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668</id>
+    <title>The Aerospace Corporation: 2027 Structural Dynamics Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:aegworldwide:8797389002</id>
@@ -32,12 +80,36 @@
     <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
-    <title>CAE: Weapons Simulation Software Co-Op 🇺🇸</title>
-    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"/>
+    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
+    <title>Figma: Data Engineer Intern (2027)</title>
+    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
+    <updated>2026-09-23T20:12:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95670</id>
+    <title>WSP: Construction Materials Engineering and Laboratory Testing Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670"/>
+    <updated>2026-09-23T20:12:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · San Diego, CA, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
+    <title>Stantec: Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956"/>
+    <updated>2026-09-23T20:12:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000151439229</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Philadelphia</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000151439229"/>
     <updated>2026-09-23T20:12:36Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
+    <summary>Not stated · Hardware · Philadelphia, PA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Continental:744000151462939</id>
@@ -48,12 +120,12 @@
     <summary>Summer 2027 · Hardware · Plymouth, IN, United States</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:figma:6178851004</id>
-    <title>Figma: Data Engineer Intern (2027)</title>
-    <link href="https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004"/>
+    <id>urn:intern-engine:workday:cae:/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873</id>
+    <title>CAE: Weapons Simulation Software Co-Op 🇺🇸</title>
+    <link href="https://cae.wd3.myworkdayjobs.com/career/job/Arlington-TX/Weapons-Simulation-Software-Co-Op_123873"/>
     <updated>2026-09-23T20:12:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Arlington, TX · Python, C++, MATLAB, Docker, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2</id>
@@ -70,22 +142,6 @@
     <updated>2026-09-23T20:12:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Diego, California · Python, AWS, Linux · H-1B track record: ~46 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
-    <title>Stantec: Civil Engineering Intern/Co-op - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007956"/>
-    <updated>2026-09-23T20:12:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95670</id>
-    <title>WSP: Construction Materials Engineering and Laboratory Testing Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670"/>
-    <updated>2026-09-23T20:12:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · San Diego, CA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300</id>
@@ -312,14 +368,6 @@
     <summary>Summer 2027 · Security · United States-Florida-Melbourne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26014224</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Salt Lake City, UT</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224"/>
-    <updated>2026-09-22T22:03:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Salt Lake City, UT, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007925</id>
     <title>Stantec: Civil/Structural Engineering Intern - Water (Summer 2027)</title>
     <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007925"/>
@@ -437,7 +485,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262"/>
     <updated>2026-09-22T18:48:02Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA</summary>
+    <summary>Summer 2027 · Software · Seattle, WA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f9de04c3-e2c5-41f9-8e46-a0684707f89d</id>
@@ -526,14 +574,6 @@
     <updated>2026-09-22T14:40:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Carlos, California · Python, C++, Verilog · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:optiverprivate:8784302002</id>
-    <title>Optiver: Software Engineer Co-Op (January - April 2027)</title>
-    <link href="https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002"/>
-    <updated>2026-09-22T14:40:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, Java, C++ · H-1B track record: ~13 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119551</id>
@@ -766,45 +806,5 @@
     <updated>2026-09-21T17:05:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:rocketlab:8000958003</id>
-    <title>Rocket Lab: Thermal Engineering Intern Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/rocketlab/jobs/8000958003"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Long Beach, CA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007837</id>
-    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007837"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Auburn, NH, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007883</id>
-    <title>Stantec: Mechanical Engineering Intern/Co-op - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007883"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Butler, PA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007884</id>
-    <title>Stantec: Mechanical Engineering Intern/Co-op - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007884"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Rochester, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007885</id>
-    <title>Stantec: Mechanical Engineering Intern/Co-op - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007885"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · New York, NY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

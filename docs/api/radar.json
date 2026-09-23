@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T20:12:41Z",
+ "generated_at": "2026-09-23T23:39:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -575,20 +575,6 @@
    "days_until": -42,
    "status": "open",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
-   "note": ""
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -41,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26014224",
    "note": ""
   },
   {
@@ -1474,20 +1460,6 @@
    "note": ""
   },
   {
-   "company": "Clarios",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/Data-Science-Intern--Summer-2027-_WD50211",
-   "note": ""
-  },
-  {
    "company": "First National Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -2044,7 +2016,7 @@
    "expected": "2026-09-08",
    "days_until": -15,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
    "note": ""
   },
   {
@@ -3154,20 +3126,6 @@
    "note": ""
   },
   {
-   "company": "Optiver",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/optiverprivate/jobs/8784302002",
-   "note": "opens ~Aug for next summer"
-  },
-  {
    "company": "Astranis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -3812,6 +3770,20 @@
    "note": ""
   },
   {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "HNTB",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
@@ -3961,6 +3933,20 @@
    "source": "engine",
    "expected": "2026-08-31",
    "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4202,6 +4188,20 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Optiver",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": "opens ~Aug for next summer"
   }
  ],
  "count": 300

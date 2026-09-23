@@ -95,9 +95,10 @@
       "smartrecruiters:AECOM2:744000148586189",
       "smartrecruiters:AECOM2:744000148614639",
       "smartrecruiters:AECOM2:744000149483177",
-      "smartrecruiters:AECOM2:744000149913009"
+      "smartrecruiters:AECOM2:744000149913009",
+      "smartrecruiters:AECOM2:744000151381599"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -1843,15 +1844,30 @@
     }
    }
   },
+  "generac": {
+   "name": "Generac",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-23",
+     "role_ids": [
+      "workday:generac:/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048"
+     ],
+     "count": 1
+    }
+   }
+  },
   "general dynamics information technology": {
    "name": "General Dynamics Information Technology",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -1946,9 +1962,10 @@
      "role_ids": [
       "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260795",
       "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260804",
-      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839"
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260839",
+      "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260943"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1991,6 +2008,18 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115752"
      ],
      "count": 10
+    }
+   }
+  },
+  "grow therapy": {
+   "name": "Grow Therapy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-22",
+     "role_ids": [
+      "ashby:grow-therapy:92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8"
+     ],
+     "count": 1
     }
    }
   },
@@ -2511,9 +2540,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
-      "greenhouse:klaviyocampus:7989364003"
+      "greenhouse:klaviyocampus:7989364003",
+      "greenhouse:klaviyocampus:7999274003"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3070,7 +3100,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 28,
+     "count": 30,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3080,6 +3110,8 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
+      "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
@@ -4933,5 +4965,5 @@
    }
   }
  },
- "updated_at": "2026-09-23T11:21:34Z"
+ "updated_at": "2026-09-23T16:39:59Z"
 }

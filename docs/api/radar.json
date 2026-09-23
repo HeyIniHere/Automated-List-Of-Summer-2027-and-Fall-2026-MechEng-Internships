@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T11:21:40Z",
+ "generated_at": "2026-09-23T16:40:02Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -841,6 +841,20 @@
    "days_until": -34,
    "status": "open",
    "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
+   "note": ""
+  },
+  {
+   "company": "General Dynamics Information Technology",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
    "note": ""
   },
   {
@@ -3014,20 +3028,6 @@
    "note": ""
   },
   {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -6,
-   "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Austin-TX/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Austin_REF088596W-1",
-   "note": ""
-  },
-  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -3196,6 +3196,20 @@
    "note": ""
   },
   {
+   "company": "Grow Therapy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-22",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/grow-therapy/92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8",
+   "note": ""
+  },
+  {
    "company": "Mastercard",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -3207,6 +3221,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1",
+   "note": ""
+  },
+  {
+   "company": "Generac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
    "note": ""
   },
   {
@@ -3840,20 +3868,6 @@
    "note": ""
   },
   {
-   "company": "General Dynamics Information Technology",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "WSP",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -4160,7 +4174,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 297
+ "count": 299
 }

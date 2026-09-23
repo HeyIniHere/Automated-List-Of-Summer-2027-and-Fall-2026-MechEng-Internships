@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-23T16:40:02Z",
+ "generated_at": "2026-09-23T20:12:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -854,7 +854,7 @@
    "expected": "2026-08-20",
    "days_until": -34,
    "status": "open",
-   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
+   "url": "https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
    "note": ""
   },
   {
@@ -869,6 +869,20 @@
    "days_until": -34,
    "status": "open",
    "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
+   "note": ""
+  },
+  {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670",
    "note": ""
   },
   {
@@ -980,7 +994,7 @@
    "expected": "2026-08-24",
    "days_until": -30,
    "status": "open",
-   "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
+   "url": "https://wattswater.wd5.myworkdayjobs.com/Intern-External/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388",
    "note": ""
   },
   {
@@ -2944,20 +2958,6 @@
    "note": ""
   },
   {
-   "company": "Plastipak",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512",
-   "note": ""
-  },
-  {
    "company": "Relay",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3039,20 +3039,6 @@
    "days_until": -6,
    "status": "open",
    "url": "https://xenergy.wd5.myworkdayjobs.com/X-energyUS/job/Rockville-MD/Mechanical-Engineering-Internship---Summer-2027_R101319-1",
-   "note": ""
-  },
-  {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "note": ""
   },
   {
@@ -3221,6 +3207,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1",
+   "note": ""
+  },
+  {
+   "company": "Continental",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Continental/744000151462939",
    "note": ""
   },
   {
@@ -3868,20 +3868,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -34,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -4176,6 +4162,20 @@
    "note": ""
   },
   {
+   "company": "Plastipak",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -7,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -4188,7 +4188,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 299
+ "count": 300
 }

@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-23T05:51:25Z</updated>
+  <updated>2026-09-23T11:21:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1</id>
-    <title>KLA: Software Engineering Intern (C++, Unix)</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"/>
-    <updated>2026-09-23T05:51:19Z</updated>
+    <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313</id>
+    <title>ZOLL Medical Corporation: Sustaining Mechanical Engineer Intern</title>
+    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Sustaining-Mechanical-Engineer-Intern_R20313"/>
+    <updated>2026-09-23T11:21:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, C++, Linux · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Chelmsford, MA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Algorithm-Engineering-Intern--AI--Computer-Vision---Software-Engineering-_2641392-2</id>
@@ -22,6 +22,14 @@
     <updated>2026-09-23T05:51:19Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · $58/hr · Python, C++, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1</id>
+    <title>KLA: Software Engineering Intern (C++, Unix)</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern--C----Unix-_2641325-1"/>
+    <updated>2026-09-23T05:51:19Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, C++, Linux · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10557133</id>
@@ -181,7 +189,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:48:02Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
+    <summary>Summer 2027 · Software · Seattle, WA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f255bf03-9173-4c0a-8a18-7cc43c27ded8</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-19T00:10:27Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · Houston, TX · Python, Java, TypeScript, JavaScript, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LLNL:3743990015408206</id>
-    <title>Lawrence Livermore National Laboratory (LLNL): Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/LLNL/3743990015408206"/>
-    <updated>2026-09-19T00:10:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git · sponsorship: citizens-only</summary>
   </entry>
 </feed>

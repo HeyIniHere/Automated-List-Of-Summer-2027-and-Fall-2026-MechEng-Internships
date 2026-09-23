@@ -1,22 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000151381599",
-    "workday:amgen:/job/US---California---Thousand-Oaks/Undergrad-Co-op---MCS-Manufacturing-Associate_R-256774",
-    "workday:dxctechnology:/job/ITA---MI---MILAN/Cyber-Security-Intern_51583298",
-    "workday:generac:/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
-    "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
-    "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
-    "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
-    "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260943",
-    "workday:gorbel:/job/USA-New-York-Victor/Mechanical-Engineering-Co-Op_REQ-2026-2284-1",
-    "workday:gorbel:/job/USA-New-York-Henrietta/Mechanical-Engineering-Co-Op_REQ-2026-2283-1",
-    "ashby:grow-therapy:92bfe88a-4c23-48c8-8f7b-4959ab6cd8d8",
-    "workday:jj:/job/Milpitas-California-United-States-of-America/Manufacturing-Engineering-Co-Op_R-099376",
-    "smartrecruiters:Keenfinity:744000151395769",
-    "greenhouse:klaviyocampus:7999274003",
-    "workday:micron:/job/Boise-ID---ID1/Intern---ID1-Manufacturing-Engineer_JR113287",
-    "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
-    "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
-    "workday:swbc:/job/San-Antonio-TX/Application-Security-Intern_R0015572-2"
-  ]
+  "pending": []
 }

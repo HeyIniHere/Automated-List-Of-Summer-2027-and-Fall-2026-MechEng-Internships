@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-23T23:39:58Z</updated>
+  <updated>2026-09-24T04:17:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8841920002</id>
+    <title>Graphcore: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002"/>
+    <updated>2026-09-24T04:17:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Austin, Texas, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74</id>
+    <title>Ramp: Software Engineer Internship, Frontend</title>
+    <link href="https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74"/>
+    <updated>2026-09-24T04:17:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · TypeScript, JavaScript, React · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8</id>
+    <title>Ramp: Software Engineering Intern, Android</title>
+    <link href="https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8"/>
+    <updated>2026-09-24T04:17:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Kotlin · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9</id>
+    <title>Ramp: Software Engineering Intern, iOS</title>
+    <link href="https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"/>
+    <updated>2026-09-24T04:17:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Swift · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:boxinc:8226667</id>
     <title>Box: Cloud &amp; AI Finance Intern</title>
@@ -24,28 +56,12 @@
     <summary>Not stated · Hardware · Austin, Texas, United States · Python, C++, Linux, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
-    <title>Hypertherm: Firmware Developer - Internship</title>
-    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
-    <updated>2026-09-23T23:39:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:klaviyocampus:8003260003</id>
     <title>Klaviyo: AI Engineer Intern</title>
     <link href="https://job-boards.greenhouse.io/klaviyocampus/jobs/8003260003"/>
     <updated>2026-09-23T23:39:51Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Boston, MA · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584</id>
-    <title>Sierra Nevada Corporation: Software Engineer I (For 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"/>
-    <updated>2026-09-23T23:39:51Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Plano, TX · Python, Java, C++, C# · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671</id>
@@ -64,20 +80,20 @@
     <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:aegworldwide:8797389002</id>
-    <title>AEG: Fall Intern, Data Science (AXS) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/aegworldwide/jobs/8797389002"/>
-    <updated>2026-09-23T20:12:36Z</updated>
+    <id>urn:intern-engine:workday:hypertherm:/job/Hanover-NH/Intern_R4100</id>
+    <title>Hypertherm: Firmware Developer - Internship</title>
+    <link href="https://hypertherm.wd503.myworkdayjobs.com/hypertherm-careers/job/Hanover-NH/Intern_R4100"/>
+    <updated>2026-09-23T23:39:51Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Hardware · Hanover, NH · Python, Java, C++</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:axs:8797388002</id>
-    <title>AXS: Fall Intern, Data Science (AXS) 🛂</title>
-    <link href="https://job-boards.greenhouse.io/axs/jobs/8797388002"/>
-    <updated>2026-09-23T20:12:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Angeles, CA · Python, SQL · sponsorship: no-sponsorship</summary>
+    <id>urn:intern-engine:workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584</id>
+    <title>Sierra Nevada Corporation: Software Engineer I (For 2026 Interns Only) 🇺🇸</title>
+    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"/>
+    <updated>2026-09-23T23:39:51Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Plano, TX · Python, Java, C++, C# · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:figma:6178851004</id>
@@ -440,14 +456,6 @@
     <summary>Summer 2027 · Hardware · Ramsey, MN · $24–$27/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:mastercard:/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1</id>
-    <title>Mastercard: Product Management Intern, Summer 2027 - St. Louis, MO (US)</title>
-    <link href="https://mastercard.wd1.myworkdayjobs.com/CorporateCareers/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"/>
-    <updated>2026-09-22T22:03:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · O'Fallon, Missouri · $30/hr · H-1B track record: ~1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:maxar:/job/Remote-United-States/AI-Engineer-Intern_R24605</id>
     <title>Vantor: AI Engineer Intern 🇺🇸</title>
     <link href="https://maxar.wd1.myworkdayjobs.com/Vantor/job/Remote-United-States/AI-Engineer-Intern_R24605"/>
@@ -469,7 +477,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:48:02Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA</summary>
+    <summary>Summer 2027 · Software · New York, NY</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f255bf03-9173-4c0a-8a18-7cc43c27ded8</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-21T17:05:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fspco-op012325:8796563002</id>
-    <title>Flagship Pioneering: Metaphore: Data Science Co-Op</title>
-    <link href="https://job-boards.greenhouse.io/fspco-op012325/jobs/8796563002"/>
-    <updated>2026-09-21T17:05:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Cambridge, MA USA · $25–$35/hr · Python</summary>
   </entry>
 </feed>

@@ -1,3 +1,21 @@
 {
-  "pending": []
+  "pending": [
+    "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
+    "workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+    "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437740",
+    "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437752",
+    "greenhouse:eqtcorporation:5424757008",
+    "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260821",
+    "workday:irhythmtech:/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766",
+    "workday:leidos:/job/St-Louis-MO/Software-Developer-Intern_R-00192632",
+    "greenhouse:clevelandguardiansbops:8827470002",
+    "workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312",
+    "oracle:ebxs.fa.us2.oraclecloud.com:309936",
+    "workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
+    "workable:rentvision:0F1C7992BF",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
+    "workday:ttc:/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112",
+    "workday:zoll:/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20084"
+  ]
 }

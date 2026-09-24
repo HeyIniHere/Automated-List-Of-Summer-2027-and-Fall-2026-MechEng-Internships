@@ -713,6 +713,18 @@
     }
    }
   },
+  "biogen": {
+   "name": "Biogen",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211"
+     ],
+     "count": 1
+    }
+   }
+  },
   "blue origin": {
    "name": "Blue Origin",
    "cycles": {
@@ -2457,9 +2469,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-24",
      "role_ids": [
+      "workday:irhythmtech:/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
       "workday:irhythmtech:/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4234,9 +4247,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007905",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007925",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007956"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007966"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -5064,5 +5078,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T19:04:13Z"
+ "updated_at": "2026-09-24T22:16:13Z"
 }

@@ -5,23 +5,95 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-24T19:04:20Z</updated>
+  <updated>2026-09-24T22:16:17Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280</id>
-    <title>ABB: Product Management Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:ameren:/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1</id>
+    <title>Ameren: Intern (Robotics, AI, OT, Software development)</title>
+    <link href="https://ameren.wd1.myworkdayjobs.com/External/job/St-Louis-MO/Intern--Robotics--AI--OT--Software-development-_033945-1"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · St. Louis, MO · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
-    <title>C.H. Robinson: Cyber Security Internship 2027</title>
-    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
-    <updated>2026-09-24T19:04:13Z</updated>
+    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211</id>
+    <title>Biogen: Co-op, Data Science</title>
+    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, SQL, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209</id>
+    <title>Biogen: Co-op, Data Science &amp; AI Innovation</title>
+    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science---AI-Innovation_REQ24209"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, USA · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758</id>
+    <title>iRhythm Technologies: Embedded SDET Co-Op Full Time Intern January-June 2027</title>
+    <link href="https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758"/>
+    <updated>2026-09-24T22:16:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · San Francisco, CA · $35/hr · Python, Git · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277</id>
+    <title>Johnson &amp; Johnson: Software Engineering Co-Op</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Danvers-Massachusetts-United-States-of-America/Software-Engineering-Co-Op_R-098277"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Danvers, Massachusetts, United States of America · $23.5/hr · Rust, JavaScript, Angular, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:reflect-orbital:c394615d-26c6-4435-ad84-3ca3269c2952</id>
+    <title>Reflect Orbital: Ground Software Systems Intern</title>
+    <link href="https://jobs.ashbyhq.com/reflect-orbital/c394615d-26c6-4435-ad84-3ca3269c2952"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Hawthorne, CA · $27 – $31 per hour · Python, C++, AWS, Kubernetes, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007966</id>
+    <title>Stantec: Mechanical Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Chicago, IL, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:wexinc:/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543</id>
+    <title>Wex: Software Engineering Intern - Enterprise Data &amp; Systems (Salesforce &amp; Snowflake) (Graduate/Master's)</title>
+    <link href="https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineering-Intern---Enterprise-Data---Systems--Salesforce---Snowflake---Graduate-Master-s-_R22543"/>
+    <updated>2026-09-24T22:16:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US - Remote · Python, Java, SQL, Git · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:clevelandguardiansbops:8827470002</id>
+    <title>Major League Baseball: Software Engineer Intern, Baseball Systems</title>
+    <link href="https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Cleveland, Ohio, United States · $24/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:eqtcorporation:5424757008</id>
+    <title>EQT Corporation: Water Infrastructure Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Canonsburg, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309936</id>
+    <title>Michael Baker International: Mechanical Engineering Intern</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309936"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Salt Lake City, UT, United States · $20–$25/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2437740</id>
@@ -40,20 +112,52 @@
     <summary>Not stated · Hardware · Columbus, IN, United States · MATLAB · H-1B track record: ~917 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:eqtcorporation:5424757008</id>
-    <title>EQT Corporation: Water Infrastructure Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/eqtcorporation/jobs/5424757008"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Canonsburg, PA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:260821</id>
     <title>GM financial: Intern - Data Engineer</title>
     <link href="https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260821"/>
     <updated>2026-09-24T19:04:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Arlington, TX, United States · Python, Java, C++, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
+    <title>Rentvision: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280</id>
+    <title>ABB: Product Management Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New Berlin, Wisconsin, United States of America · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:chrobinson:/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322</id>
+    <title>C.H. Robinson: Cyber Security Internship 2027</title>
+    <link href="https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Eden Prairie, MN United States of America · $15–$30/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253</id>
+    <title>RTX: Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261</id>
+    <title>RTX: Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261"/>
+    <updated>2026-09-24T19:04:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766</id>
@@ -72,30 +176,6 @@
     <summary>Not stated · Software · St. Louis, MO · Python, Java, C#, TypeScript, JavaScript · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:clevelandguardiansbops:8827470002</id>
-    <title>Major League Baseball: Software Engineer Intern, Baseball Systems</title>
-    <link href="https://job-boards.greenhouse.io/clevelandguardiansbops/jobs/8827470002"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Cleveland, Ohio, United States · $24/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312</id>
-    <title>Merck: 2027 Future Talent Program - Data Science - Intern</title>
-    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, MATLAB, AWS</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309936</id>
-    <title>Michael Baker International: Mechanical Engineering Intern</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309936"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Salt Lake City, UT, United States · $20–$25/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136</id>
     <title>Motorola: Software Engineering Intern - Summer 2027 🇺🇸</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136"/>
@@ -104,28 +184,12 @@
     <summary>Summer 2027 · Software · Plantation, FL · Java, C++, C#, SQL, .NET · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workable:rentvision:0F1C7992BF</id>
-    <title>Rentvision: Software Engineering Intern</title>
-    <link href="https://apply.workable.com/rentvision/j/0F1C7992BF/"/>
+    <id>urn:intern-engine:workday:msd:/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312</id>
+    <title>Merck: 2027 Future Talent Program - Data Science - Intern</title>
+    <link href="https://msd.wd5.myworkdayjobs.com/searchjobs/job/USA---Pennsylvania---West-Point/XMLNAME-2027-Future-Talent-Program---Data-Science---Intern_R413312"/>
     <updated>2026-09-24T19:04:13Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lincoln, Nebraska, United States · Java, TypeScript, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253</id>
-    <title>RTX: Advanced Manufacturing Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261</id>
-    <title>RTX: Advanced Manufacturing Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261"/>
-    <updated>2026-09-24T19:04:13Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-105 ~ 400 Collins Rd NE ~ BLDG 105 · MATLAB · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA - Pennsylvania - West Point · Python, SQL, MATLAB, AWS</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Mechanical-Engineer-Intern---The-Toro-Company_JR17112</id>
@@ -350,14 +414,6 @@
     <updated>2026-09-23T20:12:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA • New York, NY · Python, SQL · H-1B track record: ~39 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95670</id>
-    <title>WSP: Construction Materials Engineering and Laboratory Testing Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95670"/>
-    <updated>2026-09-23T20:12:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · San Diego, CA, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007956</id>
@@ -688,14 +744,6 @@
     <summary>Not stated · Software · Office - New York · Python, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858</id>
-    <title>Leidos: Software Developer Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858"/>
-    <updated>2026-09-22T22:03:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Annapolis Junction, MD · Python, Java, C++, JavaScript, Git · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239</id>
     <title>Life Fitness: Manufacturing Engineering Intern - Ramsey, MN</title>
     <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239"/>
@@ -725,7 +773,7 @@
     <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
     <updated>2026-09-22T18:48:02Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA</summary>
+    <summary>Summer 2027 · Software · Seattle, WA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:rippling:f255bf03-9173-4c0a-8a18-7cc43c27ded8</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-22T18:48:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Carmel, IN · Angular, .NET</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:emcins:/job/Iowa/Intern---Software-Engineering_R6557-1</id>
-    <title>EMC Insurance: Intern - Software Engineering</title>
-    <link href="https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern---Software-Engineering_R6557-1"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Iowa</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381</id>
-    <title>Johnson &amp; Johnson: Commercial Data Science &amp; AI Co-op</title>
-    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Raritan-New-Jersey-United-States-of-America/Commercial-Data-Science---AI-Co-op_R-099381"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Raritan, New Jersey, United States of America · $23.5/hr · Python, SQL, LLMs, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226</id>
-    <title>Moog: Intern, Mechanical Analysis Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Mechanical-Analysis-Engineering_R-26-20226"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Buffalo, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530</id>
-    <title>Northrop Grumman: 2027 Cyber Software Engineer Intern - Tampa FL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Florida-Tampa · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196</id>
-    <title>Northrop Grumman: 2027 Cyber Systems Engineer Intern-Tampa FL 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · United States-Florida-Tampa · $18.5–$33.5/hr · Python, LLMs · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nwis:/job/Springfield-VA/Mechanical-Engineer-Intern_JR102089-1</id>
-    <title>Nightwing Intelligence Solutions: Mechanical Engineer Intern 🇺🇸</title>
-    <link href="https://nwis.wd12.myworkdayjobs.com/NW/job/Springfield-VA/Mechanical-Engineer-Intern_JR102089-1"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Springfield, VA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
 </feed>

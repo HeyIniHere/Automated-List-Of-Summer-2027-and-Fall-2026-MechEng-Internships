@@ -1760,6 +1760,20 @@
     }
    }
   },
+  "formlabsinternships": {
+   "name": "Formlabsinternships",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "greenhouse:formlabsinternships:8186604",
+      "greenhouse:formlabsinternships:8199928",
+      "greenhouse:formlabsinternships:8222268"
+     ],
+     "count": 3
+    }
+   }
+  },
   "foth": {
    "name": "FOTH",
    "cycles": {
@@ -4961,6 +4975,22 @@
     }
    }
   },
+  "zekelman industries": {
+   "name": "Zekelman Industries",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-17",
+     "role_ids": [
+      "workday:zekelman:/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
+      "workday:zekelman:/job/Blytheville-AR---Wheatland/Manufacturing-Engineer-Intern_JR002765",
+      "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
+      "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
+      "workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"
+     ],
+     "count": 5
+    }
+   }
+  },
   "zip": {
    "name": "Zip",
    "cycles": {
@@ -4970,6 +5000,18 @@
      "role_ids": [
       "ashby:zip:caa5ba75-3b38-4d29-88cd-69a90b01fd6f"
      ]
+    }
+   }
+  },
+  "zoll medical": {
+   "name": "ZOLL Medical Corporation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "workday:zoll:/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310"
+     ],
+     "count": 1
     }
    }
   },
@@ -4991,5 +5033,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T09:55:35Z"
+ "updated_at": "2026-09-24T14:56:56Z"
 }

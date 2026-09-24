@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T09:55:42Z",
+ "generated_at": "2026-09-24T14:57:03Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2048,6 +2048,20 @@
    "note": ""
   },
   {
+   "company": "Formlabsinternships",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -16,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/formlabsinternships/jobs/8222268",
+   "note": ""
+  },
+  {
    "company": "Graco",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2986,6 +3000,20 @@
    "note": ""
   },
   {
+   "company": "Zekelman Industries",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752",
+   "note": ""
+  },
+  {
    "company": "Charter Manufacturing",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -3151,6 +3179,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
+   "note": ""
+  },
+  {
+   "company": "ZOLL Medical Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -4204,5 +4246,5 @@
    "note": ""
   }
  ],
- "count": 300
+ "count": 303
 }

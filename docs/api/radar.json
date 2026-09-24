@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-24T04:17:54Z",
+ "generated_at": "2026-09-24T09:55:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1484,7 +1484,7 @@
    "expected": "2026-09-01",
    "days_until": -23,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
    "note": ""
   },
   {
@@ -1934,20 +1934,6 @@
    "status": "open",
    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
    "note": "opens ~Sep"
-  },
-  {
-   "company": "ICF",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -17,
-   "status": "open",
-   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-   "note": ""
   },
   {
    "company": "Merck",
@@ -2478,7 +2464,7 @@
    "expected": "2026-09-11",
    "days_until": -13,
    "status": "open",
-   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
+   "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
    "note": ""
   },
   {
@@ -2870,7 +2856,7 @@
    "expected": "2026-09-16",
    "days_until": -8,
    "status": "open",
-   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--AI-Enablement---Forward-Deployed-Engineering_R-002624",
+   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
    "note": ""
   },
   {
@@ -4003,6 +3989,20 @@
    "source": "engine",
    "expected": "2026-09-03",
    "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -17,
    "status": "dropped",
    "url": "",
    "note": ""

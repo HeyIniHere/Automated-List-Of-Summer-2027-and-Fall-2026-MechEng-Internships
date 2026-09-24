@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-24T04:17:54Z</updated>
+  <updated>2026-09-24T09:55:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:greenhouse:graphcore:8841920002</id>
-    <title>Graphcore: Mechanical Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002"/>
-    <updated>2026-09-24T04:17:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Austin, Texas, United States</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:ashby:ramp:a13ae586-f4cb-4385-8822-c42b9b54ed74</id>
     <title>Ramp: Software Engineer Internship, Frontend</title>
@@ -22,6 +14,14 @@
     <updated>2026-09-24T04:17:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · TypeScript, JavaScript, React · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9</id>
+    <title>Ramp: Software Engineering Intern, iOS</title>
+    <link href="https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"/>
+    <updated>2026-09-24T04:17:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Swift · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:ramp:fcf118cc-521a-4a62-9d13-945e5b6e3cb8</id>
@@ -32,12 +32,12 @@
     <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Kotlin · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:ramp:b66be397-240b-41a6-9b05-493299b270a9</id>
-    <title>Ramp: Software Engineering Intern, iOS</title>
-    <link href="https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9"/>
+    <id>urn:intern-engine:greenhouse:graphcore:8841920002</id>
+    <title>Graphcore: Mechanical Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8841920002"/>
     <updated>2026-09-24T04:17:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY (HQ) · $12.5K per month · Swift · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Austin, Texas, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:boxinc:8226667</id>

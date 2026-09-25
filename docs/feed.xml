@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-25T01:27:00Z</updated>
+  <updated>2026-09-25T07:36:12Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:greenhouse:aevexaerospace:5415815008</id>
-    <title>Aevex Aerospace: Robotics Engineering Co-op 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"/>
-    <updated>2026-09-25T01:26:53Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Tampa, Florida, United States · Python, C++, Rust, PyTorch, TensorFlow · sponsorship: citizens-only</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10559746</id>
     <title>Amazon: Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) 🇺🇸</title>
@@ -30,6 +22,14 @@
     <updated>2026-09-25T01:26:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Redmond, Washington, USA · Python, Java, C++, C#, Rust · sponsorship: citizens-only · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:aevexaerospace:5415815008</id>
+    <title>Aevex Aerospace: Robotics Engineering Co-op 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/aevexaerospace/jobs/5415815008"/>
+    <updated>2026-09-25T01:26:53Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Tampa, Florida, United States · Python, C++, Rust, PyTorch, TensorFlow · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047</id>

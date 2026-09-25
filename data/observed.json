@@ -307,9 +307,11 @@
     "Fall 2026": {
      "first_posted": "2026-09-16",
      "role_ids": [
-      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729"
+      "workday:americancentury:/job/Kansas-City-Missouri/Cybersecurity-Intern_R0005729",
+      "workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750",
+      "workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -1471,9 +1473,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
-      "greenhouse:doordashusa:8171041"
+      "greenhouse:doordashusa:8171041",
+      "greenhouse:doordashusa:8204111"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2719,10 +2722,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-21",
      "role_ids": [
+      "workday:lifefitness:/job/Owatonna-MN/Manufacturing-Quality-Engineering-Intern---Owatonna--MN_JR-025245",
       "workday:lifefitness:/job/Ramsey-MN/Manufacturing-Engineering-Intern---Ramsey--MN_JR-025239",
       "workday:lifefitness:/job/Ramsey-MN/Mechanical-Engineering-Intern---Ramsey--MN_JR-025235"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3836,6 +3840,18 @@
     }
    }
   },
+  "rrs group": {
+   "name": "RRS Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "smartrecruiters:RRSGroup:744000151931819"
+     ],
+     "count": 1
+    }
+   }
+  },
   "rtx": {
    "name": "RTX",
    "cycles": {
@@ -4317,13 +4333,14 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:stryker:/job/Cary-Illinois/Summer-2027-Internship---Mechanical-Engineering---Illinois_R572602",
+      "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
       "workday:stryker:/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
       "workday:stryker:/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
       "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -4797,6 +4814,18 @@
     }
    }
   },
+  "wabtec": {
+   "name": "Wabtec",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-25",
+     "role_ids": [
+      "smartrecruiters:Wabtec:3743990015687756"
+     ],
+     "count": 1
+    }
+   }
+  },
   "walleye capital": {
    "name": "Walleye Capital",
    "cycles": {
@@ -4873,9 +4902,10 @@
       "greenhouse:waymo:8193731",
       "greenhouse:waymo:8198218",
       "greenhouse:waymo:8203200",
-      "greenhouse:waymo:8221198"
+      "greenhouse:waymo:8221198",
+      "greenhouse:waymo:8224900"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -5104,13 +5134,17 @@
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020073",
       "workday:elkay:/job/Lanark-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020075",
       "workday:elkay:/job/Lanark-IL/Manufacturing-Engineering-Intern--Summer-2027-_REQ-020074",
+      "workday:elkay:/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1",
+      "workday:elkay:/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160",
+      "workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162",
       "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111",
       "workday:elkay:/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
      ],
-     "count": 6
+     "count": 10
     }
    }
   }
  },
- "updated_at": "2026-09-25T18:31:05Z"
+ "updated_at": "2026-09-25T22:16:40Z"
 }

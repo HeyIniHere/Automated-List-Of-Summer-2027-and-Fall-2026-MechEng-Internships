@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-25T18:31:12Z",
+ "generated_at": "2026-09-25T22:16:46Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -854,7 +854,7 @@
    "expected": "2026-08-20",
    "days_until": -36,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96292",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95871",
    "note": ""
   },
   {
@@ -1232,7 +1232,7 @@
    "expected": "2026-08-28",
    "days_until": -28,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007837",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919",
    "note": ""
   },
   {
@@ -1429,6 +1429,20 @@
    "days_until": -25,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
    "note": ""
   },
   {
@@ -3238,6 +3252,34 @@
    "note": ""
   },
   {
+   "company": "RRS Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/RRSGroup/744000151931819",
+   "note": ""
+  },
+  {
+   "company": "Wabtec",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Wabtec/3743990015687756",
+   "note": ""
+  },
+  {
    "company": "American Rare Earths",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3980,20 +4022,6 @@
    "note": ""
   },
   {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -25,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Clarios",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -4302,5 +4330,5 @@
    "note": ""
   }
  ],
- "count": 307
+ "count": 309
 }

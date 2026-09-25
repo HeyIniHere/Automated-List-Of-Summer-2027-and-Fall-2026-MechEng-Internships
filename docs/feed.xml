@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-25T07:36:12Z</updated>
+  <updated>2026-09-25T13:38:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Nashville-Tennessee-United-States-of-America/Mechanical-Engineering-Internship-Co-op_R0143935</id>
+    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Nashville-Tennessee-United-States-of-America/Mechanical-Engineering-Internship-Co-op_R0143935"/>
+    <updated>2026-09-25T13:38:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Nashville, Tennessee, United States of America · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Gaithersburg-MD/Software-Development-Intern_R-00193103</id>
+    <title>Leidos: Software Development Intern</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Gaithersburg-MD/Software-Development-Intern_R-00193103"/>
+    <updated>2026-09-25T13:38:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Gaithersburg, MD · Python, C++, Linux · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:saabusa:/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1</id>
+    <title>Saab: Mechanical Engineering Co-Op (Summer 2027) 🇺🇸</title>
+    <link href="https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/Quincy-MA/Mechanical-Engineering-Co-Op--Summer-2027-_R-03296-1"/>
+    <updated>2026-09-25T13:38:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Quincy, MA · $24.32–$26.76/hr · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10559746</id>
     <title>Amazon: Software Development Engineer Intern - Summer 2027 (USA) , Amazon Dedicated Cloud (ADC) 🇺🇸</title>
@@ -782,29 +806,5 @@
     <updated>2026-09-22T22:03:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote (United States) · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1007919</id>
-    <title>Stantec: Transportation Engineering Co-op/Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007919"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Portland, ME, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rippling:a07e4e46-3721-4934-b57b-0d58412e22ba</id>
-    <title>Rippling: Software Engineer Intern - Backend Focused - Summer 2027</title>
-    <link href="https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:rippling:f255bf03-9173-4c0a-8a18-7cc43c27ded8</id>
-    <title>Rippling: Data Science Intern - Summer 2027</title>
-    <link href="https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8"/>
-    <updated>2026-09-22T18:48:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA</summary>
   </entry>
 </feed>

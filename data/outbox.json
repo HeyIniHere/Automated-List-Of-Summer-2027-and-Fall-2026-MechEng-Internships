@@ -1,25 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AbbVie:3743990015684516",
-    "smartrecruiters:AbbVie:3743990015684476",
-    "smartrecruiters:AbbVie:3743990015679386",
-    "smartrecruiters:AbbVie:3743990015679246",
-    "workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1",
-    "workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691",
-    "workday:myhrabc:/job/Remote-USA/Software-Intern_R2613763",
-    "workday:myhrabc:/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376",
-    "workday:copart:/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596",
-    "ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99",
-    "greenhouse:geocgi:4420076009",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579",
-    "greenhouse:hevenaerotech:4410288009",
-    "greenhouse:hevenaerotech:4410446009",
-    "workday:leidos:/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159",
-    "oracle:ebxs.fa.us2.oraclecloud.com:309934",
-    "oracle:ebxs.fa.us2.oraclecloud.com:309935",
-    "smartrecruiters:BoschGroup:744000151890105",
-    "workday:disney:/job/Burbank-CA-USA/Data-Analyst-Intern--Global-Security-Control-Center--Spring-2027027_10160010",
-    "oracle:emit.fa.ca3.oraclecloud.com:96292",
-    "oracle:emit.fa.ca3.oraclecloud.com:95871"
-  ]
+  "pending": []
 }

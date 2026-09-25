@@ -280,7 +280,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 9,
+     "count": 11,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -290,7 +290,9 @@
       "amazon:amazon:10535282",
       "amazon:amazon:10536817",
       "amazon:amazon:10552937",
-      "amazon:amazon:10557133"
+      "amazon:amazon:10557133",
+      "amazon:amazon:10559746",
+      "amazon:amazon:10559762"
      ]
     }
    }
@@ -3160,7 +3162,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 30,
+     "count": 31,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3178,6 +3180,7 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10245255",
+      "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
@@ -5078,5 +5081,5 @@
    }
   }
  },
- "updated_at": "2026-09-24T22:16:13Z"
+ "updated_at": "2026-09-25T01:26:53Z"
 }

@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-26T19:50:55Z",
-  "duration_seconds": 416.5,
+  "generated_at": "2026-09-26T22:40:39Z",
+  "duration_seconds": 342.8,
   "companies_total": 4675,
   "companies_by_source": {
     "greenhouse": 1098,
@@ -16,27 +16,28 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 374,
-  "fetched_ok": 4202,
-  "fetch_errors": 99,
+  "quarantined": 379,
+  "fetched_ok": 4255,
+  "fetch_errors": 41,
   "errors_by_source": {
-    "workday": 98,
+    "greenhouse": 1,
+    "workday": 39,
     "workable": 1
   },
-  "fetch_success_rate": 0.977,
-  "fetch_success_rate_registry": 0.899,
-  "snapshots_complete": 4104,
-  "snapshots_partial": 98,
-  "roles_matched": 985,
-  "dropped_no_year_in_title": 429,
+  "fetch_success_rate": 0.99,
+  "fetch_success_rate_registry": 0.91,
+  "snapshots_complete": 4150,
+  "snapshots_partial": 105,
+  "roles_matched": 1001,
+  "dropped_no_year_in_title": 430,
   "dropped_offcycle_by_text": 206,
-  "roles_cycle_inferred": 509,
+  "roles_cycle_inferred": 508,
   "roles_by_source": {
     "amazon": 11,
     "ashby": 68,
     "breezy": 5,
     "greenhouse": 270,
-    "lever": 45,
+    "lever": 44,
     "oracle": 34,
     "rippling": 15,
     "smartrecruiters": 83,
@@ -46,13 +47,13 @@
   "roles_by_cycle": {
     "Fall 2026": 36,
     "Summer 2027": 712,
-    "Not stated": 509
+    "Not stated": 508
   },
   "roles_by_region": {
-    "US": 1257
+    "US": 1256
   },
   "sponsorship_counts": {
-    "unknown": 884,
+    "unknown": 883,
     "citizens-only": 252,
     "offers": 10,
     "no-sponsorship": 111
@@ -62,7 +63,7 @@
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 1257,
+  "open_total": 1256,
   "detection_latency": {
     "median_minutes": 176.4,
     "p95_minutes": 3095.4,
@@ -71,7 +72,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 6,
-    "sample_size": 921
+    "median_days": 6.0,
+    "sample_size": 922
   }
 }

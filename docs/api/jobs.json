@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-26T19:51:02Z",
+ "generated_at": "2026-09-26T22:40:45Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1257,
+ "count": 1256,
  "jobs": [
   {
    "id": "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
@@ -7843,27 +7843,6 @@
    "source": "greenhouse",
    "h1b_approvals": 16,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "lever:lightship:27f49b68-6a5c-4a3a-a114-5487feb3add2",
-   "company": "Lightship RV",
-   "title": "Manufacturing Engineering Intern/Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Broomfield, CO",
-   "url": "https://jobs.lever.co/lightship/27f49b68-6a5c-4a3a-a114-5487feb3add2",
-   "posted_at": "2026-09-15T20:46:53Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-15T22:05:59Z",
-   "sponsorship": "unknown",
-   "salary": "28–30 USD/hr",
-   "skills": [],
-   "source": "lever",
-   "h1b_approvals": null,
-   "program": "Internship / Co-op",
    "remote": false
   },
   {

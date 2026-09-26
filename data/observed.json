@@ -2641,9 +2641,10 @@
      "first_posted": "2026-09-11",
      "role_ids": [
       "greenhouse:klaviyocampus:7989364003",
-      "greenhouse:klaviyocampus:7999274003"
+      "greenhouse:klaviyocampus:7999274003",
+      "greenhouse:klaviyocampus:8003260003"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5166,5 +5167,5 @@
    }
   }
  },
- "updated_at": "2026-09-26T17:07:17Z"
+ "updated_at": "2026-09-26T19:50:55Z"
 }

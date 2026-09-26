@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T01:28:03Z",
+ "generated_at": "2026-09-26T07:28:35Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2580,6 +2580,20 @@
    "note": ""
   },
   {
+   "company": "TD Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-13",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://td.wd3.myworkdayjobs.com/TD_Bank_Careers/job/Mount-Laurel-New-Jersey/XMLNAME-2027-Summer-Internship-Program---Global-Technology---Solutions---Cyber-Security_R_1510795",
+   "note": ""
+  },
+  {
    "company": "AI Intern to the CEO",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3193,20 +3207,6 @@
    "days_until": -3,
    "status": "open",
    "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
-   "note": ""
-  },
-  {
-   "company": "Genesis Molecular AI",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
    "note": ""
   },
   {
@@ -4328,7 +4328,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 309
+ "count": 310
 }

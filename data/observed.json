@@ -1926,13 +1926,22 @@
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228936",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Data-Science-and-Engineering-Internship_RQ228938",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228939",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228940",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ228941",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229141",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229142",
+      "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Software-Development-and-Engineering-Internship_RQ229143",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-Network-Engineering-Internship_RQ228934-2",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Cybersecurity-Associate-Internship_RQ228929-2",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237"
      ],
-     "count": 5
+     "count": 14
     }
    }
   },
@@ -5157,5 +5166,5 @@
    }
   }
  },
- "updated_at": "2026-09-26T13:01:05Z"
+ "updated_at": "2026-09-26T17:07:17Z"
 }

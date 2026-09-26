@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-26T13:01:12Z",
+ "generated_at": "2026-09-26T17:07:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1432,20 +1432,6 @@
    "note": ""
   },
   {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -26,
-   "status": "open",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-   "note": ""
-  },
-  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1934,20 +1920,6 @@
    "status": "open",
    "url": "https://jobs.dropbox.com/listing/8106224?gh_jid=8106224",
    "note": "opens ~Sep"
-  },
-  {
-   "company": "ICF",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -19,
-   "status": "open",
-   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
-   "note": ""
   },
   {
    "company": "Merck",
@@ -4022,6 +3994,20 @@
    "note": ""
   },
   {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -26,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Clarios",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -4115,6 +4101,20 @@
    "source": "engine",
    "expected": "2026-09-03",
    "days_until": -23,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -19,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-25T22:16:46Z</updated>
+  <updated>2026-09-26T01:28:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1</id>
-    <title>American Century Investments: Software Developer Intern 🛂</title>
-    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"/>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000151947749</id>
+    <title>Veolia: SAP &amp; ServiceNow AI Automation Intern 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000151947749"/>
+    <updated>2026-09-26T01:27:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Trevose, PA, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:doordashusa:8204111</id>
+    <title>DoorDash: Machine Learning Intern (Masters) - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8204111"/>
     <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Java, JavaScript, SQL, AWS · sponsorship: no-sponsorship</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA · Python, Java, C++, Go, Kotlin · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:waymo:8224900</id>
+    <title>Waymo: 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations</title>
+    <link href="https://careers.withwaymo.com/jobs?gh_jid=8224900"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA, USA · C++, Linux · H-1B track record: ~284 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151931819</id>
+    <title>RRS Group: 2027 Associate Software Engineer Intern - Sophomore Only</title>
+    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151931819"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, United States (Remote) · Python, Java, C++, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015687756</id>
+    <title>Wabtec: Transducer Manufacturing Engineering Co-Op (January-June 2027)</title>
+    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015687756"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Waltham, MA, United States · $25/hr · C# · H-1B track record: ~47 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Infrastructure-Automation-Engineer-Intern_R0005750</id>
@@ -24,12 +56,12 @@
     <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Terraform · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/ML-Ops-Intern_R39493</id>
-    <title>American Family Insurance Group: ML Ops Intern</title>
-    <link href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493"/>
+    <id>urn:intern-engine:workday:americancentury:/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1</id>
+    <title>American Century Investments: Software Developer Intern 🛂</title>
+    <link href="https://americancentury.wd5.myworkdayjobs.com/AmericanCenturyInvestments/job/Kansas-City-Missouri/Software-Developer-Intern_R0005749-1"/>
     <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · WI Madison · Python</summary>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · Kansas City, Missouri · Python, Java, JavaScript, SQL, AWS · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:amfam:/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407</id>
@@ -40,12 +72,52 @@
     <summary>Not stated · Software · WI Madison · $25–$31/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:doordashusa:8204111</id>
-    <title>DoorDash: Machine Learning Intern (Masters) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/doordashusa/jobs/8204111"/>
+    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/ML-Ops-Intern_R39493</id>
+    <title>American Family Insurance Group: ML Ops Intern</title>
+    <link href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/ML-Ops-Intern_R39493"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · WI Madison · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1</id>
+    <title>Zurn Elkay Water Solutions: Embedded Firmware Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"/>
     <updated>2026-09-25T22:16:40Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA;  Sunnyvale, CA ; New York City, NY; Seattle, WA · Python, Java, C++, Go, Kotlin · H-1B track record: ~685 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Milwaukee, WI · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151</id>
+    <title>Zurn Elkay Water Solutions: Embedded Hardware Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Milwaukee, WI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
+    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Milwaukee, WI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162</id>
+    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Milwaukee, WI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175</id>
+    <title>Zurn Elkay Water Solutions: Manufacturing Engineer Intern</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175"/>
+    <updated>2026-09-25T22:16:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Sanford, NC</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:epiqsystems:/job/USA-New-York-NY-1166-Avenue-of-Americas/Software-Engineer-Intern_R0035230</id>
@@ -80,84 +152,12 @@
     <summary>Not stated · Data &amp; ML/AI · United States, Chesterfield, MO, RGA HQ</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RRSGroup:744000151931819</id>
-    <title>RRS Group: 2027 Associate Software Engineer Intern - Sophomore Only</title>
-    <link href="https://jobs.smartrecruiters.com/RRSGroup/744000151931819"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, United States (Remote) · Python, Java, C++, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015687756</id>
-    <title>Wabtec: Transducer Manufacturing Engineering Co-Op (January-June 2027)</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015687756"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Waltham, MA, United States · $25/hr · C# · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8224900</id>
-    <title>Waymo: 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8224900"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA, USA · C++, Linux · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175</id>
-    <title>Zurn Elkay Water Solutions: Manufacturing Engineer Intern</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Sanford-NC/Manufacturing-Engineer-Intern_REQ-020175"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sanford, NC</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151</id>
-    <title>Zurn Elkay Water Solutions: Embedded Hardware Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Hardware-Intern--Summer-2027-_REQ-020151"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Milwaukee, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1</id>
-    <title>Zurn Elkay Water Solutions: Embedded Firmware Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/Embedded-Firmware-Intern--Summer-2027-_REQ-020150-1"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Milwaukee, WI · C++</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160</id>
-    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020160"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Milwaukee, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162</id>
-    <title>Zurn Elkay Water Solutions: IT Infrastructure Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Milwaukee-WI/IT-Infrastructure-Intern--Summer-2027-_REQ-020162"/>
-    <updated>2026-09-25T22:16:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Milwaukee, WI</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:ashby:genesis-molecular-ai:44e3cbdc-949c-426e-a80a-b41c73ad6a99</id>
     <title>Genesis Molecular AI: Software Engineer Intern - 2027</title>
     <link href="https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99"/>
     <updated>2026-09-25T18:31:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Mateo, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:geocgi:4420076009</id>
-    <title>Geospatial Consulting Group International: Application Developer Intern (Remote)</title>
-    <link href="https://job-boards.greenhouse.io/geocgi/jobs/4420076009"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Remote from US · Python, Java, C#, SQL, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:hevenaerotech:4410288009</id>
@@ -390,14 +390,6 @@
     <updated>2026-09-24T22:16:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote, USA · Python, SQL, PyTorch, TensorFlow, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:biibhr:/job/Remote-USA/Co-op--Data-Science_REQ24211</id>
-    <title>Biogen: Co-op, Data Science</title>
-    <link href="https://biibhr.wd3.myworkdayjobs.com/external/job/Remote-USA/Co-op--Data-Science_REQ24211"/>
-    <updated>2026-09-24T22:16:13Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Data &amp; ML/AI · Remote, USA · Python, SQL, LLMs · H-1B track record: ~125 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:irhythmtech:/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758</id>
@@ -806,5 +798,13 @@
     <updated>2026-09-23T20:12:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Diego, California · Python, AWS, Linux · H-1B track record: ~46 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zoll:/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300</id>
+    <title>ZOLL Medical Corporation: Manufacturing Engineering Co-Op</title>
+    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Manufacturing-Engineering-Co-Op_R20300"/>
+    <updated>2026-09-23T20:12:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Chelmsford, MA</summary>
   </entry>
 </feed>

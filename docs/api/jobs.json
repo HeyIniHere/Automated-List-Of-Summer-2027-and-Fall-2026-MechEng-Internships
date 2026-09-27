@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-09-27T01:22:16Z",
+ "generated_at": "2026-09-27T08:01:11Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1254,
+ "count": 1252,
  "jobs": [
   {
    "id": "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-AI-ML-Business-Intelligence-Development-Internship_RQ228935",
@@ -5944,27 +5944,6 @@
    "skills": [
     "LLMs"
    ],
-   "source": "oracle",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119494",
-   "company": "Howmet Aerospace",
-   "title": "Intern - Artificial Intelligence (AI)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Pittsburgh, PA, United States",
-   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119494",
-   "posted_at": "2026-09-17",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-17T16:46:15Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$20–$22/hr",
-   "skills": [],
    "source": "oracle",
    "h1b_approvals": null,
    "program": "Internship",
@@ -23330,31 +23309,6 @@
    "sponsorship": "no-sponsorship",
    "salary": "$18–$27/hr",
    "skills": [],
-   "source": "workday",
-   "h1b_approvals": 54,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:brunswick:/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1",
-   "company": "Brunswick",
-   "title": "Software Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Menomonee Falls, WI",
-   "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Menomonee-Falls-WI/Software-Engineer-Intern_JR-051426-1",
-   "posted_at": "2026-08-28T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-29T21:42:31Z",
-   "sponsorship": "no-sponsorship",
-   "salary": "$18–$27/hr",
-   "skills": [
-    "Python",
-    "JavaScript",
-    "SQL"
-   ],
    "source": "workday",
    "h1b_approvals": 54,
    "program": "Internship",

@@ -3653,9 +3653,10 @@
     "Fall 2026": {
      "first_posted": "2026-07-24",
      "role_ids": [
-      "greenhouse:queracomputinginc:5370312008"
+      "greenhouse:queracomputinginc:5370312008",
+      "greenhouse:queracomputinginc:5435902008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3868,6 +3869,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-12",
      "role_ids": [
+      "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01872155",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
@@ -3880,7 +3882,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -5167,5 +5169,5 @@
    }
   }
  },
- "updated_at": "2026-09-27T18:20:11Z"
+ "updated_at": "2026-09-27T22:04:26Z"
 }

@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-09-27T18:20:11Z",
- "duration_seconds": 505.8,
+ "generated_at": "2026-09-27T22:04:26Z",
+ "duration_seconds": 462.3,
  "companies_total": 4675,
  "companies_by_source": {
   "greenhouse": 1098,
@@ -16,39 +16,37 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 338,
- "fetched_ok": 4281,
+ "quarantined": 333,
+ "fetched_ok": 4286,
  "fetch_errors": 56,
  "errors_by_source": {
-  "workday": 49,
-  "ashby": 2,
-  "greenhouse": 4,
-  "workable": 1
+  "greenhouse": 3,
+  "workday": 53
  },
  "fetch_success_rate": 0.987,
- "fetch_success_rate_registry": 0.916,
- "snapshots_complete": 4172,
- "snapshots_partial": 109,
- "roles_matched": 1003,
- "dropped_no_year_in_title": 445,
- "dropped_offcycle_by_text": 208,
- "roles_cycle_inferred": 502,
+ "fetch_success_rate_registry": 0.917,
+ "snapshots_complete": 4182,
+ "snapshots_partial": 104,
+ "roles_matched": 1025,
+ "dropped_no_year_in_title": 444,
+ "dropped_offcycle_by_text": 201,
+ "roles_cycle_inferred": 499,
  "roles_by_source": {
   "amazon": 11,
   "ashby": 68,
   "breezy": 5,
-  "greenhouse": 269,
+  "greenhouse": 270,
   "lever": 44,
   "oracle": 33,
   "rippling": 15,
   "smartrecruiters": 83,
   "workable": 17,
-  "workday": 703
+  "workday": 702
  },
  "roles_by_cycle": {
-  "Fall 2026": 36,
-  "Summer 2027": 710,
-  "Not stated": 502
+  "Fall 2026": 37,
+  "Summer 2027": 712,
+  "Not stated": 499
  },
  "roles_by_region": {
   "US": 1248
@@ -60,20 +58,20 @@
   "no-sponsorship": 109
  },
  "posted_date_coverage": 0.988,
- "enriched_this_run": 0,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 2,
+ "enrichment_detail_fetches": 2,
  "purged_this_run": 0,
- "new_this_run": 0,
+ "new_this_run": 2,
  "open_total": 1248,
  "detection_latency": {
-  "median_minutes": 176.4,
+  "median_minutes": 174.7,
   "p95_minutes": 3095.4,
-  "sample_size": 62,
+  "sample_size": 63,
   "window_days": 7,
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
   "median_days": 6.0,
-  "sample_size": 930
+  "sample_size": 932
  }
 }

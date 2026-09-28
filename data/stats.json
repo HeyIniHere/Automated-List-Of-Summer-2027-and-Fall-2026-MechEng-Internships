@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-27T22:04:26Z",
-  "duration_seconds": 462.3,
+  "generated_at": "2026-09-28T00:39:05Z",
+  "duration_seconds": 492.8,
   "companies_total": 4675,
   "companies_by_source": {
     "greenhouse": 1098,
@@ -16,21 +16,21 @@
     "breezy": 13,
     "eightfold": 1
   },
-  "quarantined": 333,
-  "fetched_ok": 4286,
-  "fetch_errors": 56,
+  "quarantined": 345,
+  "fetched_ok": 4238,
+  "fetch_errors": 92,
   "errors_by_source": {
-    "greenhouse": 3,
-    "workday": 53
+    "workday": 91,
+    "workable": 1
   },
-  "fetch_success_rate": 0.987,
-  "fetch_success_rate_registry": 0.917,
-  "snapshots_complete": 4182,
+  "fetch_success_rate": 0.979,
+  "fetch_success_rate_registry": 0.907,
+  "snapshots_complete": 4134,
   "snapshots_partial": 104,
-  "roles_matched": 1025,
-  "dropped_no_year_in_title": 444,
-  "dropped_offcycle_by_text": 201,
-  "roles_cycle_inferred": 499,
+  "roles_matched": 988,
+  "dropped_no_year_in_title": 435,
+  "dropped_offcycle_by_text": 193,
+  "roles_cycle_inferred": 498,
   "roles_by_source": {
     "amazon": 11,
     "ashby": 68,
@@ -40,29 +40,29 @@
     "oracle": 33,
     "rippling": 15,
     "smartrecruiters": 83,
-    "workable": 17,
+    "workable": 16,
     "workday": 702
   },
   "roles_by_cycle": {
     "Fall 2026": 37,
     "Summer 2027": 712,
-    "Not stated": 499
+    "Not stated": 498
   },
   "roles_by_region": {
-    "US": 1248
+    "US": 1247
   },
   "sponsorship_counts": {
     "unknown": 877,
-    "citizens-only": 252,
+    "citizens-only": 251,
     "offers": 10,
     "no-sponsorship": 109
   },
   "posted_date_coverage": 0.988,
-  "enriched_this_run": 2,
-  "enrichment_detail_fetches": 2,
+  "enriched_this_run": 0,
+  "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 2,
-  "open_total": 1248,
+  "new_this_run": 0,
+  "open_total": 1247,
   "detection_latency": {
     "median_minutes": 174.7,
     "p95_minutes": 3095.4,
@@ -71,7 +71,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 6.0,
-    "sample_size": 932
+    "median_days": 6,
+    "sample_size": 933
   }
 }

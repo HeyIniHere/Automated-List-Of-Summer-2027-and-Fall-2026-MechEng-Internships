@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-28T00:39:11Z</updated>
+  <updated>2026-09-28T06:37:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089</id>
+    <title>The Toro Company: Electrical/software Coop</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Electrical-software-Coop_JR17089"/>
+    <updated>2026-09-28T06:37:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Iron Mountain, MI</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:queracomputinginc:5435902008</id>
     <title>QuEra Computing: Internship - Scientific Software and Compilation</title>
@@ -798,13 +806,5 @@
     <updated>2026-09-24T04:17:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Austin, Texas, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:boxinc:8226667</id>
-    <title>Box: Cloud &amp; AI Finance Intern</title>
-    <link href="https://job-boards.greenhouse.io/boxinc/jobs/8226667"/>
-    <updated>2026-09-23T23:39:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Redwood City, CA, United States · SQL, LLMs, AWS, GCP, Tableau · H-1B track record: ~108 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

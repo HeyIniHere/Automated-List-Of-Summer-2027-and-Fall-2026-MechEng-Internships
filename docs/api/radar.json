@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T08:17:16Z",
+ "generated_at": "2026-09-29T15:42:50Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -546,7 +546,7 @@
    "expected": "2026-08-12",
    "days_until": -48,
    "status": "open",
-   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01872155",
+   "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545",
    "note": ""
   },
   {
@@ -2874,20 +2874,6 @@
    "note": ""
   },
   {
-   "company": "Live Oak Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://liveoakbancshares.wd1.myworkdayjobs.com/Live_Oak/job/Wilmington-NC/Summer-2027-Intern--Data-Science_R-002664",
-   "note": ""
-  },
-  {
    "company": "Lonza",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -2983,6 +2969,20 @@
    "days_until": -12,
    "status": "open",
    "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -12,
+   "status": "open",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
    "note": ""
   },
   {
@@ -3291,6 +3291,76 @@
    "days_until": -1,
    "status": "open",
    "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
+   "note": ""
+  },
+  {
+   "company": "Enova",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/enova/jobs/8239619",
+   "note": ""
+  },
+  {
+   "company": "Howmet Aerospace",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686",
+   "note": ""
+  },
+  {
+   "company": "National Life",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009",
+   "note": ""
+  },
+  {
+   "company": "Perchwell",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f",
+   "note": ""
+  },
+  {
+   "company": "Ralliant",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10680",
    "note": ""
   },
   {
@@ -4288,7 +4358,7 @@
    "note": ""
   },
   {
-   "company": "Plastipak",
+   "company": "Live Oak Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
    "precision": "day",
@@ -4302,15 +4372,15 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
+   "company": "Plastipak",
    "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
+   "posted_on": "2026-09-16",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -12,
+   "expected": "2026-09-16",
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4400,5 +4470,5 @@
    "note": ""
   }
  ],
- "count": 314
+ "count": 319
 }

@@ -1670,6 +1670,18 @@
     }
    }
   },
+  "enova": {
+   "name": "Enova",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:enova:8239619"
+     ],
+     "count": 1
+    }
+   }
+  },
   "equifax": {
    "name": "Equifax",
    "cycles": {
@@ -2282,6 +2294,19 @@
     }
    }
   },
+  "howmet aerospace": {
+   "name": "Howmet Aerospace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119675",
+      "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119686"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hp iq": {
    "name": "HP IQ",
    "cycles": {
@@ -2838,9 +2863,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
-      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760"
+      "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+      "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3164,6 +3190,18 @@
     }
    }
   },
+  "national life": {
+   "name": "National Life",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "greenhouse:nationallifeinsurancecompany:4403876009"
+     ],
+     "count": 1
+    }
+   }
+  },
   "neighbor": {
    "name": "Neighbor",
    "cycles": {
@@ -3242,7 +3280,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 31,
+     "count": 32,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3270,6 +3308,7 @@
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
@@ -3362,6 +3401,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nvent:/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
       "workday:nvent:/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--June---December-2027-_R23578",
       "workday:nvent:/job/Anoka-MN-US/Mechanical-Engineering-and-Design-Co-op--January---August-2027-_R23572",
@@ -3369,7 +3409,7 @@
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--Jan---Aug-2027-_R23577",
       "workday:nvent:/job/Solon-OH-US/Mechanical-Engineering-Co-Op--June---December-2027-_R23539"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -3523,6 +3563,18 @@
     }
    }
   },
+  "perchwell": {
+   "name": "Perchwell",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f"
+     ],
+     "count": 1
+    }
+   }
+  },
   "perpay": {
    "name": "Perpay",
    "cycles": {
@@ -3643,9 +3695,12 @@
      "role_ids": [
       "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12796",
       "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12797",
-      "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794"
+      "workday:q2ebanking:/job/Austin-Texas/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12794",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
+      "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -3693,6 +3748,19 @@
      "role_ids": [
       "greenhouse:queracomputinginc:5370312008",
       "greenhouse:queracomputinginc:5435902008"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "ralliant": {
+   "name": "Ralliant",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:10680",
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:10681"
      ],
      "count": 2
     }
@@ -4388,9 +4456,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007919",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007925",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1007966"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1007966",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008077"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -5150,9 +5219,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95670",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
-      "oracle:emit.fa.ca3.oraclecloud.com:96332"
+      "oracle:emit.fa.ca3.oraclecloud.com:96332",
+      "oracle:emit.fa.ca3.oraclecloud.com:96451"
      ],
-     "count": 34
+     "count": 35
     }
    }
   },
@@ -5265,5 +5335,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T08:17:12Z"
+ "updated_at": "2026-09-29T15:42:45Z"
 }

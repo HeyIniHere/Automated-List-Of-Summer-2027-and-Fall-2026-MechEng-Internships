@@ -1,3 +1,23 @@
 {
-  "pending": []
+  "pending": [
+    "workday:abb:/job/Greenville-South-Carolina-United-States-of-America/R-D-Mechanical-Engineering-Co-op_JR00048185",
+    "workday:abb:/job/Greenville-South-Carolina-United-States-of-America/R-D-Mechanical-Engineering-Co-op_JR00048188-1",
+    "greenhouse:enova:8239619",
+    "greenhouse:gitai:5437128008",
+    "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119686",
+    "oracle:fa-exty-saasfaprod1.fa.ocs.oraclecloud.com:119675",
+    "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+    "greenhouse:nationallifeinsurancecompany:4403876009",
+    "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
+    "workday:nvent:/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
+    "ashby:perchwell:194eec78-26db-4d8e-850f-a99ea2733e9f",
+    "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Software-Engineer_REQ-12798",
+    "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Data-Science_REQ-12799",
+    "workday:q2ebanking:/job/Cary-North-Carolina/XMLNAME-2027-Summer-Internship---Machine-Learning-Engineer_REQ-12800",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:10680",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:10681",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
+    "workday:ttc:/job/Iron-Mountain-MI/Manufacturing-Engineer-Co-Op_JR17469",
+    "oracle:emit.fa.ca3.oraclecloud.com:96451"
+  ]
 }

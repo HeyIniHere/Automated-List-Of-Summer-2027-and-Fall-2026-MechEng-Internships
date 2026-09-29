@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T15:42:50Z",
+ "generated_at": "2026-09-29T20:44:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -840,7 +840,7 @@
    "expected": "2026-08-20",
    "days_until": -40,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96332",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96451",
    "note": ""
   },
   {
@@ -1922,6 +1922,20 @@
    "note": "opens ~Sep"
   },
   {
+   "company": "ICF",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
+   "note": ""
+  },
+  {
    "company": "Merck",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -2394,7 +2408,7 @@
    "expected": "2026-09-10",
    "days_until": -19,
    "status": "open",
-   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Engineering-Co-op--January---June-2027-_R23576",
+   "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
    "note": ""
   },
   {
@@ -3318,7 +3332,7 @@
    "expected": "2026-09-29",
    "days_until": 0,
    "status": "open",
-   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675",
    "note": ""
   },
   {
@@ -3361,6 +3375,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/10680",
+   "note": ""
+  },
+  {
+   "company": "Sherwin-Williams",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625128",
    "note": ""
   },
   {
@@ -4218,20 +4246,6 @@
    "note": ""
   },
   {
-   "company": "ICF",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "CHAOS Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -4470,5 +4484,5 @@
    "note": ""
   }
  ],
- "count": 319
+ "count": 320
 }

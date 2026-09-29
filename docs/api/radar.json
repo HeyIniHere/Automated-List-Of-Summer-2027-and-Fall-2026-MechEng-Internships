@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-29T01:49:54Z",
+ "generated_at": "2026-09-29T08:17:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2748,6 +2748,20 @@
    "note": ""
   },
   {
+   "company": "RAVE Aerospace",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -14,
+   "status": "open",
+   "url": "https://apply.workable.com/raveaerospace/j/739753C003/",
+   "note": ""
+  },
+  {
    "company": "The Aerospace Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -4386,5 +4400,5 @@
    "note": ""
   }
  ],
- "count": 313
+ "count": 314
 }

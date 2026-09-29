@@ -5,23 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-29T01:49:54Z</updated>
+  <updated>2026-09-29T08:17:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1</id>
-    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1"/>
-    <updated>2026-09-29T01:49:47Z</updated>
+    <id>urn:intern-engine:workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861</id>
+    <title>General Motors: 2027 Summer Intern – Motorsports Aero-Thermal Engineering</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861"/>
+    <updated>2026-09-29T08:17:12Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US.CO.Denver</summary>
+    <summary>Summer 2027 · Hardware · Milford, Michigan, United States of America · Computer Vision · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1</id>
-    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
-    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"/>
-    <updated>2026-09-29T01:49:47Z</updated>
+    <id>urn:intern-engine:lever:hermeus:78008094-ca81-4a0c-9a18-93b30f932acd</id>
+    <title>Hermeus: Flight Software Engineering Intern (Simulation/Hardware-In-The-Loop) - Spring &amp; Summer 2027 🇺🇸</title>
+    <link href="https://jobs.lever.co/hermeus/78008094-ca81-4a0c-9a18-93b30f932acd"/>
+    <updated>2026-09-29T08:17:12Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US.WA.Bothell</summary>
+    <summary>Summer 2027 · Hardware · Los Angeles, CA · 25–33 USD/hr · Python, C++, MATLAB, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:raveaerospace:739753C003</id>
+    <title>RAVE Aerospace: Intern - Software Engineering (Summer 2027)</title>
+    <link href="https://apply.workable.com/raveaerospace/j/739753C003/"/>
+    <updated>2026-09-29T08:17:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Laramie, Wyoming, United States · Python, Java, C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545"/>
+    <updated>2026-09-29T08:17:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-CO-COLORADO SPRINGS-1275 ~ 1275 N Newport Rd ~ NEWPORT · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Iron-Mountain-MI/Mechanical-Design-Engineer-Co-Op---BOSS-Snowplow_JR17092</id>
+    <title>The Toro Company: Mechanical Design Engineer Co Op - BOSS Snowplow</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Iron-Mountain-MI/Mechanical-Design-Engineer-Co-Op---BOSS-Snowplow_JR17092"/>
+    <updated>2026-09-29T08:17:12Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Iron Mountain, MI</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:verizon:/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386</id>
+    <title>Verizon Communications: Irving V Teamer for a Day: Verizon Data Science Summer 2027 Internship</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386"/>
+    <updated>2026-09-29T08:17:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Irving, Texas · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384</id>
+    <title>Verizon Communications: Verizon Network and Technology: Data Science Summer 2027 Internship</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"/>
+    <updated>2026-09-29T08:17:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Irving, Texas · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Data-Science-Intern_JR-051760</id>
@@ -30,6 +70,14 @@
     <updated>2026-09-29T01:49:47Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Champaign, IL · $18–$26/hr · Python, SQL, AWS, GCP, Azure · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072</id>
+    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Freeport, IL · $19.5–$21.5/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741</id>
@@ -48,12 +96,20 @@
     <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072</id>
-    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072"/>
+    <id>urn:intern-engine:workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1"/>
     <updated>2026-09-29T01:49:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Freeport, IL · $19.5–$21.5/hr</summary>
+    <summary>Summer 2027 · Hardware · US.CO.Denver</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US.WA.Bothell</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:formlabsinternships:8223362</id>
@@ -750,61 +806,5 @@
     <updated>2026-09-25T18:31:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Winchester, Virginia · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309934</id>
-    <title>Michael Baker International: Mechanical Engineering Intern</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309934"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Moon Township, PA, United States · $20–$25/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309935</id>
-    <title>Michael Baker International: Mechanical Engineering Intern</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309935"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Baltimore, MD, United States · $20–$25/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990015679246</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Cybersecurity (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990015679246"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · North Chicago, IL, United States · Python, Java, C#, JavaScript, AWS · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990015679386</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990015679386"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · North Chicago, IL, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990015684476</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990015684476"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Irvine, CA, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AbbVie:3743990015684516</id>
-    <title>AbbVie: 2027 Business Technology Solutions Intern - Data &amp; Software Engineering (Undergraduate)</title>
-    <link href="https://jobs.smartrecruiters.com/AbbVie/3743990015684516"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · South San Francisco, CA, United States · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~303 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000151890105</id>
-    <title>Bosch: Multi-modal Sensing AI Research Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000151890105"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · PyTorch</summary>
   </entry>
 </feed>

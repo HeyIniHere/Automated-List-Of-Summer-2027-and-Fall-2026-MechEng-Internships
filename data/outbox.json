@@ -1,18 +1,3 @@
 {
-  "pending": [
-    "workday:avav:/job/Simi-Valley-CA/XMLNAME--Digital-Business-Technology-Infrastructure--DBT--Intern_8885",
-    "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
-    "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
-    "workday:insulet:/job/Acton-Massachusetts/Co-op--Software-Development-Engineer-in-Test--January---June-2027--Hybrid-_REQ-2026-18026",
-    "workday:jj:/job/Raritan-New-Jersey-United-States-of-America/Manufacturing-Execution-Systems-Co-op_R-099373",
-    "workday:moog:/job/Buffalo-NY/Intern--Artificial-Intelligence_R-26-20288",
-    "workday:moog:/job/Torrance-CA/Intern--Software-Engineering_R-26-19948",
-    "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-AI---Machine-Learning--Innovation-Graduate-Internship_R-94412",
-    "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
-    "oracle:ejia.fa.us6.oraclecloud.com:107298",
-    "oracle:ejia.fa.us6.oraclecloud.com:107307",
-    "oracle:ejia.fa.us6.oraclecloud.com:107299",
-    "oracle:ejhp.fa.us6.oraclecloud.com:2625128",
-    "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449"
-  ]
+  "pending": []
 }

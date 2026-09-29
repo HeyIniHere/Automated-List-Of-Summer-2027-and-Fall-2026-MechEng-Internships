@@ -5,23 +5,55 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-28T21:53:05Z</updated>
+  <updated>2026-09-29T01:49:54Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788</id>
-    <title>BorgWarner: Mechanical Engineering Intern (Year Round)</title>
-    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
+    <id>urn:intern-engine:workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US.CO.Denver</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/AI-Intern_R2613670</id>
-    <title>Cencora: AI Intern</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670"/>
-    <updated>2026-09-28T21:52:58Z</updated>
+    <id>urn:intern-engine:workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1</id>
+    <title>AtkinsRéalis: Structural Engineering Intern – Summer 2027</title>
+    <link href="https://slihrms.wd3.myworkdayjobs.com/careers/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"/>
+    <updated>2026-09-29T01:49:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Conshohocken, PA</summary>
+    <summary>Summer 2027 · Hardware · US.WA.Bothell</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:brunswick:/job/Champaign-IL/Data-Science-Intern_JR-051760</id>
+    <title>Brunswick: Data Science Intern 🛂</title>
+    <link href="https://brunswick.wd1.myworkdayjobs.com/search/job/Champaign-IL/Data-Science-Intern_JR-051760"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Champaign, IL · $18–$26/hr · Python, SQL, AWS, GCP, Azure · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741</id>
+    <title>Gilead Sciences: Intern - Research - Inflammation - AI</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Inflammation_R0054741"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072</id>
+    <title>Zurn Elkay Water Solutions: Industrial Engineering Intern (Summer 2027)</title>
+    <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072"/>
+    <updated>2026-09-29T01:49:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Freeport, IL · $19.5–$21.5/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:formlabsinternships:8223362</id>
@@ -30,6 +62,30 @@
     <updated>2026-09-28T21:52:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Somerville, MA · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lyft:8843341002</id>
+    <title>Lyft: Applied Scientist Intern (Summer 2027)</title>
+    <link href="https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA · $64–$68/hr · Python, LLMs · H-1B track record: ~348 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309901</id>
+    <title>Michael Baker International: Structural Intern, Summer 2027</title>
+    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309901"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Pittsburgh, PA, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152219569</id>
+    <title>Bosch: Radar Sensing AI Research Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152219569"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · PyTorch</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Keenfinity:744000152241469</id>
@@ -48,46 +104,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:lyft:8843341002</id>
-    <title>Lyft: Applied Scientist Intern (Summer 2027)</title>
-    <link href="https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Francisco, CA · $64–$68/hr · Python, LLMs · H-1B track record: ~348 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:mars:/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1</id>
-    <title>Mars: Summer 2027 Mars Petcare Manufacturing Internship</title>
-    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA-Arkansas-Ft. Smith</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ebxs.fa.us2.oraclecloud.com:309901</id>
-    <title>Michael Baker International: Structural Intern, Summer 2027</title>
-    <link href="https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/309901"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Pittsburgh, PA, United States · $18–$26/hr · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524</id>
-    <title>Micron Technology: Intern – Memory Systems Architecture &amp; AI</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, CA · Python, C++, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:poet:/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1</id>
-    <title>POET: Software Developer Intern</title>
-    <link href="https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sioux Falls, SD · C#, SQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000152265599</id>
     <title>Renesas Electronics: Firmware Engineering Intern</title>
     <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000152265599"/>
@@ -96,60 +112,12 @@
     <summary>Not stated · Hardware · Austin, TEXAS, United States · Python, C++, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152219569</id>
-    <title>Bosch: Radar Sensing AI Research Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152219569"/>
+    <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788</id>
+    <title>BorgWarner: Mechanical Engineering Intern (Year Round)</title>
+    <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788"/>
     <updated>2026-09-28T21:52:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, Java, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486</id>
-    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602</id>
-    <title>RTX: Software Engineering Intern -  (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
+    <summary>Not stated · Hardware · Auburn Hills - Michigan - USA · sponsorship: offers</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01871097</id>
@@ -160,12 +128,28 @@
     <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
-    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232</id>
+    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232"/>
     <updated>2026-09-28T21:52:58Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602</id>
+    <title>RTX: Software Engineering Intern -  (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486</id>
+    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/XMLNAME-2027-Summer-Fall-Co-op--AGS-Software-Engineering--Onsite-_01871646</id>
@@ -174,6 +158,70 @@
     <updated>2026-09-28T21:52:58Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158</id>
+    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Co-op--Summer-Fall-2027-_01877158"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155</id>
+    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Rust, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083</id>
+    <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · Python, C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177</id>
+    <title>RTX: Cyber Research Internship (Summer 2027) - Onsite 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · US-IA-CEDAR RAPIDS-166 ~ 855 35Th St NE ~ BLDG 166 · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mars:/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1</id>
+    <title>Mars: Summer 2027 Mars Petcare Manufacturing Internship</title>
+    <link href="https://mars.wd3.myworkdayjobs.com/external/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA-Arkansas-Ft. Smith</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:micron:/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524</id>
+    <title>Micron Technology: Intern – Memory Systems Architecture &amp; AI</title>
+    <link href="https://micron.wd1.myworkdayjobs.com/External/job/San-Jose-CA/Intern---Memory-Systems-Architecture---AI_JR112524"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Jose, CA · Python, C++, LLMs · H-1B track record: ~489 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/AI-Intern_R2613670</id>
+    <title>Cencora: AI Intern</title>
+    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Conshohocken, PA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:poet:/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1</id>
+    <title>POET: Software Developer Intern</title>
+    <link href="https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"/>
+    <updated>2026-09-28T21:52:58Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sioux Falls, SD · C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:veteransunited:/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249</id>
@@ -758,53 +806,5 @@
     <updated>2026-09-25T18:31:05Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA, United States · PyTorch</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1</id>
-    <title>Allegion: Summer Intern - Software Engineering</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Software-Engineering_JR37795-1"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Golden, CO · $25–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691</id>
-    <title>Analog Devices: Healthcare Mechanical Engineering Co-op (Spring)</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-MA-Wilmington/Healthcare-Mechanical-Engineering-Co-op--Spring-_R266691"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · US, MA, Wilmington · H-1B track record: ~181 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596</id>
-    <title>Copart: Data &amp; AI Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/Data---AI-Intern_JR111596"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Dallas, TX - Headquarters · Python, Java, TypeScript, JavaScript, SQL · H-1B track record: ~83 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579</id>
-    <title>Gilead Sciences: Intern - Research - Pathobiology - AI</title>
-    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Pathobiology_R0054579"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · H-1B track record: ~272 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159</id>
-    <title>Leidos: Mechanical Engineering Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Albuquerque-NM/Mechanical-Engineering-Intern_R-00193159"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Albuquerque, NM · MATLAB, Linux · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:myhrabc:/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376</id>
-    <title>Cencora: EDI IT Software Developer Intern</title>
-    <link href="https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/EDI-IT-Software-Developer-Intern_R2612376"/>
-    <updated>2026-09-25T18:31:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Conshohocken, PA · TypeScript, JavaScript, SQL, Angular</summary>
   </entry>
 </feed>

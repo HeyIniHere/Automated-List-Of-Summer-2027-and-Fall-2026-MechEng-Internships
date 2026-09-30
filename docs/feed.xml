@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-30T06:37:09Z</updated>
+  <updated>2026-09-30T13:37:39Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1</id>
-    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"/>
-    <updated>2026-09-30T06:37:05Z</updated>
+    <id>urn:intern-engine:workday:globalhr:/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645</id>
+    <title>RTX: Manufacturing Engineer Intern - 1st shift - On site - Aeroestructuras</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/MX-BCN-MEXICALI-238--Blvd-Venustiano-Carranza-238--BLDG-238-Desarrollo-Industrial-Colorado/Manufacturing-Engineer-Intern---1st-shift---On-site---Aeroestructuras_01872645"/>
+    <updated>2026-09-30T13:37:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · MX-BCN-MEXICALI-238 ~ Blvd Venustiano Carranza #238 ~ BLDG 238, Desarrollo Industrial Colorado</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740</id>
+    <title>The Aerospace Corporation: 2027 Software Implementation and Integration Undergrad Cleared Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740"/>
+    <updated>2026-09-30T13:37:32Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Chantilly, VA · Python, Java, C++, AWS, Azure · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:WellmarkInc:744000152679699</id>
+    <title>Wellmark: Software Engineer Internship – Metadata Enablement Team</title>
+    <link href="https://jobs.smartrecruiters.com/WellmarkInc/744000152679699"/>
+    <updated>2026-09-30T13:37:32Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Des Moines, IA, United States · Python, JavaScript, SQL, Node.js, Angular · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:muonspace:5252680007</id>
@@ -22,6 +38,30 @@
     <updated>2026-09-30T06:37:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, CA · $40/hr · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876</id>
+    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876"/>
+    <updated>2026-09-30T06:37:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877</id>
+    <title>RTX: Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877"/>
+    <updated>2026-09-30T06:37:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1</id>
+    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
+    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"/>
+    <updated>2026-09-30T06:37:05Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790</id>
@@ -46,22 +86,6 @@
     <updated>2026-09-30T06:37:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Illinois-Rolling Meadows · $20.5–$37.25/hr · Python, C++, MATLAB, Verilog · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877</id>
-    <title>RTX: Industrial Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874877"/>
-    <updated>2026-09-30T06:37:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876</id>
-    <title>RTX: Industrial Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-op--Spring-Summer-2027-_01874876"/>
-    <updated>2026-09-30T06:37:05Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:freeformfuturecorp:8004101003</id>
@@ -576,14 +600,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RenesasElectronics:744000152265599</id>
-    <title>Renesas Electronics: Firmware Engineering Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RenesasElectronics/744000152265599"/>
-    <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Austin, TEXAS, United States · Python, C++, Linux, Git, Verilog · H-1B track record: ~68 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788</id>
     <title>BorgWarner: Mechanical Engineering Intern (Year Round)</title>
     <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Auburn-Hills---Michigan---USA/Mechanical-Engineering-Intern--Year-Round-_R2026-3788"/>
@@ -689,11 +705,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:workday:poet:/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1</id>
-    <title>POET: Software Developer Intern</title>
+    <title>POET: Software Developer Intern - Summer 2027</title>
     <link href="https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"/>
     <updated>2026-09-28T21:52:58Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sioux Falls, SD · C#, SQL</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sioux Falls, SD · C#, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:veteransunited:/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249</id>
@@ -787,22 +803,6 @@
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871288</id>
     <title>RTX: Industrial Engineering Co-Op (Spring/Summer 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01871288"/>
-    <updated>2026-09-28T15:21:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870649</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870649"/>
-    <updated>2026-09-28T15:21:40Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870989</id>
-    <title>RTX: Industrial Engineering Co-Op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01870989"/>
     <updated>2026-09-28T15:21:40Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-108 ~ 400 Collins Rd NE ~ BLDG 108 · sponsorship: citizens-only</summary>

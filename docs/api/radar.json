@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T06:37:09Z",
+ "generated_at": "2026-09-30T13:37:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -914,20 +914,6 @@
    "note": ""
   },
   {
-   "company": "The Hartford",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -37,
-   "status": "open",
-   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
-   "note": ""
-  },
-  {
    "company": "The Walt Disney Company",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -1456,7 +1442,7 @@
    "expected": "2026-09-01",
    "days_until": -29,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
    "note": ""
   },
   {
@@ -2958,20 +2944,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
-   "note": ""
-  },
-  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -4092,6 +4064,20 @@
    "note": ""
   },
   {
+   "company": "The Hartford",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -37,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "DTCC",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -4423,6 +4409,20 @@
    "source": "engine",
    "expected": "2026-09-16",
    "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""

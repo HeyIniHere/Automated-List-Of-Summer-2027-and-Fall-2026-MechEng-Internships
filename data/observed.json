@@ -114,12 +114,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-15",
      "role_ids": [
+      "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3727,9 +3728,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
-      "workday:poet:/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696"
+      "workday:poet:/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696",
+      "workday:poet:/job/Sioux-Falls-SD/Software-Developer-Intern_R101786-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5414,5 +5416,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T06:37:05Z"
+ "updated_at": "2026-09-30T13:37:32Z"
 }

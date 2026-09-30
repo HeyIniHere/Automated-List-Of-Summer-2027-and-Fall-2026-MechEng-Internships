@@ -117,10 +117,12 @@
       "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
-      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668"
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -217,12 +219,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
       "ashby:allen-control-systems:a7831fef-7125-4c03-b828-5f0472989037",
       "ashby:allen-control-systems:ad41a645-7b94-407d-a579-003fba1b8e68",
       "ashby:allen-control-systems:e7cefcf6-7322-43ba-861e-22e76f8186bd",
       "ashby:allen-control-systems:ed5c58a7-6a3c-474b-aa07-43ff2051cb5c"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3227,9 +3230,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-29",
      "role_ids": [
+      "greenhouse:muonspace:5247725007",
       "greenhouse:muonspace:5252680007"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3564,6 +3568,13 @@
       "oracle:hctz.fa.us2.oraclecloud.com:2505878",
       "oracle:hctz.fa.us2.oraclecloud.com:2506307"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506814"
+     ],
+     "count": 1
     }
    }
   },
@@ -5362,9 +5373,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
-      "oracle:emit.fa.ca3.oraclecloud.com:96451"
+      "oracle:emit.fa.ca3.oraclecloud.com:96451",
+      "oracle:emit.fa.ca3.oraclecloud.com:96611"
      ],
-     "count": 35
+     "count": 36
     }
    }
   },
@@ -5478,5 +5490,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T19:06:29Z"
+ "updated_at": "2026-09-30T23:06:16Z"
 }

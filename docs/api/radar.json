@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T19:06:33Z",
+ "generated_at": "2026-09-30T23:06:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -504,7 +504,7 @@
    "expected": "2026-08-10",
    "days_until": -51,
    "status": "open",
-   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Malvern-AR/Manufacturing-Process-Documentation-Intern--Summer-2027-_JR31463",
+   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
    "note": ""
   },
   {
@@ -840,7 +840,7 @@
    "expected": "2026-08-20",
    "days_until": -41,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96451",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96611",
    "note": ""
   },
   {
@@ -1582,7 +1582,7 @@
    "expected": "2026-09-02",
    "days_until": -28,
    "status": "open",
-   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/AI-Solutions-Intern_R-011074",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
    "note": ""
   },
   {
@@ -3196,20 +3196,6 @@
    "note": ""
   },
   {
-   "company": "Cencora",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-25",
-   "days_until": -5,
-   "status": "open",
-   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670",
-   "note": ""
-  },
-  {
    "company": "Wabtec",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -3388,7 +3374,7 @@
    "expected": "2026-09-30",
    "days_until": 0,
    "status": "open",
-   "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
+   "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
    "note": ""
   },
   {
@@ -3403,6 +3389,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
+   "note": ""
+  },
+  {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506814",
    "note": ""
   },
   {
@@ -4554,6 +4554,20 @@
    "note": ""
   },
   {
+   "company": "Cencora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "RRS Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -4568,5 +4582,5 @@
    "note": ""
   }
  ],
- "count": 326
+ "count": 327
 }

@@ -1,3 +1,17 @@
 {
-  "pending": []
+  "pending": [
+    "workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1",
+    "ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94",
+    "ashby:base-power:717274d7-09dc-4176-b307-07301074b87f",
+    "ashby:claylabs:5b7eced2-36bd-4265-a2a8-da0f786e47aa",
+    "greenhouse:genscript:5253581007",
+    "workday:kla:/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1",
+    "workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1",
+    "workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574",
+    "greenhouse:muonspace:5247725007",
+    "oracle:hctz.fa.us2.oraclecloud.com:2506814",
+    "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
+    "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763",
+    "oracle:emit.fa.ca3.oraclecloud.com:96611"
+  ]
 }

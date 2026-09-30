@@ -1895,9 +1895,10 @@
       "greenhouse:freeformfuturecorp:7872198003",
       "greenhouse:freeformfuturecorp:7894117003",
       "greenhouse:freeformfuturecorp:7895700003",
-      "greenhouse:freeformfuturecorp:7907965003"
+      "greenhouse:freeformfuturecorp:7907965003",
+      "greenhouse:freeformfuturecorp:8004101003"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2566,6 +2567,18 @@
       "workday:irhythmtech:/job/San-Francisco-CA/Mechanical-Engineering-Co-op-Full-Time-Intern-Jan---June-2027_JR1766"
      ],
      "count": 2
+    }
+   }
+  },
+  "itron": {
+   "name": "Itron",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
+     ],
+     "count": 1
     }
    }
   },
@@ -3924,9 +3937,10 @@
       "greenhouse:robinhood:8123225",
       "greenhouse:robinhood:8142959",
       "greenhouse:robinhood:8142961",
-      "greenhouse:robinhood:8142963"
+      "greenhouse:robinhood:8142963",
+      "greenhouse:robinhood:8241738"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3940,6 +3954,18 @@
       "greenhouse:roblox:8143981"
      ],
      "count": 2
+    }
+   }
+  },
+  "roboforce": {
+   "name": "RoboForce",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-04-14",
+     "role_ids": [
+      "greenhouse:roboforce:5181214008"
+     ],
+     "count": 1
     }
    }
   },
@@ -4029,13 +4055,15 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 42
+     "count": 44
     }
    }
   },
@@ -5356,5 +5384,5 @@
    }
   }
  },
- "updated_at": "2026-09-29T20:44:18Z"
+ "updated_at": "2026-09-30T00:21:57Z"
 }

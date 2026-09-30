@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T00:22:04Z",
+ "generated_at": "2026-09-30T06:37:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1148,21 +1148,7 @@
    "expected": "2026-08-27",
    "days_until": -34,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
-   "note": ""
-  },
-  {
-   "company": "Johns Manville (JM)",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -34,
-   "status": "open",
-   "url": "https://jm.wd103.myworkdayjobs.com/External/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
    "note": ""
   },
   {
@@ -2636,20 +2622,6 @@
    "note": ""
   },
   {
-   "company": "OpenGov",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -16,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/opengov/c31622c1-be01-4d4a-b7cf-d116be84cc08",
-   "note": ""
-  },
-  {
    "company": "Robinhood",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2786,7 +2758,7 @@
    "expected": "2026-09-15",
    "days_until": -15,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
    "note": ""
   },
   {
@@ -3347,6 +3319,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://itron.wd5.myworkdayjobs.com/Early_Careers/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2",
+   "note": ""
+  },
+  {
+   "company": "Muon Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/muonspace/jobs/5252680007",
    "note": ""
   },
   {
@@ -4148,6 +4134,20 @@
    "note": ""
   },
   {
+   "company": "Johns Manville (JM)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -34,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -4372,6 +4372,20 @@
    "note": ""
   },
   {
+   "company": "OpenGov",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "NOV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -4498,5 +4512,5 @@
    "note": ""
   }
  ],
- "count": 321
+ "count": 322
 }

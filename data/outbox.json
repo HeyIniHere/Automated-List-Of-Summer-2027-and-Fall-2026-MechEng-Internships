@@ -1,30 +1,3 @@
 {
-  "pending": [
-    "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
-    "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
-    "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
-    "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
-    "amazon:amazon:10565667",
-    "greenhouse:amca:4396629009",
-    "greenhouse:amca:4425120009",
-    "ashby:dandy:d43558e9-8e51-4980-b00d-39275063f099",
-    "workday:intel:/job/Virtual-US/Research-Scientist-Intern---Graphics--ML_JR0287525",
-    "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641581-1",
-    "workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641572-1",
-    "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
-    "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
-    "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
-    "ashby:plot:5f8cfeaa-c368-480f-aaa5-de52452a63d0",
-    "ashby:ramp:b39ceb08-a0a7-4f8b-a760-2fb88e209956",
-    "smartrecruiters:BoschGroup:744000152706359",
-    "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
-    "workday:stvinc:/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315",
-    "smartrecruiters:Wabtec:3743990015802856",
-    "smartrecruiters:Wabtec:3743990015802516",
-    "greenhouse:waymo:8238525",
-    "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824"
-  ]
+  "pending": []
 }

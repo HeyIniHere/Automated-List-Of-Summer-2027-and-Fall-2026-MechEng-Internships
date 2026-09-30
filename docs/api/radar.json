@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-09-30T13:37:39Z",
+ "generated_at": "2026-09-30T19:06:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1092,7 +1092,7 @@
    "expected": "2026-08-27",
    "days_until": -34,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
    "note": ""
   },
   {
@@ -1765,6 +1765,20 @@
    "days_until": -27,
    "status": "open",
    "url": "https://careers.withwaymo.com/jobs?gh_jid=8174504",
+   "note": ""
+  },
+  {
+   "company": "AMCA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
    "note": ""
   },
   {
@@ -2744,7 +2758,7 @@
    "expected": "2026-09-15",
    "days_until": -15,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
    "note": ""
   },
   {
@@ -3361,6 +3375,48 @@
    "days_until": -1,
    "status": "open",
    "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2625128",
+   "note": ""
+  },
+  {
+   "company": "Allison Transmission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
+   "note": ""
+  },
+  {
+   "company": "Dandy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
+   "note": ""
+  },
+  {
+   "company": "STV",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315",
    "note": ""
   },
   {
@@ -4512,5 +4568,5 @@
    "note": ""
   }
  ],
- "count": 322
+ "count": 326
 }

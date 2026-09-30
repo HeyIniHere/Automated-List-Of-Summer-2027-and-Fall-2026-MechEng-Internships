@@ -242,6 +242,21 @@
     }
    }
   },
+  "allison transmission": {
+   "name": "Allison Transmission",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277"
+     ],
+     "count": 4
+    }
+   }
+  },
   "alloy enterprises": {
    "name": "Alloy Enterprises",
    "cycles": {
@@ -286,7 +301,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 11,
+     "count": 12,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -298,8 +313,22 @@
       "amazon:amazon:10552937",
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
-      "amazon:amazon:10559762"
+      "amazon:amazon:10559762",
+      "amazon:amazon:10565667"
      ]
+    }
+   }
+  },
+  "amca": {
+   "name": "AMCA",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "greenhouse:amca:4396629009",
+      "greenhouse:amca:4425120009"
+     ],
+     "count": 2
     }
    }
   },
@@ -1387,6 +1416,18 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "workday:danaher:/job/Logan-Utah-United-States/Mechanical-Engineering-Intern-Summer-2027_R1317859"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "dandy": {
+   "name": "Dandy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "ashby:dandy:d43558e9-8e51-4980-b00d-39275063f099"
      ],
      "count": 1
     }
@@ -3323,7 +3364,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 36,
+     "count": 39,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
@@ -3349,18 +3390,21 @@
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Hardware-Mechanical-Engineer-Intern---Rolling-Meadows-IL_R10252778",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
+      "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
+      "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
-      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842"
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731"
      ]
     },
     "Fall 2026": {
@@ -4373,9 +4417,10 @@
     "Fall 2026": {
      "first_posted": "2026-09-23",
      "role_ids": [
+      "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
       "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4537,9 +4582,12 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1007925",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007956",
       "oracle:hdhl.fa.us6.oraclecloud.com:1007966",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008077"
      ],
-     "count": 18
+     "count": 21
     }
    }
   },
@@ -4582,6 +4630,18 @@
       "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
      "count": 7
+    }
+   }
+  },
+  "stv": {
+   "name": "STV",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-30",
+     "role_ids": [
+      "workday:stvinc:/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315"
+     ],
+     "count": 1
     }
    }
   },
@@ -5170,9 +5230,10 @@
       "greenhouse:waymo:8198218",
       "greenhouse:waymo:8203200",
       "greenhouse:waymo:8221198",
-      "greenhouse:waymo:8224900"
+      "greenhouse:waymo:8224900",
+      "greenhouse:waymo:8238525"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -5363,9 +5424,10 @@
       "workday:zekelman:/job/Blytheville-AR---Wheatland/Manufacturing-Engineer-Intern_JR002765",
       "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
       "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
+      "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
       "workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5416,5 +5478,5 @@
    }
   }
  },
- "updated_at": "2026-09-30T13:37:32Z"
+ "updated_at": "2026-09-30T19:06:29Z"
 }

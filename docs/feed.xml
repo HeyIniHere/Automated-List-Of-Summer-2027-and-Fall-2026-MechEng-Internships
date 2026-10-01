@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-09-30T23:06:23Z</updated>
+  <updated>2026-10-01T02:10:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1</id>
-    <title>Allegion: Summer Intern - Software Engineering - Quality Assurance</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"/>
-    <updated>2026-09-30T23:06:16Z</updated>
+    <id>urn:intern-engine:workday:hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503</id>
+    <title>HCSC: Early Careers - Developer Intern 🛂</title>
+    <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503"/>
+    <updated>2026-10-01T02:09:58Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
+    <summary>Not stated · Software · Richardson Texas HQ (1001 E. Lookout Drive) · Java, JavaScript, SQL, React, Angular · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:allen-control-systems:1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94</id>
@@ -48,36 +48,20 @@
     <summary>Not stated · Data &amp; ML/AI · Piscataway, New Jersey, United States · $30–$40/hr · Python, Java, LLMs · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1</id>
-    <title>KLA: Mechatronics Engineering Internship</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1"/>
-    <updated>2026-09-30T23:06:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Milpitas, CA · $26–$50/hr · MATLAB · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1</id>
-    <title>KLA: Mechatronics/Systems Engineering Internship</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1"/>
-    <updated>2026-09-30T23:06:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Milpitas, CA · $26–$50/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574</id>
-    <title>Leidos: Embedded Design Engineering Intern – Firmware 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"/>
-    <updated>2026-09-30T23:06:16Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Huntsville, AL · C++, Rust, Linux, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:muonspace:5247725007</id>
     <title>Muon Space: Flight Software Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/muonspace/jobs/5247725007"/>
     <updated>2026-09-30T23:06:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Jose, CA · $40/hr · Python, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:96611</id>
+    <title>WSP: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96611"/>
+    <updated>2026-09-30T23:06:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · North Providence, RI, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506814</id>
@@ -104,12 +88,36 @@
     <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:96611</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96611"/>
+    <id>urn:intern-engine:workday:allegion:/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1</id>
+    <title>Allegion: Summer Intern - Software Engineering - Quality Assurance</title>
+    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Golden-CO/Summer-Intern---Summer-Intern---Software-Engineering---Quality-Assurance_JR37856-1"/>
     <updated>2026-09-30T23:06:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · North Providence, RI, United States</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Golden, CO · $25–$26/hr · Python, C#, AWS, Azure, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1</id>
+    <title>KLA: Mechatronics Engineering Internship</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1"/>
+    <updated>2026-09-30T23:06:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Milpitas, CA · $26–$50/hr · MATLAB · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1</id>
+    <title>KLA: Mechatronics/Systems Engineering Internship</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechatronics-Systems-Engineering-Internship_2641532-1"/>
+    <updated>2026-09-30T23:06:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Milpitas, CA · $26–$50/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574</id>
+    <title>Leidos: Embedded Design Engineering Intern – Firmware 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Embedded-Design-Engineering-Intern---Firmware_R-00193574"/>
+    <updated>2026-09-30T23:06:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Huntsville, AL · C++, Rust, Linux, Verilog · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10565667</id>
@@ -121,7 +129,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:dandy:d43558e9-8e51-4980-b00d-39275063f099</id>
-    <title>Dandy: Summer 2027 Internship - Software Engineering</title>
+    <title>Dandy: Summer 2027 Internship - Software Engineering Intern</title>
     <link href="https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099"/>
     <updated>2026-09-30T19:06:29Z</updated>
     <category term="Summer 2027"/>
@@ -486,14 +494,6 @@
     <updated>2026-09-30T00:21:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · United States of America, Washington, Liberty Lake · $15.87–$44.23/hr · Python, SQL, AWS, Azure, Git · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:microchiphr:/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26</id>
-    <title>Microchip Technology: Intern-Engineering (Software)</title>
-    <link href="https://microchiphr.wd5.myworkdayjobs.com/external/job/AZ---Chandler/Intern-Engineering--Software-_R4091-26"/>
-    <updated>2026-09-30T00:21:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · AZ - Chandler · Python, Java, TypeScript, React, Git · H-1B track record: ~143 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejhp.fa.us6.oraclecloud.com:2625128</id>

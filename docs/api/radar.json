@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01T10:01:54Z",
+ "generated_at": "2026-10-01T17:08:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -478,6 +478,20 @@
    "status": "open",
    "url": "https://careers.roblox.com/jobs/8072713?gh_jid=8072713",
    "note": "opens fall for next summer"
+  },
+  {
+   "company": "Duke Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-07",
+   "days_until": -55,
+   "status": "open",
+   "url": "https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822",
+   "note": ""
   },
   {
    "company": "The Nuclear Company",
@@ -1624,7 +1638,7 @@
    "expected": "2026-09-02",
    "days_until": -29,
    "status": "open",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152469",
+   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
    "note": ""
   },
   {
@@ -2650,20 +2664,6 @@
    "note": "opens fall"
   },
   {
-   "company": "Schroders",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -17,
-   "status": "open",
-   "url": "https://ekbq.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2061",
-   "note": ""
-  },
-  {
    "company": "SingleStore",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -3434,6 +3434,34 @@
    "note": ""
   },
   {
+   "company": "Pinterest",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.pinterestcareers.com/jobs/?gh_jid=8138097",
+   "note": "opens late summer for next year"
+  },
+  {
+   "company": "Riot Games",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/riotgamesup/jobs/8222015",
+   "note": ""
+  },
+  {
    "company": "Varda Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -3515,6 +3543,20 @@
    "days_until": null,
    "status": "open",
    "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "note": ""
+  },
+  {
+   "company": "Torus",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/torus/jobs/c88bd62f-243e-4aca-8b72-c0ce36ab4d4c",
    "note": ""
   },
   {
@@ -3600,20 +3642,6 @@
    "status": "waiting",
    "url": "",
    "note": "late Aug, rolling into Nov"
-  },
-  {
-   "company": "Pinterest",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -61,
-   "status": "waiting",
-   "url": "",
-   "note": "opens late summer for next year"
   },
   {
    "company": "Salesforce",
@@ -4003,20 +4031,6 @@
    "source": "engine",
    "expected": "2026-08-06",
    "days_until": -56,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Duke Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-07",
-   "days_until": -55,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4442,6 +4456,20 @@
    "note": ""
   },
   {
+   "company": "Schroders",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "NOV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
@@ -4596,5 +4624,5 @@
    "note": ""
   }
  ],
- "count": 328
+ "count": 330
 }

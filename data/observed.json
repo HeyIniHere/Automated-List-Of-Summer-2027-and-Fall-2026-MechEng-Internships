@@ -565,6 +565,18 @@
     }
    }
   },
+  "atc": {
+   "name": "ATC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:atcllc:/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"
+     ],
+     "count": 1
+    }
+   }
+  },
   "atkinsréalis": {
    "name": "AtkinsRéalis",
    "cycles": {
@@ -818,9 +830,10 @@
       "oracle:eofe.fa.us2.oraclecloud.com:81251",
       "oracle:eofe.fa.us2.oraclecloud.com:81252",
       "oracle:eofe.fa.us2.oraclecloud.com:81253",
-      "oracle:eofe.fa.us2.oraclecloud.com:81254"
+      "oracle:eofe.fa.us2.oraclecloud.com:81254",
+      "oracle:eofe.fa.us2.oraclecloud.com:82784"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1344,10 +1357,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950",
+      "workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952",
       "workday:costar:/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
       "workday:costar:/job/US-VA-Richmond/Security-Engineer-Intern---Richmond--VA_R39726"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -1445,6 +1460,18 @@
      "first_posted": "2023-08-17",
      "role_ids": [
       "greenhouse:databricks:6883068002"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "datacor": {
+   "name": "Datacor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:datacor:5242412007"
      ],
      "count": 1
     }
@@ -1776,6 +1803,18 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:fanniemae:/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "federal reserve system": {
+   "name": "The Federal Reserve System",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625"
      ],
      "count": 1
     }
@@ -2118,6 +2157,18 @@
     }
    }
   },
+  "glean": {
+   "name": "Glean",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2025-09-03",
+     "role_ids": [
+      "greenhouse:gleanwork:4595665005"
+     ],
+     "count": 1
+    }
+   }
+  },
   "globalfoundries": {
    "name": "GlobalFoundries",
    "cycles": {
@@ -2310,11 +2361,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
       "workday:hmhw:/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
       "workday:hmhw:/job/Houston-TX/Mechanical-Engineering-Intern_JR102383",
       "workday:hmhw:/job/Houston-TX/Software-Engineering-Intern_JR102384"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2942,9 +2994,10 @@
      "role_ids": [
       "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
       "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+      "workday:marvell:/job/Santa-Clara-CA/Firmware-Engineer-Intern--MS---Summer-2027_2604513-1",
       "workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3776,10 +3829,13 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
+      "greenhouse:pinterest:7838577",
+      "greenhouse:pinterest:8138039",
+      "greenhouse:pinterest:8138080",
       "greenhouse:pinterest:8138090",
       "greenhouse:pinterest:8138097"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -4181,11 +4237,12 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01876388",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-179--855-35Th-St-NE--BLDG-179/Software-Engineering-Intern--Summer-Fall-2027-_01873006",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871040",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 51
+     "count": 52
     }
    }
   },
@@ -4631,9 +4688,12 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008052",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008053",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008055",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008077"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008122"
      ],
-     "count": 21
+     "count": 24
     }
    }
   },
@@ -5493,10 +5553,11 @@
       "workday:zekelman:/job/Blytheville-AR---Wheatland/Manufacturing-Engineer-Intern_JR002765",
       "workday:zekelman:/job/Kansas-City-MO/Intern--Mechanical-Engineer_JR002761",
       "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
+      "workday:zekelman:/job/Niles-OH/Intern--Manufacturing-Engineer_JR002843",
       "workday:zekelman:/job/Rochelle-IL/Intern--Manufacturing-Engineer_JR002824",
       "workday:zekelman:/job/Wheatland-PA---Council-Ave/AI-Intern_JR002752"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -5547,5 +5608,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T17:08:46Z"
+ "updated_at": "2026-10-01T21:55:08Z"
 }

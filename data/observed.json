@@ -117,13 +117,14 @@
      "role_ids": [
       "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Intern_R016429",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -306,7 +307,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 12,
+     "count": 13,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -319,7 +320,8 @@
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
       "amazon:amazon:10559762",
-      "amazon:amazon:10565667"
+      "amazon:amazon:10565667",
+      "amazon:amazon:10567914"
      ]
     }
    }
@@ -458,13 +460,14 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 5,
+     "count": 6,
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
       "greenhouse:andurilindustries:5153187007",
       "greenhouse:andurilindustries:5153218007",
       "greenhouse:andurilindustries:5236893007",
-      "greenhouse:andurilindustries:5239083007"
+      "greenhouse:andurilindustries:5239083007",
+      "greenhouse:andurilindustries:5255593007"
      ]
     }
    }
@@ -753,9 +756,10 @@
      "role_ids": [
       "ashby:bedrock-robotics:0331551e-c18e-428a-8e91-e6cb25c9c2e8",
       "ashby:bedrock-robotics:8927dd7e-a48d-49a2-92eb-09ec059432f4",
+      "ashby:bedrock-robotics:96a6423e-7439-4cb4-9109-117b14e47f7c",
       "ashby:bedrock-robotics:c51d682e-58ee-44de-886f-4cfacb56d2e1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -1153,9 +1157,10 @@
      "first_posted": "2026-09-18",
      "role_ids": [
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2288,6 +2293,18 @@
     }
    }
   },
+  "harvey": {
+   "name": "Harvey",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hd supply": {
    "name": "HD Supply",
    "cycles": {
@@ -2894,6 +2911,7 @@
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00188311",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
+      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
@@ -2901,7 +2919,7 @@
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2986,6 +3004,18 @@
       "greenhouse:lyft:8843341002"
      ],
      "count": 6
+    }
+   }
+  },
+  "major league baseball": {
+   "name": "Major League Baseball",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "workday:sterlingmets:/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
+     ],
+     "count": 1
     }
    }
   },
@@ -3169,6 +3199,18 @@
      "first_posted": "2026-08-31",
      "role_ids": [
       "workday:michelinhr:/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "mill": {
+   "name": "Mill",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "greenhouse:mill:4737741005"
      ],
      "count": 1
     }
@@ -3380,9 +3422,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-10",
      "role_ids": [
+      "workday:nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
       "workday:nelnet:/job/Lincoln-NE/Intern---Software-Engineer---New-Ventures---Starting-Summer-2026_R23098"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4708,9 +4751,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008077",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008122"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008131"
      ],
-     "count": 24
+     "count": 25
     }
    }
   },
@@ -5527,6 +5571,18 @@
     }
    }
   },
+  "xai": {
+   "name": "xAI",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:xai:5255111007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "xcel energy": {
    "name": "Xcel Energy",
    "cycles": {
@@ -5626,5 +5682,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T15:44:20Z"
+ "updated_at": "2026-10-02T20:42:42Z"
 }

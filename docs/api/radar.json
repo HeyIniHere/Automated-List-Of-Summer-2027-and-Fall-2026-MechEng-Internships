@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T15:44:27Z",
+ "generated_at": "2026-10-02T20:42:49Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -182,7 +182,7 @@
    "expected": "2026-07-08",
    "days_until": -86,
    "status": "open",
-   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
+   "url": "https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
    "note": ""
   },
   {
@@ -379,6 +379,20 @@
    "days_until": -66,
    "status": "open",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943",
+   "note": ""
+  },
+  {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -65,
+   "status": "open",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
    "note": ""
   },
   {
@@ -686,7 +700,7 @@
    "expected": "2026-08-17",
    "days_until": -46,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Columbus-OH/Mechanical-Engineering-Intern---Columbus--OH_R-16523",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
    "note": ""
   },
   {
@@ -925,6 +939,20 @@
    "days_until": -39,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
+   "note": ""
+  },
+  {
+   "company": "The Hartford",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
    "note": ""
   },
   {
@@ -1988,7 +2016,7 @@
    "expected": "2026-09-08",
    "days_until": -24,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USAZTempe/Data-Scientist-Intern---Summer-2027_R-161183-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1",
    "note": ""
   },
   {
@@ -2451,20 +2479,6 @@
    "days_until": -21,
    "status": "open",
    "url": "https://amgen.wd1.myworkdayjobs.com/careers/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
-   "note": ""
-  },
-  {
-   "company": "EMC Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -21,
-   "status": "open",
-   "url": "https://emcins.wd5.myworkdayjobs.com/EMC_Careers/job/Iowa/Intern--Data-Science_R6524",
    "note": ""
   },
   {
@@ -3248,7 +3262,7 @@
    "expected": "2026-09-29",
    "days_until": -3,
    "status": "open",
-   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119675",
+   "url": "https://fa-exty-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/119686",
    "note": ""
   },
   {
@@ -3350,20 +3364,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506814",
-   "note": ""
-  },
-  {
    "company": "STV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3459,6 +3459,48 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/vardaspace/jobs/8005821003",
+   "note": ""
+  },
+  {
+   "company": "Harvey",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/harvey/06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
+   "note": ""
+  },
+  {
+   "company": "Major League Baseball",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sterlingmets.wd5.myworkdayjobs.com/Mets/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508",
+   "note": ""
+  },
+  {
+   "company": "xAI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/xai/jobs/5255111007",
    "note": ""
   },
   {
@@ -3938,20 +3980,6 @@
    "note": ""
   },
   {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -65,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Sentry",
    "last_cycle_posted": "",
    "posted_on": "2026-08-01",
@@ -4157,20 +4185,6 @@
    "source": "engine",
    "expected": "2026-08-21",
    "days_until": -42,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "The Hartford",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -39,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4456,6 +4470,20 @@
    "note": ""
   },
   {
+   "company": "EMC Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -21,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -4692,7 +4720,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 335
+ "count": 338
 }

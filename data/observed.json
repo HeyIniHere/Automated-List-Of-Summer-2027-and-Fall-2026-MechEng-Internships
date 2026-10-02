@@ -4134,9 +4134,10 @@
     "Fall 2026": {
      "first_posted": "2026-04-14",
      "role_ids": [
-      "greenhouse:roboforce:5181214008"
+      "greenhouse:roboforce:5181214008",
+      "greenhouse:roboforce:5441463008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5286,11 +5287,12 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-01",
-     "count": 3,
+     "count": 4,
      "role_ids": [
       "greenhouse:walleyecapital-external-students:4676587006",
       "greenhouse:walleyecapital-external-students:4679168006",
-      "greenhouse:walleyecapital-external-students:4679434006"
+      "greenhouse:walleyecapital-external-students:4679434006",
+      "greenhouse:walleyecapital-external-students:4716166006"
      ]
     }
    }
@@ -5608,5 +5610,5 @@
    }
   }
  },
- "updated_at": "2026-10-01T21:55:08Z"
+ "updated_at": "2026-10-02T01:37:03Z"
 }

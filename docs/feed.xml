@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-01T21:55:15Z</updated>
+  <updated>2026-10-02T01:37:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:atcllc:/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307</id>
-    <title>ATC: Intern - Cyber Security Summer 2027</title>
-    <link href="https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"/>
-    <updated>2026-10-01T21:55:08Z</updated>
+    <id>urn:intern-engine:greenhouse:roboforce:5441463008</id>
+    <title>RoboForce: Robotics Mechanical Engineering Intern (Fall/Winter 2026)</title>
+    <link href="https://job-boards.greenhouse.io/roboforce/jobs/5441463008"/>
+    <updated>2026-10-02T01:37:03Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · Milpitas, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:walleyecapital-external-students:4716166006</id>
+    <title>Walleye Capital: Special Projects Developer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006"/>
+    <updated>2026-10-02T01:37:03Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Pewaukee, WI · $23–$27/hr</summary>
+    <summary>Summer 2027 · Software · New York, New York · Python, SQL, LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:attentive:4429880009</id>
@@ -22,30 +30,6 @@
     <updated>2026-10-01T21:55:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States · $30/hr · LLMs · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:82784</id>
-    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)</title>
-    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82784"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Lake Mary, FL, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952</id>
-    <title>CoStar Group: Mechanical Engineering Intern 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Sunnyvale (US) · Python, MATLAB · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950</id>
-    <title>CoStar Group: Embedded Software Engineering Intern 🛂</title>
-    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sunnyvale (US) · Python, C++, MATLAB, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:datacor:5242412007</id>
@@ -70,6 +54,94 @@
     <updated>2026-10-01T21:55:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Mountain View, CA · LLMs, Git · H-1B track record: ~19 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:7838577</id>
+    <title>Pinterest: Software Engineer Intern 2027 (USA)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138039</id>
+    <title>Pinterest: Software Engineering Intern 2027 (Toronto)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138039"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Toronto, ON, CA · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pinterest:8138080</id>
+    <title>Pinterest: Machine Learning Intern 2027 (Toronto)</title>
+    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138080"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, CA · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:eofe.fa.us2.oraclecloud.com:82784</id>
+    <title>BNY: 2027 BNY Summer Internship Program - Product Management (Lake Mary, FL)</title>
+    <link href="https://eofe.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/82784"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Lake Mary, FL, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008089</id>
+    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Atlanta, GA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008121</id>
+    <title>Stantec: Mechanical Engineering Intern - Water (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008121"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Nashville, TN, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008122</id>
+    <title>Stantec: Mechanical Engineering Intern - Water (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008122"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lexington, KY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:atcllc:/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307</id>
+    <title>ATC: Intern - Cyber Security Summer 2027</title>
+    <link href="https://atcllc.wd5.myworkdayjobs.com/atcllc/job/Pewaukee-WI/Intern---Cyber-Security-Summer-2027_R0003307"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Pewaukee, WI · $23–$27/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950</id>
+    <title>CoStar Group: Embedded Software Engineering Intern 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Embedded-Software-Engineering-Intern_R39950"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sunnyvale (US) · Python, C++, MATLAB, PyTorch, TensorFlow · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:costar:/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952</id>
+    <title>CoStar Group: Mechanical Engineering Intern 🛂</title>
+    <link href="https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/Sunnyvale-US/Mechanical-Engineering-Intern_R39952"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Sunnyvale (US) · Python, MATLAB · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974</id>
+    <title>RTX: Flight Control Software Engineering Intern (Summer 2027) (Open) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974"/>
+    <updated>2026-10-01T21:55:08Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · C++, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:hmhw:/job/Houston-TX/AI---Automation-Development-Intern_JR102458</id>
@@ -110,62 +182,6 @@
     <updated>2026-10-01T21:55:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · McConnellsburg, Pennsylvania, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138080</id>
-    <title>Pinterest: Machine Learning Intern 2027 (Toronto)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138080"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Toronto, ON, CA · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:8138039</id>
-    <title>Pinterest: Software Engineering Intern 2027 (Toronto)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=8138039"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Toronto, ON, CA · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:pinterest:7838577</id>
-    <title>Pinterest: Software Engineer Intern 2027 (USA)</title>
-    <link href="https://www.pinterestcareers.com/jobs/?gh_jid=7838577"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA, US; Remote, US · Python, Java, C++, TypeScript, JavaScript · H-1B track record: ~343 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974</id>
-    <title>RTX: Flight Control Software Engineering Intern (Summer 2027) (Open) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027---Open-_01870974"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-193 ~ 1120 Collins Rd NE ~ BLDG193 · C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008121</id>
-    <title>Stantec: Mechanical Engineering Intern - Water (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008121"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Nashville, TN, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008122</id>
-    <title>Stantec: Mechanical Engineering Intern - Water (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008122"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lexington, KY, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008089</id>
-    <title>Stantec: Transportation Engineering Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089"/>
-    <updated>2026-10-01T21:55:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Atlanta, GA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625</id>
@@ -408,14 +424,6 @@
     <summary>Not stated · Hardware · San Jose, California, US · Python, C++, MATLAB · H-1B track record: ~3.4k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:dukeenergy:/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822</id>
-    <title>Duke Energy: PGO Cybersecurity Summer 2027 Internship</title>
-    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822"/>
-    <updated>2026-10-01T17:08:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Lake Mary, FL · Python, Java, JavaScript, SQL, Angular</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343</id>
     <title>RTX: Software Engineering Intern (Summer 2027) 🇺🇸</title>
     <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343"/>
@@ -560,14 +568,6 @@
     <summary>Summer 2027 · Hardware · Waukesha, WI - USA · Python, Tableau · H-1B track record: ~17 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marvell:/job/IN---Pune/Intern--Software-QA-Engineer_2603892</id>
-    <title>Marvell: Intern, Software QA Engineer</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/IN---Pune/Intern--Software-QA-Engineer_2603892"/>
-    <updated>2026-10-01T10:01:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · IN - Pune · Python, C++ · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:hcsc:/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503</id>
     <title>HCSC: Early Careers - Developer Intern 🛂</title>
     <link href="https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/Richardson-Texas-HQ-1001-E-Lookout-Drive/Early-Careers---Developer-Intern--Compliance---Health-Quality-_R0059503"/>
@@ -630,6 +630,14 @@
     <updated>2026-09-30T23:06:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · El Segundo, CA · Python, Java, C++ · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763</id>
+    <title>The Aerospace Corporation: 2027 Structural Mechanics Undergraduate Intern 🇺🇸</title>
+    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"/>
+    <updated>2026-09-30T23:06:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechatronics-Engineering-Internship_2641518-1</id>
@@ -798,13 +806,5 @@
     <updated>2026-09-30T19:06:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Virtual US · Python, C++, PyTorch, Computer Vision, CUDA · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineering-Intern_2641572-1</id>
-    <title>KLA: Software Engineering Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineering-Intern_2641572-1"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, JavaScript · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

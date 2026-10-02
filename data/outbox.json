@@ -1,14 +1,3 @@
 {
-  "pending": [
-    "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
-    "greenhouse:graphcore:8862951002",
-    "ashby:helion:56636c72-2c72-4f4f-8334-3b233a235c8d",
-    "ashby:helion:b73602bd-b644-4a46-9188-fded4b2db606",
-    "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
-    "ashby:range:5fe3697d-b5b3-4772-9de4-1551cb726718",
-    "lever:shopback-2:640ac3fb-dae5-4738-95b9-9cb80cc7ad15",
-    "lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98",
-    "workday:ttc:/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153",
-    "workday:zoll:/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367"
-  ]
+  "pending": []
 }

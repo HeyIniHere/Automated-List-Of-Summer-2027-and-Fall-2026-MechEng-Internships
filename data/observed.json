@@ -2097,6 +2097,7 @@
       "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920",
@@ -2105,7 +2106,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -2296,6 +2297,19 @@
       "workday:hdsupply:/job/Atlanta-GA-US/Graduate-Intern--Artificial-Intelligence---Data-Science---Summer-2027_R26004952"
      ],
      "count": 1
+    }
+   }
+  },
+  "helion energy": {
+   "name": "Helion Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-29",
+     "role_ids": [
+      "ashby:helion:56636c72-2c72-4f4f-8334-3b233a235c8d",
+      "ashby:helion:b73602bd-b644-4a46-9188-fded4b2db606"
+     ],
+     "count": 2
     }
    }
   },
@@ -3426,8 +3440,9 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 40,
+     "count": 41,
      "role_ids": [
+      "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247483",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
@@ -5611,5 +5626,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T08:23:35Z"
+ "updated_at": "2026-10-02T15:44:20Z"
 }

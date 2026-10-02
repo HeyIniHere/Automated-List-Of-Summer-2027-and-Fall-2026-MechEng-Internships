@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-02T08:23:42Z",
+ "generated_at": "2026-10-02T15:44:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1180,20 +1180,6 @@
    "note": ""
   },
   {
-   "company": "Workiva",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -36,
-   "status": "open",
-   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
-   "note": ""
-  },
-  {
    "company": "Charles River Associates (CRA)",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -2128,7 +2114,7 @@
    "expected": "2026-09-08",
    "days_until": -24,
    "status": "open",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Cincinnati-OH/XMLNAME-2027-Information-Security-Summer-Intern_2026-0025770",
+   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766",
    "note": ""
   },
   {
@@ -2171,20 +2157,6 @@
    "days_until": -23,
    "status": "open",
    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Colorado-Springs-CO-US/Software-Test-Engineer-Intern---Summer-2027_332003",
-   "note": ""
-  },
-  {
-   "company": "Emerson Electric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001",
    "note": ""
   },
   {
@@ -3252,6 +3224,20 @@
    "note": ""
   },
   {
+   "company": "Helion Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
+   "note": ""
+  },
+  {
    "company": "Howmet Aerospace",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -3458,7 +3444,7 @@
    "expected": "2026-10-01",
    "days_until": -1,
    "status": "open",
-   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
    "note": ""
   },
   {
@@ -4246,6 +4232,20 @@
    "note": ""
   },
   {
+   "company": "Workiva",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Stryker",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -4381,6 +4381,20 @@
    "source": "engine",
    "expected": "2026-09-08",
    "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -23,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4680,5 +4694,5 @@
    "note": ""
   }
  ],
- "count": 334
+ "count": 335
 }

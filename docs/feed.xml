@@ -5,8 +5,88 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-02T08:23:41Z</updated>
+  <updated>2026-10-02T15:44:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503</id>
+    <title>General Motors: 2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Sunnyvale, California, United States of America · Python, C++ · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:graphcore:8862951002</id>
+    <title>Graphcore: Machine Learning and Data Science Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/graphcore/jobs/8862951002"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:helion:56636c72-2c72-4f4f-8334-3b233a235c8d</id>
+    <title>Helion Energy: Materials Engineering Summer 2027 Intern</title>
+    <link href="https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Everett, WA · $59 per hour · Python, MATLAB</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:helion:b73602bd-b644-4a46-9188-fded4b2db606</id>
+    <title>Helion Energy: Mechanical Engineering Summer 2027 Intern</title>
+    <link href="https://jobs.ashbyhq.com/helion/b73602bd-b644-4a46-9188-fded4b2db606"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Everett, WA · $48 per hour</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263</id>
+    <title>Northrop Grumman: 2027 Manufacturing Operations and Planning Intern - Huntsville AL 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-Alabama-Huntsville · $22.75–$27.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:range:5fe3697d-b5b3-4772-9de4-1551cb726718</id>
+    <title>Range: Software Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · McLean, VA · TypeScript, JavaScript, React, Node.js, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:640ac3fb-dae5-4738-95b9-9cb80cc7ad15</id>
+    <title>ShopBack: Software Engineer Intern</title>
+    <link href="https://jobs.lever.co/shopback-2/640ac3fb-dae5-4738-95b9-9cb80cc7ad15"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Francisco, California · TypeScript, LLMs, Node.js, Kubernetes, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:shopback-2:e5f5e276-e7f7-43e0-a224-5259d242fe98</id>
+    <title>ShopBack: Software Engineer Intern</title>
+    <link href="https://jobs.lever.co/shopback-2/e5f5e276-e7f7-43e0-a224-5259d242fe98"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City, New York · TypeScript, LLMs, Node.js, Kubernetes, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ttc:/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153</id>
+    <title>The Toro Company: Mechatronics Engineering Co-Op</title>
+    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechatronics-Engineering-Co-Op_JR17153"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Bloomington, MN · Python</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:zoll:/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367</id>
+    <title>ZOLL Medical Corporation: Manufacturing Engineering Co-op</title>
+    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pawtucket-RI/Manufacturing-Engineering-Co-op_R20367"/>
+    <updated>2026-10-02T15:44:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Pawtucket, RI</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:profluent:5441955008</id>
     <title>Profluent: Intern, Software Engineering</title>
@@ -726,85 +806,5 @@
     <updated>2026-09-30T19:06:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · El Segundo, CA · Python, TypeScript, SQL, React, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8238525</id>
-    <title>Waymo: 2027 Summer Intern, BS, Software Engineering, Labeling</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8238525"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA, USA · C++, TypeScript · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008052</id>
-    <title>Stantec: Data Science Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008052"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Orlando, FL, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008053</id>
-    <title>Stantec: Project Coordinator Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008053"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008055</id>
-    <title>Stantec: Project Coordinator Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008055"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Burlington, MA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000152706359</id>
-    <title>Bosch: Commercial Project Management &amp; AI Innovation Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000152706359"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Plymouth, MI, United States · Python, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015802516</id>
-    <title>Wabtec: Mechanical Engineer Intern - New Product Development</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015802516"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Oak Creek, WI, United States · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990015802856</id>
-    <title>Wabtec: Mechanical Engineer Intern - Production Operations</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990015802856"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Oak Creek, WI, United States · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267</id>
-    <title>Allison Transmission: Manufacturing Engineer Intern - Summer 2027-1 🇺🇸</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266</id>
-    <title>Allison Transmission: Manufacturing Engineer Intern - Summer 2027-2 🇺🇸</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271</id>
-    <title>Allison Transmission: Manufacturing Engineer Intern - Summer 2027 🇺🇸</title>
-    <link href="https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271"/>
-    <updated>2026-09-30T19:06:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Indianapolis, IN · sponsorship: citizens-only · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

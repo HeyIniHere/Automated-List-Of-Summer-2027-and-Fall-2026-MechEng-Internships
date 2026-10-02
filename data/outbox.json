@@ -1,21 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000153254989",
-    "amazon:amazon:10567914",
-    "greenhouse:andurilindustries:5255593007",
-    "ashby:bedrock-robotics:96a6423e-7439-4cb4-9109-117b14e47f7c",
-    "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133",
-    "ashby:harvey:06d64648-b84b-48ae-94a2-d9c06dfdcb5d",
-    "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
-    "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193770",
-    "workday:magna:/job/Troy-Michigan-US/Humanoid-Robotics-Intern_R00264476",
-    "workday:sterlingmets:/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508",
-    "greenhouse:mill:4737741005",
-    "greenhouse:natera:6188497004",
-    "workday:nelnet:/job/Lincoln-NE/Intern---IT-Software-Engineer-NET--Summer-2027-_R23198",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
-    "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
-    "workday:trimble:/job/US---CO-Westminster/Product-Management-Intern_R57893",
-    "greenhouse:xai:5255111007"
-  ]
+  "pending": []
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T06:20:14Z",
+ "generated_at": "2026-10-03T12:29:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -407,20 +407,6 @@
    "days_until": -64,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
-   "note": ""
-  },
-  {
-   "company": "Kraft Heinz",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -64,
-   "status": "open",
-   "url": "https://heinz.wd1.myworkdayjobs.com/KraftHeinz_Careers_UR/job/Fremont-OH/XMLNAME-2027-US-Manufacturing-Internship-Program---Manufacturing-Facility-Fremont--Ohio_R-105282",
    "note": ""
   },
   {
@@ -2702,7 +2688,7 @@
    "expected": "2026-09-15",
    "days_until": -18,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
    "note": ""
   },
   {
@@ -2969,20 +2955,6 @@
    "days_until": -15,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000150460339",
-   "note": ""
-  },
-  {
-   "company": "Brown Brothers Harriman",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-19",
-   "days_until": -14,
-   "status": "open",
-   "url": "https://bbh.wd5.myworkdayjobs.com/BBH/job/New-York/XMLNAME-2027-Internal-Audit---Information-Technology---Cybersecurity-Summer-Internship_72899",
    "note": ""
   },
   {
@@ -3924,6 +3896,20 @@
    "note": ""
   },
   {
+   "company": "Kraft Heinz",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -64,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Sentry",
    "last_cycle_posted": "",
    "posted_on": "2026-08-01",
@@ -4605,6 +4591,20 @@
    "source": "engine",
    "expected": "2026-09-18",
    "days_until": -15,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Brown Brothers Harriman",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-19",
+   "days_until": -14,
    "status": "dropped",
    "url": "",
    "note": ""

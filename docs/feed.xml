@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-03T06:20:13Z</updated>
+  <updated>2026-10-03T12:29:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:affirm:8008645003</id>
@@ -134,14 +134,6 @@
     <updated>2026-10-02T20:42:42Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Boston, MA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755</id>
-    <title>The Aerospace Corporation: 2027 Flight Loads Structural Dynamics Graduate Intern 🇺🇸</title>
-    <link href="https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755"/>
-    <updated>2026-10-02T20:42:42Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · El Segundo, CA · Python, MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133</id>
@@ -806,5 +798,13 @@
     <updated>2026-10-01T10:01:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · El Segundo, California, United States · Python · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8010159003</id>
+    <title>Varda Space: Flight Software Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010159003"/>
+    <updated>2026-10-01T10:01:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · El Segundo, California, United States · C++, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

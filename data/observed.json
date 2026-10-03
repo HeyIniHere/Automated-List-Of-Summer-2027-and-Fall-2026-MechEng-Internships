@@ -128,6 +128,19 @@
     }
    }
   },
+  "affirm": {
+   "name": "Affirm",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:affirm:8008645003",
+      "greenhouse:affirm:8011590003"
+     ],
+     "count": 2
+    }
+   }
+  },
   "ai intern to the ceo": {
    "name": "AI Intern to the CEO",
    "cycles": {
@@ -507,6 +520,18 @@
       "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"
      ],
      "count": 2
+    }
+   }
+  },
+  "arc": {
+   "name": "Arc",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "greenhouse:arcboatcompany:5442881008"
+     ],
+     "count": 1
     }
    }
   },
@@ -3345,9 +3370,11 @@
      "first_posted": "2026-09-29",
      "role_ids": [
       "greenhouse:muonspace:5247725007",
-      "greenhouse:muonspace:5252680007"
+      "greenhouse:muonspace:5252680007",
+      "greenhouse:muonspace:5253474007",
+      "greenhouse:muonspace:5256284007"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -5682,5 +5709,5 @@
    }
   }
  },
- "updated_at": "2026-10-02T20:42:42Z"
+ "updated_at": "2026-10-03T00:26:32Z"
 }

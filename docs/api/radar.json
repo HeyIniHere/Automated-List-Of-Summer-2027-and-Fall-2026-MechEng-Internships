@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T12:29:25Z",
+ "generated_at": "2026-10-03T17:14:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -799,20 +799,6 @@
    "days_until": -44,
    "status": "open",
    "url": "https://fanniemae.wd1.myworkdayjobs.com/FannieMaeCareers/job/Washington-DC/Campus---Data-Science-Intern--Analytics---Modeling-Program-_JR2815",
-   "note": ""
-  },
-  {
-   "company": "Fifth Third Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -44,
-   "status": "open",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Information-Security-Co-op---Cyber-Threat-Interdiction---Summer-2027_R71582",
    "note": ""
   },
   {
@@ -4087,6 +4073,20 @@
    "source": "engine",
    "expected": "2026-08-17",
    "days_until": -47,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Fifth Third Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -44,
    "status": "dropped",
    "url": "",
    "note": ""

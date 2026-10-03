@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-03T12:29:25Z</updated>
+  <updated>2026-10-03T17:14:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
+    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
+    <updated>2026-10-03T17:14:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
+    <title>DISA Technologies: Data Engineering &amp; ML Intern</title>
+    <link href="https://apply.workable.com/disa-technologies/j/73E7609B99/"/>
+    <updated>2026-10-03T17:14:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States · Python, SQL, Pandas</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:affirm:8008645003</id>
     <title>Affirm: Software Engineer (Machine Learning) Intern (Summer 2027)</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-01T17:08:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Wyoming, MN, USA · $24–$32/hr · sponsorship: no-sponsorship · H-1B track record: ~35 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:8005821003</id>
-    <title>Varda Space: Cybersecurity Internship - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8005821003"/>
-    <updated>2026-10-01T10:01:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · El Segundo, California, United States · Python · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vardaspace:8010159003</id>
-    <title>Varda Space: Flight Software Internship - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8010159003"/>
-    <updated>2026-10-01T10:01:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · El Segundo, California, United States · C++, Linux · sponsorship: citizens-only</summary>
   </entry>
 </feed>

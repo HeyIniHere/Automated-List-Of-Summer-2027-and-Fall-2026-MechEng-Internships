@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-03T17:14:26Z</updated>
+  <updated>2026-10-03T20:59:57Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
-    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
-    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
-    <updated>2026-10-03T17:14:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workable:disa-technologies:73E7609B99</id>
     <title>DISA Technologies: Data Engineering &amp; ML Intern</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-03T17:14:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Casper, Wyoming, United States · Python, SQL, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aba:/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611</id>
+    <title>American Bankers Association: Intern, Cybersecurity Policy Analyst</title>
+    <link href="https://aba.wd1.myworkdayjobs.com/aba/job/US-DC-Main-Office/Intern--Cybersecurity-Policy-Analyst_R611"/>
+    <updated>2026-10-03T17:14:22Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · US DC Main Office · $30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:affirm:8008645003</id>

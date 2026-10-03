@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-03T00:26:39Z",
+ "generated_at": "2026-10-03T06:20:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3280,20 +3280,6 @@
    "note": ""
   },
   {
-   "company": "Dandy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -3,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
-   "note": ""
-  },
-  {
    "company": "STV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3402,7 +3388,7 @@
    "expected": "2026-10-02",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
    "note": ""
   },
   {
@@ -4745,6 +4731,20 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Dandy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -3,
    "status": "dropped",
    "url": "",
    "note": ""

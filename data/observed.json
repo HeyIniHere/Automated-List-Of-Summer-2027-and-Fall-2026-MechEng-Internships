@@ -3950,6 +3950,18 @@
     }
    }
   },
+  "primient": {
+   "name": "Primient",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-04",
+     "role_ids": [
+      "workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+     ],
+     "count": 1
+    }
+   }
+  },
   "q2": {
    "name": "Q2",
    "cycles": {
@@ -5709,5 +5721,5 @@
    }
   }
  },
- "updated_at": "2026-10-04T17:32:24Z"
+ "updated_at": "2026-10-04T21:14:16Z"
 }

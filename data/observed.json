@@ -2412,6 +2412,19 @@
     }
    }
   },
+  "hitachi energy": {
+   "name": "Hitachi Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"
+     ],
+     "count": 2
+    }
+   }
+  },
   "hmh": {
    "name": "HMH",
    "cycles": {
@@ -5721,5 +5734,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T00:44:01Z"
+ "updated_at": "2026-10-05T06:49:30Z"
 }

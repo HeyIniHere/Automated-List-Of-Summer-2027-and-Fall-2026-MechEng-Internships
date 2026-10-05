@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-05T00:44:08Z</updated>
+  <updated>2026-10-05T06:49:37Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975</id>
+    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975"/>
+    <updated>2026-10-05T06:49:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Holland, Michigan, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977</id>
+    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"/>
+    <updated>2026-10-05T06:49:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Holland, Michigan, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056</id>
     <title>Primient: AI Analyst Intern - Summer 2027</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-01T17:08:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · US, California, Santa Clara · Python, C++, PyTorch, LLMs, CUDA · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00193608</id>
-    <title>Leidos: Mechanical Analysis Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Analysis-Intern_R-00193608"/>
-    <updated>2026-10-01T17:08:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Huntsville, AL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/Huntsville-AL/Mechanical-Design-Intern_R-00193605</id>
-    <title>Leidos: Mechanical Design Intern 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/Mechanical-Design-Intern_R-00193605"/>
-    <updated>2026-10-01T17:08:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Huntsville, AL · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

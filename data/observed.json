@@ -31,9 +31,10 @@
      "role_ids": [
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
-      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977"
+      "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
+      "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -420,6 +421,18 @@
     }
    }
   },
+  "american family insurance group": {
+   "name": "American Family Insurance Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ameriprise financial": {
    "name": "Ameriprise Financial",
    "cycles": {
@@ -529,9 +542,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-02",
      "role_ids": [
-      "greenhouse:arcboatcompany:5442881008"
+      "greenhouse:arcboatcompany:5442881008",
+      "greenhouse:arcboatcompany:5442958008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1428,6 +1442,7 @@
      "role_ids": [
       "workday:cox:/job/Atlanta-GA/AI-Automation-Intern---Summer-2027_R202682342",
       "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202682288",
+      "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372",
       "workday:cox:/job/Atlanta-GA/Data-Scientist-Intern---Summer-2027--Atlanta--GA-_R202682164",
       "workday:cox:/job/Atlanta-GA/Infrastructure-Automation-Intern---Summer-2027_R202682338",
       "workday:cox:/job/Atlanta-GA/Infrastructure-Operations-Intern---Summer-2027_R202682357",
@@ -1443,7 +1458,7 @@
       "workday:cox:/job/Long-Island-NY/Product-Management-Intern---Summer-2027--North-Hills--NY-_R202682185",
       "workday:cox:/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -2422,9 +2437,10 @@
      "role_ids": [
       "workday:hitachi:/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
       "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
-      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977"
+      "workday:hitachi:/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144977",
+      "workday:hitachi:/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2529,10 +2545,11 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-13",
-     "count": 2,
+     "count": 3,
      "role_ids": [
       "greenhouse:wehrtyou:8052083",
-      "greenhouse:wehrtyou:8222414"
+      "greenhouse:wehrtyou:8222414",
+      "greenhouse:wehrtyou:8257369"
      ]
     }
    }
@@ -2756,6 +2773,18 @@
     }
    }
   },
+  "ispace": {
+   "name": "ispace",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-02",
+     "role_ids": [
+      "lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "itron": {
    "name": "Itron",
    "cycles": {
@@ -2775,6 +2804,18 @@
      "first_posted": "2026-09-11",
      "role_ids": [
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "jain global": {
+   "name": "Jain Global",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"
      ],
      "count": 1
     }
@@ -2953,6 +2994,7 @@
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00191713",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00192858",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193804",
+      "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
@@ -2960,7 +3002,7 @@
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -2975,6 +3017,18 @@
       "greenhouse:lexingtonmedical:5404584008"
      ],
      "count": 3
+    }
+   }
+  },
+  "lexisnexis risk solutions": {
+   "name": "LexisNexis Risk Solutions",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-05",
+     "role_ids": [
+      "workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"
+     ],
+     "count": 1
     }
    }
   },
@@ -4635,10 +4689,11 @@
     "Fall 2026": {
      "first_posted": "2026-09-23",
      "role_ids": [
+      "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
       "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
       "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4807,9 +4862,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008089",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008131"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008180"
      ],
-     "count": 25
+     "count": 26
     }
    }
   },
@@ -5604,13 +5660,16 @@
       "oracle:emit.fa.ca3.oraclecloud.com:95526",
       "oracle:emit.fa.ca3.oraclecloud.com:95528",
       "oracle:emit.fa.ca3.oraclecloud.com:95670",
+      "oracle:emit.fa.ca3.oraclecloud.com:95758",
       "oracle:emit.fa.ca3.oraclecloud.com:95871",
       "oracle:emit.fa.ca3.oraclecloud.com:96292",
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96451",
-      "oracle:emit.fa.ca3.oraclecloud.com:96611"
+      "oracle:emit.fa.ca3.oraclecloud.com:96611",
+      "oracle:emit.fa.ca3.oraclecloud.com:96920",
+      "oracle:emit.fa.ca3.oraclecloud.com:96925"
      ],
-     "count": 36
+     "count": 39
     }
    }
   },
@@ -5737,5 +5796,5 @@
    }
   }
  },
- "updated_at": "2026-10-05T15:53:59Z"
+ "updated_at": "2026-10-05T22:32:27Z"
 }

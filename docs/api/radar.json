@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-05T15:54:06Z",
+ "generated_at": "2026-10-05T22:32:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -616,7 +616,7 @@
    "expected": "2026-08-14",
    "days_until": -52,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
    "note": ""
   },
   {
@@ -830,6 +830,20 @@
    "note": ""
   },
   {
+   "company": "WSP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -46,
+   "status": "open",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/96920",
+   "note": ""
+  },
+  {
    "company": "Advanced Space",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
@@ -869,20 +883,6 @@
    "days_until": -42,
    "status": "open",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
-   "note": ""
-  },
-  {
-   "company": "BTI360",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/bti36021/jobs/8155152",
    "note": ""
   },
   {
@@ -2128,7 +2128,7 @@
    "expected": "2026-09-09",
    "days_until": -26,
    "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
    "note": ""
   },
   {
@@ -2674,7 +2674,7 @@
    "expected": "2026-09-15",
    "days_until": -20,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
    "note": ""
   },
   {
@@ -3378,6 +3378,20 @@
    "note": ""
   },
   {
+   "company": "ispace",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-02",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.lever.co/ispace-inc/fa34bd91-bd23-460b-af53-4a7f2066d9f3",
+   "note": ""
+  },
+  {
    "company": "Major League Baseball",
    "last_cycle_posted": "",
    "posted_on": "2026-10-02",
@@ -3420,6 +3434,20 @@
    "note": ""
   },
   {
+   "company": "American Family Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615",
+   "note": ""
+  },
+  {
    "company": "Hitachi Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -3430,7 +3458,35 @@
    "expected": "2026-10-05",
    "days_until": 0,
    "status": "open",
-   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Holland-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0144975",
+   "url": "https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Auburn-Hills-Michigan-United-States/Mechanical-Engineering-Internship-Co-op_R0143857",
+   "note": ""
+  },
+  {
+   "company": "Jain Global",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+   "note": ""
+  },
+  {
+   "company": "LexisNexis Risk Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
    "note": ""
   },
   {
@@ -4120,20 +4176,6 @@
    "note": ""
   },
   {
-   "company": "WSP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -46,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -4143,6 +4185,20 @@
    "source": "engine",
    "expected": "2026-08-21",
    "days_until": -45,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "BTI360",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -42,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4792,5 +4848,5 @@
    "note": ""
   }
  ],
- "count": 342
+ "count": 346
 }

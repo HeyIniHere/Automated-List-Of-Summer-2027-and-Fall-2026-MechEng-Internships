@@ -1,3 +1,32 @@
 {
-  "pending": []
+  "pending": [
+    "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889",
+    "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615",
+    "greenhouse:arcboatcompany:5442958008",
+    "greenhouse:cssmerge:8869106002",
+    "greenhouse:cssmerge:8868918002",
+    "workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372",
+    "greenhouse:foundenergy:4719227006",
+    "workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516",
+    "workday:hitachi:/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979",
+    "greenhouse:wehrtyou:8257369",
+    "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524",
+    "workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530",
+    "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531",
+    "lever:ispace-inc:fa34bd91-bd23-460b-af53-4a7f2066d9f3",
+    "workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1",
+    "workday:koppers:/job/Hubbell-MI/Mechanical-Engineer-Co-op_REQ03199",
+    "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914",
+    "workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
+    "workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991",
+    "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
+    "ashby:tensorwave:39091eeb-13fc-46a7-b7e5-0d4584ac53ab",
+    "ashby:tensorwave:34dd183d-4423-40e3-bb6d-790b5dafc731",
+    "ashby:tensorwave:8ec8b715-f9ad-48a7-869e-ed9d455119a5",
+    "oracle:edbz.fa.us2.oraclecloud.com:25016392",
+    "oracle:emit.fa.ca3.oraclecloud.com:96920",
+    "oracle:emit.fa.ca3.oraclecloud.com:96925",
+    "oracle:emit.fa.ca3.oraclecloud.com:95758"
+  ]
 }

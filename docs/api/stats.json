@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-04T21:14:16Z",
- "duration_seconds": 432.2,
+ "generated_at": "2026-10-05T00:44:01Z",
+ "duration_seconds": 421.0,
  "companies_total": 4731,
  "companies_by_source": {
   "greenhouse": 1108,
@@ -16,26 +16,26 @@
   "breezy": 13,
   "eightfold": 1
  },
- "quarantined": 366,
- "fetched_ok": 4251,
- "fetch_errors": 114,
+ "quarantined": 373,
+ "fetched_ok": 4234,
+ "fetch_errors": 124,
  "errors_by_source": {
-  "workday": 110,
-  "greenhouse": 1,
-  "workable": 2,
+  "recruitee": 1,
+  "workday": 118,
+  "workable": 4,
   "ashby": 1
  },
- "fetch_success_rate": 0.974,
- "fetch_success_rate_registry": 0.899,
- "snapshots_complete": 4155,
- "snapshots_partial": 96,
- "roles_matched": 999,
- "dropped_no_year_in_title": 484,
+ "fetch_success_rate": 0.972,
+ "fetch_success_rate_registry": 0.895,
+ "snapshots_complete": 4139,
+ "snapshots_partial": 95,
+ "roles_matched": 991,
+ "dropped_no_year_in_title": 486,
  "dropped_offcycle_by_text": 205,
- "roles_cycle_inferred": 473,
+ "roles_cycle_inferred": 472,
  "roles_by_source": {
   "amazon": 12,
-  "ashby": 75,
+  "ashby": 74,
   "breezy": 4,
   "greenhouse": 292,
   "lever": 45,
@@ -48,23 +48,23 @@
  "roles_by_cycle": {
   "Fall 2026": 44,
   "Summer 2027": 791,
-  "Not stated": 473
+  "Not stated": 472
  },
  "roles_by_region": {
-  "US": 1308
+  "US": 1307
  },
  "sponsorship_counts": {
-  "unknown": 866,
+  "unknown": 865,
   "citizens-only": 316,
   "offers": 11,
   "no-sponsorship": 115
  },
  "posted_date_coverage": 0.988,
- "enriched_this_run": 1,
- "enrichment_detail_fetches": 1,
+ "enriched_this_run": 0,
+ "enrichment_detail_fetches": 0,
  "purged_this_run": 0,
- "new_this_run": 1,
- "open_total": 1308,
+ "new_this_run": 0,
+ "open_total": 1307,
  "detection_latency": {
   "median_minutes": 186.6,
   "p95_minutes": 1878.1,
@@ -73,7 +73,7 @@
   "basis": "roles published in the window with an exact source timestamp"
  },
  "posting_lifetime": {
-  "median_days": 8.0,
-  "sample_size": 1150
+  "median_days": 8,
+  "sample_size": 1151
  }
 }

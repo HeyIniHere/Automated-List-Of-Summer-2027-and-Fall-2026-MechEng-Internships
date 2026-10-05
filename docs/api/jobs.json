@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-04T21:14:23Z",
+ "generated_at": "2026-10-05T00:44:08Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1308,
+ "count": 1307,
  "jobs": [
   {
    "id": "workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056",
@@ -27738,34 +27738,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:phoebe-work:1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
-   "company": "Phoebe",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "New York City",
-   "url": "https://jobs.ashbyhq.com/phoebe-work/1ffe3e63-2163-447e-a8b0-1fff8b87e0ca",
-   "posted_at": "2026-08-20T15:06:08.548+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-21T09:47:10Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "TypeScript",
-    "LLMs",
-    "React",
-    "AWS",
-    "PostgreSQL"
-   ],
-   "source": "ashby",
-   "h1b_approvals": 7,
    "program": "Internship",
    "remote": false
   },

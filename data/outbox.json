@@ -1,3 +1,32 @@
 {
-  "pending": []
+  "pending": [
+    "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446",
+    "amazon:amazon:10571004",
+    "workday:badgermeter:/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642",
+    "oracle:epyc.fa.us2.oraclecloud.com:166786",
+    "workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
+    "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Software-Engineer-Co-op_R004416",
+    "workday:jabil:/job/Austin-TX/AI-Transformation-Intern_J2466044",
+    "workday:leidos:/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
+    "workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00193937",
+    "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193327",
+    "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193767",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40806",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40807",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40812",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40808",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40809",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40810",
+    "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
+    "ashby:rivet:03fcb078-7371-4cfd-89a9-368e5b60d914",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879706",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Spring-Summer-2027-_01879702",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-108--400-Collins-Rd-NE--BLDG-108/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01879705",
+    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884",
+    "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592",
+    "workday:maxar:/job/Herndon-VA/Summer-Internship--Aerospace-Modeling---Simulation_R24758",
+    "greenhouse:waymo:8257660",
+    "greenhouse:waymo:8257237"
+  ]
 }

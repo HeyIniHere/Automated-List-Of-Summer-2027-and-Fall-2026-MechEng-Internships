@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-06T16:49:53Z",
+ "generated_at": "2026-10-06T21:36:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1680,7 +1680,7 @@
    "expected": "2026-09-03",
    "days_until": -33,
    "status": "open",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Aspen-Park/Mechanical-Engineer-Co-Op--Summer-2027-_R-03261-1",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
    "note": ""
   },
   {
@@ -2426,6 +2426,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044",
+   "note": ""
+  },
+  {
    "company": "Klaviyo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2804,20 +2818,6 @@
    "note": ""
   },
   {
-   "company": "Nasdaq",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -20,
-   "status": "open",
-   "url": "https://nasdaq.wd1.myworkdayjobs.com/Global_External_Site/job/GA---Glenridge-Point/Software-Developer--Engineer-Intern---2027-Summer-Internship_R0026972",
-   "note": ""
-  },
-  {
    "company": "Relay",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3094,7 +3094,7 @@
    "expected": "2026-09-25",
    "days_until": -11,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420631009",
+   "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420611009",
    "note": ""
   },
   {
@@ -3532,6 +3532,20 @@
    "note": ""
   },
   {
+   "company": "Clean Harbors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786",
+   "note": ""
+  },
+  {
    "company": "Courier Health",
    "last_cycle_posted": "",
    "posted_on": "2026-10-06",
@@ -3543,6 +3557,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/courierhealth/jobs/5258913007",
+   "note": ""
+  },
+  {
+   "company": "Dmainc",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742",
    "note": ""
   },
   {
@@ -3588,17 +3616,17 @@
    "note": ""
   },
   {
-   "company": "American Rare Earths",
+   "company": "Rivet Industries",
    "last_cycle_posted": "",
-   "posted_on": "",
+   "posted_on": "2026-10-06",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "",
-   "days_until": null,
+   "expected": "2026-10-06",
+   "days_until": 0,
    "status": "open",
-   "url": "https://ats.rippling.com/usare/jobs/affd3b55-48c3-4d5d-88f4-859441845337",
+   "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914",
    "note": ""
   },
   {
@@ -4638,20 +4666,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -25,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Genworth Financial",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -4709,6 +4723,20 @@
   },
   {
    "company": "Live Oak Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Nasdaq",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
    "precision": "day",
@@ -4946,5 +4974,5 @@
    "note": ""
   }
  ],
- "count": 353
+ "count": 355
 }

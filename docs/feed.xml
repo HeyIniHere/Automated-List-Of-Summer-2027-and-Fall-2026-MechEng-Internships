@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-06T02:57:45Z</updated>
+  <updated>2026-10-06T10:07:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amgen:/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886</id>
+    <title>Amgen: Undergrad Co-op – Interactive Developer / Immersive Course Programmer for Manufacturing</title>
+    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/US---Puerto-Rico---Juncos/Undergrad-Co-op---Interactive-Developer---Immersive-Course-Programmer-for-Manufacturing_R-256886"/>
+    <updated>2026-10-06T10:06:53Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Hardware · US - Puerto Rico - Juncos · C++, Unreal · H-1B track record: ~768 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:5ae428f8-ac13-49b2-a244-fb97d31bfc79</id>
     <title>Field AI: Mechanical Engineer Internship, Robotics Hardware</title>
@@ -430,14 +438,6 @@
     <updated>2026-10-02T20:42:42Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Data &amp; ML/AI · San Bruno, California · Python, Computer Vision, AWS, GCP, Kubernetes · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:natera:6188497004</id>
-    <title>Natera: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/natera/jobs/6188497004"/>
-    <updated>2026-10-02T20:42:42Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · US Remote · Python, Java, JavaScript, SQL · H-1B track record: ~81 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:xai:5255111007</id>

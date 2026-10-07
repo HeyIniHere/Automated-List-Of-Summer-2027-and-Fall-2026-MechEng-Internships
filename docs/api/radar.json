@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-07T16:24:04Z",
+ "generated_at": "2026-10-07T21:56:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -616,7 +616,7 @@
    "expected": "2026-08-14",
    "days_until": -54,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
    "note": ""
   },
   {
@@ -826,7 +826,7 @@
    "expected": "2026-08-20",
    "days_until": -48,
    "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineering--APM----Cambridge--MA---Jan---Aug-2027_590097",
    "note": ""
   },
   {
@@ -1960,7 +1960,7 @@
    "expected": "2026-09-08",
    "days_until": -29,
    "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
    "note": ""
   },
   {
@@ -2128,7 +2128,7 @@
    "expected": "2026-09-09",
    "days_until": -28,
    "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
    "note": ""
   },
   {
@@ -2423,20 +2423,6 @@
    "days_until": -26,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269",
-   "note": ""
-  },
-  {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -26,
-   "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/AI-Transformation-Intern_J2466044",
    "note": ""
   },
   {
@@ -3672,6 +3658,34 @@
    "note": ""
   },
   {
+   "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1",
+   "note": ""
+  },
+  {
+   "company": "Nissan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+   "note": ""
+  },
+  {
    "company": "S&C Electric Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -3682,7 +3696,21 @@
    "expected": "2026-10-07",
    "days_until": 0,
    "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
+   "note": ""
+  },
+  {
+   "company": "State Affairs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
    "note": ""
   },
   {
@@ -4722,6 +4750,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -26,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Genworth Financial",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -5016,5 +5058,5 @@
    "note": ""
   }
  ],
- "count": 358
+ "count": 361
 }

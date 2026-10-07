@@ -105,9 +105,10 @@
       "smartrecruiters:AECOM2:744000149913009",
       "smartrecruiters:AECOM2:744000151381599",
       "smartrecruiters:AECOM2:744000152172269",
-      "smartrecruiters:AECOM2:744000152952229"
+      "smartrecruiters:AECOM2:744000152952229",
+      "smartrecruiters:AECOM2:744000154178117"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -553,9 +554,10 @@
      "first_posted": "2026-10-02",
      "role_ids": [
       "greenhouse:arcboatcompany:5442881008",
-      "greenhouse:arcboatcompany:5442958008"
+      "greenhouse:arcboatcompany:5442958008",
+      "greenhouse:arcboatcompany:5445312008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1786,9 +1788,10 @@
       "workday:elanco:/job/Clinton-IN/Manufacturing-Scientist-Technical-Services-Intern---Clinton--Indiana--Summer-2027-_R0026869-1",
       "workday:elanco:/job/Elwood-KS/Manufacturing-Associate-Intern---Elwood--Kansas--Summer-2027-_R0026899",
       "workday:elanco:/job/Fort-Dodge-IA/Manufacturing-Scientist-Technical-Services-Intern---Fort-Dodge--Iowa--Summer-2027-_R0027069-1",
-      "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897"
+      "workday:elanco:/job/Indianapolis-IN/Manufacturing-Scientist-Technical-Services-Intern---Elanco-Technology-Center--Summer-2027-_R0026897",
+      "workday:elanco:/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2788,6 +2791,18 @@
     }
    }
   },
+  "ingredion": {
+   "name": "Ingredion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:ingredion:/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "insulet": {
    "name": "Insulet Corporation",
    "cycles": {
@@ -3692,12 +3707,24 @@
     }
    }
   },
+  "nissan": {
+   "name": "Nissan",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"
+     ],
+     "count": 1
+    }
+   }
+  },
   "northrop grumman": {
    "name": "Northrop Grumman",
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 46,
+     "count": 48,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -3710,6 +3737,7 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Software-Engineer-Intern---Woodland-Hills-CA_R10249359",
@@ -3728,6 +3756,7 @@
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
+      "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
@@ -4032,6 +4061,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-20",
      "role_ids": [
+      "workday:philips:/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
@@ -4051,7 +4081,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 18
+     "count": 19
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -4532,12 +4562,17 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01871439",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Spring-Summer-2027-_01871448",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01874556",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer-Fall-2027-_01871232",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern-----Summer-2027-_01867602",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Intern--Summer-2027-_01869486",
@@ -4556,7 +4591,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 56
+     "count": 61
     }
    }
   },
@@ -5038,6 +5073,18 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180"
      ],
      "count": 26
+    }
+   }
+  },
+  "state affairs": {
+   "name": "State Affairs",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "greenhouse:stateaffairs:4437430009"
+     ],
+     "count": 1
     }
    }
   },
@@ -5842,9 +5889,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96611",
       "oracle:emit.fa.ca3.oraclecloud.com:96920",
       "oracle:emit.fa.ca3.oraclecloud.com:96925",
-      "oracle:emit.fa.ca3.oraclecloud.com:97020"
+      "oracle:emit.fa.ca3.oraclecloud.com:97020",
+      "oracle:emit.fa.ca3.oraclecloud.com:97068"
      ],
-     "count": 40
+     "count": 41
     }
    }
   },
@@ -5971,5 +6019,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T16:23:57Z"
+ "updated_at": "2026-10-07T21:56:51Z"
 }

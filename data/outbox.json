@@ -1,18 +1,3 @@
 {
-  "pending": [
-    "oracle:ebcs.fa.em2.oraclecloud.com:44983",
-    "workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419",
-    "workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931",
-    "workday:jj:/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371",
-    "workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769",
-    "workday:mosscm:/job/FORT-LAUDERDALE-FL/Mechanical-Administrator-Internship_R-3031",
-    "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
-    "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
-    "oracle:ejia.fa.us6.oraclecloud.com:107374",
-    "oracle:ejia.fa.us6.oraclecloud.com:107366",
-    "oracle:ejia.fa.us6.oraclecloud.com:107379",
-    "oracle:ejia.fa.us6.oraclecloud.com:107367",
-    "oracle:ejia.fa.us6.oraclecloud.com:107361",
-    "oracle:ejia.fa.us6.oraclecloud.com:107373"
-  ]
+  "pending": []
 }

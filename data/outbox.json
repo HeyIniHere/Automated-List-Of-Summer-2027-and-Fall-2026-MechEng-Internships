@@ -1,23 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000154178117",
-    "greenhouse:arcboatcompany:5445312008",
-    "workday:elanco:/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460",
-    "workday:imeg:/job/Raleigh-NC/Mechanical-Co-op_R-16838",
-    "workday:ingredion:/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1",
-    "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
-    "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
-    "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
-    "workday:ngc:/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962",
-    "workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966",
-    "workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794",
-    "workday:philips:/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727",
-    "greenhouse:stateaffairs:4437430009",
-    "oracle:emit.fa.ca3.oraclecloud.com:97068"
-  ]
+  "pending": []
 }

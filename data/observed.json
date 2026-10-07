@@ -2916,6 +2916,7 @@
       "workday:jj:/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Data-Science-Co-Op--Summer-2027_R-096746",
       "workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Software-Engineering-Co-Op-Summer-2027_R-096743",
+      "workday:jj:/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Clinical-Engineering---Human-Factors-Intern---Robotics-R-D_R-099931",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Electrical-Engineering-Intern---Robotics-R-D_R-099626-1",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Mechanical-Engineering-Intern---Robotics-R-D_R-099647-1",
@@ -2924,7 +2925,7 @@
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Software-Engineering-Intern---Robotics-R-D_R-099919",
       "workday:jj:/job/Santa-Clara-California-United-States-of-America/Systems---Simulation-Engineering-Intern---Robotics-R-D_R-100027"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -3696,7 +3697,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 44,
+     "count": 46,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -3740,6 +3741,8 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
+      "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
      ]
@@ -4569,6 +4572,18 @@
       "oracle:ejia.fa.us6.oraclecloud.com:107307"
      ],
      "count": 4
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "oracle:ejia.fa.us6.oraclecloud.com:107361",
+      "oracle:ejia.fa.us6.oraclecloud.com:107366",
+      "oracle:ejia.fa.us6.oraclecloud.com:107367",
+      "oracle:ejia.fa.us6.oraclecloud.com:107373",
+      "oracle:ejia.fa.us6.oraclecloud.com:107374",
+      "oracle:ejia.fa.us6.oraclecloud.com:107379"
+     ],
+     "count": 6
     }
    }
   },
@@ -5956,5 +5971,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T08:30:25Z"
+ "updated_at": "2026-10-07T16:23:57Z"
 }

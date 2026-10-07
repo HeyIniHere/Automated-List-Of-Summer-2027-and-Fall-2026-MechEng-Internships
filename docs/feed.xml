@@ -5,15 +5,119 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-07T08:30:29Z</updated>
+  <updated>2026-10-07T16:24:04Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
-    <title>Tenstorrent: AI Software Intern</title>
-    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
-    <updated>2026-10-07T08:30:25Z</updated>
+    <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:44983</id>
+    <title>Arcadis: Structural Intern</title>
+    <link href="https://ebcs.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/44983"/>
+    <updated>2026-10-07T16:23:57Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Akron, OH, United States · $22–$31/hr · H-1B track record: ~100 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:entrust:/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419</id>
+    <title>Entrust: Firmware Engineering Co-op</title>
+    <link href="https://entrust.wd1.myworkdayjobs.com/entrustcareers/job/United-States---Shakopee-MN-GHQ/Firmware-Engineering-Co-op_R004419"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · United States - Shakopee, MN (GHQ) · $25/hr · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931</id>
+    <title>Intel: AI Solution Architect - Undergraduate Intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Undergraduate-Intern_JR0287931"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371</id>
+    <title>Johnson &amp; Johnson: GTO Manufacturing Engineering Co-op, Summer 2027</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cornelia-Georgia-United-States-of-America/GTO-Manufacturing-Engineering-Co-op--Summer-2027_R-103371"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Cornelia, Georgia, United States of America · Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769</id>
+    <title>Leidos: Business Systems AI Intern 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/Business-Systems-AI-Intern_R-00193769"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, LLMs · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:mosscm:/job/FORT-LAUDERDALE-FL/Mechanical-Administrator-Internship_R-3031</id>
+    <title>Moss &amp; Associates: Mechanical Administrator Internship</title>
+    <link href="https://mosscm.wd1.myworkdayjobs.com/moss_careers/job/FORT-LAUDERDALE-FL/Mechanical-Administrator-Internship_R-3031"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · FORT LAUDERDALE, FL · H-1B track record: ~24 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1</id>
+    <title>Northrop Grumman: 2027 Software Developer Intern- Chantilly VA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Virginia-Chantilly · $21.5–$39/hr · Python, Java, C++, C#, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Utah-Roy · $23–$29/hr · Python, Java, C++, Git, Tableau · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107374</id>
+    <title>S&amp;C Electric Company: Software Engineer Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107366</id>
+    <title>S&amp;C Electric Company: Manufacturing Engineer Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107366"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107379</id>
+    <title>S&amp;C Electric Company: Mechanical Engineer (Reliability) Intern</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107379"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Chicago, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107367</id>
+    <title>S&amp;C Electric Company: Mechanical Engineer Intern- Palatine,IL</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107367"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Palatine, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107361</id>
+    <title>S&amp;C Electric Company: Mechanical Engineer Intern - Franklin,WI</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Franklin, WI, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107373</id>
+    <title>S&amp;C Electric Company: Manufacturing Engineer Intern- Palatine,IL</title>
+    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107373"/>
+    <updated>2026-10-07T16:23:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Palatine, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
@@ -30,6 +134,14 @@
     <updated>2026-10-07T08:30:25Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Boston, Massachusetts, United States; Fort Collins, Colorado, United States; Santa Clara, California, United States · $50/hr · Python, C++ · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
+    <title>Tenstorrent: AI Software Intern</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
+    <updated>2026-10-07T08:30:25Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1</id>
@@ -694,117 +806,5 @@
     <updated>2026-10-05T22:32:27Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Santa Clara, CA, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:95758</id>
-    <title>WSP: Mechanical Engineering Co-op - Spring/Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Philadelphia, PA, United States · $23.9–$31.11/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008180</id>
-    <title>Stantec: Civil Engineering Internship - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008180"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Okemos, MI, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889</id>
-    <title>ABB: Manufacturing Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, NM, Albuquerque · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615</id>
-    <title>American Family Insurance Group: Summer 2027 Intern - Data Analyst</title>
-    <link href="https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · WI Madison · Python, SQL, GCP, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372</id>
-    <title>Cox: Cybersecurity Intern - Summer 2027</title>
-    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Cybersecurity-Intern---Summer-2027_R202683372"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Atlanta GA · $24.23–$36.35/hr · Python, JavaScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:graco:/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516</id>
-    <title>Graco: Cybersecurity Intern 🛂</title>
-    <link href="https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA-French-Lake/Cybersecurity-Intern_R0023516"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Dayton, Minnesota, USA (French Lake) · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979</id>
-    <title>Hitachi Energy: Mechanical Engineering Internship/Co-op</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Mechanical-Engineering-Internship-Co-op_R0144979"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Liberty, South Carolina, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524</id>
-    <title>Intel: AI Solution Architect - Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Solution-Architect---Graduate-Intern_JR0287524"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, California, Santa Clara · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530</id>
-    <title>Intel: AI Solution Architect Graduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-California-Santa-Clara/AI-Solution-Architect-Graduate-Intern_JR0287530"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, California, Santa Clara · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531</id>
-    <title>Intel: AI Solution Architect - Undergraduate Intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Oregon-Hillsboro/AI-Solution-Architect---Graduate-Intern_JR0287531"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, Oregon, Hillsboro · Python, C++, PyTorch, TensorFlow, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Data-Engineer-Intern_JR100605-1</id>
-    <title>Jain Global: Data Engineer Intern</title>
-    <link href="https://jainglobal.wd5.myworkdayjobs.com/ExternalSite/job/New-York-New-York/Data-Engineer-Intern_JR100605-1"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York · Python, SQL, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:micron:/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991</id>
-    <title>Micron Technology: Intern - SMAI TD AI Engineering Team</title>
-    <link href="https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---SMAI-TD-AI-Engineering-Team_JR112991"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Boise, ID - Main Site · Python, Java, C#, TypeScript, JavaScript · H-1B track record: ~489 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:relx:/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955</id>
-    <title>LexisNexis Risk Solutions: Data Science Intern</title>
-    <link href="https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Alpharetta, GA (Alderman) · $20/hr · Python, SQL, LLMs, Computer Vision · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590</id>
-    <title>Sierra Nevada Corporation: Mechanical Engineer I (For 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590"/>
-    <updated>2026-10-05T22:32:27Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Hardware · Colorado Springs, CO · sponsorship: citizens-only</summary>
   </entry>
 </feed>

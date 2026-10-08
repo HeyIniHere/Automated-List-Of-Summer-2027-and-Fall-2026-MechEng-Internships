@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T16:25:51Z",
+ "generated_at": "2026-10-08T22:02:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -43,6 +43,20 @@
    "days_until": -400,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/gleanwork/jobs/4595665005",
+   "note": ""
+  },
+  {
+   "company": "Field AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-02-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-02-17",
+   "days_until": -233,
+   "status": "open",
+   "url": "https://jobs.lever.co/field-ai/ce04c5b3-17c3-49aa-b833-a6bebbf9d23f",
    "note": ""
   },
   {
@@ -802,20 +816,6 @@
    "note": ""
   },
   {
-   "company": "Fifth Third Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-20",
-   "days_until": -49,
-   "status": "open",
-   "url": "https://fifththird.wd5.myworkdayjobs.com/53careers/job/Cincinnati-OH/Software-Engineer-Co-Op---Enterprise-Finance-Applications---Summer-2027_R71588",
-   "note": ""
-  },
-  {
    "company": "General Dynamics Information Technology",
    "last_cycle_posted": "",
    "posted_on": "2026-08-20",
@@ -1149,20 +1149,6 @@
    "days_until": -42,
    "status": "open",
    "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
-   "note": ""
-  },
-  {
-   "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Appleton-Wisconsin-United-States/Engineer-Intern---Mechanical--Summer-2027-_R49741",
    "note": ""
   },
   {
@@ -1681,20 +1667,6 @@
    "days_until": -35,
    "status": "open",
    "url": "https://poet.wd1.myworkdayjobs.com/POET/job/Sioux-Falls-SD/Mechanical-Engineering-Intern---Summer-2027_R101696",
-   "note": ""
-  },
-  {
-   "company": "Saab",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
    "note": ""
   },
   {
@@ -2790,6 +2762,20 @@
    "note": ""
   },
   {
+   "company": "Plastipak",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -22,
+   "status": "open",
+   "url": "https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670",
+   "note": ""
+  },
+  {
    "company": "Relay",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3696,7 +3682,7 @@
    "expected": "2026-10-07",
    "days_until": -1,
    "status": "open",
-   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
    "note": ""
   },
   {
@@ -3711,6 +3697,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
+   "note": ""
+  },
+  {
+   "company": "Jones Lang LaSalle (JLL)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393",
    "note": ""
   },
   {
@@ -3739,6 +3739,48 @@
    "days_until": 0,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
+   "note": ""
+  },
+  {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006",
+   "note": ""
+  },
+  {
+   "company": "Sierra Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389",
+   "note": ""
+  },
+  {
+   "company": "Viget",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2",
    "note": ""
   },
   {
@@ -4400,6 +4442,20 @@
    "note": ""
   },
   {
+   "company": "Fifth Third Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-20",
+   "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Airbus",
    "last_cycle_posted": "",
    "posted_on": "2026-08-21",
@@ -4485,6 +4541,20 @@
   },
   {
    "company": "Johns Manville (JM)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Oshkosh",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
    "precision": "day",
@@ -4611,6 +4681,20 @@
   },
   {
    "company": "DriveTime",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -35,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Saab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
    "precision": "day",
@@ -4890,20 +4974,6 @@
    "note": ""
   },
   {
-   "company": "Plastipak",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -22,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Smith+Nephew",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -5100,5 +5170,5 @@
    "note": ""
   }
  ],
- "count": 364
+ "count": 369
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T08:48:52Z",
+ "generated_at": "2026-10-08T16:25:51Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -686,7 +686,7 @@
    "expected": "2026-08-17",
    "days_until": -52,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Dallas-TX/Structural-Engineering-Intern---Dallas--TX_R-16424",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
    "note": ""
   },
   {
@@ -2059,20 +2059,6 @@
    "days_until": -30,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
-   "note": ""
-  },
-  {
-   "company": "U.S. Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://usbank.wd1.myworkdayjobs.com/US_Bank_Careers/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766",
    "note": ""
   },
   {
@@ -3672,6 +3658,20 @@
    "note": ""
   },
   {
+   "company": "Apple Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://applebank.wd5.myworkdayjobs.com/applebankcareers/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+   "note": ""
+  },
+  {
    "company": "Ingredion",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -3711,6 +3711,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
+   "note": ""
+  },
+  {
+   "company": "Modernizing Medicine",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://modmed.wd501.myworkdayjobs.com/ModMed12/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+   "note": ""
+  },
+  {
+   "company": "Rugged Robotics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
    "note": ""
   },
   {
@@ -4666,6 +4694,20 @@
    "note": ""
   },
   {
+   "company": "U.S. Bank",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Emerson Electric",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -5058,5 +5100,5 @@
    "note": ""
   }
  ],
- "count": 361
+ "count": 364
 }

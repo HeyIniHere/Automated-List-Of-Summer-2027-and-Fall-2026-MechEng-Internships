@@ -1,3 +1,21 @@
 {
-  "pending": []
+  "pending": [
+    "workday:aep:/job/Columbus-OH/Data-Scientist-Intern---Columbus--OH_R19884",
+    "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416",
+    "workday:badgermeter:/job/US----CA---Escondido-Facility/Software-Engineering-Intern_4645",
+    "workday:cox:/job/Atlanta-GA/Data-Scientist-Co-op_R202683033",
+    "lever:genbio:7d0b5764-48ce-4d06-93d2-431742d35604",
+    "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Transportation-Routing--_R-58374",
+    "workday:leidos:/job/Atlantic-City-NJ/Systems--Integration-and-Software-Engineer-Intern_R-00194152",
+    "workday:modmed:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148",
+    "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
+    "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+    "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
+    "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
+    "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
+    "greenhouse:ruggedrobotics:4730900005",
+    "greenhouse:ruggedrobotics:4730908005",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
+    "greenhouse:syskahennessy:8177728"
+  ]
 }

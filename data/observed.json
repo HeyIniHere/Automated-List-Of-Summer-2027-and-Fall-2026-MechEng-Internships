@@ -535,6 +535,18 @@
     }
    }
   },
+  "apple bank": {
+   "name": "Apple Bank",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-07",
+     "role_ids": [
+      "workday:applebank:/job/New-York-NY/XMLNAME-2027-Summer-Intern--Information-Security_2026-1416"
+     ],
+     "count": 1
+    }
+   }
+  },
   "applied materials": {
    "name": "Applied Materials",
    "cycles": {
@@ -3450,6 +3462,18 @@
     }
    }
   },
+  "modernizing medicine": {
+   "name": "Modernizing Medicine",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "workday:modmed:/job/Boca-Raton-FL/Software-Engineering-Intern_R5148"
+     ],
+     "count": 1
+    }
+   }
+  },
   "momentive": {
    "name": "Momentive",
    "cycles": {
@@ -3506,9 +3530,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
-      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1"
+      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
+      "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3716,10 +3741,12 @@
     "Summer 2027": {
      "first_posted": "2026-10-07",
      "role_ids": [
+      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
+      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3728,7 +3755,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 51,
+     "count": 53,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -3738,6 +3765,8 @@
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
+      "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -4603,6 +4632,19 @@
     }
    }
   },
+  "rugged robotics": {
+   "name": "Rugged Robotics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-08",
+     "role_ids": [
+      "greenhouse:ruggedrobotics:4730900005",
+      "greenhouse:ruggedrobotics:4730908005"
+     ],
+     "count": 2
+    }
+   }
+  },
   "s c electric": {
    "name": "S&C Electric Company",
    "cycles": {
@@ -5078,9 +5120,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008121",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008180"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008210"
      ],
-     "count": 26
+     "count": 27
     }
    }
   },
@@ -6027,5 +6070,5 @@
    }
   }
  },
- "updated_at": "2026-10-08T08:48:46Z"
+ "updated_at": "2026-10-08T16:25:44Z"
 }

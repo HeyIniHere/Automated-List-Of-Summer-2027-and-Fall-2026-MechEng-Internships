@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-08T01:48:52Z",
+ "generated_at": "2026-10-08T08:48:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3714,20 +3714,6 @@
    "note": ""
   },
   {
-   "company": "State Affairs",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
-   "note": ""
-  },
-  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -5053,6 +5039,20 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "State Affairs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -1,
    "status": "dropped",
    "url": "",
    "note": ""

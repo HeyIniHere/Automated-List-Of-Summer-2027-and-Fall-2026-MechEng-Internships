@@ -1,3 +1,12 @@
 {
-  "pending": []
+  "pending": [
+    "workday:aptiv:/job/Warren-OH---USA/Mechanical-Engineering-Intern---Tooling_J000704864",
+    "workday:axos:/job/HQ---San-Diego-CA/Software-Development-Intern_JR5647",
+    "workday:axos:/job/HQ---San-Diego-CA/AI-Engineer-Intern_JR5658",
+    "greenhouse:doordashusa:8263774",
+    "workday:motorolasolutions:/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997",
+    "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
+    "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+    "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134"
+  ]
 }

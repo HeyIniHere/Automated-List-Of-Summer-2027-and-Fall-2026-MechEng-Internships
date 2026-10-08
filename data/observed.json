@@ -323,7 +323,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 15,
+     "count": 16,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -333,6 +333,7 @@
       "amazon:amazon:10535282",
       "amazon:amazon:10536817",
       "amazon:amazon:10552937",
+      "amazon:amazon:10553907",
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
       "amazon:amazon:10559762",
@@ -3713,9 +3714,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-07",
      "role_ids": [
-      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"
+      "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+      "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3937,9 +3939,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-30",
      "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506639",
       "oracle:hctz.fa.us2.oraclecloud.com:2506814"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -6019,5 +6022,5 @@
    }
   }
  },
- "updated_at": "2026-10-07T21:56:51Z"
+ "updated_at": "2026-10-08T01:48:47Z"
 }

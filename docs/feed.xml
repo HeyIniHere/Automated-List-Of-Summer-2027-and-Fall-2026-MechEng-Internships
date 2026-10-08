@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-07T21:56:55Z</updated>
+  <updated>2026-10-08T01:48:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000154178117</id>
-    <title>AECOM: Mechanical Engineering Intern – Hiring Event with AECOM – Atlanta, GA</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000154178117"/>
-    <updated>2026-10-07T21:56:51Z</updated>
+    <id>urn:intern-engine:amazon:amazon:10553907</id>
+    <title>Amazon: Data Engineer Internship - 2027 (US)</title>
+    <link href="https://www.amazon.jobs/en/jobs/10553907/data-engineer-internship-2027-us"/>
+    <updated>2026-10-08T01:48:47Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Atlanta, GA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Seattle, Washington, USA · Python, SQL, Scala, AWS, Hadoop · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:avav:/job/Petaluma-CA/Mechanical-Engineering-Intern_9038</id>
+    <title>Avav: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Petaluma-CA/Mechanical-Engineering-Intern_9038"/>
+    <updated>2026-10-08T01:48:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Petaluma, CA · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215</id>
+    <title>Nissan: Digital Products &amp; AI Strategy Intern - Summer 2027 - Franklin, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215"/>
+    <updated>2026-10-08T01:48:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Franklin, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/San-Diego-Manufacturing-Technician-Intern---Fall_R10255107</id>
+    <title>Northrop Grumman: San Diego Manufacturing Technician Intern - Fall 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/San-Diego-Manufacturing-Technician-Intern---Fall_R10255107"/>
+    <updated>2026-10-08T01:48:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · United States-California-San Diego · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hctz.fa.us2.oraclecloud.com:2506639</id>
+    <title>onsemi: Summer 2027 - Manufacturing Engineering Intern</title>
+    <link href="https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506639"/>
+    <updated>2026-10-08T01:48:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Hopewell Junction, NY, United States · $26–$44/hr · Python, SQL, Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5445312008</id>
@@ -24,12 +56,84 @@
     <summary>Summer 2027 · Hardware · Torrance, CA · $36/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:stateaffairs:4437430009</id>
+    <title>State Affairs: Software Engineer Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Washington, DC · TypeScript, SQL, LLMs, React, Node.js</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97068</id>
+    <title>WSP: Structural Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97068"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Chicago, IL, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000154178117</id>
+    <title>AECOM: Mechanical Engineering Intern – Hiring Event with AECOM – Atlanta, GA</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000154178117"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Atlanta, GA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290</id>
+    <title>Nissan: Raw Materials Engineering Intern - Summer 2027 - Decherd, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Decherd, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:elanco:/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460</id>
     <title>Elanco: Manufacturing Associate Intern – Winslow, Maine (Summer 2027)</title>
     <link href="https://elanco.wd5.myworkdayjobs.com/External_Career/job/Winslow-ME/Manufacturing-Associate-Intern---Winslow--Maine--Summer-2027-_R0027460"/>
     <updated>2026-10-07T21:56:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Winslow, ME · $20–$40/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288</id>
+    <title>RTX: Manufacturing Project Specialist Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-119 ~ 400 Collins Rd NE ~ BLDG 119 · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738</id>
+    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739</id>
+    <title>RTX: Software Engineering Co-op (Summer /Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · C++, Linux · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:imeg:/job/Raleigh-NC/Mechanical-Co-op_R-16838</id>
@@ -48,12 +152,28 @@
     <summary>Summer 2027 · Hardware · North Kansas City, MO</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290</id>
-    <title>Nissan: Raw Materials Engineering Intern - Summer 2027 - Decherd, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290"/>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966</id>
+    <title>Northrop Grumman: Chandler Manufacturing Technician Intern - Fall 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966"/>
     <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Decherd, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · United States-Arizona-Chandler · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794</id>
+    <title>Northrop Grumman: Chandler Manufacturing Technician Intern (2nd Shift) - Fall 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · United States-Arizona-Chandler · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962</id>
+    <title>Northrop Grumman: Gilbert Manufacturing Technician Intern - Fall 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962"/>
+    <updated>2026-10-07T21:56:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · United States-Arizona-Gilbert · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084</id>
@@ -72,92 +192,12 @@
     <summary>Summer 2027 · Hardware · United States-Maryland-Annapolis · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962</id>
-    <title>Northrop Grumman: Gilbert Manufacturing Technician Intern - Fall 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Gilbert-Manufacturing-Technician-Intern---Fall_R10250962"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · United States-Arizona-Gilbert · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966</id>
-    <title>Northrop Grumman: Chandler Manufacturing Technician Intern - Fall 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern---Fall_R10250966"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · United States-Arizona-Chandler · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794</id>
-    <title>Northrop Grumman: Chandler Manufacturing Technician Intern (2nd Shift) - Fall 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Chandler-Manufacturing-Technician-Intern--2nd-Shift----Fall_R10254794"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · United States-Arizona-Chandler · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:philips:/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564</id>
     <title>Philips: Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027</title>
     <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"/>
     <updated>2026-10-07T21:56:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bothell, Washington, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288</id>
-    <title>RTX: Manufacturing Project Specialist Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-119 ~ 400 Collins Rd NE ~ BLDG 119 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738</id>
-    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726</id>
-    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739</id>
-    <title>RTX: Software Engineering Co-op (Summer /Fall 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Summer--Fall-2027-_01879739"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727</id>
-    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01879727"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · C++, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:stateaffairs:4437430009</id>
-    <title>State Affairs: Software Engineer Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Washington, DC · TypeScript, SQL, LLMs, React, Node.js</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97068</id>
-    <title>WSP: Structural Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97068"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Chicago, IL, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ebcs.fa.em2.oraclecloud.com:44983</id>
@@ -198,14 +238,6 @@
     <updated>2026-10-07T16:23:57Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Palatine, IL, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107374</id>
-    <title>S&amp;C Electric Company: Software Engineer Intern</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107374"/>
-    <updated>2026-10-07T16:23:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Chicago, IL, United States · $22–$30/hr · Python, C#, JavaScript, SQL, Angular · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107379</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-06T16:49:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Germantown, MD · Python, Java, C++, JavaScript, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cartech:/job/Reading-PA/Maintenance-Intern---Mechanical_26885</id>
-    <title>Carpenter Technology: Maintenance Intern - Mechanical</title>
-    <link href="https://cartech.wd5.myworkdayjobs.com/CTCExternal/job/Reading-PA/Maintenance-Intern---Mechanical_26885"/>
-    <updated>2026-10-06T16:49:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Reading, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kencogroup:/job/Wilmer-TX/SCS-Intern_JR106615</id>
-    <title>Kenco Management Services: Industrial Engineering Intern</title>
-    <link href="https://kencogroup.wd12.myworkdayjobs.com/kenco/job/Wilmer-TX/SCS-Intern_JR106615"/>
-    <updated>2026-10-06T16:49:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wilmer, TX · H-1B track record: ~15 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989</id>
-    <title>Marvell: Machine Learning Engineer Intern, BS/MS - Summer 2027</title>
-    <link href="https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989"/>
-    <updated>2026-10-06T16:49:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Santa Clara, CA · Python, CUDA, AWS, GCP, Azure · H-1B track record: ~234 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:midlandsb:/job/Effingham-IL/Intern---IT-Infrastructure_JR1471</id>
-    <title>Midland States Bank: Intern - IT Infrastructure</title>
-    <link href="https://midlandsb.wd1.myworkdayjobs.com/msbcareers/job/Effingham-IL/Intern---IT-Infrastructure_JR1471"/>
-    <updated>2026-10-06T16:49:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Effingham, IL · Python</summary>
   </entry>
 </feed>

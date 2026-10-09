@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-09T02:01:20Z</updated>
+  <updated>2026-10-09T08:54:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
+    <title>Aptiv: Embedded Software - Engineering Intern 🇺🇸</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Linux · sponsorship: citizens-only · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385</id>
+    <title>Aptiv: Intern - Compiler Team</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Python, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
+    <title>Aptiv: Linux Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Home Office - WR · Python, C++, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399</id>
+    <title>Aptiv: Linux Software Development Intern</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Home Office - WR · Python, C++, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863</id>
+    <title>Aptiv: Manufacturing Engineering Intern – Metal Technology</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Warren, OH - USA · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cranecompany:/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723</id>
+    <title>Crane Co.: Manufacturing Intern-1</title>
+    <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Montgomery, Texas · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313</id>
+    <title>Motorola: Android Applications Developer Intern - Summer 2027 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, IL · Kotlin, Git · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:centific:/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1</id>
     <title>Centific: AI Research Intern -  Physical AI</title>
@@ -110,14 +166,6 @@
     <updated>2026-10-08T22:02:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Spring House, Pennsylvania, United States of America</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jll:/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393</id>
-    <title>Jones Lang LaSalle (JLL): AI Intern Summer 2027 Internship - Los Angeles, CA 🛂</title>
-    <link href="https://jll.wd1.myworkdayjobs.com/jllcareers/job/Los-Angeles-CA/AI-Intern-Summer-2027-Internship---Los-Angeles--CA_REQ539393"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Los Angeles, CA · Python, SQL, Pandas, LLMs, Tableau · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819</id>
@@ -731,54 +779,6 @@
     <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566</id>
     <title>Nokia: AI Engineering Co-op</title>
     <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40806</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40806"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40807</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40807"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40808</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40808"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40809</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40809"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40810</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40810"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40812</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40812"/>
     <updated>2026-10-06T21:36:28Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>

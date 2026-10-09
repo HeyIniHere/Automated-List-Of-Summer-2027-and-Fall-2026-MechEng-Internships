@@ -5,23 +5,63 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-09T08:54:32Z</updated>
+  <updated>2026-10-09T16:09:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
-    <title>Aptiv: Embedded Software - Engineering Intern 🇺🇸</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"/>
-    <updated>2026-10-09T08:54:26Z</updated>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257199007</id>
+    <title>Arcesium: Infrastructure Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007"/>
+    <updated>2026-10-09T16:09:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Linux · sponsorship: citizens-only · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · New York · Python, Java, LLMs, AWS, Kubernetes · H-1B track record: ~11 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385</id>
-    <title>Aptiv: Intern - Compiler Team</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"/>
-    <updated>2026-10-09T08:54:26Z</updated>
+    <id>urn:intern-engine:greenhouse:gcmgrosvenor:8015792003</id>
+    <title>GCM Grosvenor: 2027 Software Engineering Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003"/>
+    <updated>2026-10-09T16:09:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Chicago, Illinois, United States · Python, Java, C++, C#, JavaScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132</id>
+    <title>General Motors: 2027 Summer Intern,  Data Scaling, Embodied AI</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132"/>
+    <updated>2026-10-09T16:09:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1</id>
+    <title>Gorbel: Manufacturing Engineer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1"/>
+    <updated>2026-10-09T16:09:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Python, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · USA, New York, Victor · $23–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2</id>
+    <title>KLA: Mechanical Engineering Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2"/>
+    <updated>2026-10-09T16:09:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Ann Arbor, MI · $27–$38.5/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:schonfeld:8267092</id>
+    <title>Schonfeld: 2027 Quantitative Developer Intern</title>
+    <link href="https://job-boards.greenhouse.io/schonfeld/jobs/8267092"/>
+    <updated>2026-10-09T16:09:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Quant · Austin, Texas, United States · Python, Java, C++, SQL · H-1B track record: ~41 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25012948</id>
+    <title>Texas Instruments: Software Engineering Intern (Longmont, CO) 🛂</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948"/>
+    <updated>2026-10-09T16:09:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Longmont, CO, United States · sponsorship: no-sponsorship · H-1B track record: ~234 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398</id>
@@ -38,6 +78,22 @@
     <updated>2026-10-09T08:54:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · USA Home Office - WR · Python, C++, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
+    <title>Aptiv: Embedded Software - Engineering Intern 🇺🇸</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Linux · sponsorship: citizens-only · H-1B track record: ~251 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385</id>
+    <title>Aptiv: Intern - Compiler Team</title>
+    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Intern---Compiler-Team_J000704385"/>
+    <updated>2026-10-09T08:54:26Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Python, Linux, Git · H-1B track record: ~251 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:aptiv:/job/Warren-OH---USA/Manufacturing-Engineering-Intern---Metal-Technology_J000704863</id>
@@ -681,7 +737,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256686007</id>
-    <title>Tenstorrent: AI SW Intern, Cloud, Infrastructure &amp; Data Centre Deployment</title>
+    <title>Tenstorrent: AI Software Intern - Cloud, Infrastructure &amp; Data Centre Deployment (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256686007"/>
     <updated>2026-10-07T08:30:25Z</updated>
     <category term="Not stated"/>
@@ -689,7 +745,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5256691007</id>
-    <title>Tenstorrent: Hardware Intern - Architecture, AI HW &amp; System on a Chip</title>
+    <title>Tenstorrent: Hardware Intern - Architecture, AI HW &amp; SoC (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5256691007"/>
     <updated>2026-10-07T08:30:25Z</updated>
     <category term="Not stated"/>
@@ -697,7 +753,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5258901007</id>
-    <title>Tenstorrent: AI Software Intern</title>
+    <title>Tenstorrent: AI Software Intern (USA)</title>
     <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5258901007"/>
     <updated>2026-10-07T08:30:25Z</updated>
     <category term="Not stated"/>
@@ -750,61 +806,5 @@
     <updated>2026-10-06T21:36:28Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Jose, CA · C++, C#, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8257237</id>
-    <title>Waymo: 2027 Summer Intern, BS, Waymo ML Ops &amp; Automation</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8257237"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA, USA · C++, SQL · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:waymo:8257660</id>
-    <title>Waymo: 2027 Summer Intern, BS, Software Engineer, Model Eval</title>
-    <link href="https://careers.withwaymo.com/jobs?gh_jid=8257660"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA, USA · Python, C++, LLMs · H-1B track record: ~284 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:166786</id>
-    <title>Clean Harbors: Mechanical Engineer Intern - Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · La Porte, TX, United States · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:40566</id>
-    <title>Nokia: AI Engineering Co-op</title>
-    <link href="https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/40566"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · United States · PyTorch, TensorFlow, Kafka · H-1B track record: ~321 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446</id>
-    <title>ABB: Manufacturing Quality Intern - Summer 2027 🛂</title>
-    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA, NM, Albuquerque · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:badgermeter:/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642</id>
-    <title>Badger Meter: Mechanical Engineering NPD Intern</title>
-    <link href="https://badgermeter.wd5.myworkdayjobs.com/US_CareerSite/job/US---WI---Milwaukee-HQ/Mechanical-Engineering-NPD-Intern_4642"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · US - WI - Milwaukee HQ</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dmainc:/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742</id>
-    <title>Dmainc: Cybersecurity Intern - Summer 2027</title>
-    <link href="https://dmainc.wd5.myworkdayjobs.com/dma/job/Fort-Wayne-IN/Cybersecurity-Intern---Summer-2027_REQ742"/>
-    <updated>2026-10-06T21:36:28Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Fort Wayne, IN</summary>
   </entry>
 </feed>

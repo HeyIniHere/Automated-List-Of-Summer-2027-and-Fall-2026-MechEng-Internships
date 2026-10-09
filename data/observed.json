@@ -2126,6 +2126,18 @@
     }
    }
   },
+  "gcm grosvenor": {
+   "name": "GCM Grosvenor",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "greenhouse:gcmgrosvenor:8015792003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gecko robotics": {
    "name": "Gecko Robotics",
    "cycles": {
@@ -2221,6 +2233,7 @@
       "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Intern--Autonomous-Vehicles--Software-Validation--Master-s-_JR-202621655",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
@@ -2232,7 +2245,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
      ],
-     "count": 13
+     "count": 14
     }
    }
   },
@@ -4797,9 +4810,10 @@
       "greenhouse:schonfeld:8171692",
       "greenhouse:schonfeld:8171696",
       "greenhouse:schonfeld:8171699",
-      "greenhouse:schonfeld:8180089"
+      "greenhouse:schonfeld:8180089",
+      "greenhouse:schonfeld:8267092"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -6124,5 +6138,5 @@
    }
   }
  },
- "updated_at": "2026-10-09T08:54:26Z"
+ "updated_at": "2026-10-09T16:09:03Z"
 }

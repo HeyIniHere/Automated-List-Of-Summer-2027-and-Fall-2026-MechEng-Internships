@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09T16:09:08Z",
+ "generated_at": "2026-10-09T20:57:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -715,20 +715,6 @@
    "days_until": -52,
    "status": "open",
    "url": "https://pimco.wd1.myworkdayjobs.com/pimco-careers/job/Austin-TX-USA/XMLNAME-2027-Summer-Intern---Technology-Analyst--Software-Engineering_R106745",
-   "note": ""
-  },
-  {
-   "company": "Dev Technology Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-19",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/devtechnology/jobs/8726074002",
    "note": ""
   },
   {
@@ -2044,7 +2030,7 @@
    "expected": "2026-09-09",
    "days_until": -30,
    "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/AI---Automation-Development-Intern_JR102458",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
    "note": ""
   },
   {
@@ -3756,20 +3742,6 @@
    "note": ""
   },
   {
-   "company": "REV Robotics",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "",
-   "days_until": null,
-   "status": "open",
-   "url": "https://ats.rippling.com/rev-robotics/jobs/6f40fd69-7d97-4142-a5fa-3c535a0b3e6e",
-   "note": ""
-  },
-  {
    "company": "Rippling",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4409,6 +4381,20 @@
    "source": "engine",
    "expected": "2026-08-17",
    "days_until": -53,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Dev Technology Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-19",
+   "days_until": -51,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5184,5 +5170,5 @@
    "note": ""
   }
  ],
- "count": 370
+ "count": 369
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10T13:35:32Z",
+ "generated_at": "2026-10-10T18:30:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1331,6 +1331,20 @@
    "days_until": -40,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+   "note": ""
+  },
+  {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
    "note": ""
   },
   {
@@ -4563,20 +4577,6 @@
    "source": "engine",
    "expected": "2026-08-27",
    "days_until": -44,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -40,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -1,3 +1,10 @@
 {
-  "pending": []
+  "pending": [
+    "workday:itron:/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034",
+    "workday:micron:/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941",
+    "workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
+    "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810",
+    "workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
+    "workday:workday:/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811"
+  ]
 }

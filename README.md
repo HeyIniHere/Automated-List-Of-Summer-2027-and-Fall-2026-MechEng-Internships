@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1356 open roles (653 listed below) · 198 new this week
+### 1357 open roles (654 listed below) · 199 new this week
 
-4,647 employers tracked · updated Oct 11, 2026 at 15:38 UTC
+4,647 employers tracked · updated Oct 11, 2026 at 20:14 UTC
 
-_898 have a cycle the employer stated · 458 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_898 have a cycle the employer stated · 459 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -84,8 +84,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | General Motors ✓ | 2027 Summer Intern, Onboard Autonomy, Embodied AI 🆕 | Data & ML/AI | Sunnyvale +2 more | Oct 09, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135) |
 | General Motors ✓ | 2027 Summer Intern, SEAM, Embodied AI 🆕 | Data & ML/AI | Sunnyvale +2 more | Oct 09, 2026 | [Apply](https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143) |
 | Northrop Grumman | 2027 Operations Manufacturing Engineering Intern 🇺🇸 🆕 | Hardware | United States-Florida-Melbourne | Oct 09, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688) |
-| GCM Grosvenor | 2027 Software Engineering Summer Intern 🆕 | Software | Chicago, Illinois, United States | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) |
-| Schonfeld ✓ | 2027 Quantitative Developer Intern 🆕 | Quant | Austin, Texas, United States | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) |
+| GCM Grosvenor | 2027 Software Engineering Summer Intern | Software | Chicago, Illinois, United States | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/gcmgrosvenor/jobs/8015792003) |
+| Schonfeld ✓ | 2027 Quantitative Developer Intern | Quant | Austin, Texas, United States | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/schonfeld/jobs/8267092) |
 | DoorDash ✓ | Software Engineer, Intern - Labs (Summer 2027) | Software | San Francisco, CA; Sunnyvale, CA | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8263774) |
 | IMC Trading | Machine Learning Engineer Intern - Summer 2027 | Data & ML/AI | New York, United States | Oct 08, 2026 | [Apply](https://job-boards.eu.greenhouse.io/imc/jobs/4962456101) |
 | SharkNinja ✓ | Summer 2027: Mechanical Engineering Intern, Shark (May to August) | Hardware | Needham, MA, United States | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006) |
@@ -419,12 +419,13 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Hardware | Westboro, Massachusetts, USA | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 | Amazon ✓ | Robotics - Applied Scientist II Intern / Co-op - 2026 (Robotics, Manipulation, Perception, Motion Planning, Autonomous Mobile Robots, Computer Vision, Machine Learning, Controls, and more) | Data & ML/AI | North Reading, Massachusetts, USA | Oct 08, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3104589/robotics-applied-scientist-ii-intern-co-op-2026-robotics-manipulation-perception-motion-planning-autonomous-mobile-robots-computer-vision-machine-learning-controls-and-more) |
 
-## Recently posted — cycle not stated  (315 roles)
+## Recently posted — cycle not stated  (316 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
+| C&S Wholesale Grocers ✓ | IS Internship - Data Analytics & Data Science 🆕 | Data & ML/AI | Edison, NJ | Oct 11, 2026 | [Apply](https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963) |
 | Micron Technology ✓ | Intern - IT Software Engineer 🆕 | Software | Boise, ID - Main Site | Oct 09, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Boise-ID---Main-Site/Intern---IT-Software-Engineer_JR113941) |
 | Arcesium ✓ | Software Engineer Intern 🆕 | Software | New York | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257176007) |
 | Olsson | Structural Engineering Internship - Facilities 🆕 | Hardware | Dallas, TX; Fort Worth, TX | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/olsson/jobs/5441485008) |
@@ -436,10 +437,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Alcon ✓ | Clinical Data Science Intern 🛂 🆕 | Data & ML/AI | Fort Worth, Texas | Oct 09, 2026 | [Apply](https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Clinical-Data-Science-Intern_R-2026-50204) |
 | Daimler Truck ✓ | Data Science Intern 🆕 | Data & ML/AI | Portland, OR US | Oct 09, 2026 | [Apply](https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Data-Science-Intern_DT-20166) |
 | Micron Technology ✓ | Intern - SSD Firmware - CICD 🆕 | Hardware | Longmont-MAX- Office, CO | Oct 09, 2026 | [Apply](https://micron.wd1.myworkdayjobs.com/External/job/Longmont-MAX--Office-CO/Intern---SSD-Firmware---CICD_JR114542) |
-| Arcesium ✓ | Infrastructure Engineer Intern 🆕 | Software | New York | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) |
-| Texas Instruments ✓ | Software Engineering Intern (Longmont, CO) 🛂 🆕 | Software | Longmont, CO, United States | Oct 09, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948) |
-| Gorbel | Manufacturing Engineer Co-Op 🆕 | Hardware | USA, New York, Victor | Oct 09, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1) |
-| KLA ✓ | Mechanical Engineering Intern 🆕 | Hardware | Ann Arbor, MI | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2) |
+| Arcesium ✓ | Infrastructure Engineer Intern | Software | New York | Oct 09, 2026 | [Apply](https://job-boards.greenhouse.io/arcesiumllc/jobs/5257199007) |
+| Texas Instruments ✓ | Software Engineering Intern (Longmont, CO) 🛂 | Software | Longmont, CO, United States | Oct 09, 2026 | [Apply](https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25012948) |
+| Gorbel | Manufacturing Engineer Co-Op | Hardware | USA, New York, Victor | Oct 09, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2326-1) |
+| KLA ✓ | Mechanical Engineering Intern | Hardware | Ann Arbor, MI | Oct 09, 2026 | [Apply](https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechanical-Engineering-Intern_2640653-2) |
 | Aptiv ✓ | Linux Software Development Intern | Software | USA Home Office - WR | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704398) |
 | Aptiv ✓ | Linux Software Development Intern | Software | USA Home Office - WR | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399) |
 | Aptiv ✓ | Embedded Software - Engineering Intern 🇺🇸 | Software | USA Walnut Creek, CA - WR | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) |
@@ -849,7 +850,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,315 of 4,779 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 90% of the full registry) · completed in 495.5s · 100 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,355 of 4,779 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 516.1s · 103 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

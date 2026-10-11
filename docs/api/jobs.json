@@ -1,9 +1,39 @@
 {
- "generated_at": "2026-10-11T15:38:26Z",
+ "generated_at": "2026-10-11T20:14:30Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1356,
+ "count": 1357,
  "jobs": [
+  {
+   "id": "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
+   "company": "C&S Wholesale Grocers",
+   "title": "IS Internship - Data Analytics & Data Science",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "Edison, NJ",
+   "url": "https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
+   "posted_at": "2026-10-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-11T20:14:23Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "scikit-learn",
+    "Pandas",
+    "LLMs",
+    "GCP",
+    "Git",
+    "Spark"
+   ],
+   "source": "workday",
+   "h1b_approvals": 49,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:itron:/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034",
    "company": "Itron",

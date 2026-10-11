@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-11T15:38:26Z</updated>
+  <updated>2026-10-11T20:14:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963</id>
+    <title>C&amp;S Wholesale Grocers: IS Internship - Data Analytics &amp; Data Science</title>
+    <link href="https://cswg.wd1.myworkdayjobs.com/cs_careers/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963"/>
+    <updated>2026-10-11T20:14:23Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Edison, NJ · Python, SQL, scikit-learn, Pandas, LLMs · H-1B track record: ~49 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:itron:/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034</id>
     <title>Itron: Intern - HR AI Data Science (Summer 2027)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-07T21:56:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Bothell, Washington, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejia.fa.us6.oraclecloud.com:107361</id>
-    <title>S&amp;C Electric Company: Mechanical Engineer Intern - Franklin,WI</title>
-    <link href="https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361"/>
-    <updated>2026-10-07T16:23:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Franklin, WI, United States · $22–$30/hr · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

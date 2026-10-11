@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T01:50:34Z",
+ "generated_at": "2026-10-11T08:42:24Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1361,
+ "count": 1360,
  "jobs": [
   {
    "id": "workday:itron:/job/United-States-of-America-Texas-Austin/Intern---HR-AI-Data-Science--Summer-2027-_JR103034",
@@ -19535,27 +19535,6 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
-   "remote": false
-  },
-  {
-   "id": "workday:graco:/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554",
-   "company": "Graco",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Dayton, Minnesota, USA",
-   "url": "https://graco.wd501.myworkdayjobs.com/Graco_Careers/job/Dayton-Minnesota-USA/Mechanical-Engineering-Intern_R0023554",
-   "posted_at": "2026-09-10T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-10T18:22:25Z",
-   "sponsorship": "no-sponsorship",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
    "remote": false
   },
   {

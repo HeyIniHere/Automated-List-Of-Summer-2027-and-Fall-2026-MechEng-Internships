@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1361 open roles (654 listed below) · 199 new this week
+### 1360 open roles (654 listed below) · 198 new this week
 
-4,647 employers tracked · updated Oct 11, 2026 at 01:50 UTC
+4,647 employers tracked · updated Oct 11, 2026 at 08:42 UTC
 
-_901 have a cycle the employer stated · 460 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_901 have a cycle the employer stated · 459 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -444,8 +444,8 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Aptiv ✓ | Linux Software Development Intern 🆕 | Software | USA Home Office - WR | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Home-Office---WR/Linux-Software-Development-Intern_J000704399) |
 | Aptiv ✓ | Embedded Software - Engineering Intern 🇺🇸 🆕 | Software | USA Walnut Creek, CA - WR | Oct 09, 2026 | [Apply](https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386) |
 | Crane Co. ✓ | Manufacturing Intern-1 🆕 | Hardware | Montgomery, Texas | Oct 08, 2026 | [Apply](https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723) |
-| Centific | AI Research Intern -  Physical AI 🏠 🆕 | Data & ML/AI | Remote Work( USA) | Oct 08, 2026 | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1) |
-| Hewlett Packard Enterprise ✓ | Thermal Engineering Intern 🆕 | Hardware | Sunnyvale +2 more | Oct 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190) |
+| Centific | AI Research Intern -  Physical AI 🏠 | Data & ML/AI | Remote Work( USA) | Oct 08, 2026 | [Apply](https://centific.wd1.myworkdayjobs.com/Centific_Global/job/Remote-Work-USA/AI-Research-Intern----Physical-AI_JR108131-1) |
+| Hewlett Packard Enterprise ✓ | Thermal Engineering Intern | Hardware | Sunnyvale +2 more | Oct 08, 2026 | [Apply](https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190) |
 | Perpay | Super Day - Data Science Internship | Data & ML/AI | Philadelphia +2 more | Oct 08, 2026 | [Apply](https://job-boards.greenhouse.io/perpay/jobs/5260960007) |
 | Wabtec ✓ | Mechanical Engineer Intern - Production Operations | Hardware | Oak Creek, WI, United States | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001786) |
 | Wabtec ✓ | Mechanical Engineer Intern - New Product Development | Hardware | Oak Creek, WI, United States | Oct 08, 2026 | [Apply](https://jobs.smartrecruiters.com/Wabtec/3743990016001927) |
@@ -850,7 +850,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,405 of 4,779 registered boards returned successfully across 12 ATS platforms (100% of boards attempted, 92% of the full registry) · completed in 381.2s · 105 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,352 of 4,779 registered boards returned successfully across 12 ATS platforms (98% of boards attempted, 91% of the full registry) · completed in 470.9s · 102 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

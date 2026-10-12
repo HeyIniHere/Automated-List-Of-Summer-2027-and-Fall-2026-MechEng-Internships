@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-11T20:14:30Z",
+ "generated_at": "2026-10-12T00:28:49Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1357,
+ "count": 1353,
  "jobs": [
   {
    "id": "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
@@ -11821,32 +11821,6 @@
     "Git"
    ],
    "source": "workday",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:rentvision:0F1C7992BF",
-   "company": "Rentvision",
-   "title": "Software Engineering Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Lincoln, Nebraska, United States",
-   "url": "https://apply.workable.com/rentvision/j/0F1C7992BF/",
-   "posted_at": "2026-09-21T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-24T19:04:13Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Java",
-    "TypeScript",
-    "JavaScript",
-    "React"
-   ],
-   "source": "workable",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -27676,54 +27650,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:asteraearlycareer2027:4724114005",
-   "company": "Astera Labs",
-   "title": "Hardware Test/Mechanical Engineer Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "San Jose, California",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724114005",
-   "posted_at": "2026-08-27T19:04:12-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T16:49:46Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Airflow"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:asteraearlycareer2027:4724492005",
-   "company": "Astera Labs",
-   "title": "Platform Software Diagnostics Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "San Jose, California",
-   "url": "https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4724492005",
-   "posted_at": "2026-08-27T18:58:49-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-06T16:49:46Z",
-   "sponsorship": "unknown",
-   "salary": "$35/hr",
-   "skills": [
-    "Python",
-    "Linux",
-    "Git"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 29,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
    "company": "Shield AI",
    "title": "Summer 2027 - Advanced Manufacturing Engineering Intern",
@@ -30931,30 +30857,6 @@
     "C++",
     "LLMs",
     "CUDA"
-   ],
-   "source": "workable",
-   "h1b_approvals": 35,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workable:pony-dot-ai:BA5FFDBC71",
-   "company": "Pony.ai",
-   "title": "Software Engineer Intern - Generalist",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fremont, California, United States",
-   "url": "https://apply.workable.com/pony-dot-ai/j/BA5FFDBC71/",
-   "posted_at": "2026-07-22T00:00:00.000Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-07-22T21:06:13Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "C++"
    ],
    "source": "workable",
    "h1b_approvals": 35,

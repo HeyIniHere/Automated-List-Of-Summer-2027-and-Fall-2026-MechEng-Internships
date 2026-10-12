@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-12T00:28:49Z</updated>
+  <updated>2026-10-12T07:17:15Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000154911489</id>
+    <title>Bosch: Robotics Research Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000154911489"/>
+    <updated>2026-10-12T07:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Sunnyvale, CA, United States · Python, C++, LLMs, ROS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213</id>
+    <title>Tencent: Data Science Intern</title>
+    <link href="https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213"/>
+    <updated>2026-10-12T07:17:09Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US-California-Palo Alto · $28.27–$60/hr · Python, SQL, Tableau · H-1B track record: ~53 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963</id>
     <title>C&amp;S Wholesale Grocers: IS Internship - Data Analytics &amp; Data Science</title>
@@ -790,21 +806,5 @@
     <updated>2026-10-07T21:56:51Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-California-Sunnyvale · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineer Intern - Annapolis MD 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Maryland-Annapolis · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564</id>
-    <title>Philips: Intern – Digital Healthtech Product Management – Bothell, WA – Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564"/>
-    <updated>2026-10-07T21:56:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bothell, Washington, United States</summary>
   </entry>
 </feed>

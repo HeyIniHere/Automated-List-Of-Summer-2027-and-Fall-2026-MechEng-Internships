@@ -1,9 +1,60 @@
 {
- "generated_at": "2026-10-12T00:28:49Z",
+ "generated_at": "2026-10-12T07:17:15Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1353,
+ "count": 1354,
  "jobs": [
+  {
+   "id": "smartrecruiters:BoschGroup:744000154911489",
+   "company": "Bosch",
+   "title": "Robotics Research Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Hardware",
+   "location": "Sunnyvale, CA, United States",
+   "url": "https://jobs.smartrecruiters.com/BoschGroup/744000154911489",
+   "posted_at": "2026-10-12T01:41:55.284Z",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-12T07:17:09Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "LLMs",
+    "ROS"
+   ],
+   "source": "smartrecruiters",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:tencent:/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+   "company": "Tencent",
+   "title": "Data Science Intern",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Data & ML/AI",
+   "location": "US-California-Palo Alto",
+   "url": "https://tencent.wd1.myworkdayjobs.com/Tencent_Careers/job/US-California-Palo-Alto/Data-Science-Intern_R108213",
+   "posted_at": "2026-10-11T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-12T07:17:09Z",
+   "sponsorship": "unknown",
+   "salary": "$28.27–$60/hr",
+   "skills": [
+    "Python",
+    "SQL",
+    "Tableau"
+   ],
+   "source": "workday",
+   "h1b_approvals": 53,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "workday:cswg:/job/Edison-NJ/IS-Internship---Data-Analytics---Data-Science_R-268963",
    "company": "C&S Wholesale Grocers",
@@ -22754,29 +22805,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:harbingermotors:5231842007",
-   "company": "Harbinger Motors",
-   "title": "Intern, Cybersecurity",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Security",
-   "location": "Garden Grove, CA",
-   "url": "https://job-boards.greenhouse.io/harbingermotors/jobs/5231842007",
-   "posted_at": "2026-09-05T23:34:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-06T04:05:59Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "greenhouse:amca:4396629009",
    "company": "AMCA",
    "title": "Mechanical Engineering Intern (Summer 2027)",
@@ -31844,7 +31872,7 @@
    "seasons": null,
    "season_inferred": false,
    "category": "Software",
-   "location": "New York, NY",
+   "location": "Seattle, WA",
    "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
    "posted_at": null,
    "posted_at_source": null,

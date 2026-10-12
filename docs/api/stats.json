@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-10-12T07:17:10Z",
- "duration_seconds": 485.1,
+ "generated_at": "2026-10-12T17:46:18Z",
+ "duration_seconds": 492.3,
  "companies_total": 4779,
  "companies_by_source": {
   "greenhouse": 1126,
@@ -16,58 +16,59 @@
   "breezy": 14,
   "eightfold": 1
  },
- "quarantined": 340,
- "fetched_ok": 4403,
- "fetch_errors": 36,
+ "quarantined": 318,
+ "fetched_ok": 4333,
+ "fetch_errors": 128,
  "errors_by_source": {
-  "greenhouse": 1,
-  "workday": 17,
-  "ashby": 1,
-  "lever": 1,
-  "workable": 16
+  "lever": 3,
+  "workday": 94,
+  "greenhouse": 5,
+  "ashby": 3,
+  "rippling": 1,
+  "workable": 22
  },
- "fetch_success_rate": 0.992,
- "fetch_success_rate_registry": 0.921,
- "snapshots_complete": 4295,
- "snapshots_partial": 108,
- "roles_matched": 1038,
- "dropped_no_year_in_title": 591,
- "dropped_offcycle_by_text": 220,
- "roles_cycle_inferred": 457,
+ "fetch_success_rate": 0.971,
+ "fetch_success_rate_registry": 0.907,
+ "snapshots_complete": 4217,
+ "snapshots_partial": 116,
+ "roles_matched": 1020,
+ "dropped_no_year_in_title": 547,
+ "dropped_offcycle_by_text": 215,
+ "roles_cycle_inferred": 462,
  "roles_by_source": {
   "amazon": 15,
   "ashby": 76,
   "breezy": 4,
-  "greenhouse": 292,
-  "lever": 47,
-  "oracle": 39,
+  "greenhouse": 294,
+  "lever": 48,
+  "oracle": 40,
   "rippling": 13,
-  "smartrecruiters": 97,
+  "smartrecruiters": 98,
   "workable": 9,
-  "workday": 762
+  "workday": 772
  },
  "roles_by_cycle": {
   "Fall 2026": 43,
-  "Summer 2027": 854,
-  "Not stated": 457
+  "Summer 2027": 864,
+  "Not stated": 462
  },
  "roles_by_region": {
-  "US": 1354
+  "US": 1369
  },
  "sponsorship_counts": {
-  "unknown": 907,
-  "citizens-only": 320,
+  "unknown": 916,
+  "citizens-only": 323,
   "offers": 11,
-  "no-sponsorship": 116
+  "no-sponsorship": 119
  },
- "posted_date_coverage": 0.99,
- "enriched_this_run": 2,
- "enrichment_detail_fetches": 2,
+ "posted_date_coverage": 0.991,
+ "enriched_this_run": 15,
+ "enrichment_detail_fetches": 14,
  "purged_this_run": 0,
- "new_this_run": 2,
- "open_total": 1354,
+ "new_this_run": 15,
+ "open_total": 1369,
  "detection_latency": {
-  "median_minutes": 127.7,
+  "median_minutes": 127.1,
   "p95_minutes": 1194.9,
   "sample_size": 50,
   "window_days": 7,

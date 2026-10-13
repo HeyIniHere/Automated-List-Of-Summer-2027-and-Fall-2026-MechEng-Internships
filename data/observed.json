@@ -288,9 +288,11 @@
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
-      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Intern---Summer-2027_R008126"
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Intern---Summer-2027_R008126",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008288",
+      "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Internship---Summer-2026_R008289"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -445,13 +447,14 @@
    "name": "American Family Insurance Group",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-10-05",
+     "first_posted": "2026-09-25",
      "role_ids": [
+      "workday:amfam:/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
       "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -774,9 +777,10 @@
      "first_posted": "2026-07-20",
      "role_ids": [
       "greenhouse:axontalentcommunity:7800617003",
-      "greenhouse:axontalentcommunity:7800628003"
+      "greenhouse:axontalentcommunity:7800628003",
+      "greenhouse:axontalentcommunity:7993376003"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2233,9 +2237,10 @@
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
       "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273",
-      "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275"
+      "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
+      "workday:gdit:/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -3653,15 +3658,17 @@
       "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
       "workday:motorolasolutions:/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
       "workday:motorolasolutions:/job/Elgin-IL/Industrial-Engineer--Continuous-Improvement-Summer-Internship-2027_R68051",
+      "workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1",
       "workday:motorolasolutions:/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363",
       "workday:motorolasolutions:/job/Plantation-FL/DSP--Digital-Signal-Processing--Software-Engineering-Intern---Summer-2027_R68734",
+      "workday:motorolasolutions:/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030",
       "workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
       "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782",
       "workday:motorolasolutions:/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
      ],
-     "count": 12
+     "count": 14
     }
    }
   },
@@ -5097,9 +5104,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5225,9 +5233,11 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008240"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008293"
      ],
-     "count": 28
+     "count": 30
     }
    }
   },
@@ -5889,11 +5899,12 @@
     "Summer 2027": {
      "first_posted": "2026-08-24",
      "role_ids": [
+      "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567",
       "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
       "workday:wattswater:/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -6208,5 +6219,5 @@
    }
   }
  },
- "updated_at": "2026-10-13T15:56:05Z"
+ "updated_at": "2026-10-13T21:12:55Z"
 }

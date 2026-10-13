@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-13T15:56:12Z",
+ "generated_at": "2026-10-13T21:12:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -378,7 +378,7 @@
    "expected": "2026-07-28",
    "days_until": -77,
    "status": "open",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
    "note": ""
   },
   {
@@ -1569,6 +1569,20 @@
    "days_until": -40,
    "status": "open",
    "url": "https://bracco.wd103.myworkdayjobs.com/braccocareers/job/USA-Eden-Prairie-Minnesota-55344/Firmware-Engineering-Co-op_JR100324",
+   "note": ""
+  },
+  {
+   "company": "DriveTime",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://drivetime.wd1.myworkdayjobs.com/drivetime/job/1720-W-Rio-Salado-Pkwy-Tempe-AZ-85281/Software-Engineer-Intern--Summer-2027-_R16294",
    "note": ""
   },
   {
@@ -3000,6 +3014,20 @@
    "note": ""
   },
   {
+   "company": "American Family Insurance Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -18,
+   "status": "open",
+   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
+   "note": ""
+  },
+  {
    "company": "Mach Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -3378,20 +3406,6 @@
    "note": ""
   },
   {
-   "company": "American Family Insurance Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
-   "note": ""
-  },
-  {
    "company": "Hitachi Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -3560,20 +3574,6 @@
    "note": ""
   },
   {
-   "company": "Rivet Industries",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-06",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/rivet/03fcb078-7371-4cfd-89a9-368e5b60d914",
-   "note": ""
-  },
-  {
    "company": "Sigma Computing",
    "last_cycle_posted": "",
    "posted_on": "2026-10-06",
@@ -3641,6 +3641,20 @@
    "days_until": -6,
    "status": "open",
    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
+   "note": ""
+  },
+  {
+   "company": "State Affairs",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
    "note": ""
   },
   {
@@ -3752,7 +3766,7 @@
    "expected": "2026-10-12",
    "days_until": -1,
    "status": "open",
-   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022393",
+   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387",
    "note": ""
   },
   {
@@ -4694,20 +4708,6 @@
    "note": ""
   },
   {
-   "company": "DriveTime",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -40,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Dropbox",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -5184,15 +5184,15 @@
    "note": ""
   },
   {
-   "company": "State Affairs",
+   "company": "Rivet Industries",
    "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
+   "posted_on": "2026-10-06",
    "precision": "day",
    "rolling": false,
    "confidence": "verified",
    "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -6,
+   "expected": "2026-10-06",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-13T00:33:53Z</updated>
+  <updated>2026-10-13T07:42:46Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:arcesiumllc:5257266007</id>
+    <title>Arcesium: Product Management Intern</title>
+    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York · H-1B track record: ~11 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4743021005</id>
+    <title>Astera Labs: CyberSecurity Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · San Jose, CA · $35/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97413</id>
+    <title>WSP: Structural Engineering Intern- Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97413"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Glastonbury, CT, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97462</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97462"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Tempe, AZ, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022393</id>
     <title>ADT: Product Management &amp; Product Operations Internship 🛂</title>
@@ -14,6 +46,38 @@
     <updated>2026-10-13T00:33:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Boca Raton, FL, United States · $24/hr · sponsorship: no-sponsorship · H-1B track record: ~39 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008240</id>
+    <title>Stantec: Bridge Design Intern - Infrastructure (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Columbia, SC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155100809</id>
+    <title>Bosch: Manufacturing Engineer Intern - Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155100809"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Lincolnshire, IL, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155120934</id>
+    <title>Bosch: Information Security and Privacy Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155120934"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Farmington Hills, MI, United States · LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331</id>
+    <title>Nissan: Data Science Intern - Summer 2027 - Smyrna, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Smyrna, Tennessee - United States of America · Python, C++, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:allisontransmission:/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319</id>
@@ -30,22 +94,6 @@
     <updated>2026-10-13T00:33:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · WI Madison · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcesiumllc:5257266007</id>
-    <title>Arcesium: Product Management Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcesiumllc/jobs/5257266007"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · H-1B track record: ~11 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4743021005</id>
-    <title>Astera Labs: CyberSecurity Engineer Intern</title>
-    <link href="https://job-boards.greenhouse.io/asteraearlycareer2027/jobs/4743021005"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · San Jose, CA · $35/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gafsgi:/job/Parsippany-NJ/AI-Intern_26421</id>
@@ -72,6 +120,14 @@
     <summary>Summer 2027 · Data &amp; ML/AI · USA VA Falls Church · Python · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/Product-Management-Intern_JR-025280</id>
+    <title>Life Fitness: Product Management Intern</title>
+    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280"/>
+    <updated>2026-10-13T00:33:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Rosemont, IL · $19–$23/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:lifefitness:/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277</id>
     <title>Life Fitness: Android Software Intern</title>
     <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL-60173/Android-Software-Intern_JR-025277"/>
@@ -96,46 +152,6 @@
     <summary>Not stated · Hardware · Schaumburg, IL 60173 · $24–$27/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/Product-Management-Intern_JR-025280</id>
-    <title>Life Fitness: Product Management Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rosemont, IL · $19–$23/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331</id>
-    <title>Nissan: Data Science Intern - Summer 2027 - Smyrna, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Smyrna, Tennessee - United States of America · Python, C++, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155120934</id>
-    <title>Bosch: Information Security and Privacy Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155120934"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Farmington Hills, MI, United States · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000155100809</id>
-    <title>Bosch: Manufacturing Engineer Intern - Summer 2027</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000155100809"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lincolnshire, IL, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008240</id>
-    <title>Stantec: Bridge Design Intern - Infrastructure (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008240"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Columbia, SC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Home---Mobile-Value-Prop-Summer-2027-Internship_R-1102103</id>
     <title>Verizon Communications: Verizon Consumer Group: Home &amp; Mobile Value Prop Summer 2027 Internship</title>
     <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Home---Mobile-Value-Prop-Summer-2027-Internship_R-1102103"/>
@@ -150,22 +166,6 @@
     <updated>2026-10-13T00:33:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Menomonee Falls, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97462</id>
-    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97462"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Tempe, AZ, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97413</id>
-    <title>WSP: Structural Engineering Intern- Summer 2027</title>
-    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/97413"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Glastonbury, CT, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:databricks:6865687002</id>
@@ -430,14 +430,6 @@
     <updated>2026-10-09T20:57:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · WI Madison · SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Data-Science-Intern_DT-20166</id>
-    <title>Daimler Truck: Data Science Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Data-Science-Intern_DT-20166"/>
-    <updated>2026-10-09T20:57:32Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Portland, OR US · $21–$29/hr · Python, SQL, AWS, GCP, Azure · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-Research--Embodied-AI_JR-202622146</id>
@@ -806,5 +798,13 @@
     <updated>2026-10-08T16:25:44Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · US  - CA - Escondido Facility</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cox:/job/Atlanta-GA/Data-Scientist-Co-op_R202683033</id>
+    <title>Cox: Data Scientist Co-op</title>
+    <link href="https://cox.wd1.myworkdayjobs.com/Cox_External_Career_Site_1/job/Atlanta-GA/Data-Scientist-Co-op_R202683033"/>
+    <updated>2026-10-08T16:25:44Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Atlanta GA · $22.02–$33.08/hr · Python, SQL, scikit-learn, Pandas, LLMs</summary>
   </entry>
 </feed>

@@ -72,6 +72,18 @@
     }
    }
   },
+  "adt": {
+   "name": "ADT",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-12",
+     "role_ids": [
+      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022393"
+     ],
+     "count": 1
+    }
+   }
+  },
   "advanced space": {
    "name": "Advanced Space",
    "cycles": {
@@ -270,13 +282,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-30",
      "role_ids": [
+      "workday:allisontransmission:/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-1_R008267",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027-2_R008266",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008271",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineer-Intern---Summer-2027_R008277",
       "workday:allisontransmission:/job/Indianapolis-IN/Manufacturing-Engineering-Intern---Summer-2027_R008126"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -433,10 +446,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-05",
      "role_ids": [
+      "workday:amfam:/job/WI-Madison/Summer-2027-Data-Analyst-Intern---Agency-Performance--Insights-and-Operations_R39513",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39404",
       "workday:amfam:/job/WI-Madison/Summer-2027-Intern---Data-Analyst_R39615"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -955,9 +969,10 @@
      "role_ids": [
       "smartrecruiters:BoschGroup:744000148518808",
       "smartrecruiters:BoschGroup:744000148542054",
-      "smartrecruiters:BoschGroup:744000150217869"
+      "smartrecruiters:BoschGroup:744000150217869",
+      "smartrecruiters:BoschGroup:744000155100809"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2214,9 +2229,11 @@
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2",
-      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1"
+      "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228406-1",
+      "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273",
+      "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275"
      ],
-     "count": 17
+     "count": 19
     }
    }
   },
@@ -3806,9 +3823,10 @@
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -5203,9 +5221,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008122",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008131",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008210"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008240"
      ],
-     "count": 27
+     "count": 28
     }
    }
   },
@@ -5642,12 +5661,13 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605",
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Home---Mobile-Value-Prop-Summer-2027-Internship_R-1102103",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
       "workday:verizon:/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
       "workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5867,9 +5887,10 @@
      "first_posted": "2026-08-24",
      "role_ids": [
       "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
+      "workday:wattswater:/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6053,9 +6074,11 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96925",
       "oracle:emit.fa.ca3.oraclecloud.com:97020",
       "oracle:emit.fa.ca3.oraclecloud.com:97068",
-      "oracle:emit.fa.ca3.oraclecloud.com:97220"
+      "oracle:emit.fa.ca3.oraclecloud.com:97220",
+      "oracle:emit.fa.ca3.oraclecloud.com:97413",
+      "oracle:emit.fa.ca3.oraclecloud.com:97462"
      ],
-     "count": 42
+     "count": 44
     }
    }
   },
@@ -6182,5 +6205,5 @@
    }
   }
  },
- "updated_at": "2026-10-12T17:46:18Z"
+ "updated_at": "2026-10-13T00:33:50Z"
 }

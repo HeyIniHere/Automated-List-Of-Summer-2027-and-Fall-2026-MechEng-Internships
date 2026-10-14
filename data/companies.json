@@ -6753,6 +6753,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Cricut",
+    "slug": "Cricut",
+    "ats": "smartrecruiters"
+  },
+  {
     "name": "Criteo",
     "slug": "criteo",
     "ats": "workday",
@@ -8864,6 +8869,11 @@
     "ats": "workday",
     "wd": "wd3",
     "site": "Euronext_Career_Page"
+  },
+  {
+    "name": "Eurostar International",
+    "slug": "eurostar",
+    "ats": "workable"
   },
   {
     "name": "EV Realty",
@@ -11169,6 +11179,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Groma",
+    "slug": "groma",
+    "ats": "greenhouse"
+  },
+  {
     "name": "Group 1001",
     "slug": "group1001wd",
     "ats": "workday",
@@ -12539,6 +12554,13 @@
     "ats": "greenhouse"
   },
   {
+    "name": "Impactadvisors",
+    "slug": "impactadvisors",
+    "ats": "workday",
+    "wd": "wd501",
+    "site": "impactadvisors"
+  },
+  {
     "name": "Impinj",
     "slug": "impinjexternal",
     "ats": "greenhouse"
@@ -13679,6 +13701,13 @@
     "ats": "oracle",
     "host": "fa-emqh-saasfaprod1.fa.ocs.oraclecloud.com",
     "site": "CX_1001"
+  },
+  {
+    "name": "Kenvue",
+    "slug": "kenvue",
+    "ats": "workday",
+    "wd": "wd5",
+    "site": "kenvue"
   },
   {
     "name": "Kepler Communications",
@@ -15213,6 +15242,13 @@
     "site": "GlobalCareers"
   },
   {
+    "name": "MarketStar",
+    "slug": "wasatchproperty",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "MarketStarCareers"
+  },
+  {
     "name": "Markforged",
     "slug": "markforged",
     "ats": "greenhouse"
@@ -15377,6 +15413,11 @@
     "ats": "lever"
   },
   {
+    "name": "Matrix Design Group",
+    "slug": "matrix-design-group",
+    "ats": "breezy"
+  },
+  {
     "name": "Mattel",
     "slug": "MattelInc",
     "ats": "smartrecruiters"
@@ -15534,6 +15575,13 @@
     "name": "McWane",
     "slug": "McWaneInc",
     "ats": "smartrecruiters"
+  },
+  {
+    "name": "Mdtkangaroo",
+    "slug": "mdtkangaroo",
+    "ats": "workday",
+    "wd": "wd108",
+    "site": "minimedcareers"
   },
   {
     "name": "Mealsuite",
@@ -20600,6 +20648,11 @@
     "ats": "ashby"
   },
   {
+    "name": "Rhombus",
+    "slug": "rhombus-systems",
+    "ats": "lever"
+  },
+  {
     "name": "Rhombus Power",
     "slug": "rhombuspower",
     "ats": "greenhouse"
@@ -24321,6 +24374,13 @@
     "site": "ThermoFisherCareers"
   },
   {
+    "name": "Thgrp",
+    "slug": "thgrp",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "envita"
+  },
+  {
     "name": "Thingtrax",
     "slug": "thingtrax",
     "ats": "workable"
@@ -24699,6 +24759,13 @@
     "ats": "ashby"
   },
   {
+    "name": "Tranetechnologies",
+    "slug": "tranetechnologies",
+    "ats": "workday",
+    "wd": "wd12",
+    "site": "trane_technologies_careers"
+  },
+  {
     "name": "Transamerica",
     "slug": "transamerica",
     "ats": "workday",
@@ -24885,6 +24952,11 @@
     "name": "TRM Labs",
     "slug": "trm-labs",
     "ats": "ashby"
+  },
+  {
+    "name": "Trove Brands",
+    "slug": "trovebrands",
+    "ats": "greenhouse"
   },
   {
     "name": "Trovy",
@@ -25341,6 +25413,13 @@
     "name": "UnitX",
     "slug": "unitxlabs",
     "ats": "ashby"
+  },
+  {
+    "name": "Unity",
+    "slug": "unitytech",
+    "ats": "workday",
+    "wd": "wd1",
+    "site": "Unity"
   },
   {
     "name": "Universal Music Group Careers",

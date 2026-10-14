@@ -1,28 +1,3 @@
 {
-  "pending": [
-    "workday:copart:/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751",
-    "lever:field-ai:b37569c3-d07f-4968-82dc-44020f34e54e",
-    "oracle:jpmc.fa.oraclecloud.com:210800354",
-    "workday:lseg:/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
-    "breezy:matrix-design-group:c7625db5782d",
-    "breezy:matrix-design-group:f0fb9ea37c63",
-    "workday:mdtkangaroo:/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
-    "workday:mdtkangaroo:/job/USA-GA-Johns-Creek/Graduate-AI-Engineer-Intern-Summer-2027_R-801926",
-    "greenhouse:nationallifeinsurancecompany:4449670009",
-    "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
-    "oracle:hctz.fa.us2.oraclecloud.com:2506642",
-    "workday:oshkoshcorporation:/job/Clearwater-Florida-United-States/Engineer-Intern---Mechanical--Year-Round-_R51145",
-    "workday:plastipak:/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669",
-    "greenhouse:point72:8885733002",
-    "workday:qtsdatacenters:/job/US-GA-Atlanta-Suwanee-1-DC1/Summer-2027-Internship--Information-Security-Operations-Analyst_R2026-2273",
-    "smartrecruiters:RESPECInc:744000155538719",
-    "lever:rhombus-systems:59e7a5f3-b457-491d-af08-b629ad35e380",
-    "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008288",
-    "workday:tranetechnologies:/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-11703",
-    "workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648",
-    "workday:tranetechnologies:/job/Minneapolis-Minnesota/Mechanical-Engineering-Co-op_JR-8960",
-    "workday:tranetechnologies:/job/Grand-Rapids-Michigan/Mechanical-Engineering-Co-op_JR-8957",
-    "workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"
-  ]
+  "pending": []
 }

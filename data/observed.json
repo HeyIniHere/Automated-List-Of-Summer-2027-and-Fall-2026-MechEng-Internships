@@ -119,9 +119,12 @@
       "smartrecruiters:AECOM2:744000151381599",
       "smartrecruiters:AECOM2:744000152172269",
       "smartrecruiters:AECOM2:744000152952229",
-      "smartrecruiters:AECOM2:744000154178117"
+      "smartrecruiters:AECOM2:744000154178117",
+      "smartrecruiters:AECOM2:744000155592720",
+      "smartrecruiters:AECOM2:744000155595277",
+      "smartrecruiters:AECOM2:744000155595329"
      ],
-     "count": 15
+     "count": 18
     }
    }
   },
@@ -1270,9 +1273,10 @@
      "role_ids": [
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineer-Intern--Year-Round-_R08102",
       "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Mechanical-Engineering-Intern--Year-Round-_R08122",
-      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133"
+      "workday:chartermfg:/job/Charter-Steel---Saukville-WI/Smart-Manufacturing-Engineer-Intern--Summer-2027-_R08133",
+      "workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2457,6 +2461,18 @@
     }
    }
   },
+  "haleon": {
+   "name": "Haleon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:gsknch:/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hartford": {
    "name": "The Hartford",
    "cycles": {
@@ -2649,6 +2665,18 @@
     }
    }
   },
+  "howden": {
+   "name": "Howden",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "workday:hyperiongrp:/job/New-York--1350-Avenue-Of-The-Americas/Underwriting-Intern_R0019772-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "howmet aerospace": {
    "name": "Howmet Aerospace",
    "cycles": {
@@ -2774,9 +2802,12 @@
      "first_posted": "2026-09-07",
      "role_ids": [
       "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
-      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002"
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521",
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+      "workday:icf:/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Engineer--Reston--VA-_R2603522"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -2922,6 +2953,19 @@
       "smartrecruiters:Intuitive:744000133458290",
       "smartrecruiters:Intuitive:744000145329669"
      ]
+    }
+   }
+  },
+  "inversion space": {
+   "name": "Inversion Space",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-14",
+     "role_ids": [
+      "greenhouse:inversionspace:4743740005",
+      "greenhouse:inversionspace:4743748005"
+     ],
+     "count": 2
     }
    }
   },
@@ -3501,9 +3545,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-25",
      "role_ids": [
-      "greenhouse:metoxinternationalinc:5405775008"
+      "greenhouse:metoxinternationalinc:5405775008",
+      "greenhouse:metoxinternationalinc:5427064008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4316,10 +4361,11 @@
      "first_posted": "2026-09-16",
      "role_ids": [
       "workday:plastipak:/job/Plastipak---Havre-de-Grace-MD/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24670",
+      "workday:plastipak:/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668",
       "workday:plastipak:/job/Plastipak---Plant-City-FL/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24669",
       "workday:plastipak:/job/Plastipak-GBTC---Plymouth-MI/Software-Engineering-Intern---Summer-2027_REQ24512"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -5166,10 +5212,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5296,11 +5343,15 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008180",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008210",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008240",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008287",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008288",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008289",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008290",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008293"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008296"
      ],
-     "count": 31
+     "count": 35
     }
    }
   },
@@ -6282,5 +6333,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T18:32:06Z"
+ "updated_at": "2026-10-14T22:16:38Z"
 }

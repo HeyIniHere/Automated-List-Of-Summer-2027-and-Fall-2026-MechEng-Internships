@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-14T07:29:27Z",
+ "generated_at": "2026-10-14T13:37:20Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1205,20 +1205,6 @@
    "days_until": -44,
    "status": "open",
    "url": "https://barr.wd1.myworkdayjobs.com/barrcareers/job/Ann-Arbor-MI/Internship---Structural-Engineer--Hybrid-_R-102315",
-   "note": ""
-  },
-  {
-   "company": "BlueCross BlueShield of Nebraska",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -44,
-   "status": "open",
-   "url": "https://nebraskablue.wd1.myworkdayjobs.com/BCBSNE/job/Omaha-NE/IS-Intern--Summer-2027_JR101411",
    "note": ""
   },
   {
@@ -2468,20 +2454,6 @@
    "note": ""
   },
   {
-   "company": "Robinhood",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/robinhood/jobs/8123225?t=gh_src=&gh_jid=8123225",
-   "note": "opens fall"
-  },
-  {
    "company": "SingleStore",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -2790,20 +2762,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -27,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
-   "note": ""
-  },
-  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2884,7 +2842,7 @@
    "expected": "2026-09-21",
    "days_until": -23,
    "status": "open",
-   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Analyst-Summer-2027_38484",
+   "url": "https://commercebank.wd1.myworkdayjobs.com/CommerceJobs/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483",
    "note": ""
   },
   {
@@ -4610,6 +4568,20 @@
    "note": ""
   },
   {
+   "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -44,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Clarios",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -4918,6 +4890,20 @@
    "note": ""
   },
   {
+   "company": "Robinhood",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": "opens fall"
+  },
+  {
    "company": "Schroders",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -4969,6 +4955,20 @@
    "source": "engine",
    "expected": "2026-09-16",
    "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -27,
    "status": "dropped",
    "url": "",
    "note": ""

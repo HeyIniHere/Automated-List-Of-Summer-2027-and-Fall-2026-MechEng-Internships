@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-14T07:29:27Z</updated>
+  <updated>2026-10-14T13:37:20Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:tenstorrentuniversity:5264424007</id>
+    <title>Tenstorrent: Systems Intern - Validation, Software, Design, Architecture &amp; Packaging (USA)</title>
+    <link href="https://job-boards.greenhouse.io/tenstorrentuniversity/jobs/5264424007"/>
+    <updated>2026-10-14T13:37:16Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, Verilog · H-1B track record: ~12 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
     <title>Anduril: 2027 Firmware Engineer Intern</title>
@@ -14,6 +22,14 @@
     <updated>2026-10-14T07:29:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668</id>
@@ -46,14 +62,6 @@
     <updated>2026-10-14T07:29:20Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington · $30–$50/hr · Python, Java, C#, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
-    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
-    <updated>2026-10-14T07:29:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
@@ -105,7 +113,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:axontalentcommunity:7993376003</id>
-    <title>Axon: 2026 AfroTech Software Engineering Internship</title>
+    <title>Axon: AfroTech 2026 Software Engineering Internship</title>
     <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7993376003"/>
     <updated>2026-10-13T21:12:55Z</updated>
     <category term="Fall 2026"/>
@@ -246,14 +254,6 @@
     <updated>2026-10-13T15:56:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Cambridge, MA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254</id>
-    <title>Hewlett Packard Enterprise: Firmware Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Firmware-Engineering-Intern_1214254"/>
-    <updated>2026-10-13T15:56:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sunnyvale, California, United States of America · Python, C++, Linux · H-1B track record: ~499 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jainglobal:/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608</id>
@@ -784,14 +784,6 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, PyTorch, TensorFlow, GCP, Azure · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:hpe:/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190</id>
-    <title>Hewlett Packard Enterprise: Thermal Engineering Intern</title>
-    <link href="https://hpe.wd5.myworkdayjobs.com/Jobsathpe/job/Sunnyvale-California-United-States-of-America/Thermal-Engineering-Intern_1214190"/>
-    <updated>2026-10-09T02:01:13Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Sunnyvale, California, United States of America · H-1B track record: ~499 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:imc:4962456101</id>
     <title>IMC Trading: Machine Learning Engineer Intern - Summer 2027</title>
     <link href="https://job-boards.eu.greenhouse.io/imc/jobs/4962456101"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-08T22:02:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Philadelphia, Pennsylvania, United States · Python, SQL, scikit-learn, Pandas</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4718812006</id>
+    <title>SharkNinja: Summer 2027: Mechanical Engineering Intern, Shark (May to August)</title>
+    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006"/>
+    <updated>2026-10-08T22:02:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Needham, MA, United States · $30/hr · Python · H-1B track record: ~23 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

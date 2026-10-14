@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-14T01:10:47Z</updated>
+  <updated>2026-10-14T07:29:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
+    <title>Anduril: 2027 Firmware Engineer Intern</title>
+    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668</id>
+    <title>Northrop Grumman: 2027 H/W Mechanical Engineering Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-Maryland-Annapolis · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705</id>
+    <title>Northrop Grumman: 2027 S/W Cybersecurity Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · United States-Maryland-Annapolis · $20.5–$37.25/hr · Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697</id>
+    <title>Northrop Grumman: 2027 S/W Embedded Engineering Intern – Annapolis MD 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Maryland-Annapolis · $20.5–$37.25/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:rakuten:/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437</id>
+    <title>Rakuten International: Early Career AI Engineer, Intern</title>
+    <link href="https://rakuten.wd1.myworkdayjobs.com/RakutenAmericas/job/Bellevue-Washington/Intern---Software-Engineering--AI-User-Experience_1031437"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, Washington · $30–$50/hr · Python, Java, C#, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
+    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
+    <updated>2026-10-14T07:29:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4739956005</id>
     <title>Astera Labs: Firmware Engineer Intern Fall Co-op</title>
@@ -24,6 +72,14 @@
     <summary>Not stated · Hardware · San Jose, CA · $45/hr · Python, C++, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:syskahennessy:8267624</id>
+    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
+    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267624"/>
+    <updated>2026-10-14T01:10:40Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Tampa, FL</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
     <title>Field AI: Robotics Research Intern, Embodied AI</title>
     <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
@@ -38,14 +94,6 @@
     <updated>2026-10-14T01:10:40Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Milpitas, CA · Python, MATLAB, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:syskahennessy:8267624</id>
-    <title>Syska Hennessy Group: Mechanical Engineer Summer Intern</title>
-    <link href="https://job-boards.greenhouse.io/syskahennessy/jobs/8267624"/>
-    <updated>2026-10-14T01:10:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Tampa, FL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260</id>
@@ -712,14 +760,6 @@
     <summary>Not stated · Hardware · Ann Arbor, MI · $27–$38.5/hr · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:aptiv:/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386</id>
-    <title>Aptiv: Embedded Software - Engineering Intern 🇺🇸</title>
-    <link href="https://aptiv.wd5.myworkdayjobs.com/aptiv_careers/job/USA-Walnut-Creek-CA---WR/Embedded-Software---Engineering-Intern_J000704386"/>
-    <updated>2026-10-09T08:54:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · USA Walnut Creek, CA - WR · Linux · sponsorship: citizens-only · H-1B track record: ~251 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cranecompany:/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723</id>
     <title>Crane Co.: Manufacturing Intern-1</title>
     <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Montgomery-Texas/Manufacturing-Intern-1_JR102723"/>
@@ -766,45 +806,5 @@
     <updated>2026-10-08T22:02:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Philadelphia, Pennsylvania, United States · Python, SQL, scikit-learn, Pandas</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:sharkninjaoperatingllc:4718812006</id>
-    <title>SharkNinja: Summer 2027: Mechanical Engineering Intern, Shark (May to August)</title>
-    <link href="https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Needham, MA, United States · $30/hr · Python · H-1B track record: ~23 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:viget:b18cc87d-fca2-485a-a0f2-ad6197db63f2</id>
-    <title>Viget: Software Developer Intern (2027) 🛂</title>
-    <link href="https://jobs.lever.co/viget/b18cc87d-fca2-485a-a0f2-ad6197db63f2"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boulder, CO · Python · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990016001786</id>
-    <title>Wabtec: Mechanical Engineer Intern - Production Operations</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990016001786"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Oak Creek, WI, United States · $17–$25/hr · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:Wabtec:3743990016001927</id>
-    <title>Wabtec: Mechanical Engineer Intern - New Product Development</title>
-    <link href="https://jobs.smartrecruiters.com/Wabtec/3743990016001927"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Oak Creek, WI, United States · $17–$25/hr · H-1B track record: ~47 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alcon:/job/Houston-Texas/XMLNAME-2027-Spring-Summer-Manufacturing-Engineering-Co-op_R-2026-50147</id>
-    <title>Alcon: 2027 Spring/Summer Manufacturing Engineering Co-op</title>
-    <link href="https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Houston-Texas/XMLNAME-2027-Spring-Summer-Manufacturing-Engineering-Co-op_R-2026-50147"/>
-    <updated>2026-10-08T22:02:17Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, Texas · H-1B track record: ~57 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

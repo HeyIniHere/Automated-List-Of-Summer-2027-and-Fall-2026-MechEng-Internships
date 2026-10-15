@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-15T07:19:51Z</updated>
+  <updated>2026-10-15T13:22:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:hitachi:/job/Ogden-Utah-United-States/Mechanical-Engineering-Intern-Co-Op_R0146513</id>
+    <title>Hitachi Energy: Mechanical Engineering Intern/Co-Op</title>
+    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Ogden-Utah-United-States/Mechanical-Engineering-Intern-Co-Op_R0146513"/>
+    <updated>2026-10-15T13:22:32Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Ogden, Utah, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10826</id>
     <title>Fortive: Mechanical Engineering Intern</title>
@@ -702,14 +710,6 @@
     <updated>2026-10-13T00:33:50Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Parsippany, NJ · Python, PyTorch, TensorFlow, scikit-learn, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273</id>
-    <title>General Dynamics Information Technology: 2027 Summer Intern - Defense Agencies (Cybersecurity) 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Agencies--Cybersecurity-_RQ230273"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · USA VA Falls Church · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/Product-Management-Intern_JR-025280</id>

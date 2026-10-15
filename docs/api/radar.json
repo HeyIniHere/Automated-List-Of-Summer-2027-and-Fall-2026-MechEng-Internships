@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-15T13:22:38Z",
+ "generated_at": "2026-10-15T18:16:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2888,6 +2888,20 @@
    "note": ""
   },
   {
+   "company": "Viking Global",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -24,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
+   "note": ""
+  },
+  {
    "company": "Astranis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -5324,5 +5338,5 @@
    "note": ""
   }
  ],
- "count": 380
+ "count": 381
 }

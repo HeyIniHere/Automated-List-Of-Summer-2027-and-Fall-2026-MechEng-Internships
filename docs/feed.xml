@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-15T01:28:29Z</updated>
+  <updated>2026-10-15T07:19:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10826</id>
+    <title>Fortive: Mechanical Engineering Intern</title>
+    <link href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826"/>
+    <updated>2026-10-15T07:19:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Irvine, CA, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c</id>
     <title>Skydio: Software Engineer Intern - Summer 2027</title>
@@ -272,28 +280,12 @@
     <summary>Summer 2027 · Hardware · Sacramento, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:jpmc.fa.oraclecloud.com:210800354</id>
-    <title>JPMorganChase: 2027 AI Research Associate Program - Internship</title>
-    <link href="https://jpmc.fa.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/210800354"/>
-    <updated>2026-10-14T18:32:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY, United States · Python, PyTorch, TensorFlow, LLMs · H-1B track record: ~4.7k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:smartrecruiters:RESPECInc:744000155538719</id>
     <title>RESPEC: Student Engineering Intern (Structural)</title>
     <link href="https://jobs.smartrecruiters.com/RESPECInc/744000155538719"/>
     <updated>2026-10-14T18:32:06Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Anchorage, AK, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:copart:/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751</id>
-    <title>Copart: DevOps Engineer Intern</title>
-    <link href="https://copart.wd12.myworkdayjobs.com/copart/job/Dallas-TX---Headquarters/DevOps-Engineer-Intern_JR111751"/>
-    <updated>2026-10-14T18:32:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Dallas, TX - Headquarters · Python, Java, PyTorch, TensorFlow, AWS · H-1B track record: ~83 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360</id>
@@ -384,14 +376,6 @@
     <summary>Not stated · Hardware · Minneapolis, Minnesota · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tranetechnologies:/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648</id>
-    <title>Tranetechnologies: Software Development Engineering Intern</title>
-    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/St-Paul-Minnesota/Software-Development-Engineering-Intern_JR-15648"/>
-    <updated>2026-10-14T18:32:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · St Paul, Minnesota · Python, C++, JavaScript, Git</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:wustl:/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1</id>
     <title>Wustl: Data Analyst - Emergency Management Intern (PRN) - Enterprise Physical Operations</title>
     <link href="https://wustl.wd1.myworkdayjobs.com/external/job/Washington-University-North-Campus-University-City-Missouri/Data-Analyst---Emergency-Management-Intern--PRN----Enterprise-Physical-Operations_JR98032-1"/>
@@ -457,7 +441,7 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
-    <title>Field AI: Robotics Research Intern, Embodied AI (Spring or Summer 2027)</title>
+    <title>Field AI: Robotics Research Intern, Embodied AI (Spring &amp; Summer 2027)</title>
     <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
     <updated>2026-10-14T01:10:40Z</updated>
     <category term="Summer 2027"/>
@@ -598,14 +582,6 @@
     <updated>2026-10-13T15:56:05Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Boca Raton, FL, United States · $24/hr · Python, SQL, Tableau · sponsorship: no-sponsorship · H-1B track record: ~39 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allegion:/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1</id>
-    <title>Allegion: Summer Intern – Software Operations Engineer</title>
-    <link href="https://allegion.wd5.myworkdayjobs.com/careers/job/Carmel-IN/Summer-Intern---Software-Operations-Engineer_JR37722-1"/>
-    <updated>2026-10-13T15:56:05Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Carmel, IN · Python, JavaScript, SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:draper:/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021</id>
@@ -806,5 +782,29 @@
     <updated>2026-10-12T17:46:18Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:CapTechConsulting:744000155019115</id>
+    <title>CapTech Consulting: Consulting Internship: Software Engineering (Summer 2027) 🛂</title>
+    <link href="https://jobs.smartrecruiters.com/CapTechConsulting/744000155019115"/>
+    <updated>2026-10-12T17:46:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Richmond, VA, United States · $30/hr · Java, C++, C#, JavaScript, React · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250</id>
+    <title>Nissan: Data Science Intern - Summer 2027 - Franklin, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250"/>
+    <updated>2026-10-12T17:46:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Franklin, Tennessee - United States of America · Python, SQL · H-1B track record: ~16 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241</id>
+    <title>Nissan: Financial AI Engineering Intern - Summer 2027 - Franklin, TN</title>
+    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241"/>
+    <updated>2026-10-12T17:46:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Franklin, Tennessee - United States of America · LLMs · H-1B track record: ~16 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -2095,6 +2095,18 @@
     }
    }
   },
+  "fortive": {
+   "name": "Fortive",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-15",
+     "role_ids": [
+      "oracle:ejta.fa.us6.oraclecloud.com:10826"
+     ],
+     "count": 1
+    }
+   }
+  },
   "foth": {
    "name": "FOTH",
    "cycles": {
@@ -6334,5 +6346,5 @@
    }
   }
  },
- "updated_at": "2026-10-15T01:28:24Z"
+ "updated_at": "2026-10-15T07:19:47Z"
 }

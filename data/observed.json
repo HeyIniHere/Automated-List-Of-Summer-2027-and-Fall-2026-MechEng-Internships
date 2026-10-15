@@ -1993,9 +1993,10 @@
      "first_posted": "2026-02-17",
      "role_ids": [
       "lever:field-ai:b37569c3-d07f-4968-82dc-44020f34e54e",
-      "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f"
+      "lever:field-ai:ce04c5b3-17c3-49aa-b833-a6bebbf9d23f",
+      "lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6333,5 +6334,5 @@
    }
   }
  },
- "updated_at": "2026-10-14T22:16:38Z"
+ "updated_at": "2026-10-15T01:28:24Z"
 }

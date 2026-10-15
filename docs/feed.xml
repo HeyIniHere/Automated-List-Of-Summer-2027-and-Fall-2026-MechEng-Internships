@@ -5,8 +5,80 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-14T22:16:44Z</updated>
+  <updated>2026-10-15T01:28:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c</id>
+    <title>Skydio: Software Engineer Intern - Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Go, TypeScript, JavaScript · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:figureai:4722086006</id>
+    <title>Figure: Embedded Software Engineering Intern, Platform</title>
+    <link href="https://job-boards.greenhouse.io/figureai/jobs/4722086006"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA · $40–$45/hr · Python, C++, Rust, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
+    <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
+    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5427064008</id>
+    <title>MetOx International: Data Science Co-Op/Intern (Spring/Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008287</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008287"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Los Angeles, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008289</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008289"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · San Francisco, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008290</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008290"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Seattle, WA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008296</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008296"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · San Diego, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000155592720</id>
     <title>AECOM: Structural Engineering Intern</title>
@@ -30,14 +102,6 @@
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Columbus, OH, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931</id>
-    <title>Astreya: AI Infrastructure DC Design Intern</title>
-    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927</id>
@@ -64,20 +128,20 @@
     <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931</id>
+    <title>Astreya: AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:chartermfg:/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115</id>
     <title>Charter Manufacturing: Mechanical Engineer Intern (Summer 2027)</title>
     <link href="https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Wire---Menomonee-Valley---Milwaukee-WI/Mechanical-Engineer-Intern--Summer-2027-_R08115"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Charter Wire - Menomonee Valley - Milwaukee, WI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:figureai:4722086006</id>
-    <title>Figure: Embedded Software Engineering Intern, Platform</title>
-    <link href="https://job-boards.greenhouse.io/figureai/jobs/4722086006"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA · $40–$45/hr · Python, C++, Rust, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gsknch:/job/USA---New-York---Oak-Hill/XMLNAME-2027-Co-Op--Oak-Hill-Manufacturing-Program--6-months--Jan-start-_548918</id>
@@ -120,22 +184,6 @@
     <summary>Summer 2027 · Software · Reston, VA · Python, Java, C++, JavaScript, PyTorch · sponsorship: citizens-only · H-1B track record: ~35 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
-    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
-    <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:lnw:/job/Reno-NV/Intern-Software-Engineering_R322885</id>
     <title>Light &amp; Wonder: Intern Software Engineering</title>
     <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Reno-NV/Intern-Software-Engineering_R322885"/>
@@ -144,60 +192,12 @@
     <summary>Not stated · Software · Reno, NV · Python, C++, C#, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5427064008</id>
-    <title>MetOx International: Data Science Co-Op/Intern (Spring/Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5427064008"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Houston, TX · Python, SQL, Pandas, LLMs, PostgreSQL</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:plastipak:/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668</id>
     <title>Plastipak: Manufacturing Operations (Engineering) Intern – Summer 2027</title>
     <link href="https://plastipak.wd1.myworkdayjobs.com/Plastipak/job/Plastipak---Pineville-LA/Manufacturing-Operations--Engineering--Intern---Summer-2027_REQ24668"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Plastipak - Pineville, LA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c</id>
-    <title>Skydio: Software Engineer Intern - Summer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Go, TypeScript, JavaScript · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008287</id>
-    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008287"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Los Angeles, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008289</id>
-    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008289"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · San Francisco, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008290</id>
-    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008290"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Seattle, WA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008296</id>
-    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008296"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · San Diego, CA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:weldgov:/job/Greeley-CO/Community-Health-Intern---Mobile-Unit-Evaluation_JR102729</id>
@@ -241,11 +241,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:b37569c3-d07f-4968-82dc-44020f34e54e</id>
-    <title>Field AI: Research Scientist Intern, Robot Learning &amp; Manipulation (Spring, Summer &amp; Fall 2027)</title>
+    <title>Field AI: Robotics Research Intern, Robot Learning &amp; Manipulation (Spring, Summer &amp; Fall 2027)</title>
     <link href="https://jobs.lever.co/field-ai/b37569c3-d07f-4968-82dc-44020f34e54e"/>
     <updated>2026-10-14T18:32:06Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Irvine, CA · Python, C++</summary>
+    <summary>Summer 2027 · Hardware · Irvine, CA · Python, C++</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:rhombus-systems:59e7a5f3-b457-491d-af08-b629ad35e380</id>
@@ -457,11 +457,11 @@
   </entry>
   <entry>
     <id>urn:intern-engine:lever:field-ai:ef35c537-b864-479f-9dbe-b30429ac7704</id>
-    <title>Field AI: Robotics Research Intern, Embodied AI</title>
+    <title>Field AI: Robotics Research Intern, Embodied AI (Spring or Summer 2027)</title>
     <link href="https://jobs.lever.co/field-ai/ef35c537-b864-479f-9dbe-b30429ac7704"/>
     <updated>2026-10-14T01:10:40Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Irvine, CA</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Irvine, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Computer-Vision-Machine-Learning-Intern_2641921-1</id>
@@ -736,14 +736,6 @@
     <summary>Summer 2027 · Security · USA VA Falls Church · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275</id>
-    <title>General Dynamics Information Technology: 2027 Summer Intern - Defense Angencies (AI/ML) 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275"/>
-    <updated>2026-10-13T00:33:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA VA Falls Church · Python · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:lifefitness:/job/Rosemont-IL/Product-Management-Intern_JR-025280</id>
     <title>Life Fitness: Product Management Intern</title>
     <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Rosemont-IL/Product-Management-Intern_JR-025280"/>
@@ -806,5 +798,13 @@
     <updated>2026-10-12T17:46:18Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Jacksonville, Florida, United States · $20/hr · JavaScript · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:acronaviation:17b5f12d-f590-432d-a421-d6f90274ae9a</id>
+    <title>Acron Aviation: Software Engineer Intern - Phoenix Site</title>
+    <link href="https://jobs.lever.co/acronaviation/17b5f12d-f590-432d-a421-d6f90274ae9a"/>
+    <updated>2026-10-12T17:46:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Phoenix, AZ · Python, C++, C#, SQL, Linux</summary>
   </entry>
 </feed>

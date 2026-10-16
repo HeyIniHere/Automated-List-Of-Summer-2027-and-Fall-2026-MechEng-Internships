@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T07:04:09Z",
+ "generated_at": "2026-10-16T12:21:33Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3546,20 +3546,6 @@
    "note": ""
   },
   {
-   "company": "Ingredion",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -9,
-   "status": "open",
-   "url": "https://ingredion.wd1.myworkdayjobs.com/IngredionCareers/job/North-Kansas-City-MO/Mechanical-Engineer-Co-op-2027--January---August-_Req-40189-1",
-   "note": ""
-  },
-  {
    "company": "Nissan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -5361,6 +5347,20 @@
    "source": "engine",
    "expected": "2026-10-06",
    "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -9,
    "status": "dropped",
    "url": "",
    "note": ""

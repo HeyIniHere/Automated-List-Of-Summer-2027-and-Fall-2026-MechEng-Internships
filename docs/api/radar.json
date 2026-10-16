@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T12:21:33Z",
+ "generated_at": "2026-10-16T17:23:08Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -253,6 +253,20 @@
    "days_until": -92,
    "status": "open",
    "url": "https://chevron.wd5.myworkdayjobs.com/University/job/Houston-Texas-United-States-of-America/XMLNAME-2026-2027-Information-Technology---Software-Engineer---Intern_R000072398-1",
+   "note": ""
+  },
+  {
+   "company": "Axon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-20",
+   "days_until": -88,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
    "note": ""
   },
   {
@@ -658,7 +672,7 @@
    "expected": "2026-08-17",
    "days_until": -60,
    "status": "open",
-   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Cybersecurity-Internship---Summer-2027_Req-039965",
+   "url": "https://conagrabrands.wd1.myworkdayjobs.com/Careers_US/job/Omaha-Nebraska/Software-Development-Internship---Summer-2027_Req-039787",
    "note": ""
   },
   {
@@ -1050,7 +1064,7 @@
    "expected": "2026-08-27",
    "days_until": -50,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
    "note": ""
   },
   {
@@ -1429,6 +1443,20 @@
    "days_until": -45,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008",
+   "note": ""
+  },
+  {
+   "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310073",
    "note": ""
   },
   {
@@ -2521,20 +2549,6 @@
    "days_until": -31,
    "status": "open",
    "url": "https://cai.wd5.myworkdayjobs.com/computer_aid/job/California/Cybersecurity-Analyst-Intern_R8488",
-   "note": ""
-  },
-  {
-   "company": "Mdtkangaroo",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -31,
-   "status": "open",
-   "url": "https://mdtkangaroo.wd108.myworkdayjobs.com/minimedcareers/job/Northridge-California-United-States-of-America/Software-Engineering-Intern-Summer-2027_R-801814-1",
    "note": ""
   },
   {
@@ -3658,6 +3672,20 @@
    "note": ""
   },
   {
+   "company": "Commonwealth Fusion Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-09",
+   "days_until": -7,
+   "status": "open",
+   "url": "https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039",
+   "note": ""
+  },
+  {
    "company": "GCM Grosvenor",
    "last_cycle_posted": "",
    "posted_on": "2026-10-09",
@@ -4288,20 +4316,6 @@
    "note": ""
   },
   {
-   "company": "Axon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-20",
-   "days_until": -88,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Mosaic",
    "last_cycle_posted": "",
    "posted_on": "2026-07-22",
@@ -4736,20 +4750,6 @@
    "note": ""
   },
   {
-   "company": "Michael Baker International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -45,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Newrez",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -5053,6 +5053,20 @@
    "source": "engine",
    "expected": "2026-09-14",
    "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Mdtkangaroo",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -31,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5380,5 +5394,5 @@
    "note": ""
   }
  ],
- "count": 384
+ "count": 385
 }

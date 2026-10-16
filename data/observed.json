@@ -1111,6 +1111,8 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+      "workday:caci:/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333648",
       "workday:caci:/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
       "workday:caci:/job/Ashburn-VA-US/Cyber-Analyst-Intern---Summer-2027_333161",
       "workday:caci:/job/Ashburn-VA-US/Software-Development-Intern---Summer-2027_333051",
@@ -1129,7 +1131,7 @@
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 17
+     "count": 19
     }
    }
   },
@@ -1440,6 +1442,20 @@
       "workday:commercebank:/job/MO---Kansas-City-DowntownPlaza---Kansas-City---KC-Downtown-Trust-Building-922-Walnut-64106/Intern-EABI---Data-Science-Summer-2027_38483"
      ],
      "count": 2
+    }
+   }
+  },
+  "commonwealth fusion systems": {
+   "name": "Commonwealth Fusion Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-09",
+     "role_ids": [
+      "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
+      "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
+      "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76"
+     ],
+     "count": 3
     }
    }
   },
@@ -2413,14 +2429,16 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
       "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604587",
+      "workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604588",
       "workday:globalfoundries:/job/USA---New-York---Malta/Cybersecurity-Intern--Summer-2027-_JR-2604459",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604657",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Advanced-Manufacturing-Process-Engineering-Intern--Summer-2027-_JR-2604659",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604656",
       "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -3621,9 +3639,10 @@
       "oracle:ebxs.fa.us2.oraclecloud.com:309900",
       "oracle:ebxs.fa.us2.oraclecloud.com:309901",
       "oracle:ebxs.fa.us2.oraclecloud.com:309902",
-      "oracle:ebxs.fa.us2.oraclecloud.com:309903"
+      "oracle:ebxs.fa.us2.oraclecloud.com:309903",
+      "oracle:ebxs.fa.us2.oraclecloud.com:310073"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -3967,9 +3986,10 @@
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
-      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880"
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -6299,6 +6319,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:96332",
       "oracle:emit.fa.ca3.oraclecloud.com:96451",
       "oracle:emit.fa.ca3.oraclecloud.com:96611",
+      "oracle:emit.fa.ca3.oraclecloud.com:96768",
       "oracle:emit.fa.ca3.oraclecloud.com:96920",
       "oracle:emit.fa.ca3.oraclecloud.com:96925",
       "oracle:emit.fa.ca3.oraclecloud.com:97020",
@@ -6308,7 +6329,7 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606"
      ],
-     "count": 45
+     "count": 46
     }
    }
   },
@@ -6435,5 +6456,5 @@
    }
   }
  },
- "updated_at": "2026-10-16T12:21:27Z"
+ "updated_at": "2026-10-16T17:23:02Z"
 }

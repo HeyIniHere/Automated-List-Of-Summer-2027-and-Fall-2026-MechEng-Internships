@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T17:23:08Z",
+ "generated_at": "2026-10-16T20:55:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -616,7 +616,7 @@
    "expected": "2026-08-14",
    "days_until": -63,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---Vermont---Essex-Junction/US-Advanced-Manufacturing-Equipment-Engineering-Intern--Junior--Summer-2027-_JR-2604666",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
    "note": ""
   },
   {
@@ -2058,7 +2058,7 @@
    "expected": "2026-09-09",
    "days_until": -37,
    "status": "open",
-   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Ashburn-VA-US/AI-Prompt-Engineer-High-School-Intern---Summer-2027_332816-1",
+   "url": "https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
    "note": ""
   },
   {
@@ -2818,20 +2818,6 @@
    "note": ""
   },
   {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -28,
-   "status": "open",
-   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
-   "note": ""
-  },
-  {
    "company": "Charter Manufacturing",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -3182,20 +3168,6 @@
    "note": ""
   },
   {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -16,
-   "status": "open",
-   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506642",
-   "note": ""
-  },
-  {
    "company": "STV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3262,7 +3234,7 @@
    "expected": "2026-10-01",
    "days_until": -15,
    "status": "open",
-   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
    "note": ""
   },
   {
@@ -3682,7 +3654,7 @@
    "expected": "2026-10-09",
    "days_until": -7,
    "status": "open",
-   "url": "https://jobs.lever.co/cfsenergy/7ed4bf93-2b32-4096-9af3-2eb79e620039",
+   "url": "https://jobs.lever.co/cfsenergy/01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
    "note": ""
   },
   {
@@ -5142,6 +5114,20 @@
    "note": ""
   },
   {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Brown Brothers Harriman",
    "last_cycle_posted": "",
    "posted_on": "2026-09-19",
@@ -5319,6 +5305,20 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -17,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -16,
    "status": "dropped",
    "url": "",
    "note": ""

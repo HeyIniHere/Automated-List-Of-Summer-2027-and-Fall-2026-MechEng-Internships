@@ -1,12 +1,3 @@
 {
-  "pending": [
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054812",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences_R0054572",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Data-Sciences---AI_R0055524",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics_R0054512",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Drug-Metabolism---AI_R0055519",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Strategy--Innovation---Portfolio_R0054502",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Discovery-Sciences-and-Technologies---AI_R0055527",
-    "workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Protein-Therapeutics--Computational-Biologics-Engineering_R0054739"
-  ]
+  "pending": []
 }

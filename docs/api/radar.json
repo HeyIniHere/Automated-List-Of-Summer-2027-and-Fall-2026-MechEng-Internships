@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-16T20:55:23Z",
+ "generated_at": "2026-10-16T23:29:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -266,7 +266,7 @@
    "expected": "2026-07-20",
    "days_until": -88,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/axon/jobs/7978840003",
+   "url": "https://job-boards.greenhouse.io/axontalentcommunity/jobs/7978840003",
    "note": ""
   },
   {
@@ -841,20 +841,6 @@
    "days_until": -53,
    "status": "open",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
-   "note": ""
-  },
-  {
-   "company": "Freddie Mac",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -53,
-   "status": "open",
-   "url": "https://freddiemac.wd5.myworkdayjobs.com/External/job/McLean-VA/Multifamily-Software-Development-Intern---Summer-2027_JR17564",
    "note": ""
   },
   {
@@ -1443,20 +1429,6 @@
    "days_until": -45,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/k2spacecorporation/jobs/5411915008",
-   "note": ""
-  },
-  {
-   "company": "Michael Baker International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -45,
-   "status": "open",
-   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310073",
    "note": ""
   },
   {
@@ -2678,20 +2650,6 @@
    "note": ""
   },
   {
-   "company": "GM financial",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260836",
-   "note": ""
-  },
-  {
    "company": "Lonza",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -3854,6 +3812,20 @@
    "note": ""
   },
   {
+   "company": "Ryan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4596,6 +4568,20 @@
    "note": ""
   },
   {
+   "company": "Freddie Mac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -53,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "DTCC",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
@@ -4709,6 +4695,20 @@
   },
   {
    "company": "Hypertherm",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -45,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Michael Baker International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
    "precision": "day",
@@ -5058,6 +5058,20 @@
    "note": ""
   },
   {
+   "company": "GM financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Live Oak Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -5394,5 +5408,5 @@
    "note": ""
   }
  ],
- "count": 385
+ "count": 386
 }

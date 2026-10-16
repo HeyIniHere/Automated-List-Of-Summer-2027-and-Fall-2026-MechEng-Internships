@@ -5,15 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-16T01:13:22Z</updated>
+  <updated>2026-10-16T07:04:08Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104</id>
-    <title>Avav: Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104"/>
-    <updated>2026-10-16T01:13:16Z</updated>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568</id>
+    <title>ABB: Manufacturing Engineering Intern - Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568"/>
+    <updated>2026-10-16T07:04:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA, NC, Hickory · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gilead:/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587</id>
+    <title>Gilead Sciences: Intern - Research - Oncology Biomarker - AI</title>
+    <link href="https://gilead.wd1.myworkdayjobs.com/gileadcareers/job/United-States---California---Foster-City/Intern---Research---Oncology-Biomarker_R0054587"/>
+    <updated>2026-10-16T07:04:02Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Pottstown, PA · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · United States - California - Foster City · Python, LLMs · H-1B track record: ~272 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4744390005</id>
+    <title>Inversion Space: Avionics Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4744390005"/>
+    <updated>2026-10-16T01:13:16Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:inversionspace:4744391005</id>
@@ -24,12 +40,12 @@
     <summary>Summer 2027 · Software · Playa Vista, California, United States · Python, C++, Linux, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4744390005</id>
-    <title>Inversion Space: Avionics Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4744390005"/>
+    <id>urn:intern-engine:workday:avav:/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104</id>
+    <title>Avav: Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://avav.wd1.myworkdayjobs.com/avav/job/Pottstown-PA/Manufacturing-Engineering-Intern_9104"/>
     <updated>2026-10-16T01:13:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Pottstown, PA · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:duolingo:8888721002</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-14T13:37:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Austin, Texas, United States; Santa Clara, California, United States · $50/hr · Python, C++, Verilog · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:andurilindustries:5265158007</id>
-    <title>Anduril: 2027 Firmware Engineer Intern</title>
-    <link href="https://boards.greenhouse.io/andurilindustries/jobs/5265158007?gh_jid=5265158007"/>
-    <updated>2026-10-14T07:29:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Costa Mesa, California, United States · Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702</id>
-    <title>RTX: Mechanical Design Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Mechanical-Design-Engineering-Intern--Summer-2027-_01881702"/>
-    <updated>2026-10-14T07:29:20Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-137 ~ 855 35Th St NE ~ BLDG 137 · sponsorship: citizens-only</summary>
   </entry>
 </feed>

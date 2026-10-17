@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-16T23:29:17Z</updated>
+  <updated>2026-10-17T04:01:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508</id>
+    <title>General Motors: 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"/>
+    <updated>2026-10-17T04:01:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>
     <title>Avav: Software Engineering Intern 🇺🇸</title>
@@ -40,14 +48,6 @@
     <summary>Not stated · Hardware · Milwaukee, Wisconsin, United States · Python, C++ · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ryan:/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1</id>
-    <title>Ryan: Summer 2027 Intern, Software Engineering</title>
-    <link href="https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"/>
-    <updated>2026-10-16T23:29:12Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Plano TX · Python, C#, TypeScript, React, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ryan:/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1</id>
     <title>Ryan: Summer 2027 Intern, Software Development</title>
     <link href="https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1"/>
@@ -56,12 +56,12 @@
     <summary>Summer 2027 · Software · Plano TX · Python, C#, TypeScript, React, Azure</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:axontalentcommunity:7978840003</id>
-    <title>Axon: 2027 US Mechanical Engineering Internship</title>
-    <link href="https://job-boards.greenhouse.io/axontalentcommunity/jobs/7978840003"/>
-    <updated>2026-10-16T20:55:15Z</updated>
+    <id>urn:intern-engine:workday:ryan:/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1</id>
+    <title>Ryan: Summer 2027 Intern, Software Engineering</title>
+    <link href="https://ryan.wd1.myworkdayjobs.com/RyanCareers/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"/>
+    <updated>2026-10-16T23:29:12Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Arizona, USA · H-1B track record: ~72 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Plano TX · Python, C#, TypeScript, React, Azure</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:97070</id>
@@ -110,14 +110,6 @@
     <updated>2026-10-16T20:55:15Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · United States - Shakopee, MN (GHQ) · $25/hr · Python, C#</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gdit:/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646</id>
-    <title>General Dynamics Information Technology: Technical Intern - AI and Estimation 🇺🇸</title>
-    <link href="https://gdit.wd5.myworkdayjobs.com/gdit_earlytalent/job/USA-VA-Falls-Church/Technical-Intern---AI-and-Estimation_RQ230646"/>
-    <updated>2026-10-16T20:55:15Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA VA Falls Church · Python, LLMs · sponsorship: citizens-only · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592</id>
@@ -803,6 +795,14 @@
     <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930</id>
     <title>Astreya: AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931</id>
+    <title>Astreya: AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017931"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>

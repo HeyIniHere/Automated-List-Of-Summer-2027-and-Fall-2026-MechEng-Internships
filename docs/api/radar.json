@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T12:58:18Z",
+ "generated_at": "2026-10-17T16:22:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -602,7 +602,7 @@
    "expected": "2026-08-14",
    "days_until": -64,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
    "note": ""
   },
   {
@@ -1306,20 +1306,6 @@
    "note": ""
   },
   {
-   "company": "Stryker",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -47,
-   "status": "open",
-   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
-   "note": ""
-  },
-  {
    "company": "Vermeer",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1824,20 +1810,6 @@
    "note": ""
   },
   {
-   "company": "Xcel Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-07",
-   "days_until": -40,
-   "status": "open",
-   "url": "https://xcelenergy.wd1.myworkdayjobs.com/External/job/Amarillo-TX-79101/Data-Analyst-Intern--TX_JR115565-1",
-   "note": ""
-  },
-  {
    "company": "Allen Control Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1946,7 +1918,7 @@
    "expected": "2026-09-08",
    "days_until": -39,
    "status": "open",
-   "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Data-Science-Intern---Summer-2027_R000699579",
+   "url": "https://meijer.wd5.myworkdayjobs.com/Meijer/job/Grand-Rapids-MI/Information-Security-Intern--Summer-2027_R000698302",
    "note": ""
   },
   {
@@ -4666,6 +4638,20 @@
    "note": ""
   },
   {
+   "company": "Stryker",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -47,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Clarios",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -4790,6 +4776,20 @@
    "status": "dropped",
    "url": "",
    "note": "opens ~Sep"
+  },
+  {
+   "company": "Xcel Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-07",
+   "days_until": -40,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   },
   {
    "company": "CHAOS Industries",

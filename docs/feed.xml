@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-17T12:58:17Z</updated>
+  <updated>2026-10-17T16:22:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:ashby:agzen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a</id>
@@ -136,14 +136,6 @@
     <summary>Not stated · Software · United States - Shakopee, MN (GHQ) · $25/hr · Python, C#</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592"/>
-    <updated>2026-10-16T20:55:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243</id>
     <title>Northrop Grumman: 2027 Software Engineering Intern - Aurora CO 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243"/>
@@ -222,14 +214,6 @@
     <updated>2026-10-16T17:23:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Aberdeen Proving Ground, MD, US · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578"/>
-    <updated>2026-10-16T17:23:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:kla:/job/Ann-Arbor-MI/Opto-Mechanical-Intern_2641704</id>
@@ -803,6 +787,22 @@
     <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927</id>
     <title>Astreya: AI Infrastructure DC Design Intern</title>
     <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017927"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929</id>
+    <title>Astreya: AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017929"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:astreya:/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930</id>
+    <title>Astreya: AI Infrastructure DC Design Intern</title>
+    <link href="https://astreya.wd5.myworkdayjobs.com/life-at-astreya-opportunities/job/Remote-CA/AI-Infrastructure-DC-Design-Intern_R0017930"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Remote, CA</summary>

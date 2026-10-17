@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-17T16:22:00Z",
+ "generated_at": "2026-10-17T19:16:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1317,20 +1317,6 @@
    "days_until": -47,
    "status": "open",
    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
-   "note": ""
-  },
-  {
-   "company": "First National Bank",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -46,
-   "status": "open",
-   "url": "https://fnbcorp.wd501.myworkdayjobs.com/FNBCORP/job/Pittsburgh-PA/Summer-2027-AI-ML-Modeler-Intern_2026-01851",
    "note": ""
   },
   {
@@ -4653,6 +4639,20 @@
   },
   {
    "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -46,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "First National Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
    "precision": "day",

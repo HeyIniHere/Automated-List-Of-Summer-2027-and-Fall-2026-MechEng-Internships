@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T18:03:26Z",
+ "generated_at": "2026-10-18T20:33:00Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1394,
+ "count": 1395,
  "jobs": [
   {
    "id": "ashby:agzen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a",
@@ -26622,6 +26622,27 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
+   "company": "Stryker",
+   "title": "Summer 2027 Internship -  Software Engineering, Commercial Operations - Texas",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Software",
+   "location": "Flower Mound, Texas",
+   "url": "https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
+   "posted_at": "2026-09-02T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-09-02T17:54:51Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [],
+   "source": "workday",
+   "h1b_approvals": 104,
    "program": "Internship",
    "remote": false
   },

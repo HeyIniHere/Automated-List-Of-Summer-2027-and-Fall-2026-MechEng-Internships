@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-18T05:44:54Z",
-  "duration_seconds": 474.6,
+  "generated_at": "2026-10-18T10:51:20Z",
+  "duration_seconds": 454.6,
   "companies_total": 4829,
   "companies_by_source": {
     "greenhouse": 1132,
@@ -16,23 +16,21 @@
     "breezy": 16,
     "eightfold": 1
   },
-  "quarantined": 366,
-  "fetched_ok": 4357,
-  "fetch_errors": 106,
+  "quarantined": 372,
+  "fetched_ok": 4395,
+  "fetch_errors": 62,
   "errors_by_source": {
-    "recruitee": 1,
-    "workday": 96,
-    "workable": 8,
-    "ashby": 1
+    "workday": 61,
+    "workable": 1
   },
-  "fetch_success_rate": 0.976,
-  "fetch_success_rate_registry": 0.902,
-  "snapshots_complete": 4256,
-  "snapshots_partial": 101,
-  "roles_matched": 1033,
-  "dropped_no_year_in_title": 633,
-  "dropped_offcycle_by_text": 217,
-  "roles_cycle_inferred": 431,
+  "fetch_success_rate": 0.986,
+  "fetch_success_rate_registry": 0.91,
+  "snapshots_complete": 4293,
+  "snapshots_partial": 102,
+  "roles_matched": 1013,
+  "dropped_no_year_in_title": 632,
+  "dropped_offcycle_by_text": 216,
+  "roles_cycle_inferred": 428,
   "roles_by_source": {
     "amazon": 13,
     "ashby": 70,
@@ -43,18 +41,18 @@
     "rippling": 10,
     "smartrecruiters": 108,
     "workable": 8,
-    "workday": 800
+    "workday": 797
   },
   "roles_by_cycle": {
     "Summer 2027": 914,
     "Fall 2026": 43,
-    "Not stated": 431
+    "Not stated": 428
   },
   "roles_by_region": {
-    "US": 1388
+    "US": 1385
   },
   "sponsorship_counts": {
-    "unknown": 917,
+    "unknown": 914,
     "citizens-only": 359,
     "no-sponsorship": 103,
     "offers": 9
@@ -64,7 +62,7 @@
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
   "new_this_run": 0,
-  "open_total": 1388,
+  "open_total": 1385,
   "detection_latency": {
     "median_minutes": 171.6,
     "p95_minutes": 1561.7,
@@ -73,7 +71,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 12,
-    "sample_size": 1519
+    "median_days": 12.0,
+    "sample_size": 1522
   }
 }

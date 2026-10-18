@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-18T05:44:59Z",
+ "generated_at": "2026-10-18T10:51:27Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1388,
+ "count": 1385,
  "jobs": [
   {
    "id": "ashby:agzen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a",
@@ -15918,27 +15918,6 @@
    "remote": false
   },
   {
-   "id": "workday:gfs:/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
-   "company": "Gordon Food Service",
-   "title": "Software Engineer Intern (Low Code)",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Wyoming, Michigan",
-   "url": "https://gfs.wd5.myworkdayjobs.com/usjobs-gen-gfs/job/Wyoming-Michigan/Software-Engineer-Intern--Low-Code-_R-57375",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-18T21:40:35Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 21,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:niagarawater:/job/Milesburg---Milesburg-PA/Manufacturing-Intern---Milesburg_R56065",
    "company": "Niagara Bottling",
    "title": "Manufacturing Intern - Milesburg",
@@ -16178,34 +16157,6 @@
    "skills": [],
    "source": "workday",
    "h1b_approvals": 4,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:greatamerica:/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
-   "company": "GreatAmerica Financial Services",
-   "title": "Platform Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Cedar Rapids, IA",
-   "url": "https://greatamerica.wd12.myworkdayjobs.com/greatamericacareers/job/Cedar-Rapids-IA/Platform-Engineering-Intern_JR1240-1",
-   "posted_at": "2026-09-18T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-18T14:23:29Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "AWS",
-    "GCP",
-    "Azure",
-    "Git"
-   ],
-   "source": "workday",
-   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },
@@ -28225,34 +28176,6 @@
    "h1b_approvals": null,
    "program": "Internship",
    "remote": true
-  },
-  {
-   "id": "workday:nike:/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110",
-   "company": "Nike",
-   "title": "NIKE, Inc. Artificial Intelligence, Data, & Machine Learning Engineering Undergraduate Internship",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Beaverton, Oregon",
-   "url": "https://nike.wd1.myworkdayjobs.com/nke/job/Beaverton-Oregon/NIKE--Inc-Artificial-Intelligence--Data----Machine-Learning-Engineering-Undergraduate-Internship_R-91110",
-   "posted_at": "2026-08-31T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-08-31T17:02:44Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "SQL",
-    "LLMs",
-    "Computer Vision",
-    "AWS",
-    "Tableau"
-   ],
-   "source": "workday",
-   "h1b_approvals": 484,
-   "program": "Internship",
-   "remote": false
   },
   {
    "id": "workday:vermeer:/job/Pella-Iowa-USA---The-Center/Manufacturing-Engineer-Intern---Summer-2027_REQ-22141",

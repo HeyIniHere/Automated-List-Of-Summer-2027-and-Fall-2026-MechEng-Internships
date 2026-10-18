@@ -5,60 +5,28 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-18T14:31:37Z</updated>
+  <updated>2026-10-18T18:03:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165636</id>
-    <title>LLNL: Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165636"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
+    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127766"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165586</id>
-    <title>LLNL: Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165586"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127776</id>
+    <title>LLNL: Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127776"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165506</id>
-    <title>LLNL: Power Systems Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165506"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165496</id>
-    <title>LLNL: Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165496"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164416</id>
-    <title>LLNL: Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164416"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164366</id>
-    <title>LLNL: Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164366"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015737586</id>
-    <title>LLNL: Data Science Institute Graduate Student Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015737586"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990015289136</id>
+    <title>LLNL: Data Science Institute Undergraduate Student Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990015289136"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
@@ -72,28 +40,60 @@
     <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015289136</id>
-    <title>LLNL: Data Science Institute Undergraduate Student Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015289136"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990015737586</id>
+    <title>LLNL: Data Science Institute Graduate Student Intern - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990015737586"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127776</id>
-    <title>LLNL: Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127776"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164366</id>
+    <title>LLNL: Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164366"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
-    <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015127766"/>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164416</id>
+    <title>LLNL: Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164416"/>
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165496</id>
+    <title>LLNL: Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165496"/>
+    <updated>2026-10-18T14:31:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165506</id>
+    <title>LLNL: Power Systems Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165506"/>
+    <updated>2026-10-18T14:31:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165586</id>
+    <title>LLNL: Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165586"/>
+    <updated>2026-10-18T14:31:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165636</id>
+    <title>LLNL: Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165636"/>
+    <updated>2026-10-18T14:31:31Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726</id>
@@ -126,14 +126,6 @@
     <updated>2026-10-17T12:58:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508</id>
-    <title>General Motors: 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"/>
-    <updated>2026-10-17T04:01:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>
@@ -803,6 +795,14 @@
     <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
     <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
+    <updated>2026-10-14T22:16:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
+    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>

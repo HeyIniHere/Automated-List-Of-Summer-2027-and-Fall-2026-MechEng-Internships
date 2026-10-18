@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-18T20:32:59Z</updated>
+  <updated>2026-10-18T23:03:14Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
@@ -126,6 +126,14 @@
     <updated>2026-10-17T12:58:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508</id>
+    <title>General Motors: 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"/>
+    <updated>2026-10-17T04:01:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
     <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
     <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743748005</id>
-    <title>Inversion Space: Manufacturing Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743748005"/>
     <updated>2026-10-14T22:16:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>

@@ -3366,6 +3366,28 @@
     }
    }
   },
+  "llnl": {
+   "name": "LLNL",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-09",
+     "role_ids": [
+      "smartrecruiters:llnl:3743990015127766",
+      "smartrecruiters:llnl:3743990015127776",
+      "smartrecruiters:llnl:3743990015289136",
+      "smartrecruiters:llnl:3743990015408206",
+      "smartrecruiters:llnl:3743990015737586",
+      "smartrecruiters:llnl:3743990016164366",
+      "smartrecruiters:llnl:3743990016164416",
+      "smartrecruiters:llnl:3743990016165496",
+      "smartrecruiters:llnl:3743990016165506",
+      "smartrecruiters:llnl:3743990016165586",
+      "smartrecruiters:llnl:3743990016165636"
+     ],
+     "count": 11
+    }
+   }
+  },
   "lonza": {
    "name": "Lonza",
    "cycles": {
@@ -6477,5 +6499,5 @@
    }
   }
  },
- "updated_at": "2026-10-18T10:51:20Z"
+ "updated_at": "2026-10-18T14:31:31Z"
 }

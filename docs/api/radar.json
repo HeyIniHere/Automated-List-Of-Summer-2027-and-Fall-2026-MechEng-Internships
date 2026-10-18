@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-18T10:51:27Z",
+ "generated_at": "2026-10-18T14:31:37Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2017,6 +2017,20 @@
    "days_until": -39,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "note": ""
+  },
+  {
+   "company": "LLNL",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/llnl/3743990016165636",
    "note": ""
   },
   {
@@ -5408,5 +5422,5 @@
    "note": ""
   }
  ],
- "count": 386
+ "count": 387
 }

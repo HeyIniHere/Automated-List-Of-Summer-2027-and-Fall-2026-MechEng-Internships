@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-19T01:06:19Z</updated>
+  <updated>2026-10-19T06:10:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539</id>
+    <title>General Motors: 2027 Summer Intern, AI/ML Engineer, Mapping (Masters)</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539"/>
+    <updated>2026-10-19T06:09:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, PyTorch, TensorFlow, GCP, Azure · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540</id>
+    <title>General Motors: 2027 Summer Intern,  Data Scaling, Embodied AI (Masters)</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540"/>
+    <updated>2026-10-19T06:09:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, C++, SQL, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:jj:/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629</id>
+    <title>Johnson &amp; Johnson: Quality Data Science Co-Op , Summer 2027</title>
+    <link href="https://jj.wd5.myworkdayjobs.com/JJ/job/Cincinnati-Ohio-United-States-of-America/Quality-Data-Science-Co-Op---Summer-2027_R-103629"/>
+    <updated>2026-10-19T06:09:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Cincinnati, Ohio, United States of America · $23.5/hr · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:llnl:3743990015127766</id>
     <title>LLNL: Materials Engineering Division (MED): Undergraduate Intern - Summer 2027 🇺🇸</title>
@@ -782,29 +806,5 @@
     <updated>2026-10-15T13:22:32Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Ogden, Utah, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ejta.fa.us6.oraclecloud.com:10826</id>
-    <title>Fortive: Mechanical Engineering Intern</title>
-    <link href="https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826"/>
-    <updated>2026-10-15T07:19:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Irvine, CA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c</id>
-    <title>Skydio: Software Engineer Intern - Summer 2027</title>
-    <link href="https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++, Go, TypeScript, JavaScript · H-1B track record: ~26 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:inversionspace:4743740005</id>
-    <title>Inversion Space: Mechanical Engineer - Summer Internship 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/inversionspace/jobs/4743740005"/>
-    <updated>2026-10-14T22:16:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Playa Vista, California, United States · sponsorship: citizens-only</summary>
   </entry>
 </feed>

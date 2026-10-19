@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-19T06:10:00Z",
+ "generated_at": "2026-10-19T14:39:23Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -602,7 +602,7 @@
    "expected": "2026-08-14",
    "days_until": -66,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
    "note": ""
   },
   {
@@ -1358,7 +1358,7 @@
    "expected": "2026-09-01",
    "days_until": -48,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
    "note": ""
   },
   {
@@ -3039,20 +3039,6 @@
    "days_until": -20,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009",
-   "note": ""
-  },
-  {
-   "company": "Perchwell",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -20,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/perchwell/194eec78-26db-4d8e-850f-a99ea2733e9f",
    "note": ""
   },
   {
@@ -5297,6 +5283,20 @@
   },
   {
    "company": "Howmet Aerospace",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -20,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Perchwell",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
    "precision": "day",

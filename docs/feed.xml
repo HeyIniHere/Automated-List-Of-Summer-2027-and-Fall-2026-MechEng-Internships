@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-20T05:53:41Z</updated>
+  <updated>2026-10-20T11:22:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697</id>
+    <title>General Motors: 2027 Summer Intern – Software Verification Engineer, AV/AI Platform</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697"/>
+    <updated>2026-10-20T11:22:12Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Warren, Michigan, United States of America · Python, C++, Linux · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125</id>
     <title>ABB: IS Common Infrastructure Intern- Summer 2027 🛂</title>
@@ -110,22 +118,6 @@
     <updated>2026-10-19T20:35:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Remote - United States · $30 – $35 per hour · H-1B track record: ~13 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:4b9f178f-5346-443d-899e-4d8a76372517</id>
-    <title>Matic: Mechanical Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/4b9f178f-5346-443d-899e-4d8a76372517"/>
-    <updated>2026-10-19T20:35:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Menlo Park, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:maticrobots:92a24480-15df-4413-9736-91a4efd5058a</id>
-    <title>Matic: Manufacturing Design Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/maticrobots/92a24480-15df-4413-9736-91a4efd5058a"/>
-    <updated>2026-10-19T20:35:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Menlo Park, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:inversionspace:4745076005</id>
@@ -526,6 +518,14 @@
     <updated>2026-10-17T12:58:11Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508</id>
+    <title>General Motors: 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508"/>
+    <updated>2026-10-17T04:01:21Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Java, C++, PyTorch, TensorFlow · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:avav:/job/Moorpark-CA/Software-Engineering-Intern_9094</id>

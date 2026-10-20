@@ -3987,6 +3987,18 @@
     }
    }
   },
+  "netflix": {
+   "name": "Netflix",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-13",
+     "role_ids": [
+      "eightfold:netflix:790318904468"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netsmart": {
    "name": "Netsmart",
    "cycles": {
@@ -4368,6 +4380,18 @@
       "greenhouse:pacificfusion:4398388009"
      ],
      "count": 3
+    }
+   }
+  },
+  "patreon": {
+   "name": "Patreon",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-19",
+     "role_ids": [
+      "ashby:patreon:cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
+     ],
+     "count": 1
     }
    }
   },
@@ -6569,5 +6593,5 @@
    }
   }
  },
- "updated_at": "2026-10-19T20:35:14Z"
+ "updated_at": "2026-10-20T00:18:52Z"
 }

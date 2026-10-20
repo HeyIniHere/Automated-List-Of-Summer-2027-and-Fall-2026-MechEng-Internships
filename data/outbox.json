@@ -1,17 +1,3 @@
 {
-  "pending": [
-    "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Application-Mechanical-Co-Op_R2026-4100",
-    "workday:caci:/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564",
-    "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-    "workday:foxfactory:/job/US-MI-Coldwater/Manufacturing-Engineering-Intern_JR113146",
-    "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
-    "workday:imeg:/job/Philadelphia-PA/Mechanical-Engineering-Co-op---Philadelphia--PA_R-16908",
-    "greenhouse:insomniac:6227080004",
-    "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
-    "workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2",
-    "oracle:edbz.fa.us2.oraclecloud.com:25019103",
-    "workday:vermeer:/job/Piedmont-South-Carolina-USA/Manufacturing-Engineer-Intern_REQ-22459",
-    "workday:wattswater:/job/Germantown-WI/Manufacturing-Engineer-Co-Op--Jan-June-2027_10017699",
-    "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627"
-  ]
+  "pending": []
 }

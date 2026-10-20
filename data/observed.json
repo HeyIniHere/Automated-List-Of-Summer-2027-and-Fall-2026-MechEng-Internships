@@ -31,12 +31,13 @@
      "role_ids": [
       "workday:abb:/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
       "workday:abb:/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
+      "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
       "workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
       "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -6018,14 +6019,16 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--AI-ML-Engineering-Summer-2027-Internship_R-1100605",
+      "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Home---Mobile-Value-Prop-Summer-2027-Internship_R-1102103",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship--Rutgers--NJIT--NYU--UT-Dallas--UT-Arlington--Texas-A-M_R-1101169",
       "workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Network-and-Technology--AI-Science-2027-Internship_R-1101167",
       "workday:verizon:/job/Irving-Texas/Irving-V-Teamer-for-a-Day--Verizon-Data-Science-Summer-2027-Internship_R-1101386",
       "workday:verizon:/job/Irving-Texas/Verizon-Network-and-Technology--Data-Science-Summer-2027-Internship_R-1101384"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -6593,5 +6596,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T00:18:52Z"
+ "updated_at": "2026-10-20T05:53:36Z"
 }

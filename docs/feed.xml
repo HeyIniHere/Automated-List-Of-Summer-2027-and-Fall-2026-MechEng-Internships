@@ -5,39 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-20T00:18:58Z</updated>
+  <updated>2026-10-20T05:53:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:braze:8301086</id>
-    <title>Braze: Intern, Software Engineering</title>
-    <link href="https://job-boards.greenhouse.io/braze/jobs/8301086"/>
-    <updated>2026-10-20T00:18:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City · $60/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125</id>
+    <title>ABB: IS Common Infrastructure Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125"/>
+    <updated>2026-10-20T05:53:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · USA, NC, Cary · $20–$34/hr · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012073</id>
-    <title>Emerson Electric: Mechanical Engineer Co-op July-December 🛂</title>
-    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"/>
-    <updated>2026-10-20T00:18:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Mansfield, MA, United States · sponsorship: no-sponsorship</summary>
+    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417</id>
+    <title>Verizon Communications: Basking Ridge, NJ: VTeamer for a Day: Verizon Consumer Group: Data Science Summer 2027 Internship</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Basking-Ridge--NJ--VTeamer-for-a-Day--Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102417"/>
+    <updated>2026-10-20T05:53:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Basking Ridge, New Jersey · $27/hr · LLMs, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:insomniac:6226611004</id>
-    <title>Insomniac Games: Gameplay Programming Intern - Undergraduate</title>
-    <link href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004"/>
-    <updated>2026-10-20T00:18:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · United States, Burbank, CA; United States, Remote · C++</summary>
+    <id>urn:intern-engine:workday:verizon:/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419</id>
+    <title>Verizon Communications: Verizon Consumer Group: Data Science Summer 2027 Internship</title>
+    <link href="https://verizon.wd12.myworkdayjobs.com/verizon-careers/job/Basking-Ridge-New-Jersey/Verizon-Consumer-Group--Data-Science-Summer-2027-Internship_R-1102419"/>
+    <updated>2026-10-20T05:53:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Basking Ridge, New Jersey · $27/hr · LLMs, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465</id>
-    <title>Lumentum: Internship - Mechanical Engineer</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465"/>
+    <id>urn:intern-engine:ashby:patreon:cefe07ab-ba4f-48cc-86b9-a88b1859a95c</id>
+    <title>Patreon: Software Engineering Intern - Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c"/>
     <updated>2026-10-20T00:18:51Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA - CA - San Jose (Ridder) · H-1B track record: ~31 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York · $55 per hour · Python, TypeScript, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:eightfold:netflix:790318904468</id>
@@ -48,6 +48,22 @@
     <summary>Summer 2027 · Software · Los Gatos, California, United States of America · H-1B track record: ~313 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:braze:8301086</id>
+    <title>Braze: Intern, Software Engineering</title>
+    <link href="https://job-boards.greenhouse.io/braze/jobs/8301086"/>
+    <updated>2026-10-20T00:18:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City · $60/hr · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:insomniac:6226611004</id>
+    <title>Insomniac Games: Gameplay Programming Intern - Undergraduate</title>
+    <link href="https://job-boards.greenhouse.io/insomniac/jobs/6226611004"/>
+    <updated>2026-10-20T00:18:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States, Burbank, CA; United States, Remote · C++</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:lever:palantir:da774f81-c98c-4dcf-9b9c-949fd7d90a13</id>
     <title>Palantir: Software Engineer, Internship - Query Engines</title>
     <link href="https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13"/>
@@ -56,12 +72,20 @@
     <summary>Not stated · Software · New York, NY · Python, Java, C++, Rust, Scala · H-1B track record: ~88 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:patreon:cefe07ab-ba4f-48cc-86b9-a88b1859a95c</id>
-    <title>Patreon: Software Engineering Intern - Summer 2027</title>
-    <link href="https://jobs.ashbyhq.com/patreon/cefe07ab-ba4f-48cc-86b9-a88b1859a95c"/>
+    <id>urn:intern-engine:oracle:hdjq.fa.us2.oraclecloud.com:26012073</id>
+    <title>Emerson Electric: Mechanical Engineer Co-op July-December 🛂</title>
+    <link href="https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012073"/>
     <updated>2026-10-20T00:18:51Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York · $55 per hour · Python, TypeScript, Swift, Kotlin · H-1B track record: ~22 approvals (FY2022–2023)</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Mansfield, MA, United States · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465</id>
+    <title>Lumentum: Internship - Mechanical Engineer</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Mechanical-Engineer_20261465"/>
+    <updated>2026-10-20T00:18:51Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · USA - CA - San Jose (Ridder) · H-1B track record: ~31 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:amplify:855d22a3-f15e-49f6-854c-29e505653efa</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-16T01:13:16Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Pottstown, PA · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingo:8888721002</id>
-    <title>Duolingo: Data Scientist, Intern</title>
-    <link href="https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002"/>
-    <updated>2026-10-15T22:13:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York, NY; Pittsburgh, PA · Python, SQL · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:duolingounirecruitment:8888785002</id>
-    <title>Duolingo: Data Scientist, Intern</title>
-    <link href="https://job-boards.greenhouse.io/duolingounirecruitment/jobs/8888785002"/>
-    <updated>2026-10-15T22:13:50Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Pittsburgh, PA; New York, NY · Python, SQL · H-1B track record: ~22 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:generalmatter:5448019008</id>
-    <title>General Matter: Summer 2027 Internship - Information Security Engineer</title>
-    <link href="https://job-boards.greenhouse.io/generalmatter/jobs/5448019008"/>
-    <updated>2026-10-15T22:13:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Los Angeles, CA · $32–$46/hr · Python, C++, Rust, TypeScript, AWS</summary>
   </entry>
 </feed>

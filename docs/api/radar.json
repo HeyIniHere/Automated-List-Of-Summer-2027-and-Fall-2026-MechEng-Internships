@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T00:18:58Z",
+ "generated_at": "2026-10-20T05:53:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1022,7 +1022,7 @@
    "expected": "2026-08-27",
    "days_until": -54,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
    "note": ""
   },
   {
@@ -3504,20 +3504,6 @@
    "note": ""
   },
   {
-   "company": "Sierra Space",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-08",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389",
-   "note": ""
-  },
-  {
    "company": "Viget",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -5479,6 +5465,20 @@
   },
   {
    "company": "Jones Lang LaSalle (JLL)",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Sierra Space",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
    "precision": "day",

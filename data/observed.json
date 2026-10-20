@@ -1158,6 +1158,7 @@
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
       "workday:caci:/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
+      "workday:caci:/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564",
       "workday:caci:/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543",
       "workday:caci:/job/High-Point-NC-US/Network---Cybersecurity-Intern---Summer-2027_333001",
       "workday:caci:/job/Lisle-IL-US/Software-Engineering-Intern---Summer-2027_331742",
@@ -1167,7 +1168,7 @@
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -2396,12 +2397,13 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering--Global-Propulsion-Systems_JR-202619351",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-General-Assembly_JR-202619346",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering-Global-Automation_JR-202619348",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Excellence-Industrial-Engineering_JR-202622634",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---PFMEA-Manufacturing-Engineer_JR-202619950",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Verification-Engineer--AV-AI-Platform_JR-202621697",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
      ],
-     "count": 24
+     "count": 25
     }
    }
   },
@@ -2966,12 +2968,13 @@
       "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+      "workday:imeg:/job/Philadelphia-PA/Mechanical-Engineering-Co-op---Philadelphia--PA_R-16908",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Rogers-AR/Mechanical-Engineering-Intern---Rogers--AR_R-16495",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 16
+     "count": 17
     }
    }
   },
@@ -4084,7 +4087,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 64,
+     "count": 65,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4139,6 +4142,7 @@
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
+      "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Cyber-Systems-Engineer-Intern---Roy-UT_R10249471",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10249871",
@@ -6262,10 +6266,11 @@
      "role_ids": [
       "workday:wattswater:/job/Andover-MA-Federal-Street/IT-Network-Intern--Summer-2027_10017567",
       "workday:wattswater:/job/Fort-Myers-FL/Manufacturing-Quality-Intern--Summer-2027_10017584",
+      "workday:wattswater:/job/Germantown-WI/Manufacturing-Engineer-Co-Op--Jan-June-2027_10017699",
       "workday:wattswater:/job/Menomonee-Falls-WI/Product-Management-Co-op--Jan-June-2027_10017702",
       "workday:wattswater:/job/St-Pauls-NC/Manufacturing-Engineer-Intern-Summer-2027_10017388"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -6525,9 +6530,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-19",
      "role_ids": [
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -6597,5 +6603,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T11:22:12Z"
+ "updated_at": "2026-10-20T16:47:14Z"
 }

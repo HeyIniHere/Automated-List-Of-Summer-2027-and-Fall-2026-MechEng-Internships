@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T20:30:54Z",
+ "generated_at": "2026-10-20T23:50:09Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -742,7 +742,7 @@
    "expected": "2026-08-20",
    "days_until": -61,
    "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146",
    "note": ""
   },
   {
@@ -896,7 +896,7 @@
    "expected": "2026-08-25",
    "days_until": -56,
    "status": "open",
-   "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Attleboro-Massachusetts/Mechanical-Engineer-Intern--Aerospace----Summer-2027_IRC98629",
+   "url": "https://sensata.wd1.myworkdayjobs.com/Sensata-Careers/job/Dynapower-South-Burlington-VT/Mechanical-Engineer-Intern--Dynapower----Summer-2027_IRC98334",
    "note": ""
   },
   {
@@ -1456,7 +1456,7 @@
    "expected": "2026-09-02",
    "days_until": -48,
    "status": "open",
-   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/Carmel-IN/Software-Delivery-Management-Intern_R-011086",
+   "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
    "note": ""
   },
   {
@@ -1554,7 +1554,7 @@
    "expected": "2026-09-03",
    "days_until": -47,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+   "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
    "note": ""
   },
   {
@@ -3402,7 +3402,7 @@
    "expected": "2026-10-07",
    "days_until": -13,
    "status": "open",
-   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
    "note": ""
   },
   {
@@ -3416,7 +3416,7 @@
    "expected": "2026-10-07",
    "days_until": -13,
    "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107367",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107379",
    "note": ""
   },
   {
@@ -3798,6 +3798,76 @@
    "note": ""
   },
   {
+   "company": "LinkedIn",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000156616169",
+   "note": ""
+  },
+  {
+   "company": "Salesforce",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111",
+   "note": "Futureforce, opens late summer"
+  },
+  {
+   "company": "Toyota",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1",
+   "note": ""
+  },
+  {
+   "company": "TruStage",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+   "note": ""
+  },
+  {
+   "company": "Uber",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
+   "note": "opens late summer, rolling"
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3938,20 +4008,6 @@
    "note": "late Aug, rolling into Nov"
   },
   {
-   "company": "Salesforce",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -80,
-   "status": "waiting",
-   "url": "",
-   "note": "Futureforce, opens late summer"
-  },
-  {
    "company": "SIG",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -3978,20 +4034,6 @@
    "status": "waiting",
    "url": "",
    "note": "opens ~Aug, rolling"
-  },
-  {
-   "company": "Uber",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-08-01",
-   "days_until": -80,
-   "status": "waiting",
-   "url": "",
-   "note": "opens late summer, rolling"
   },
   {
    "company": "Adobe",
@@ -5506,5 +5548,5 @@
    "note": ""
   }
  ],
- "count": 393
+ "count": 396
 }

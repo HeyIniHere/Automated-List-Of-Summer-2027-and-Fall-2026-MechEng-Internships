@@ -569,7 +569,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 7,
+     "count": 8,
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
       "greenhouse:andurilindustries:5153187007",
@@ -577,7 +577,8 @@
       "greenhouse:andurilindustries:5236893007",
       "greenhouse:andurilindustries:5239083007",
       "greenhouse:andurilindustries:5255593007",
-      "greenhouse:andurilindustries:5265158007"
+      "greenhouse:andurilindustries:5265158007",
+      "greenhouse:andurilindustries:5269977007"
      ]
     }
    }
@@ -3411,6 +3412,18 @@
     }
    }
   },
+  "linkedin": {
+   "name": "LinkedIn",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "smartrecruiters:LinkedIn3:744000156616169"
+     ],
+     "count": 1
+    }
+   }
+  },
   "live oak bank": {
    "name": "Live Oak Bank",
    "cycles": {
@@ -5148,6 +5161,13 @@
      "role_ids": [
       "workday:salesforce:/job/France---Paris/Sales-Business-Analyst-6-months-Interns---September-2026_JR340530-3"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:salesforce:/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"
+     ],
+     "count": 1
     }
    }
   },
@@ -5451,9 +5471,10 @@
       "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
       "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+      "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -5587,9 +5608,13 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008296",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008370"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008370",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008412",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008413",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008415",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008419"
      ],
-     "count": 36
+     "count": 40
     }
    }
   },
@@ -5903,6 +5928,18 @@
     }
    }
   },
+  "toyota": {
+   "name": "Toyota",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "trade desk": {
    "name": "The Trade Desk",
    "cycles": {
@@ -5912,6 +5949,18 @@
      "role_ids": [
       "greenhouse:thetradedesk:5187605007"
      ]
+    }
+   }
+  },
+  "trustage": {
+   "name": "TruStage",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:trustage:/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"
+     ],
+     "count": 1
     }
    }
   },
@@ -5939,6 +5988,18 @@
       "workday:usbank:/job/Minneapolis-MN/XMLNAME-2027-Product-Management-Summer-Intern_2026-0026766"
      ],
      "count": 2
+    }
+   }
+  },
+  "uber": {
+   "name": "Uber",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922"
+     ],
+     "count": 1
     }
    }
   },
@@ -6618,5 +6679,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T20:30:48Z"
+ "updated_at": "2026-10-20T23:50:03Z"
 }

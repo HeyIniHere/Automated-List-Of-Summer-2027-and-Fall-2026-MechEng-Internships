@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-20T16:47:21Z",
+ "generated_at": "2026-10-20T20:30:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -662,34 +662,6 @@
    "note": ""
   },
   {
-   "company": "Continental Resources",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-18",
-   "days_until": -63,
-   "status": "open",
-   "url": "https://clr.wd5.myworkdayjobs.com/CLR_Careers/job/Oklahoma-City-OK/Data-Analyst-Intern--Summer-2027-_R02591-1",
-   "note": ""
-  },
-  {
-   "company": "H3X Technologies",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-18",
-   "days_until": -63,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/h3x-technologies/6af49576-a61d-480c-b155-3e034e2ed5be",
-   "note": ""
-  },
-  {
    "company": "PIMCO",
    "last_cycle_posted": "",
    "posted_on": "2026-08-18",
@@ -1120,7 +1092,7 @@
    "expected": "2026-08-28",
    "days_until": -53,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008053",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089",
    "note": ""
   },
   {
@@ -1415,20 +1387,6 @@
    "days_until": -49,
    "status": "open",
    "url": "https://wd3.myworkdaysite.com/recruiting/mdlz/External/job/Naperville-Illinois-United-States/Manufacturing--Process-Engineering-Co-Op-For-Naperville--IL-Local-Candidates-Only-_R-176632",
-   "note": ""
-  },
-  {
-   "company": "Newrez",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -49,
-   "status": "open",
-   "url": "https://newrez.wd1.myworkdayjobs.com/NRZ/job/TX-Coppell/XMLNAME-2027-Summer-Internship---Software-Developer_R10390",
    "note": ""
   },
   {
@@ -2618,7 +2576,7 @@
    "expected": "2026-09-16",
    "days_until": -34,
    "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260804",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260795",
    "note": ""
   },
   {
@@ -2745,6 +2703,20 @@
    "days_until": -33,
    "status": "open",
    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
+   "note": ""
+  },
+  {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -32,
+   "status": "open",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "note": ""
   },
   {
@@ -3808,7 +3780,21 @@
    "expected": "2026-10-19",
    "days_until": -1,
    "status": "open",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627",
+   "note": ""
+  },
+  {
+   "company": "Berkshire Hathaway Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-essf-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/10005930",
    "note": ""
   },
   {
@@ -4498,6 +4484,34 @@
    "note": ""
   },
   {
+   "company": "Continental Resources",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -63,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "H3X Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-18",
+   "days_until": -63,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Dev Technology Group",
    "last_cycle_posted": "",
    "posted_on": "2026-08-19",
@@ -4723,6 +4737,20 @@
   },
   {
    "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Newrez",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
    "precision": "day",
@@ -5156,20 +5184,6 @@
    "note": ""
   },
   {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -32,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Brown Brothers Harriman",
    "last_cycle_posted": "",
    "posted_on": "2026-09-19",
@@ -5492,5 +5506,5 @@
    "note": ""
   }
  ],
- "count": 392
+ "count": 393
 }

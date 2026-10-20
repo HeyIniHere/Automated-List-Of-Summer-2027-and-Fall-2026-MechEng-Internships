@@ -915,6 +915,18 @@
     }
    }
   },
+  "berkshire hathaway energy": {
+   "name": "Berkshire Hathaway Energy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "oracle:fa-essf-saasfaprod1.fa.ocs.oraclecloud.com:10005930"
+     ],
+     "count": 1
+    }
+   }
+  },
   "biogen": {
    "name": "Biogen",
    "cycles": {
@@ -4457,6 +4469,7 @@
      "first_posted": "2026-08-20",
      "role_ids": [
       "workday:philips:/job/Bothell-Washington-United-States/Intern---Digital-Healthtech-Product-Management---Bothell--WA---Summer-2027_585564",
+      "workday:philips:/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Robotics-Mechatronics--Surgical-Robotics---Cambridge--MA---January-2027_589902",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Development-Engineer---Cambridge--MA---Jan-Aug-2027_590095",
       "workday:philips:/job/Cambridge-US-Massachusetts-United-States/Co-op---Software-Engineer--R-D----Cambridge--MA---January---August-2027_588891",
@@ -4477,7 +4490,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 20
+     "count": 21
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -5435,11 +5448,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-03",
      "role_ids": [
+      "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
       "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -5572,9 +5586,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008290",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008296"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008296",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008370"
      ],
-     "count": 35
+     "count": 36
     }
    }
   },
@@ -6603,5 +6618,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T16:47:14Z"
+ "updated_at": "2026-10-20T20:30:48Z"
 }

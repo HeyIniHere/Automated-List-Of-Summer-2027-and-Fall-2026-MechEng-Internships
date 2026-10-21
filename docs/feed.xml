@@ -5,15 +5,103 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-21T10:01:59Z</updated>
+  <updated>2026-10-21T15:08:24Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958</id>
-    <title>Smith+Nephew: Intern Mechanical Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958"/>
+    <id>urn:intern-engine:lever:analyticpartners:006928a3-9a6d-49a3-be4f-46d77f0bb302</id>
+    <title>Analytic Partners: Data Science Co-Op | January 2027 🛂</title>
+    <link href="https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Miami, Florida, United States · Python, SQL, Linux, Git · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/High-Point-NC-US/Mechatronics-Engineering-Intern---Body-Interface-and-Controls_DT-20341</id>
+    <title>Daimler Truck: Mechatronics Engineering Intern – Body Interface and Controls</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/High-Point-NC-US/Mechatronics-Engineering-Intern---Body-Interface-and-Controls_DT-20341"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · High Point, NC US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dukeenergy:/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099</id>
+    <title>Duke Energy: Nuclear Cybersecurity 2027 Summer Internship 🇺🇸</title>
+    <link href="https://dukeenergy.wd1.myworkdayjobs.com/search/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Hartsville, SC · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:integrate:7681f59b-70c0-414b-96d9-ae8925cc2ed3</id>
+    <title>Integrate: Software Engineering Intern (Summer 2027) 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Seattle, WA · $45 per hour • We also offer excellent health insurance benefits, matching 401k program and FSA account, commuter benefits, wellness stipend, and free lunch! · Python, Rust, TypeScript, JavaScript, SQL · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053</id>
+    <title>Northrop Grumman: 2027 Software Engineering Intern - Roy UT 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134</id>
+    <title>RTX: Software Engineering Co-op (Spring/Summer 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137</id>
+    <title>RTX: Software Engineering Co-op (Summer/Fall 2027) 🇺🇸</title>
+    <link href="https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · US-IA-CEDAR RAPIDS-130 ~ 5350 C Ave NE ~ BLDG 130 · C++, Linux · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008421</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008421"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Houston, TX, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008423</id>
+    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008423"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Raleigh, NC, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008324</id>
+    <title>Stantec: Process Mechanical Engineering Intern - Water (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008324"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Phoenix, AZ, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:werner:/job/Omaha-NE/Information-Security-Intern_JR23746</id>
+    <title>Werner: Information Security Intern</title>
+    <link href="https://werner.wd501.myworkdayjobs.com/werner/job/Omaha-NE/Information-Security-Intern_JR23746"/>
+    <updated>2026-10-21T15:08:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Omaha, NE · H-1B track record: ~21 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953</id>
+    <title>Smith+Nephew: Intern Agentic AI Software Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953"/>
     <updated>2026-10-21T10:01:55Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mansfield, MA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Andover, MA · Python, LLMs · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952</id>
@@ -24,12 +112,12 @@
     <summary>Summer 2027 · Software · Andover, MA · C++, Computer Vision · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953</id>
-    <title>Smith+Nephew: Intern Agentic AI Software Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953"/>
+    <id>urn:intern-engine:workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958</id>
+    <title>Smith+Nephew: Intern Mechanical Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958"/>
     <updated>2026-10-21T10:01:55Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Andover, MA · Python, LLMs · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · Mansfield, MA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gofundme:8304644</id>
@@ -718,93 +806,5 @@
     <updated>2026-10-18T14:31:31Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015289136</id>
-    <title>LLNL: Data Science Institute Undergraduate Student Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015289136"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015408206</id>
-    <title>LLNL: Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015408206"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990015737586</id>
-    <title>LLNL: Data Science Institute Graduate Student Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990015737586"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164366</id>
-    <title>LLNL: Critical Infrastructure Analysis Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164366"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016164416</id>
-    <title>LLNL: Power Systems Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016164416"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165496</id>
-    <title>LLNL: Critical Infrastructure Analysis Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165496"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165506</id>
-    <title>LLNL: Power Systems Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165506"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, C++, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165586</id>
-    <title>LLNL: Cybersecurity Graduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165586"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016165636</id>
-    <title>LLNL: Cybersecurity Undergraduate Intern - Cyber and Critical Infrastructure Summer Institute - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016165636"/>
-    <updated>2026-10-18T14:31:31Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Livermore, CA, United States · Python, Java, C++, MATLAB, Docker · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726</id>
-    <title>Cboe: Software Engineer Intern (C++) 🛂</title>
-    <link href="https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726"/>
-    <updated>2026-10-17T19:16:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Kansas City, MO · $22–$42/hr · Python, C++, SQL, Linux · sponsorship: no-sponsorship · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:agzen:4cff4edd-3e9a-4ea1-8138-80c7241a2d3a</id>
-    <title>AgZen: Software Engineering Co-op</title>
-    <link href="https://jobs.ashbyhq.com/agzen/4cff4edd-3e9a-4ea1-8138-80c7241a2d3a"/>
-    <updated>2026-10-17T12:58:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Somerville, MA · Computer Vision</summary>
   </entry>
 </feed>

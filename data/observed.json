@@ -550,6 +550,18 @@
     }
    }
   },
+  "analytic partners": {
+   "name": "Analytic Partners",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "lever:analyticpartners:006928a3-9a6d-49a3-be4f-46d77f0bb302"
+     ],
+     "count": 1
+    }
+   }
+  },
   "anavation": {
    "name": "AnaVation",
    "cycles": {
@@ -1899,9 +1911,10 @@
      "first_posted": "2026-08-07",
      "role_ids": [
       "workday:dukeenergy:/job/Charlotte-NC/Asc-Cybersecurity-Gov-Risk-Analyst---Intern-Co-op-Conversion-2027--Souza-_R40863",
+      "workday:dukeenergy:/job/Hartsville-SC/Nuclear-Cybersecurity-2027-Summer-Internship_R42099",
       "workday:dukeenergy:/job/Lake-Mary-FL/PGO-Cybersecurity-Summer-2027-Internship_R41822"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3082,6 +3095,18 @@
     }
    }
   },
+  "integrate": {
+   "name": "Integrate",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "ashby:integrate:7681f59b-70c0-414b-96d9-ae8925cc2ed3"
+     ],
+     "count": 1
+    }
+   }
+  },
   "intuitive surgical": {
    "name": "Intuitive Surgical",
    "cycles": {
@@ -4124,7 +4149,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 65,
+     "count": 66,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4186,6 +4211,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Mechanical-Engineering-Intern---Roy-UT_R10256223",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10249842",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
+      "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10257053",
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
@@ -5048,8 +5074,10 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineer-Intern---Summer-2027-_01870613",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01879726",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01881996",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Spring-Summer-2027-_01882134",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer---Fall-2027-_01881368",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
@@ -5075,7 +5103,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 68
+     "count": 70
     }
    }
   },
@@ -5624,13 +5652,16 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008292",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008293",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008296",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008324",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008370",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008412",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008413",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008415",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008419"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008419",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008421",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008423"
      ],
-     "count": 40
+     "count": 43
     }
    }
   },
@@ -6695,5 +6726,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T10:01:55Z"
+ "updated_at": "2026-10-21T15:08:17Z"
 }

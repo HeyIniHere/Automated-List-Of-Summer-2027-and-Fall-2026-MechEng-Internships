@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-21T04:16:54Z</updated>
+  <updated>2026-10-21T10:01:59Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958</id>
+    <title>Smith+Nephew: Intern Mechanical Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958"/>
+    <updated>2026-10-21T10:01:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Mansfield, MA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952</id>
+    <title>Smith+Nephew: Intern Embedded Software Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952"/>
+    <updated>2026-10-21T10:01:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Andover, MA · C++, Computer Vision · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953</id>
+    <title>Smith+Nephew: Intern Agentic AI Software Engineering</title>
+    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953"/>
+    <updated>2026-10-21T10:01:55Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Andover, MA · Python, LLMs · H-1B track record: ~77 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gofundme:8304644</id>
     <title>GoFundMe: MBA Product Management Internship, Summer 2027</title>
@@ -302,14 +326,6 @@
     <updated>2026-10-20T16:47:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-Utah-Corinne · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:rockwellautomation:/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2</id>
-    <title>Rockwell Automation: Intern - Embedded Controls Engineering 🛂</title>
-    <link href="https://rockwellautomation.wd1.myworkdayjobs.com/External_Rockwell_Automation/job/Orlando-Florida-United-States/Intern---Embedded-Controls-Engineering_R26-5043-2"/>
-    <updated>2026-10-20T16:47:14Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Orlando, Florida, United States · sponsorship: no-sponsorship · H-1B track record: ~90 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:vermeer:/job/Piedmont-South-Carolina-USA/Manufacturing-Engineer-Intern_REQ-22459</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-17T12:58:11Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Somerville, MA · Computer Vision</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:aidashinc:4436057009</id>
-    <title>Aidashinc: Software Engineering Intern, Backend</title>
-    <link href="https://job-boards.greenhouse.io/aidashinc/jobs/4436057009"/>
-    <updated>2026-10-17T12:58:11Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Palo Alto, California, United States · Python, Java, SQL, AWS, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575</id>
-    <title>GlobalFoundries: Industrial Engineering Intern (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575"/>
-    <updated>2026-10-17T12:58:11Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

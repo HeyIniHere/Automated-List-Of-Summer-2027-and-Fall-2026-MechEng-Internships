@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T04:16:54Z",
+ "generated_at": "2026-10-21T10:01:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2678,6 +2678,20 @@
    "note": ""
   },
   {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
+   "note": ""
+  },
+  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -5207,20 +5221,6 @@
    "source": "engine",
    "expected": "2026-09-16",
    "days_until": -35,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -34,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -5509,11 +5509,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+      "workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
+      "workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
       "workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
      ],
-     "count": 3
+     "count": 6
     }
    }
   },
@@ -6692,5 +6695,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T04:16:48Z"
+ "updated_at": "2026-10-21T10:01:55Z"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-21T15:08:24Z",
+ "generated_at": "2026-10-21T19:23:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1106,7 +1106,7 @@
    "expected": "2026-08-28",
    "days_until": -54,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089",
    "note": ""
   },
   {
@@ -2143,20 +2143,6 @@
    "days_until": -41,
    "status": "open",
    "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
-   "note": ""
-  },
-  {
-   "company": "Securian Financial Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-10",
-   "days_until": -41,
-   "status": "open",
-   "url": "https://hq.wd12.myworkdayjobs.com/Securian_External/job/Saint-Paul-MN-Campus/Data-Science-and-Advanced-Analytics-Internship---Summer-2027_R-010894",
    "note": ""
   },
   {
@@ -3476,6 +3462,20 @@
    "note": ""
   },
   {
+   "company": "Sierra Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
+   "note": ""
+  },
+  {
    "company": "Viget",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -3893,6 +3893,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
+   "note": ""
+  },
+  {
+   "company": "DP World",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
    "note": ""
   },
   {
@@ -5044,6 +5058,20 @@
    "note": ""
   },
   {
+   "company": "Securian Financial Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Target",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -5562,20 +5590,6 @@
    "note": ""
   },
   {
-   "company": "Sierra Space",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-08",
-   "days_until": -13,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Haleon",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -5590,5 +5604,5 @@
    "note": ""
   }
  ],
- "count": 399
+ "count": 400
 }

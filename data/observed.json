@@ -1835,6 +1835,18 @@
     }
    }
   },
+  "dp world": {
+   "name": "DP World",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "oracle:ehpv.fa.em2.oraclecloud.com:27404"
+     ],
+     "count": 1
+    }
+   }
+  },
   "draftkings": {
    "name": "DraftKings",
    "cycles": {
@@ -3901,9 +3913,10 @@
      "role_ids": [
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
-      "workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819"
+      "workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819",
+      "workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -4149,7 +4162,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 66,
+     "count": 67,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4166,6 +4179,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
+      "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
@@ -5462,9 +5476,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-08",
      "role_ids": [
-      "workday:sierraspace:/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389"
+      "workday:sierraspace:/job/Broomfield-CO/Summer-2027-Manufacturing-Engineer-Intern_R26389",
+      "workday:sierraspace:/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5538,13 +5553,14 @@
      "first_posted": "2026-09-17",
      "role_ids": [
       "workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+      "workday:smithnephew:/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
       "workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
       "workday:smithnephew:/job/Mansfield-MA/Intern-Mechanical-Engineering_R92958",
       "workday:smithnephew:/job/Pittsburgh-PA/Intern-Mechanical-Engineering_R92508",
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -5658,10 +5674,11 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008413",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008415",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008419",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008420",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008421",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008423"
      ],
-     "count": 43
+     "count": 44
     }
    }
   },
@@ -6726,5 +6743,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T15:08:17Z"
+ "updated_at": "2026-10-21T19:23:48Z"
 }

@@ -2519,6 +2519,18 @@
     }
    }
   },
+  "gofundme": {
+   "name": "GoFundMe",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "greenhouse:gofundme:8304644"
+     ],
+     "count": 1
+    }
+   }
+  },
   "graco": {
    "name": "Graco",
    "cycles": {
@@ -5351,10 +5363,11 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
+      "lever:shieldai:aa71c28a-be00-43ca-8aa7-b764b2143797",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -6679,5 +6692,5 @@
    }
   }
  },
- "updated_at": "2026-10-20T23:50:03Z"
+ "updated_at": "2026-10-21T04:16:48Z"
 }

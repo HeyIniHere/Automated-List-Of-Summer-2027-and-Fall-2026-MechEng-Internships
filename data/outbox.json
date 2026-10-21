@@ -1,13 +1,3 @@
 {
-  "pending": [
-    "smartrecruiters:AECOM2:744000156887619",
-    "workday:allstate:/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280",
-    "workday:borgwarner:/job/Kokomo-Technical-Center---Indiana---USA/Mechanical-Design-Engineer-Summer-Intern_R2026-4198",
-    "workday:dtna:/job/Portland-OR-US/BEV-Systems-Engineering-Intern---Energy--Thermal---Analytics-Intern_DT-20328",
-    "workday:dtna:/job/Portland-OR-US/Vehicle-Electronics-Programming-Station-Intern_DT-20337",
-    "workday:globalfoundries:/job/USA---Vermont---Essex-Junction/Industrial-Engineering-Intern--Summer-2027-_JR-2604569",
-    "ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
-    "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
-    "ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5"
-  ]
+  "pending": []
 }

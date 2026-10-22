@@ -1,10 +1,3 @@
 {
-  "pending": [
-    "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439927",
-    "oracle:fa-espx-saasfaprod1.fa.ocs.oraclecloud.com:2439835",
-    "ashby:openart:8dd52ba6-a5b6-40b1-95fe-50de352fa254",
-    "workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Digital-Manufacturing-Intern_R51065",
-    "workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Manufacturing-Engineering-Intern_R51334",
-    "oracle:emit.fa.ca3.oraclecloud.com:98073"
-  ]
+  "pending": []
 }

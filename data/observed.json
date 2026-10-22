@@ -1695,6 +1695,18 @@
     }
    }
   },
+  "crusoe": {
+   "name": "Crusoe",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "ashby:crusoe:07a8a6a9-975e-471c-ac31-b5aaa97f9af5"
+     ],
+     "count": 1
+    }
+   }
+  },
   "danaher": {
    "name": "Danaher Corporation",
    "cycles": {
@@ -6758,5 +6770,5 @@
    }
   }
  },
- "updated_at": "2026-10-21T23:14:48Z"
+ "updated_at": "2026-10-22T04:15:37Z"
 }

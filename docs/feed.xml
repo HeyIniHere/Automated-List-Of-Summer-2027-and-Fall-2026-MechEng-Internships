@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-21T23:14:53Z</updated>
+  <updated>2026-10-22T04:15:43Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:crusoe:07a8a6a9-975e-471c-ac31-b5aaa97f9af5</id>
+    <title>Crusoe: Software Engineering Intern, Summer 2027</title>
+    <link href="https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5"/>
+    <updated>2026-10-22T04:15:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA - US · $49/hr · Python, Java, C++, Rust, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6</id>
+    <title>Metalenz: Camera Software Intern</title>
+    <link href="https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"/>
+    <updated>2026-10-21T23:14:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boston, MA · $5.5K – $8.5K per month · C++</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5</id>
+    <title>Walrus: Full Stack Developer Intern 🛂</title>
+    <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5"/>
+    <updated>2026-10-21T23:14:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York City (Hybrid) · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000156887619</id>
     <title>AECOM: Digital Infrastructure / Telecommunications Engineering Intern</title>
@@ -56,28 +80,12 @@
     <summary>Summer 2027 · Hardware · USA - Vermont - Essex Junction · Python, SQL · H-1B track record: ~110 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6</id>
-    <title>Metalenz: Camera Software Intern</title>
-    <link href="https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6"/>
-    <updated>2026-10-21T23:14:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Boston, MA · $5.5K – $8.5K per month · C++</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211</id>
     <title>Northrop Grumman: 2027 Structural / Electromechanical Engineer Intern - Redondo Beach CA 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211"/>
     <updated>2026-10-21T23:14:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-California-Redondo Beach · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:walrusfi:7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5</id>
-    <title>Walrus: Full Stack Developer Intern 🛂</title>
-    <link href="https://jobs.ashbyhq.com/walrusfi/7dd09f17-cfff-48d8-8e4e-c3e016fe8cf5"/>
-    <updated>2026-10-21T23:14:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York City (Hybrid) · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:knowbe4:8903101002</id>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284</id>
     <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
     <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284"/>
-    <updated>2026-10-19T20:35:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872</id>
-    <title>Nissan: Industrial Engineering Intern - Summer 2027 - Smyrna, TN</title>
-    <link href="https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872"/>
     <updated>2026-10-19T20:35:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Smyrna, Tennessee - United States of America · H-1B track record: ~16 approvals (FY2022–2023)</summary>

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T20:00:54Z",
+ "generated_at": "2026-10-22T23:14:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1654,20 +1654,6 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "note": "posts roles year-round"
-  },
-  {
-   "company": "Schonfeld",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171696",
-   "note": ""
   },
   {
    "company": "Allegion",
@@ -3616,6 +3602,20 @@
    "note": ""
   },
   {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -6,
+   "status": "open",
+   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+   "note": ""
+  },
+  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -3809,20 +3809,6 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
-   "note": ""
-  },
-  {
-   "company": "Crusoe",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-21",
-   "days_until": -1,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
    "note": ""
   },
   {
@@ -4918,6 +4904,20 @@
    "note": ""
   },
   {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Dropbox",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -5644,7 +5644,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Crusoe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -1,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 403
+ "count": 404
 }

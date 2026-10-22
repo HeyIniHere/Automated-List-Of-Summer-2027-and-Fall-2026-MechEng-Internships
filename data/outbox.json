@@ -1,3 +1,25 @@
 {
-  "pending": []
+  "pending": [
+    "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+    "workday:allstate:/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
+    "amazon:amazon:10587087",
+    "workday:amgen:/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434",
+    "greenhouse:databricks:6866538002",
+    "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Software-Analytics-Co-op_JR-0096723",
+    "workday:gdit:/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
+    "workday:lowes:/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866",
+    "workday:motorolasolutions:/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727",
+    "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423",
+    "lever:palantir:b3d81928-6c26-432f-8a0a-36602c2eefcb",
+    "lever:pattern:48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+    "lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443",
+    "lever:pattern:ad978732-7171-473d-9400-0a6fc9e23cf7",
+    "smartrecruiters:RESPECInc:744000157237049",
+    "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
+    "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
+    "workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
+    "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
+    "workday:spscommerce:/job/US-MN-Minneapolis-Office/Software-Engineer-Intern_R-001398",
+    "oracle:emit.fa.ca3.oraclecloud.com:97952"
+  ]
 }

@@ -351,10 +351,12 @@
     "Summer 2027": {
      "first_posted": "2026-10-21",
      "role_ids": [
+      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Analytics-Engineer-Intern_R36286",
+      "workday:allstate:/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285",
       "workday:allstate:/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280",
       "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -390,7 +392,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 17,
+     "count": 18,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -408,7 +410,8 @@
       "amazon:amazon:10565667",
       "amazon:amazon:10567914",
       "amazon:amazon:10571004",
-      "amazon:amazon:10571374"
+      "amazon:amazon:10571374",
+      "amazon:amazon:10587087"
      ]
     }
    }
@@ -527,6 +530,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-11",
      "role_ids": [
+      "workday:amgen:/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255725",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255742",
       "workday:amgen:/job/United-States---Remote/Grad-Intern---Data-Scientist---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255722",
@@ -539,7 +543,7 @@
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Machine-Learning-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255709",
       "workday:amgen:/job/United-States---Remote/Undergrad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255719"
      ],
-     "count": 11
+     "count": 12
     },
     "Fall 2026": {
      "first_posted": "2026-10-06",
@@ -1740,9 +1744,10 @@
      "first_posted": "2023-08-04",
      "role_ids": [
       "greenhouse:databricks:6865687002",
+      "greenhouse:databricks:6866538002",
       "greenhouse:databricks:6883068002"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -2401,6 +2406,7 @@
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Generative-AI-Software-Development-Internship_RQ228933-1",
       "workday:gdit:/job/USA-LA-Bossier-City/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship_RQ228931-2",
       "workday:gdit:/job/USA-NJ-Egg-Harbor-Township/GDIT-Summer-Internship-Program---Summer-2027-Software-Development-Internship--_RQ230643",
+      "workday:gdit:/job/USA-VA-Falls-Church/Financial-Data-Analyst-Intern--Seasonal-_RQ230761",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ226237",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228404-1",
       "workday:gdit:/job/USA-VA-Falls-Church/Summer-2027-Software-Development-Internship_RQ228405-2",
@@ -2410,7 +2416,7 @@
       "workday:gdit:/job/USA-VA-Falls-Church/XMLNAME-2027-Summer-Intern---Defense-Angencies--AI-ML-_RQ230275",
       "workday:gdit:/job/USA-VA-Sterling/AI-and-Data-Analytics-Intern_RQ230269"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -3559,9 +3565,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:lowes:/job/Mooresville-NC-SSC-1999/Industrial-Engineer-Intern---Undergrad-Internship---Summer-2027---Field_JR-02681866",
       "workday:lowes:/job/Mooresville-NC-SSC-1999/Store-Operations-Industrial-Engineering---Undergrad-Internship---Summer-2027_JR-02651868-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3996,10 +4003,11 @@
       "workday:motorolasolutions:/job/Plantation-FL/Mechanical-Engineering-Intern---Summer-2027_R69030",
       "workday:motorolasolutions:/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136",
       "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
+      "workday:motorolasolutions:/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782",
       "workday:motorolasolutions:/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -4194,7 +4202,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 69,
+     "count": 70,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4264,7 +4272,8 @@
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
-      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912"
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Structural-Engineering-Intern-Dulles-Va_R10253912",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Systems-Engineering-Internship--AI-Experience----Dulles-VA_R10257423"
      ]
     },
     "Fall 2026": {
@@ -4509,6 +4518,19 @@
       "ashby:patreon:cefe07ab-ba4f-48cc-86b9-a88b1859a95c"
      ],
      "count": 1
+    }
+   }
+  },
+  "pattern": {
+   "name": "Pattern",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-16",
+     "role_ids": [
+      "lever:pattern:48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+      "lever:pattern:5c0c1963-87c5-48d7-8da9-0c79121fe443"
+     ],
+     "count": 2
     }
    }
   },
@@ -5473,17 +5495,21 @@
       "workday:snc:/job/Hagerstown-MD/Aerospace-Engineering-Intern--Summer-2027-_R0030737",
       "workday:snc:/job/Hagerstown-MD/Manufacturing-Engineering-Intern--Summer-2027-_R0030784",
       "workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748",
+      "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
       "workday:snc:/job/Lone-Tree-CO/Software-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031098",
       "workday:snc:/job/Lone-Tree-CO/Software-Engineering-Intern--Summer-2027-_R0030757",
+      "workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027_R0031160-1",
       "workday:snc:/job/Plano-TX/Aerospace-Engineering-Intern--Summer-2027-Intern-_R0030736",
       "workday:snc:/job/Plano-TX/Mechanical-Engineering-Intern--Summer-2027-_R0030746-1",
       "workday:snc:/job/Plano-TX/Software-Engineering-Intern--Summer-2027-_R0030758",
       "workday:snc:/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
       "workday:snc:/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
      ],
-     "count": 16
+     "count": 20
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -6651,9 +6677,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97462",
       "oracle:emit.fa.ca3.oraclecloud.com:97606",
       "oracle:emit.fa.ca3.oraclecloud.com:97807",
+      "oracle:emit.fa.ca3.oraclecloud.com:97952",
       "oracle:emit.fa.ca3.oraclecloud.com:98073"
      ],
-     "count": 49
+     "count": 50
     }
    }
   },
@@ -6794,5 +6821,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T20:00:48Z"
+ "updated_at": "2026-10-22T23:14:00Z"
 }

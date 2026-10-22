@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-22T15:10:05Z",
+ "generated_at": "2026-10-22T20:00:54Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -379,6 +379,20 @@
    "days_until": -86,
    "status": "open",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+   "note": ""
+  },
+  {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -85,
+   "status": "open",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
    "note": ""
   },
   {
@@ -928,20 +942,6 @@
    "note": ""
   },
   {
-   "company": "Auto-Owners Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -57,
-   "status": "open",
-   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/IT-Document-Automation-Developer-Internship---Summer-2027_R_14471",
-   "note": ""
-  },
-  {
    "company": "QTS",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1078,7 +1078,7 @@
    "expected": "2026-08-28",
    "days_until": -55,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008089",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131",
    "note": ""
   },
   {
@@ -1204,7 +1204,7 @@
    "expected": "2026-08-31",
    "days_until": -52,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5400185008",
+   "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008",
    "note": ""
   },
   {
@@ -1526,7 +1526,7 @@
    "expected": "2026-09-03",
    "days_until": -49,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/skydio/370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
    "note": ""
   },
   {
@@ -1750,7 +1750,7 @@
    "expected": "2026-09-08",
    "days_until": -44,
    "status": "open",
-   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Software-Engineering-Internship-2027_R49323",
+   "url": "https://chrobinson.wd5.myworkdayjobs.com/CHRobinson/job/Eden-Prairie-MN-United-States-of-America/Security-Internship-2027_R49322",
    "note": ""
   },
   {
@@ -3840,6 +3840,20 @@
    "note": ""
   },
   {
+   "company": "STR",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4274,20 +4288,6 @@
    "note": ""
   },
   {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -85,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Kraft Heinz",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -4647,6 +4647,20 @@
    "source": "engine",
    "expected": "2026-08-25",
    "days_until": -58,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Auto-Owners Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -57,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5632,5 +5646,5 @@
    "note": ""
   }
  ],
- "count": 402
+ "count": 403
 }

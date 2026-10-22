@@ -351,9 +351,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-21",
      "role_ids": [
-      "workday:allstate:/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280"
+      "workday:allstate:/job/USA---IL-Remote/Arity---Product-Management-Advertising-Intern_R36280",
+      "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -389,7 +390,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 16,
+     "count": 17,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -403,6 +404,7 @@
       "amazon:amazon:10557133",
       "amazon:amazon:10559746",
       "amazon:amazon:10559762",
+      "amazon:amazon:10564599",
       "amazon:amazon:10565667",
       "amazon:amazon:10567914",
       "amazon:amazon:10571004",
@@ -1853,9 +1855,10 @@
      "role_ids": [
       "greenhouse:doordashusa:8171041",
       "greenhouse:doordashusa:8204111",
-      "greenhouse:doordashusa:8263774"
+      "greenhouse:doordashusa:8263774",
+      "greenhouse:doordashusa:8313401"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3120,6 +3123,7 @@
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Embedded-Software-Test-Engineering--January-June-2027--Onsite-_REQ-2026-17986",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Engineering--January---June-2027--Onsite-_REQ-2026-18078",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Manufacturing-Graduate--January---June-2027--Onsite-_REQ-2026-18086",
+      "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Lifecycle--January---June-2027--Onsite-_REQ-2026-18155",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Manufacturing--January-June-2027--Onsite-_REQ-2026-18069",
       "workday:insulet:/job/Acton-Massachusetts/Co-op--R-D-Mechanical-Engineering--January---June-2027--Hybrid-_REQ-2026-18007",
@@ -3129,7 +3133,7 @@
       "workday:insulet:/job/Irvine-California/Co-op--Manufacturing--January---June-2027--Onsite-_REQ-2026-18119",
       "workday:insulet:/job/San-Diego-California/Intern--DevOps-Engineer--June-August-2027--Onsite-_REQ-2026-18202"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -3437,13 +3441,14 @@
       "workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00193937",
       "workday:leidos:/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042",
+      "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
       "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 14
+     "count": 15
     }
    }
   },
@@ -4173,13 +4178,14 @@
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Franklin--TN_R00214250",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Digital-Products---AI-Strategy-Intern---Summer-2027---Franklin--TN_R00214215",
       "workday:alliance:/job/Franklin-Tennessee---United-States-of-America/Financial-AI-Engineering-Intern---Summer-2027---Franklin--TN_R00214241",
+      "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Data-Science-Intern---Summer-2027---Smyrna--TN_R00215331",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214284",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Smyrna--TN_R00214872",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -4188,7 +4194,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 68,
+     "count": 69,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4243,6 +4249,7 @@
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
+      "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
@@ -4918,9 +4925,10 @@
      "first_posted": "2026-10-15",
      "role_ids": [
       "smartrecruiters:RESPECInc:744000155841680",
-      "smartrecruiters:RESPECInc:744000156379056"
+      "smartrecruiters:RESPECInc:744000156379056",
+      "smartrecruiters:RESPECInc:744000157189739"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5484,9 +5492,10 @@
       "workday:snc:/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592",
       "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
+      "workday:snc:/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204",
       "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5554,10 +5563,11 @@
       "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
       "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
+      "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5745,6 +5755,18 @@
     }
    }
   },
+  "str": {
+   "name": "STR",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "greenhouse:systemstechnologyresearch:4723980006"
+     ],
+     "count": 1
+    }
+   }
+  },
   "stryker": {
    "name": "Stryker",
    "cycles": {
@@ -5755,11 +5777,12 @@
       "workday:stryker:/job/Flower-Mound-Texas/Commercial-Operations-Software-Engineering-Intern---Flower-Mound--TX_R572941",
       "workday:stryker:/job/Fort-Lauderdale-Florida/Summer-2027-Internship---Software-Engineering---Florida_R572629-1",
       "workday:stryker:/job/Fort-Wayne-Indiana/Summer-2027-Internship---Software-Engineering---Indiana_R572631",
+      "workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Mechanical-Engineering---Michigan_R572603",
       "workday:stryker:/job/Portage-Michigan/Summer-2027-Internship---Software-Engineering---Michigan_R572632-1",
       "workday:stryker:/job/Tempe-Arizona/Summer-2027-Internship---Mechanical-Engineering---Arizona_R572599"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -6771,5 +6794,5 @@
    }
   }
  },
- "updated_at": "2026-10-22T15:09:58Z"
+ "updated_at": "2026-10-22T20:00:48Z"
 }

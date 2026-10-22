@@ -1,20 +1,3 @@
 {
-  "pending": [
-    "workday:allstate:/job/USA---NC-Remote/Arity---Software-Engineer-Intern_R36266",
-    "amazon:amazon:10564599",
-    "greenhouse:doordashusa:8313401",
-    "workday:insperity:/job/Kingwood-TX/Rotational-AI-Intern_JR103460",
-    "workday:insulet:/job/Acton-Massachusetts/Co-op--Mechanical-Engineer--January-June-2027--Onsite-_REQ-2026-18798",
-    "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168",
-    "workday:mtb:/job/Buffalo-NY/Technology-Intern---Software-Engineering--Enterprise-API-Services-Development-Team-_R90812",
-    "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Cyber-Security-Intern---Summer-2027---Smyrna--TN_R00214879",
-    "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
-    "smartrecruiters:RESPECInc:744000157189739",
-    "workday:snc:/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204",
-    "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
-    "greenhouse:systemstechnologyresearch:4723980006",
-    "workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345",
-    "workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819",
-    "workday:zoll:/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618"
-  ]
+  "pending": []
 }

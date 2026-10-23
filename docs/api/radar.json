@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T09:58:26Z",
+ "generated_at": "2026-10-23T14:57:24Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -630,7 +630,7 @@
    "expected": "2026-08-14",
    "days_until": -70,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604578",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
    "note": ""
   },
   {
@@ -1569,20 +1569,6 @@
    "days_until": -49,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
-   "note": ""
-  },
-  {
-   "company": "CIBC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -49,
-   "status": "open",
-   "url": "https://cibc.wd3.myworkdayjobs.com/search/job/Chicago-IL/XMLNAME-2027-Summer-Intern---Software-Engineering_2618322-1",
    "note": ""
   },
   {
@@ -3476,6 +3462,20 @@
    "note": ""
   },
   {
+   "company": "OATEY",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-12",
+   "days_until": -11,
+   "status": "open",
+   "url": "https://wd5.myworkdaysite.com/recruiting/oatey/Oatey_External_/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196",
+   "note": ""
+  },
+  {
    "company": "Netflix",
    "last_cycle_posted": "",
    "posted_on": "2026-10-13",
@@ -3585,20 +3585,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000156379056",
-   "note": ""
-  },
-  {
-   "company": "T-Mobile",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
    "note": ""
   },
   {
@@ -3851,6 +3837,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
+   "note": ""
+  },
+  {
+   "company": "MongoDB",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+   "note": ""
+  },
+  {
+   "company": "Verdantas",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
    "note": ""
   },
   {
@@ -4918,6 +4932,20 @@
    "note": ""
   },
   {
+   "company": "CIBC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Schonfeld",
    "last_cycle_posted": "",
    "posted_on": "2026-09-04",
@@ -5646,6 +5674,20 @@
    "note": ""
   },
   {
+   "company": "T-Mobile",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Berkshire Hathaway Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -5674,5 +5716,5 @@
    "note": ""
   }
  ],
- "count": 405
+ "count": 408
 }

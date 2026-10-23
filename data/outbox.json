@@ -1,3 +1,12 @@
 {
-  "pending": []
+  "pending": [
+    "workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660",
+    "workday:gevernova:/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285",
+    "greenhouse:mongodb:8209134",
+    "workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196",
+    "workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258",
+    "greenhouse:olsson:5462183008",
+    "smartrecruiters:BoschGroup:744000157483412",
+    "workday:verdantas:/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230"
+  ]
 }

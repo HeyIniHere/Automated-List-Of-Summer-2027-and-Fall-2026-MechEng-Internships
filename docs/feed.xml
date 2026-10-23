@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-23T04:20:21Z</updated>
+  <updated>2026-10-23T09:58:26Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:asteraearlycareer2027:4746898005</id>
@@ -16,14 +16,6 @@
     <summary>Not stated · Hardware · San Jose, CA · $35/hr · H-1B track record: ~29 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067</id>
-    <title>CVS Health: Innovation &amp; Technology Internship - Data Science - Summer 2027 (Undergraduate) 🛂</title>
-    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067"/>
-    <updated>2026-10-23T04:20:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, SQL, scikit-learn · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038</id>
     <title>CVS Health: Innovation &amp; Technology Internship - Data Science - Summer 2027 (Graduate) 🛂</title>
     <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Graduate-_R1081038"/>
@@ -32,17 +24,25 @@
     <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, SQL, scikit-learn · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114</id>
-    <title>CVS Health: Innovation &amp; Technology Internship - Software Engineering: Data &amp; Intelligence Summer 2027 Undergrad 🛂</title>
-    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114"/>
+    <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067</id>
+    <title>CVS Health: Innovation &amp; Technology Internship - Data Science - Summer 2027 (Undergraduate) 🛂</title>
+    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Science---Summer-2027--Undergraduate-_R1081067"/>
     <updated>2026-10-23T04:20:15Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, Java, JavaScript, SQL, LLMs · sponsorship: no-sponsorship</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, SQL, scikit-learn · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128</id>
     <title>CVS Health: Innovation &amp; Technology Internship - Software Engineering: Data &amp; Intelligence Summer 2027 Graduate 🛂</title>
     <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128"/>
+    <updated>2026-10-23T04:20:15Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, Java, JavaScript, SQL, LLMs · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:cvshealth:/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114</id>
+    <title>CVS Health: Innovation &amp; Technology Internship - Software Engineering: Data &amp; Intelligence Summer 2027 Undergrad 🛂</title>
+    <link href="https://cvshealth.wd1.myworkdayjobs.com/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114"/>
     <updated>2026-10-23T04:20:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · NY - New York · Python, Java, JavaScript, SQL, LLMs · sponsorship: no-sponsorship</summary>
@@ -318,14 +318,6 @@
     <updated>2026-10-22T20:00:48Z</updated>
     <category term="Fall 2026"/>
     <summary>Fall 2026 · Hardware · Plano, TX · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345</id>
-    <title>Stryker: Summer 2027 Internship - Mechanical Engineer</title>
-    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345"/>
-    <updated>2026-10-22T20:00:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Massachusetts, Virtual Address · H-1B track record: ~104 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819</id>
@@ -784,14 +776,6 @@
     <summary>Not stated · Data &amp; ML/AI · Richardson, TX · Python, PyTorch, TensorFlow · H-1B track record: ~489 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/Spartanburg-South-Carolina-United-States/Mechanical-Engineer-Intern_R51213</id>
-    <title>Oshkosh: Mechanical Engineer Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/Spartanburg-South-Carolina-United-States/Mechanical-Engineer-Intern_R51213"/>
-    <updated>2026-10-20T23:50:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Spartanburg, South Carolina, United States</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:salesforce:/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111</id>
     <title>Salesforce: Summer 2027 Intern - AI Research</title>
     <link href="https://salesforce.wd12.myworkdayjobs.com/Futureforce_Internships/job/California---Palo-Alto/Summer-2027-Intern---AI-Research_JR365111"/>
@@ -806,5 +790,21 @@
     <updated>2026-10-20T23:50:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Plano, Texas · Python, SQL, scikit-learn, Pandas, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Industrial-Engineering---Manufacturing-Execution-Systems-Co-op_JR-10172</id>
+    <title>Tranetechnologies: Industrial Engineering &amp; Manufacturing Execution Systems Co-op</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/La-Crosse-Wisconsin/Industrial-Engineering---Manufacturing-Execution-Systems-Co-op_JR-10172"/>
+    <updated>2026-10-20T23:50:02Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · La Crosse, Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trustage:/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155</id>
+    <title>TruStage: Information Technology - Development and Infrastructure Internship (hybrid)</title>
+    <link href="https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155"/>
+    <updated>2026-10-20T23:50:02Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Wisconsin - Remote · C#, JavaScript, React, Angular, .NET</summary>
   </entry>
 </feed>

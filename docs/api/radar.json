@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T19:07:07Z",
+ "generated_at": "2026-10-23T22:09:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -449,20 +449,6 @@
    "days_until": -81,
    "status": "open",
    "url": "https://ntst.wd1.myworkdayjobs.com/careers/job/Overland-Park-KS/Software-Engineer-Intern--Summer-2027-Internship-_R015667",
-   "note": ""
-  },
-  {
-   "company": "Belvedere Trading",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-04",
-   "days_until": -80,
-   "status": "open",
-   "url": "https://jobs.lever.co/belvederetrading/10746b3d-1760-4573-9b63-b93f5a5e4fc0",
    "note": ""
   },
   {
@@ -3798,20 +3784,6 @@
    "note": ""
   },
   {
-   "company": "DP World",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-21",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://ehpv.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/27404",
-   "note": ""
-  },
-  {
    "company": "CVS Health",
    "last_cycle_posted": "",
    "posted_on": "2026-10-22",
@@ -3851,6 +3823,34 @@
    "days_until": 0,
    "status": "open",
    "url": "https://www.mongodb.com/careers/job/?gh_jid=8209134",
+   "note": ""
+  },
+  {
+   "company": "Sun Life",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+   "note": ""
+  },
+  {
+   "company": "TREK",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843",
    "note": ""
   },
   {
@@ -4353,6 +4353,20 @@
    "source": "engine",
    "expected": "2026-08-03",
    "days_until": -81,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Belvedere Trading",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-04",
+   "days_until": -80,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5714,7 +5728,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "DP World",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -2,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 408
+ "count": 410
 }

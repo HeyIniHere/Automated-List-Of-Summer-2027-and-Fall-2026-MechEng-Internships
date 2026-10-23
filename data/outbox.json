@@ -1,3 +1,10 @@
 {
-  "pending": []
+  "pending": [
+    "amazon:amazon:10587999",
+    "greenhouse:idmeuniversityrecruiting:8041991003",
+    "oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:391876",
+    "workday:sunlife:/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1",
+    "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
+    "workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843"
+  ]
 }

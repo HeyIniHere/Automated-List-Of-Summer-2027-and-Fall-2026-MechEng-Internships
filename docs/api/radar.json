@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23T14:57:24Z",
+ "generated_at": "2026-10-23T19:07:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -942,6 +942,20 @@
    "note": ""
   },
   {
+   "company": "Auto-Owners Insurance",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -58,
+   "status": "open",
+   "url": "https://aoins.wd5.myworkdayjobs.com/AutoOwners/job/Lansing-MI/Business-Intelligence-Developer-Internship---Summer-2027_R_14772",
+   "note": ""
+  },
+  {
    "company": "QTS",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -1036,7 +1050,7 @@
    "expected": "2026-08-27",
    "days_until": -57,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University--2027-Summer-Games-Data-Scientist-Intern_R0248140",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
    "note": ""
   },
   {
@@ -1610,7 +1624,7 @@
    "expected": "2026-09-04",
    "days_until": -49,
    "status": "open",
-   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Wilmington-NC-USA/GE-Vernova-Nuclear---Manufacturing---Supply-Chain-Intern--Summer-2027-_R5049016-2",
+   "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285",
    "note": ""
   },
   {
@@ -2633,20 +2647,6 @@
    "days_until": -35,
    "status": "open",
    "url": "https://chartermfg.wd5.myworkdayjobs.com/Charter_Careers/job/Charter-Aarrowcast---Shawano-WI/Materials-Engineer-Intern--Summer-2027-_R08192",
-   "note": ""
-  },
-  {
-   "company": "Thrivent",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://thrivent.wd5.myworkdayjobs.com/external/job/Remote-Minnesota/Associate-Software-Engineer---Junior-Intern-Summer-2027_REQ-48334",
    "note": ""
   },
   {
@@ -4666,20 +4666,6 @@
    "note": ""
   },
   {
-   "company": "Auto-Owners Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -58,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Verisk",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -5319,6 +5305,20 @@
    "source": "engine",
    "expected": "2026-09-17",
    "days_until": -36,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Thrivent",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -35,
    "status": "dropped",
    "url": "",
    "note": ""

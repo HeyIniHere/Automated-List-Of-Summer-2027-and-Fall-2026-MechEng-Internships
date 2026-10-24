@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-24T16:36:45Z",
-  "duration_seconds": 454.3,
+  "generated_at": "2026-10-24T19:27:07Z",
+  "duration_seconds": 409.8,
   "companies_total": 4882,
   "companies_by_source": {
     "greenhouse": 1141,
@@ -16,22 +16,21 @@
     "breezy": 16,
     "eightfold": 1
   },
-  "quarantined": 344,
-  "fetched_ok": 4489,
-  "fetch_errors": 49,
+  "quarantined": 383,
+  "fetched_ok": 4395,
+  "fetch_errors": 104,
   "errors_by_source": {
-    "workday": 15,
-    "workable": 31,
-    "lever": 2,
-    "greenhouse": 1
+    "workday": 102,
+    "workable": 1,
+    "lever": 1
   },
-  "fetch_success_rate": 0.989,
-  "fetch_success_rate_registry": 0.92,
-  "snapshots_complete": 4374,
-  "snapshots_partial": 115,
-  "roles_matched": 1042,
-  "dropped_no_year_in_title": 724,
-  "dropped_offcycle_by_text": 235,
+  "fetch_success_rate": 0.977,
+  "fetch_success_rate_registry": 0.9,
+  "snapshots_complete": 4292,
+  "snapshots_partial": 103,
+  "roles_matched": 1014,
+  "dropped_no_year_in_title": 681,
+  "dropped_offcycle_by_text": 231,
   "roles_cycle_inferred": 432,
   "roles_by_source": {
     "amazon": 14,
@@ -44,28 +43,28 @@
     "rippling": 10,
     "smartrecruiters": 125,
     "workable": 6,
-    "workday": 857
+    "workday": 856
   },
   "roles_by_cycle": {
-    "Summer 2027": 957,
+    "Summer 2027": 956,
     "Fall 2026": 39,
     "Not stated": 432
   },
   "roles_by_region": {
-    "US": 1428
+    "US": 1427
   },
   "sponsorship_counts": {
-    "unknown": 918,
+    "unknown": 917,
     "citizens-only": 385,
     "no-sponsorship": 114,
     "offers": 11
   },
   "posted_date_coverage": 0.993,
-  "enriched_this_run": 1,
+  "enriched_this_run": 0,
   "enrichment_detail_fetches": 0,
   "purged_this_run": 0,
-  "new_this_run": 1,
-  "open_total": 1428,
+  "new_this_run": 0,
+  "open_total": 1427,
   "detection_latency": {
     "median_minutes": 144.7,
     "p95_minutes": 835.1,
@@ -74,7 +73,7 @@
     "basis": "roles published in the window with an exact source timestamp"
   },
   "posting_lifetime": {
-    "median_days": 14.0,
-    "sample_size": 1712
+    "median_days": 14,
+    "sample_size": 1713
   }
 }

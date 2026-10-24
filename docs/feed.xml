@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-23T22:09:16Z</updated>
+  <updated>2026-10-24T01:34:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:amperesand:4465899009</id>
+    <title>Amperesand: AI/ML Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/amperesand/jobs/4465899009"/>
+    <updated>2026-10-24T01:33:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, Rust, TypeScript, PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558</id>
+    <title>ASML: Platform Software Engineer In Test ( Internship)</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"/>
+    <updated>2026-10-24T01:33:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA, USA · Python, C++ · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
+    <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
+    <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140"/>
+    <updated>2026-10-24T01:33:54Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Minneapolis, MN, United States</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10587999</id>
     <title>Amazon: Software Development Engineer Intern, Amazon Leo - Summer 2027 (USA) 🇺🇸</title>
@@ -32,20 +56,20 @@
     <summary>Not stated · Data &amp; ML/AI · Rochester, MN, United States · H-1B track record: ~585 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:sunlife:/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1</id>
-    <title>Sun Life: Data Science Intern - Summer 2027 Intern</title>
-    <link href="https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1"/>
-    <updated>2026-10-23T22:09:09Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Wellesley Hills, Massachusetts · Python, SQL, LLMs · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:rb:/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609</id>
     <title>The Federal Reserve System: Summer 2027 Intern-Data Science and Business Analytics 🛂</title>
     <link href="https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609"/>
     <updated>2026-10-23T22:09:09Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sunlife:/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1</id>
+    <title>Sun Life: Data Science Intern - Summer 2027 Intern</title>
+    <link href="https://sunlife.wd3.myworkdayjobs.com/Campus/job/Wellesley-Hills-Massachusetts/Data-Science-Intern---Summer-2027-Intern_JR00127666-1"/>
+    <updated>2026-10-23T22:09:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Wellesley Hills, Massachusetts · Python, SQL, LLMs · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843</id>
@@ -229,7 +253,7 @@
     <link href="https://www.mongodb.com/careers/job/?gh_jid=8209134"/>
     <updated>2026-10-23T14:57:17Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Austin; New York City; Palo Alto; San Francisco; Seattle · Python, Java, C++, JavaScript, Node.js · H-1B track record: ~106 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Austin; New York City; San Francisco · Python, Java, C++, JavaScript, Node.js · H-1B track record: ~106 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:olsson:5462183008</id>
@@ -782,29 +806,5 @@
     <updated>2026-10-21T19:23:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-California-San Diego · $21.5–$39/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sierraspace:/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456</id>
-    <title>Sierra Space: Summer 2027 Flight Software Engineer Intern 🇺🇸</title>
-    <link href="https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Louisville, CO · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:smithnephew:/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964</id>
-    <title>Smith+Nephew: Intern Computer Vision Software Engineering</title>
-    <link href="https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Andover, MA · Python, C++, MATLAB, Computer Vision, CUDA · H-1B track record: ~77 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:whataburger:/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201</id>
-    <title>Whataburger: Data Scientist Intern</title>
-    <link href="https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 300 Concord Plaza Dr San Antonio TX 78216-6903 · Python, SQL, scikit-learn, Pandas, Git</summary>
   </entry>
 </feed>

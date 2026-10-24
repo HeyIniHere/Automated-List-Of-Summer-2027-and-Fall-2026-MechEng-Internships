@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-24T01:34:00Z</updated>
+  <updated>2026-10-24T07:08:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611929</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157611929"/>
+    <updated>2026-10-24T07:08:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Virginia Beach, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611879</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157611879"/>
+    <updated>2026-10-24T07:08:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Hunt Valley, MD, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:amperesand:4465899009</id>
     <title>Amperesand: AI/ML Engineering Intern</title>
@@ -16,20 +32,20 @@
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, California, United States · Python, Rust, TypeScript, PyTorch, TensorFlow</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558</id>
-    <title>ASML: Platform Software Engineer In Test ( Internship)</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"/>
-    <updated>2026-10-24T01:33:54Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · San Jose, CA, USA · Python, C++ · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:98140</id>
     <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
     <link href="https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/98140"/>
     <updated>2026-10-24T01:33:54Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Minneapolis, MN, United States</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558</id>
+    <title>ASML: Platform Software Engineer In Test ( Internship)</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Jose-CA-USA/Platform-Software-Engineer-In-Test---Internship-_J-00354558"/>
+    <updated>2026-10-24T01:33:54Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · San Jose, CA, USA · Python, C++ · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10587999</id>
@@ -270,6 +286,14 @@
     <updated>2026-10-23T14:57:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, LLMs</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660</id>
+    <title>FedEx Freight: Intern-Data Scientist</title>
+    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660"/>
+    <updated>2026-10-23T14:57:17Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · FXF-US/USA/FXFMHQ/Memphis Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gevernova:/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285</id>
@@ -736,22 +760,6 @@
     <summary>Summer 2027 · Hardware · United States-California-Redondo Beach · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:knowbe4:8903101002</id>
-    <title>KnowBe: AI Customer Success Intern</title>
-    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8903101002"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Clearwater, Florida · Python, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008420</id>
-    <title>Stantec: Structural Engineering Intern - Buildings (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008420"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Austin, TX, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:cranecompany:/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1</id>
     <title>Crane Co.: Mechanical Engineer Intern</title>
     <link href="https://cranecompany.wd5.myworkdayjobs.com/Careers/job/Saddle-Brook-New-Jersey/Mechanical-Engineer-Intern_JR102780-1"/>
@@ -798,13 +806,5 @@
     <updated>2026-10-21T19:23:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Torrance, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1</id>
-    <title>Northrop Grumman: 2027 Structural Engineer Intern - San Diego CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-California-San Diego · $21.5–$39/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

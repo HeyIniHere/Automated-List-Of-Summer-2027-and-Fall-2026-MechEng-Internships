@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T01:34:00Z",
+ "generated_at": "2026-10-24T07:08:40Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3476,20 +3476,6 @@
    "note": ""
   },
   {
-   "company": "Rhombus",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-13",
-   "days_until": -11,
-   "status": "open",
-   "url": "https://jobs.lever.co/rhombus-systems/59e7a5f3-b457-491d-af08-b629ad35e380",
-   "note": ""
-  },
-  {
    "company": "Howden",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -5655,6 +5641,20 @@
    "source": "engine",
    "expected": "2026-10-08",
    "days_until": -16,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Rhombus",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-13",
+   "days_until": -11,
    "status": "dropped",
    "url": "",
    "note": ""

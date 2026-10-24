@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-24T12:38:49Z</updated>
+  <updated>2026-10-24T16:36:52Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:scout-ai:3b639e39-abd7-4a0c-9bea-e1cd0a72db99</id>
+    <title>Scout AI: AI Engineer Intern - Fury Team (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99"/>
+    <updated>2026-10-24T16:36:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, CA · $45 – $65 per hour · Python, PyTorch, TensorFlow</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611879</id>
     <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-21T19:23:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823</id>
-    <title>Moog: Intern, Manufacturing and Industrial Engineering</title>
-    <link href="https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Torrance, CA</summary>
   </entry>
 </feed>

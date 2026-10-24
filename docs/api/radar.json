@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-24T12:38:49Z",
+ "generated_at": "2026-10-24T16:36:52Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3812,6 +3812,20 @@
    "note": ""
   },
   {
+   "company": "Scout AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+   "note": ""
+  },
+  {
    "company": "Sun Life",
    "last_cycle_posted": "",
    "posted_on": "2026-10-23",
@@ -5744,5 +5758,5 @@
    "note": ""
   }
  ],
- "count": 410
+ "count": 411
 }

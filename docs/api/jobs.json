@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-24T12:38:49Z",
+ "generated_at": "2026-10-24T16:36:52Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1427,
+ "count": 1428,
  "jobs": [
   {
    "id": "smartrecruiters:AECOM2:744000157611879",
@@ -43,6 +43,31 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": 246,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "ashby:scout-ai:3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+   "company": "Scout AI",
+   "title": "AI Engineer Intern - Fury Team (Summer 2027)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Data & ML/AI",
+   "location": "Sunnyvale, CA",
+   "url": "https://jobs.ashbyhq.com/scout-ai/3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+   "posted_at": "2026-10-23T21:21:33.568+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-10-24T16:36:45Z",
+   "sponsorship": "unknown",
+   "salary": "$45 – $65 per hour",
+   "skills": [
+    "Python",
+    "PyTorch",
+    "TensorFlow"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
    "program": "Internship",
    "remote": false
   },

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-24T07:08:40Z</updated>
+  <updated>2026-10-24T12:38:49Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611929</id>
-    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157611929"/>
-    <updated>2026-10-24T07:08:37Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Virginia Beach, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611879</id>
     <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
@@ -22,6 +14,14 @@
     <updated>2026-10-24T07:08:37Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Hunt Valley, MD, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000157611929</id>
+    <title>AECOM: Structural Engineering Intern - Hiring Event with AECOM - Arlington, VA</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000157611929"/>
+    <updated>2026-10-24T07:08:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Virginia Beach, VA, United States · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:amperesand:4465899009</id>

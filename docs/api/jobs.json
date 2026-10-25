@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-25T11:12:33Z",
+ "generated_at": "2026-10-25T16:02:00Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1417,
+ "count": 1418,
  "jobs": [
   {
    "id": "smartrecruiters:AECOM2:744000157611879",
@@ -25789,6 +25789,32 @@
    "source": "workday",
    "h1b_approvals": null,
    "program": "Co-op",
+   "remote": false
+  },
+  {
+   "id": "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+   "company": "Applied Materials",
+   "title": "Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Hardware",
+   "location": "Santa Clara,CA",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+   "posted_at": "2026-09-04T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-25T16:01:53Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "SQL",
+    "LLMs",
+    "Tableau"
+   ],
+   "source": "workday",
+   "h1b_approvals": 650,
+   "program": "Internship",
    "remote": false
   },
   {

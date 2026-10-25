@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-25T11:12:33Z</updated>
+  <updated>2026-10-25T16:02:00Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710</id>
+    <title>Applied Materials: Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"/>
+    <updated>2026-10-25T16:01:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara,CA · Python, SQL, LLMs, Tableau · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:scout-ai:3b639e39-abd7-4a0c-9bea-e1cd0a72db99</id>
     <title>Scout AI: AI Engineer Intern - Fury Team (Summer 2027)</title>
@@ -795,14 +803,6 @@
     <id>urn:intern-engine:workday:lnw:/job/Las-Vegas-NV/Intern-Software-Engineering_R322982</id>
     <title>Light &amp; Wonder: Intern Software Engineering</title>
     <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lnw:/job/Las-Vegas-NV/Software-Engineer---Intern_R323017</id>
-    <title>Light &amp; Wonder: Software Engineer - Intern</title>
-    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Software-Engineer---Intern_R323017"/>
     <updated>2026-10-21T19:23:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>

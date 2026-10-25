@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-25T11:12:33Z",
+ "generated_at": "2026-10-25T16:02:00Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1569,6 +1569,20 @@
    "days_until": -51,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/amca/jobs/4396629009",
+   "note": ""
+  },
+  {
+   "company": "Applied Materials",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
    "note": ""
   },
   {
@@ -5758,5 +5772,5 @@
    "note": ""
   }
  ],
- "count": 411
+ "count": 412
 }

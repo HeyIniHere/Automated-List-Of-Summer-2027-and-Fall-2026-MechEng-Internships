@@ -663,6 +663,13 @@
       "workday:amat:/job/GloucesterMA/XMLNAME-2026-Fall-Mechanical-Engineer-Co-op---BS-MS--Gloucester--MA-_R2611501"
      ],
      "count": 2
+    },
+    "Summer 2027": {
+     "first_posted": "2026-09-04",
+     "role_ids": [
+      "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710"
+     ],
+     "count": 1
     }
    }
   },
@@ -6922,5 +6929,5 @@
    }
   }
  },
- "updated_at": "2026-10-25T11:12:26Z"
+ "updated_at": "2026-10-25T16:01:54Z"
 }

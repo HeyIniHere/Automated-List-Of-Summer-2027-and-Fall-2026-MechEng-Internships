@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-25T21:44:09Z</updated>
+  <updated>2026-10-26T00:05:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:connectprep:1AF4F8C65F</id>
+    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
+    <link href="https://apply.workable.com/connectprep/j/1AF4F8C65F/"/>
+    <updated>2026-10-26T00:05:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710</id>
     <title>Applied Materials: Summer 2027 Industrial Engineering Intern- Bachelor's (Santa Clara, CA)</title>
@@ -302,14 +310,6 @@
     <updated>2026-10-23T14:57:17Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Sunnyvale, CA, United States · Python, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:freight:/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660</id>
-    <title>FedEx Freight: Intern-Data Scientist</title>
-    <link href="https://freight.wd108.myworkdayjobs.com/FXF_External_Career_Site/job/FXF-USUSAFXFMHQMemphis-Headquarters/Intern-Data-Scientist_RC5660"/>
-    <updated>2026-10-23T14:57:17Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · FXF-US/USA/FXFMHQ/Memphis Headquarters · $25/hr · H-1B track record: ~22 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gevernova:/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285</id>

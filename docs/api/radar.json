@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T11:00:51Z",
+ "generated_at": "2026-10-26T17:21:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1582,7 +1582,7 @@
    "expected": "2026-09-04",
    "days_until": -52,
    "status": "open",
-   "url": "https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
+   "url": "https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
    "note": ""
   },
   {
@@ -2282,7 +2282,7 @@
    "expected": "2026-09-14",
    "days_until": -42,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8205514",
+   "url": "https://job-boards.greenhouse.io/singlestore/jobs/8154399",
    "note": ""
   },
   {
@@ -2506,7 +2506,7 @@
    "expected": "2026-09-16",
    "days_until": -40,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/nanopathinc/jobs/4732881005",
+   "url": "https://nanopath.com/careers?gh_jid=4732881005",
    "note": ""
   },
   {
@@ -3879,6 +3879,48 @@
    "days_until": -3,
    "status": "open",
    "url": "https://verdantas.wd108.myworkdayjobs.com/Verdantas/job/Holden-MA/Mechanical-Engineer-Summer-Intern_R-101230",
+   "note": ""
+  },
+  {
+   "company": "Hive Financial Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/hivefinancialsystems/jobs/5274887007",
+   "note": ""
+  },
+  {
+   "company": "JM Family",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
+   "note": ""
+  },
+  {
+   "company": "PTC",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
    "note": ""
   },
   {
@@ -5772,5 +5814,5 @@
    "note": ""
   }
  ],
- "count": 412
+ "count": 415
 }

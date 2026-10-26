@@ -2841,6 +2841,18 @@
     }
    }
   },
+  "hive financial systems": {
+   "name": "Hive Financial Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:hivefinancialsystems:5274887007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "hmh": {
    "name": "HMH",
    "cycles": {
@@ -3278,6 +3290,18 @@
       "workday:jainglobal:/job/New-York-New-York/Quantitative-Developer-Intern--Summer-2027---New-York-_JR100608"
      ],
      "count": 2
+    }
+   }
+  },
+  "jm family": {
+   "name": "JM Family",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
+     ],
+     "count": 1
     }
    }
   },
@@ -4249,7 +4273,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 70,
+     "count": 71,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4306,6 +4330,7 @@
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10253458",
+      "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1",
       "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Structural-Engineer-Intern_R10251781",
       "workday:ngc:/job/United-States-Utah-Corinne/XMLNAME-2027-Engineering-Intern--Manufacturing-and-Operations----Chandler-AZ_R10256661",
       "workday:ngc:/job/United-States-Utah-Ogden/XMLNAME-2027-Industrial-Engineering--Intern---Roy-UT_R10250883",
@@ -4784,6 +4809,18 @@
      "first_posted": "2026-10-04",
      "role_ids": [
       "workday:primient:/job/Schaumburg-IL/AI-Analyst-Intern---Summer-2027_JREQ7056"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "ptc": {
+   "name": "PTC",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:ptc:/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
      ],
      "count": 1
     }
@@ -5286,9 +5323,10 @@
       "oracle:ejia.fa.us6.oraclecloud.com:107373",
       "oracle:ejia.fa.us6.oraclecloud.com:107374",
       "oracle:ejia.fa.us6.oraclecloud.com:107379",
-      "oracle:ejia.fa.us6.oraclecloud.com:107433"
+      "oracle:ejia.fa.us6.oraclecloud.com:107433",
+      "oracle:ejia.fa.us6.oraclecloud.com:107465"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -5659,13 +5697,15 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "ashby:skydio:370da6a5-5ae6-48fe-8e08-9b1dcc63bf34",
+      "ashby:skydio:6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
       "ashby:skydio:79fdda46-4ff5-42c7-b208-55f2084cdb8c",
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
-      "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9"
+      "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -6788,9 +6828,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97807",
       "oracle:emit.fa.ca3.oraclecloud.com:97952",
       "oracle:emit.fa.ca3.oraclecloud.com:98073",
-      "oracle:emit.fa.ca3.oraclecloud.com:98140"
+      "oracle:emit.fa.ca3.oraclecloud.com:98140",
+      "oracle:emit.fa.ca3.oraclecloud.com:98213"
      ],
-     "count": 51
+     "count": 52
     }
    }
   },
@@ -6931,5 +6972,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T11:00:45Z"
+ "updated_at": "2026-10-26T17:21:15Z"
 }

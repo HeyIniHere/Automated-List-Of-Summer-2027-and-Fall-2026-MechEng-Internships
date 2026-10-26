@@ -1,20 +1,3 @@
 {
-  "pending": [
-    "workday:analogdevices:/job/US-MA-Boston/DevOps-Co-Op_R267690",
-    "workday:analogdevices:/job/US-MA-Boston/Embedded-Systems-Co-Op_R267689",
-    "workday:axos:/job/Omaha-NE/Data-Intern_JR5642",
-    "workday:kiongroup:/job/Grand-Rapids-MI-United-States/Mechanical-Engineer---Co-Op_JR-0098269-1",
-    "greenhouse:farmersmutualhailinsurancecompany:4403596009",
-    "greenhouse:hivefinancialsystems:5274887007",
-    "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
-    "workday:ngc:/job/United-States-Utah-Clearfield/XMLNAME-2027-Mechanical-Engineering-Intern---Clearfield-UT_R10257639-1",
-    "workday:prologis:/job/Denver-Colorado/AI-and-Automation--IT--Intern_R6883",
-    "workday:ptc:/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
-    "oracle:ejia.fa.us6.oraclecloud.com:107465",
-    "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb",
-    "ashby:skydio:6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
-    "oracle:cva.fa.us1.oraclecloud.com:10369",
-    "workday:valmont:/job/Valley-NE/Operations-Data-Analyst-Intern_R29224",
-    "oracle:emit.fa.ca3.oraclecloud.com:98213"
-  ]
+  "pending": []
 }

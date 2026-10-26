@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-26T04:41:23Z</updated>
+  <updated>2026-10-26T11:00:51Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:abb:/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711</id>
+    <title>ABB: AI Engineering, ERP Intern- Summer 2027 🛂</title>
+    <link href="https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711"/>
+    <updated>2026-10-26T11:00:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · USA, NC, Cary · $20–$34/hr · Python, SQL, LLMs, Git · sponsorship: no-sponsorship · H-1B track record: ~69 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093</id>
+    <title>Applied Materials: Summer 2027 Mechanical Engineer Intern- Bachelor's (Austin, TX)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093"/>
+    <updated>2026-10-26T11:00:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Austin,TX · Python · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workable:connectprep:1AF4F8C65F</id>
     <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
@@ -640,6 +656,14 @@
     <summary>Fall 2026 · Hardware · Plano, TX · sponsorship: citizens-only</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:stryker:/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345</id>
+    <title>Stryker: Summer 2027 Internship - Mechanical Engineer</title>
+    <link href="https://stryker.wd1.myworkdayjobs.com/StrykerCareers/job/Massachusetts-Virtual-Address/Summer-2027-Internship---Mechanical-Engineer_R573345"/>
+    <updated>2026-10-22T20:00:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Massachusetts, Virtual Address · H-1B track record: ~104 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:trimble:/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819</id>
     <title>Trimble: People Development AI &amp; Digital Learning Intern</title>
     <link href="https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819"/>
@@ -782,29 +806,5 @@
     <updated>2026-10-21T19:23:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Saddle Brook, New Jersey · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268</id>
-    <title>Daimler Truck: Manufacturing Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Cleveland-NC-US/Manufacturing-Engineering-Intern_DT-20268"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cleveland, NC US · $21–$29/hr · Tableau · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:hitachi:/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733</id>
-    <title>Hitachi Energy: Software Engineering Co-op</title>
-    <link href="https://hitachi.wd1.myworkdayjobs.com/hitachi/job/Liberty-South-Carolina-United-States/Software-Engineering-Co-op_R0148733"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Liberty, South Carolina, United States · H-1B track record: ~66 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lnw:/job/Las-Vegas-NV/Intern-Software-Engineering_R322982</id>
-    <title>Light &amp; Wonder: Intern Software Engineering</title>
-    <link href="https://lnw.wd5.myworkdayjobs.com/lightwonderexternalcareers/job/Las-Vegas-NV/Intern-Software-Engineering_R322982"/>
-    <updated>2026-10-21T19:23:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Las Vegas, NV · Python, C++, C#, JavaScript, SQL</summary>
   </entry>
 </feed>

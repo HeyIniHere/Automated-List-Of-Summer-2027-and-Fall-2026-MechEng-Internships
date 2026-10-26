@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-26T17:21:21Z",
+ "generated_at": "2026-10-26T22:39:21Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1526,7 +1526,7 @@
    "expected": "2026-09-03",
    "days_until": -53,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/skydio/79fdda46-4ff5-42c7-b208-55f2084cdb8c",
+   "url": "https://jobs.ashbyhq.com/skydio/6f5caf41-fa1d-4208-9bdc-82c72e5d3f17",
    "note": ""
   },
   {
@@ -1654,6 +1654,20 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/scaleai/jobs/4730845005",
    "note": "posts roles year-round"
+  },
+  {
+   "company": "Schonfeld",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -52,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/schonfeld/jobs/8171692",
+   "note": ""
   },
   {
    "company": "Allegion",
@@ -2128,7 +2142,7 @@
    "expected": "2026-09-10",
    "days_until": -46,
    "status": "open",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
    "note": ""
   },
   {
@@ -2157,6 +2171,20 @@
    "days_until": -45,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/ibotta/3130669e-16aa-4f63-834d-b83571c8d269",
+   "note": ""
+  },
+  {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -45,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
    "note": ""
   },
   {
@@ -2804,6 +2832,20 @@
    "note": ""
   },
   {
+   "company": "Cencora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -31,
+   "status": "open",
+   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670",
+   "note": ""
+  },
+  {
    "company": "Mach Industries",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -2944,6 +2986,20 @@
    "note": ""
   },
   {
+   "company": "onsemi",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -26,
+   "status": "open",
+   "url": "https://hctz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2506468",
+   "note": ""
+  },
+  {
    "company": "STV",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3010,7 +3066,7 @@
    "expected": "2026-10-01",
    "days_until": -25,
    "status": "open",
-   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
    "note": ""
   },
   {
@@ -3364,20 +3420,6 @@
    "note": ""
   },
   {
-   "company": "Sierra Space",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-08",
-   "days_until": -18,
-   "status": "open",
-   "url": "https://sierraspace.wd1.myworkdayjobs.com/Sierra_Space_External_Career_Site/job/Louisville-CO/Summer-2027-Flight-Software-Engineer-Intern_R26456",
-   "note": ""
-  },
-  {
    "company": "Viget",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -3518,20 +3560,6 @@
    "note": ""
   },
   {
-   "company": "LSEG",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-14",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
-   "note": ""
-  },
-  {
    "company": "Point7",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -3571,20 +3599,6 @@
    "days_until": -11,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/RESPECInc/744000156379056",
-   "note": ""
-  },
-  {
-   "company": "Pattern",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-16",
-   "days_until": -10,
-   "status": "open",
-   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
    "note": ""
   },
   {
@@ -3798,20 +3812,6 @@
    "note": ""
   },
   {
-   "company": "STR",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-22",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-22",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/systemstechnologyresearch/jobs/4723980006",
-   "note": ""
-  },
-  {
    "company": "MongoDB",
    "last_cycle_posted": "",
    "posted_on": "2026-10-23",
@@ -3882,6 +3882,20 @@
    "note": ""
   },
   {
+   "company": "Cohesity",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://cohesity.wd5.myworkdayjobs.com/Cohesity_Careers/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
+   "note": ""
+  },
+  {
    "company": "Hive Financial Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
@@ -3910,6 +3924,20 @@
    "note": ""
   },
   {
+   "company": "Parallel Systems",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
+   "note": ""
+  },
+  {
    "company": "PTC",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
@@ -3921,6 +3949,20 @@
    "days_until": 0,
    "status": "open",
    "url": "https://ptc.wd1.myworkdayjobs.com/ptc/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943",
+   "note": ""
+  },
+  {
+   "company": "Toyota Research Institute",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/tri/6f60ff79-c902-466a-912c-7ab849ce6424",
    "note": ""
   },
   {
@@ -5002,20 +5044,6 @@
    "note": ""
   },
   {
-   "company": "Schonfeld",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -52,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Dropbox",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -5213,20 +5241,6 @@
   },
   {
    "company": "EMC Insurance",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -45,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Jabil",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
    "precision": "day",
@@ -5492,20 +5506,6 @@
    "note": ""
   },
   {
-   "company": "Cencora",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-25",
-   "days_until": -31,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "RRS Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -5599,20 +5599,6 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -27,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "onsemi",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -26,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5716,6 +5702,20 @@
    "note": ""
   },
   {
+   "company": "Sierra Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-08",
+   "days_until": -18,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Rhombus",
    "last_cycle_posted": "",
    "posted_on": "2026-10-13",
@@ -5731,6 +5731,20 @@
   },
   {
    "company": "Haleon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "LSEG",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
    "precision": "day",
@@ -5767,6 +5781,20 @@
    "source": "engine",
    "expected": "2026-10-15",
    "days_until": -11,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -10,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5812,7 +5840,21 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "STR",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-22",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-22",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   }
  ],
- "count": 415
+ "count": 418
 }

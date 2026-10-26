@@ -57,9 +57,10 @@
       "smartrecruiters:AbbVie:3743990015679246",
       "smartrecruiters:AbbVie:3743990015679386",
       "smartrecruiters:AbbVie:3743990015684476",
-      "smartrecruiters:AbbVie:3743990015684516"
+      "smartrecruiters:AbbVie:3743990015684516",
+      "smartrecruiters:AbbVie:3743990016414086"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -94,9 +95,10 @@
      "first_posted": "2026-10-12",
      "role_ids": [
       "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022387",
-      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022393"
+      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022393",
+      "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1511,6 +1513,18 @@
     }
    }
   },
+  "cohesity": {
+   "name": "Cohesity",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:cohesity:/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2"
+     ],
+     "count": 1
+    }
+   }
+  },
   "coinbase": {
    "name": "Coinbase",
    "cycles": {
@@ -2564,9 +2578,10 @@
     "Summer 2027": {
      "first_posted": "2025-09-03",
      "role_ids": [
-      "greenhouse:gleanwork:4595665005"
+      "greenhouse:gleanwork:4595665005",
+      "greenhouse:gleanwork:4747670005"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -2806,10 +2821,12 @@
     "Summer 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
+      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476",
-      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017"
+      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
+      "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -3274,9 +3291,10 @@
      "first_posted": "2026-09-11",
      "role_ids": [
       "workday:jabil:/job/Austin-TX/AI-Transformation-Intern_J2466044",
+      "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4273,7 +4291,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 71,
+     "count": 72,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4326,6 +4344,7 @@
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
+      "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
       "workday:ngc:/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10256037",
       "workday:ngc:/job/United-States-Texas-San-Antonio/XMLNAME-2027-Cyber-Software-Engineer-Intern---San-Antonio-TX_R10257311",
@@ -4522,11 +4541,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-30",
      "role_ids": [
+      "oracle:hctz.fa.us2.oraclecloud.com:2506468",
       "oracle:hctz.fa.us2.oraclecloud.com:2506639",
       "oracle:hctz.fa.us2.oraclecloud.com:2506642",
       "oracle:hctz.fa.us2.oraclecloud.com:2506814"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -4591,6 +4611,18 @@
       "greenhouse:pacificfusion:4398388009"
      ],
      "count": 3
+    }
+   }
+  },
+  "parallel systems": {
+   "name": "Parallel Systems",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:parallel:5275660007"
+     ],
+     "count": 1
     }
    }
   },
@@ -5702,10 +5734,11 @@
       "ashby:skydio:8994767e-fd53-4ca2-b0ef-fe0923c1e260",
       "ashby:skydio:89bb6fee-3cd2-4e0b-a1c2-c73de8c1f9bd",
       "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
+      "ashby:skydio:8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
       "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -6202,6 +6235,19 @@
       "workday:toyota:/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "toyota research institute": {
+   "name": "Toyota Research Institute",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
+      "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424"
+     ],
+     "count": 2
     }
    }
   },
@@ -6829,9 +6875,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:97952",
       "oracle:emit.fa.ca3.oraclecloud.com:98073",
       "oracle:emit.fa.ca3.oraclecloud.com:98140",
-      "oracle:emit.fa.ca3.oraclecloud.com:98213"
+      "oracle:emit.fa.ca3.oraclecloud.com:98213",
+      "oracle:emit.fa.ca3.oraclecloud.com:98294"
      ],
-     "count": 52
+     "count": 53
     }
    }
   },
@@ -6900,9 +6947,10 @@
      "first_posted": "2026-10-19",
      "role_ids": [
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer_JR103627",
-      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625"
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
+      "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6972,5 +7020,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T17:21:15Z"
+ "updated_at": "2026-10-26T22:39:14Z"
 }

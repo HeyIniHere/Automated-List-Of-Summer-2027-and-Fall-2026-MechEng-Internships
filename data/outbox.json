@@ -1,3 +1,24 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:AbbVie:3743990016414086",
+    "oracle:fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com:3022588",
+    "workday:cohesity:/job/Santa-Clara-CA---USA-Office/Software-Engineering-Intern--Summer-2027-_R04791-2",
+    "workday:dtna:/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Vehicle-Architecture-and-Controls_DT-20389",
+    "greenhouse:gleanwork:4747670005",
+    "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
+    "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
+    "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
+    "greenhouse:lilasciences:4465068009",
+    "workday:ngc:/job/United-States-Ohio-Beavercreek/XMLNAME-2027-Software-Engineering-Intern---Beavercreek-OH_R10257656",
+    "oracle:hctz.fa.us2.oraclecloud.com:2506468",
+    "greenhouse:parallel:5275660007",
+    "greenhouse:parallel:5275719007",
+    "greenhouse:parallel:5275690007",
+    "ashby:skydio:8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
+    "lever:tri:f6541d1f-b72f-456f-829f-bf118ac10c43",
+    "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424",
+    "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
+    "oracle:emit.fa.ca3.oraclecloud.com:98294",
+    "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
+  ]
 }

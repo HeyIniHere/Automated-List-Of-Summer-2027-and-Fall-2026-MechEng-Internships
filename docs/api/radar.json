@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T02:02:37Z",
+ "generated_at": "2026-10-27T07:46:35Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2608,6 +2608,20 @@
    "note": ""
   },
   {
+   "company": "Visa",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -40,
+   "status": "open",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
+   "note": ""
+  },
+  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2772,7 +2786,7 @@
    "expected": "2026-09-24",
    "days_until": -33,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9",
+   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
    "note": ""
   },
   {
@@ -3360,7 +3374,7 @@
    "expected": "2026-10-07",
    "days_until": -20,
    "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107433",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107465",
    "note": ""
   },
   {
@@ -5417,20 +5431,6 @@
    "source": "engine",
    "expected": "2026-09-16",
    "days_until": -41,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Visa",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -40,
    "status": "dropped",
    "url": "",
    "note": ""

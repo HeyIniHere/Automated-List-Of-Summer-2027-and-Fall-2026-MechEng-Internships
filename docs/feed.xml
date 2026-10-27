@@ -5,15 +5,39 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-27T02:02:37Z</updated>
+  <updated>2026-10-27T07:46:35Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9</id>
-    <title>Aurora Innovation: Full Stack Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"/>
-    <updated>2026-10-27T02:02:33Z</updated>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2</id>
+    <title>Visa: Business Strategy Intern, Data and AI Team - Summer 2027 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2"/>
+    <updated>2026-10-27T07:46:28Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · TypeScript, LLMs, React · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Foster City, CA · LLMs · sponsorship: no-sponsorship · H-1B track record: ~883 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1</id>
+    <title>Visa: Data Science Intern, Data and AI Team – Summer 2027</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Data-Science-Intern--Data-and-AI-Team---Summer-2027_REF089883W-1"/>
+    <updated>2026-10-27T07:46:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Foster City, CA · Python, SQL, LLMs, Tableau · H-1B track record: ~883 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:visa:/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1</id>
+    <title>Visa: Product Management Intern, Data and AI Team - Summer 2027 🛂</title>
+    <link href="https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Product-Management-Intern--Data-and-AI-Team---Summer-2027_REF089881W-1"/>
+    <updated>2026-10-27T07:46:28Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · US - Foster City, CA · LLMs, AWS, GCP, Azure, Tableau · sponsorship: no-sponsorship · H-1B track record: ~883 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
+    <title>Aurora Innovation: AI Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
+    <updated>2026-10-27T02:02:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:a90b7522-4e66-4247-b9ec-7e2bb50b78f4</id>
@@ -24,12 +48,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · PyTorch · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:475a24d7-a058-4f86-be8f-fd6be679af9c</id>
-    <title>Aurora Innovation: AI Engineer Intern</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/475a24d7-a058-4f86-be8f-fd6be679af9c"/>
+    <id>urn:intern-engine:ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9</id>
+    <title>Aurora Innovation: Full Stack Intern</title>
+    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9"/>
     <updated>2026-10-27T02:02:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, C++, AWS, GCP, Azure · H-1B track record: ~163 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · TypeScript, LLMs, React · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:aurora-operations-inc:c823b343-ba1f-4ff3-84ce-965ee9952c12</id>
@@ -48,12 +72,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Mountain View, CA · $52/hr · Python, Go, AWS, GCP · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736</id>
-    <title>Generac: Intern AI Engineering</title>
-    <link href="https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736"/>
+    <id>urn:intern-engine:ashby:niantic-spatial:ed68b062-4dcb-4deb-9cc0-ed38030f6e43</id>
+    <title>Niantic Spatial: Software Engineering Intern (Summer 2027) - Native SDK &amp; Mobile Platforms</title>
+    <link href="https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43"/>
     <updated>2026-10-27T02:02:33Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Waukesha, WI - USA · Python, SQL, LLMs, Tableau · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA · $48 – $70 per hour · C++, Swift, Kotlin, Computer Vision</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gipathfinder:4747868005</id>
@@ -64,28 +88,20 @@
     <summary>Summer 2027 · Hardware · Burlingame, California, United States · $31.25–$38.46/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:generac:/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736</id>
+    <title>Generac: Intern AI Engineering</title>
+    <link href="https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Intern-AI-Engineering_JR17736"/>
+    <updated>2026-10-27T02:02:33Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Waukesha, WI - USA · Python, SQL, LLMs, Tableau · H-1B track record: ~17 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605</id>
     <title>Global Infrastructure: Intern, Mechanical Designer</title>
     <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605"/>
     <updated>2026-10-27T02:02:33Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · CA | AB | Calgary - 685 Centre Street Southwest · $20–$30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606</id>
-    <title>Global Infrastructure: Intern, Mechanical Designer</title>
-    <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"/>
-    <updated>2026-10-27T02:02:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · CA | ON | Toronto - 380 Wellington Street West · $20–$30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602</id>
-    <title>Global Infrastructure: Intern, Mechanical Designer</title>
-    <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602"/>
-    <updated>2026-10-27T02:02:33Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · CA | BC | Victoria - 1515 Douglas Street · $20–$30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607</id>
@@ -96,12 +112,20 @@
     <summary>Summer 2027 · Hardware · CA | BC | Vancouver - 200 Granville Street · $20–$30/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:niantic-spatial:ed68b062-4dcb-4deb-9cc0-ed38030f6e43</id>
-    <title>Niantic Spatial: Software Engineering Intern (Summer 2027) - Native SDK &amp; Mobile Platforms</title>
-    <link href="https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43"/>
+    <id>urn:intern-engine:workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602</id>
+    <title>Global Infrastructure: Intern, Mechanical Designer</title>
+    <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602"/>
     <updated>2026-10-27T02:02:33Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA · $48 – $70 per hour · C++, Swift, Kotlin, Computer Vision</summary>
+    <summary>Summer 2027 · Hardware · CA | BC | Victoria - 1515 Douglas Street · $20–$30/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606</id>
+    <title>Global Infrastructure: Intern, Mechanical Designer</title>
+    <link href="https://gi.wd1.myworkdayjobs.com/Global_Infrastructure/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"/>
+    <updated>2026-10-27T02:02:33Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · CA | ON | Toronto - 380 Wellington Street West · $20–$30/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031083</id>
@@ -238,14 +262,6 @@
     <updated>2026-10-26T22:39:14Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · PA, Working at Home - Pennsylvania · sponsorship: no-sponsorship · H-1B track record: ~92 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826</id>
-    <title>Highmark Health: Summer 2027 Data Analyst enGen Undergraduate Intern 🛂</title>
-    <link href="https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"/>
-    <updated>2026-10-26T22:39:14Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Pittsburgh PA, 15222, PAP, Penn Avenue Place · Python, SQL · sponsorship: no-sponsorship · H-1B track record: ~92 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350</id>
@@ -790,21 +806,5 @@
     <updated>2026-10-22T23:14:00Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · USA - IL (Remote) · Python, SQL, TensorFlow, scikit-learn, Pandas · sponsorship: no-sponsorship · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:allstate:/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285</id>
-    <title>Allstate Insurance Company: Arity - Data Science Intern (Core Telematics) 🛂</title>
-    <link href="https://allstate.wd5.myworkdayjobs.com/sourcing_event/job/USA---IL-Remote/Arity---Data-Science-Intern--Core-Telematics-_R36285"/>
-    <updated>2026-10-22T23:14:00Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · USA - IL (Remote) · Python, SQL, TensorFlow, scikit-learn, Pandas · sponsorship: no-sponsorship · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:amgen:/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434</id>
-    <title>Amgen: Undergrad Intern - Manufacturing and Clinical Supply - Process Development (Summer 2027)</title>
-    <link href="https://amgen.wd1.myworkdayjobs.com/careers/job/US---California---Thousand-Oaks/Undergrad-Intern---Manufacturing-and-Clinical-Supply---Process-Development--Summer-2027-_R-259434"/>
-    <updated>2026-10-22T23:14:00Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · US - California - Thousand Oaks · $28.87/hr · H-1B track record: ~768 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -790,6 +790,21 @@
     }
    }
   },
+  "aurora innovation": {
+   "name": "Aurora Innovation",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-24",
+     "role_ids": [
+      "ashby:aurora-operations-inc:a90b7522-4e66-4247-b9ec-7e2bb50b78f4",
+      "ashby:aurora-operations-inc:bc852c2c-945f-4a1e-b383-54a0f6e0ace9",
+      "ashby:aurora-operations-inc:c823b343-ba1f-4ff3-84ce-965ee9952c12",
+      "ashby:aurora-operations-inc:da4c8e2e-0571-4503-94d9-234da86f83b0"
+     ],
+     "count": 4
+    }
+   }
+  },
   "auto owners insurance": {
    "name": "Auto-Owners Insurance",
    "cycles": {
@@ -2560,6 +2575,18 @@
     }
    }
   },
+  "gipathfinder": {
+   "name": "GIPathfinder",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "greenhouse:gipathfinder:4747868005"
+     ],
+     "count": 1
+    }
+   }
+  },
   "gitai": {
    "name": "GITAI",
    "cycles": {
@@ -2582,6 +2609,21 @@
       "greenhouse:gleanwork:4747670005"
      ],
      "count": 2
+    }
+   }
+  },
+  "global infrastructure": {
+   "name": "Global Infrastructure",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-26",
+     "role_ids": [
+      "workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
+      "workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607",
+      "workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602",
+      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"
+     ],
+     "count": 4
     }
    }
   },
@@ -4257,9 +4299,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-06",
      "role_ids": [
-      "ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd"
+      "ashby:niantic-spatial:898b2da7-03cd-486e-96e3-3430a148c8fd",
+      "ashby:niantic-spatial:ed68b062-4dcb-4deb-9cc0-ed38030f6e43"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5639,6 +5682,7 @@
       "workday:snc:/job/Hagerstown-MD/Mechanical-Engineering-Intern--Summer-2027-_R0030748",
       "workday:snc:/job/Hagerstown-MD/Systems-Security-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0030540",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineering-Intern--Summer-2027-_R0030735",
+      "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031083",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern---Summer-2027_R0031084",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineer-Intern--Summer-2027-_R0031177",
       "workday:snc:/job/Lone-Tree-CO/Mechanical-Engineering-Intern--Summer-2027-_R0030745",
@@ -5651,7 +5695,7 @@
       "workday:snc:/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
       "workday:snc:/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
      ],
-     "count": 20
+     "count": 21
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -7020,5 +7064,5 @@
    }
   }
  },
- "updated_at": "2026-10-26T22:39:14Z"
+ "updated_at": "2026-10-27T02:02:33Z"
 }

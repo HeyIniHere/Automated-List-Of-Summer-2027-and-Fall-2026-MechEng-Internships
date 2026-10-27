@@ -1238,10 +1238,11 @@
       "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898",
       "workday:caci:/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
       "workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+      "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 20
+     "count": 21
     }
    }
   },
@@ -1327,9 +1328,10 @@
      "first_posted": "2026-09-18",
      "role_ids": [
       "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
+      "workday:centene:/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746",
       "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -1578,9 +1580,10 @@
      "role_ids": [
       "lever:cfsenergy:01ec2ee8-b8c9-4f32-9b66-3a2ce1ff704f",
       "lever:cfsenergy:7ed4bf93-2b32-4096-9af3-2eb79e620039",
+      "lever:cfsenergy:912d6878-25dd-4bdc-8df8-8f7002999619",
       "lever:cfsenergy:9690a768-362f-4df8-86a1-554b896cbc76"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -2622,9 +2625,10 @@
       "workday:gi:/job/CA--AB--Calgary---685-Centre-Street-Southwest/Intern--Mechanical-Designer_6605",
       "workday:gi:/job/CA--BC--Vancouver---200-Granville-Street/Intern--Mechanical-Designer_6607",
       "workday:gi:/job/CA--BC--Victoria---1515-Douglas-Street/Intern--Mechanical-Designer_6602",
-      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606"
+      "workday:gi:/job/CA--ON--Toronto---380-Wellington-Street-West/Intern--Mechanical-Designer_6606",
+      "workday:gi:/job/US--CA--Los-Angeles---707-Wilshire-Boulevard/Intern--Mechanical-Designer_6633"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2719,6 +2723,19 @@
       "oracle:ehzq.fa.us2.oraclecloud.com:115752"
      ],
      "count": 10
+    }
+   }
+  },
+  "great american insurance": {
+   "name": "Great American Insurance Company",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:gaig:/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803",
+      "workday:gaig:/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800"
+     ],
+     "count": 2
     }
    }
   },
@@ -3360,9 +3377,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-26",
      "role_ids": [
+      "workday:jmfamily:/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
       "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4081,12 +4099,13 @@
     "Summer 2027": {
      "first_posted": "2026-09-09",
      "role_ids": [
+      "workday:moog:/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
       "workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819",
       "workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -4313,6 +4332,7 @@
     "Summer 2027": {
      "first_posted": "2026-10-07",
      "role_ids": [
+      "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256",
       "workday:alliance:/job/Canton-Mississippi---United-States-of-America/Trim---Chassis-Manufacturing-Engineering-Intern---Summer-2027---Canton--MS_R00214255",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Decherd--TN_R00214881",
       "workday:alliance:/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
@@ -4326,7 +4346,7 @@
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Manufacturing-Digital-Data-Intern---Summer-2027---Smyrna--TN_R00214880",
       "workday:alliance:/job/Smyrna-Tennessee---United-States-of-America/Robotics-Programmer-Intern---Summer-2027---Smyrna--TN_R00214302"
      ],
-     "count": 12
+     "count": 13
     }
    }
   },
@@ -4335,7 +4355,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 72,
+     "count": 74,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4343,6 +4363,7 @@
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
+      "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
@@ -4362,6 +4383,7 @@
       "workday:ngc:/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Cybersecurity-Analyst-Intern----Boulder-CO_R10248677",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+      "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
@@ -4759,6 +4781,7 @@
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
       "workday:philips:/job/Latham-New-York-United-States/Co-op---Mechanical-Engineering-Technician---Latham--NY---January-June-2027_590339",
       "workday:philips:/job/Latham-New-York-United-States/Intern-Co-op---STET-Mechanical-Engineer---Latham--NY---Spring-Summer-2027_591053",
+      "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op--Embedded-Test-Engineer---Murrysville--PA-January-June-2027_592065",
       "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op-Manufacturing-Engineering-Murrysville--PA-January-June-2027_580754",
       "workday:philips:/job/Nashville-Tennessee-United-States/Intern--AI-Business-Operations-Nashville--TN-Summer-2027_590986",
       "workday:philips:/job/Orange-OH-Ohio-United-States/Co-op---Software-Test-Automation-Engineer---Orange--OH---January-2027_581888",
@@ -4772,7 +4795,7 @@
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Intern---Mechanical-Process-Engineer---Reedsville--PA---2026_592205",
       "workday:philips:/job/Reedsville-Pennsylvania-United-States/Manufacturing-Engineering-Co-Op-January-June-2027_587807"
      ],
-     "count": 21
+     "count": 22
     },
     "Fall 2026": {
      "first_posted": "2026-08-25",
@@ -4978,6 +5001,18 @@
       "greenhouse:queracomputinginc:5435902008"
      ],
      "count": 2
+    }
+   }
+  },
+  "radiance technologies": {
+   "name": "Radiance Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:radiancetech:/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534"
+     ],
+     "count": 1
     }
    }
   },
@@ -5844,6 +5879,18 @@
     }
    }
   },
+  "sonos": {
+   "name": "Sonos",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"
+     ],
+     "count": 1
+    }
+   }
+  },
   "sony pictures entertainment": {
    "name": "Sony Pictures Entertainment",
    "cycles": {
@@ -5929,9 +5976,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008419",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008420",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008421",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008423"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008423",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446"
      ],
-     "count": 44
+     "count": 45
     }
    }
   },
@@ -7076,5 +7124,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T14:23:26Z"
+ "updated_at": "2026-10-27T20:06:13Z"
 }

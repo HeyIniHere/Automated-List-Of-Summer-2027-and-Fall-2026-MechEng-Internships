@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T14:23:32Z",
+ "generated_at": "2026-10-27T20:06:19Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -407,20 +407,6 @@
    "days_until": -88,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/heliux/ff2b6f4b-00d0-4afe-b4f5-2dbf443409ef",
-   "note": ""
-  },
-  {
-   "company": "Melius",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-31",
-   "days_until": -88,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/melius/b61f063a-4f94-4e50-a4ef-05aaab552280",
    "note": ""
   },
   {
@@ -1054,6 +1040,20 @@
    "note": ""
   },
   {
+   "company": "Workiva",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -61,
+   "status": "open",
+   "url": "https://workiva.wd503.myworkdayjobs.com/careers/job/USA---Remote/Summer-2027-Intern---Machine-Learning-Engineering_R12194-1",
+   "note": ""
+  },
+  {
    "company": "Charles River Associates (CRA)",
    "last_cycle_posted": "",
    "posted_on": "2026-08-28",
@@ -1078,7 +1078,7 @@
    "expected": "2026-08-28",
    "days_until": -60,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008131",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1007966",
    "note": ""
   },
   {
@@ -2604,7 +2604,7 @@
    "expected": "2026-09-17",
    "days_until": -40,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Foster-City-CA/Business-Strategy-Intern--Data-and-AI-Team---Summer-2027_REF089884W-2",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
    "note": ""
   },
   {
@@ -2633,6 +2633,20 @@
    "days_until": -40,
    "status": "open",
    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
+   "note": ""
+  },
+  {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
    "note": ""
   },
   {
@@ -3052,7 +3066,7 @@
    "expected": "2026-10-01",
    "days_until": -26,
    "status": "open",
-   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
+   "url": "https://rb.wd5.myworkdayjobs.com/FRS/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
    "note": ""
   },
   {
@@ -3980,6 +3994,48 @@
    "note": ""
   },
   {
+   "company": "Great American Insurance Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800",
+   "note": ""
+  },
+  {
+   "company": "Radiance Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://radiancetech.wd12.myworkdayjobs.com/Radiance_External/job/Huntsville-AL/Mechanical-Engineer-Intern_HR102534",
+   "note": ""
+  },
+  {
+   "company": "Sonos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4428,6 +4484,20 @@
    "note": ""
   },
   {
+   "company": "Melius",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-31",
+   "days_until": -88,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Sentry",
    "last_cycle_posted": "",
    "posted_on": "2026-08-01",
@@ -4821,20 +4891,6 @@
   },
   {
    "company": "Oshkosh",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -61,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Workiva",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
    "precision": "day",
@@ -5422,20 +5478,6 @@
    "note": ""
   },
   {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -39,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Thrivent",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -5898,5 +5940,5 @@
    "note": ""
   }
  ],
- "count": 421
+ "count": 424
 }

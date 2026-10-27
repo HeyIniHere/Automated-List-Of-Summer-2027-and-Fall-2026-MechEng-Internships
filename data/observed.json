@@ -717,6 +717,18 @@
     }
    }
   },
+  "assurant": {
+   "name": "Assurant",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-27",
+     "role_ids": [
+      "workday:assurant:/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105"
+     ],
+     "count": 1
+    }
+   }
+  },
   "assured guaranty": {
    "name": "Assured Guaranty",
    "cycles": {
@@ -3585,11 +3597,12 @@
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168",
       "workday:leidos:/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00190663",
       "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00190665",
+      "workday:leidos:/job/Pearl-Harbor-HI/Cybersecurity-Analyst-Intern_R-00195607",
       "workday:leidos:/job/Shiloh-IL/Cybersecurity-Analyst-Intern_R-00190667",
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 15
+     "count": 16
     }
    }
   },
@@ -4355,7 +4368,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 74,
+     "count": 75,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4406,6 +4419,7 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
+      "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
@@ -4575,9 +4589,11 @@
       "greenhouse:olsson:5396116008",
       "greenhouse:olsson:5396125008",
       "greenhouse:olsson:5408530008",
-      "greenhouse:olsson:5411244008"
+      "greenhouse:olsson:5411244008",
+      "greenhouse:olsson:5465495008",
+      "greenhouse:olsson:5465496008"
      ],
-     "count": 7
+     "count": 9
     }
    }
   },
@@ -5573,9 +5589,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-23",
      "role_ids": [
-      "ashby:scout-ai:3b639e39-abd7-4a0c-9bea-e1cd0a72db99"
+      "ashby:scout-ai:3b639e39-abd7-4a0c-9bea-e1cd0a72db99",
+      "ashby:scout-ai:fba467c4-30e8-4ee1-8ac9-20b48e132076"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5977,9 +5994,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008420",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008421",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008423",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008446"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008446",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008448"
      ],
-     "count": 45
+     "count": 46
     }
    }
   },
@@ -6980,9 +6998,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:98073",
       "oracle:emit.fa.ca3.oraclecloud.com:98140",
       "oracle:emit.fa.ca3.oraclecloud.com:98213",
-      "oracle:emit.fa.ca3.oraclecloud.com:98294"
+      "oracle:emit.fa.ca3.oraclecloud.com:98294",
+      "oracle:emit.fa.ca3.oraclecloud.com:98372"
      ],
-     "count": 53
+     "count": 54
     }
    }
   },
@@ -7124,5 +7143,5 @@
    }
   }
  },
- "updated_at": "2026-10-27T20:06:13Z"
+ "updated_at": "2026-10-27T23:51:27Z"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-27T20:06:19Z",
+ "generated_at": "2026-10-27T23:51:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -86,20 +86,6 @@
    "status": "open",
    "url": "https://www.amazon.jobs/en/jobs/10517567/software-development-engineer-intern-annapurna-labs-2027",
    "note": "rolling from mid-summer, very early"
-  },
-  {
-   "company": "Walleye Capital",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-01",
-   "days_until": -148,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/walleyecapital-external-students/jobs/4716166006",
-   "note": ""
   },
   {
    "company": "Anduril",
@@ -1852,34 +1838,6 @@
    "note": ""
   },
   {
-   "company": "HMH",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Mechanical-Engineering-Intern_JR102383",
-   "note": ""
-  },
-  {
-   "company": "Immuta",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://jobs.lever.co/immuta/3c4cb235-6138-4a50-add2-666a5216427e",
-   "note": ""
-  },
-  {
    "company": "Lawrence Livermore National Laboratory (LLNL)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -1918,7 +1876,7 @@
    "expected": "2026-09-09",
    "days_until": -48,
    "status": "open",
-   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
+   "url": "https://moog.wd5.myworkdayjobs.com/moog_external_career_site/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786",
    "note": ""
   },
   {
@@ -2128,7 +2086,7 @@
    "expected": "2026-09-10",
    "days_until": -47,
    "status": "open",
-   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17151",
+   "url": "https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
    "note": ""
   },
   {
@@ -2384,20 +2342,6 @@
    "note": ""
   },
   {
-   "company": "Woodward Governor",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-15",
-   "days_until": -42,
-   "status": "open",
-   "url": "https://woodward.wd5.myworkdayjobs.com/woodward/job/Zeeland-MI-US/Engineering-Co-op---Manufacturing-Engineering---Zeeland--MI--Summer-2027-_JR112088",
-   "note": ""
-  },
-  {
    "company": "Bass Pro Shops",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
@@ -2646,7 +2590,7 @@
    "expected": "2026-09-18",
    "days_until": -39,
    "status": "open",
-   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746",
    "note": ""
   },
   {
@@ -2969,20 +2913,6 @@
    "days_until": -27,
    "status": "open",
    "url": "https://allisontransmission.wd1.myworkdayjobs.com/ATI-External/job/Indianapolis-IN/Internship---Manufacturing-Engineer_R008319",
-   "note": ""
-  },
-  {
-   "company": "Dandy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-30",
-   "days_until": -27,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/dandy/d43558e9-8e51-4980-b00d-39275063f099",
    "note": ""
   },
   {
@@ -3346,7 +3276,7 @@
    "expected": "2026-10-07",
    "days_until": -20,
    "status": "open",
-   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Decherd-Tennessee---United-States-of-America/Raw-Materials-Engineering-Intern---Summer-2027---Decherd--TN_R00214290",
+   "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256",
    "note": ""
   },
   {
@@ -3948,7 +3878,7 @@
    "expected": "2026-10-26",
    "days_until": -1,
    "status": "open",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
    "note": ""
   },
   {
@@ -3994,6 +3924,20 @@
    "note": ""
   },
   {
+   "company": "Assurant",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://assurant.wd1.myworkdayjobs.com/External_Limited_Posting/job/Georgia-Virtual/Summer-2027--AI-and-Data-Science-Internship_R-116105",
+   "note": ""
+  },
+  {
    "company": "Great American Insurance Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -4004,7 +3948,7 @@
    "expected": "2026-10-27",
    "days_until": 0,
    "status": "open",
-   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Platform-Operations-Developer-Intern---Summer-2027_R9800",
+   "url": "https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Claims-Lab-Developer-Intern---Summer-2027_R9803",
    "note": ""
   },
   {
@@ -4412,6 +4356,20 @@
    "status": "waiting",
    "url": "",
    "note": "rolling SWE internship postings"
+  },
+  {
+   "company": "Walleye Capital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-01",
+   "days_until": -148,
+   "status": "dropped",
+   "url": "",
+   "note": ""
   },
   {
    "company": "The Trade Desk",
@@ -5254,6 +5212,34 @@
    "note": ""
   },
   {
+   "company": "HMH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Immuta",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -48,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Securian Financial Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -5437,6 +5423,20 @@
   },
   {
    "company": "NOV",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-15",
+   "days_until": -42,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Woodward Governor",
    "last_cycle_posted": "",
    "posted_on": "2026-09-15",
    "precision": "day",
@@ -5683,6 +5683,20 @@
    "source": "engine",
    "expected": "2026-09-29",
    "days_until": -28,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Dandy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-30",
+   "days_until": -27,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5940,5 +5954,5 @@
    "note": ""
   }
  ],
- "count": 424
+ "count": 425
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T18:22:13Z",
+ "generated_at": "2026-10-28T23:11:10Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -196,7 +196,7 @@
    "expected": "2026-07-13",
    "days_until": -107,
    "status": "open",
-   "url": "https://www.akunacapital.com/careers/job/8018847/?gh_jid=8018847",
+   "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
    "note": "opens ~Aug-Sep"
   },
   {
@@ -365,34 +365,6 @@
    "days_until": -93,
    "status": "open",
    "url": "https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224",
-   "note": ""
-  },
-  {
-   "company": "Draper",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-28",
-   "days_until": -92,
-   "status": "open",
-   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
-   "note": ""
-  },
-  {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -91,
-   "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Huntsville-AL/AI-ML-Intern_R-00195168",
    "note": ""
   },
   {
@@ -1036,7 +1008,7 @@
    "expected": "2026-08-27",
    "days_until": -62,
    "status": "open",
-   "url": "https://jobs.lever.co/shieldai/8c850c75-081d-4d09-bebf-096379a93010",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036",
    "note": ""
   },
   {
@@ -1880,6 +1852,20 @@
    "note": ""
   },
   {
+   "company": "HMH",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://hmhw.wd12.myworkdayjobs.com/hmh_careers/job/Houston-TX/Manufacturing-Shop-Operations-Intern_JR102389",
+   "note": ""
+  },
+  {
    "company": "Lawrence Livermore National Laboratory (LLNL)",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -2562,7 +2548,7 @@
    "expected": "2026-09-17",
    "days_until": -41,
    "status": "open",
-   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
+   "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
    "note": ""
   },
   {
@@ -2776,6 +2762,20 @@
    "note": ""
   },
   {
+   "company": "Genesis Molecular AI",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -34,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/genesis-molecular-ai/44e3cbdc-949c-426e-a80a-b41c73ad6a99",
+   "note": ""
+  },
+  {
    "company": "iRhythm Technologies",
    "last_cycle_posted": "",
    "posted_on": "2026-09-24",
@@ -2787,20 +2787,6 @@
    "days_until": -34,
    "status": "open",
    "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
-   "note": ""
-  },
-  {
-   "company": "ZOLL Medical Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -34,
-   "status": "open",
-   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -2927,6 +2913,20 @@
    "days_until": -29,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/nationallifeinsurancecompany/jobs/4403876009",
+   "note": ""
+  },
+  {
+   "company": "Sherwin-Williams",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
    "note": ""
   },
   {
@@ -3221,20 +3221,6 @@
    "days_until": -22,
    "status": "open",
    "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
-   "note": ""
-  },
-  {
-   "company": "MEMX",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-06",
-   "days_until": -22,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/memx/jobs/5445236008",
    "note": ""
   },
   {
@@ -4018,7 +4004,7 @@
    "expected": "2026-10-27",
    "days_until": -1,
    "status": "open",
-   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+   "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
    "note": ""
   },
   {
@@ -4047,20 +4033,6 @@
    "days_until": 0,
    "status": "open",
    "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/",
-   "note": ""
-  },
-  {
-   "company": "VSP Vision",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-28",
-   "days_until": 0,
-   "status": "open",
-   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "note": ""
   },
   {
@@ -4507,6 +4479,34 @@
    "source": "engine",
    "expected": "2026-07-22",
    "days_until": -98,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Draper",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-28",
+   "days_until": -92,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -91,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5282,20 +5282,6 @@
    "note": ""
   },
   {
-   "company": "HMH",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -49,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Immuta",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -5646,7 +5632,7 @@
    "note": ""
   },
   {
-   "company": "Genesis Molecular AI",
+   "company": "ZOLL Medical Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-24",
    "precision": "day",
@@ -5758,20 +5744,6 @@
    "note": ""
   },
   {
-   "company": "Sherwin-Williams",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -29,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Dandy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -5837,6 +5809,20 @@
    "source": "engine",
    "expected": "2026-10-04",
    "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "MEMX",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": -22,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -6019,6 +6005,20 @@
    "source": "engine",
    "expected": "2026-10-22",
    "days_until": -6,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "VSP Vision",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
    "status": "dropped",
    "url": "",
    "note": ""

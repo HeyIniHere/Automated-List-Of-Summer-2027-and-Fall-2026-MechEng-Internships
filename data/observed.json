@@ -410,7 +410,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 19,
+     "count": 20,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -430,7 +430,8 @@
       "amazon:amazon:10571004",
       "amazon:amazon:10571374",
       "amazon:amazon:10587087",
-      "amazon:amazon:10587999"
+      "amazon:amazon:10587999",
+      "amazon:amazon:10591833"
      ]
     }
    }
@@ -1352,11 +1353,12 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
+      "workday:centene:/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
       "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
       "workday:centene:/job/Remote-MO/Applications-Security-Engineer-Intern--Undergraduate-Summer-2027-_1667746",
       "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3690,9 +3692,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
-      "smartrecruiters:LinkedIn3:744000156616169"
+      "smartrecruiters:LinkedIn3:744000156616169",
+      "smartrecruiters:LinkedIn3:744000158394370"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4408,7 +4411,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 75,
+     "count": 76,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4416,6 +4419,7 @@
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247485",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Test-Engineering-Intern--Huntsville-AL_R10247487",
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
+      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
@@ -5615,12 +5619,13 @@
      "first_posted": "2026-09-04",
      "role_ids": [
       "greenhouse:schonfeld:8171692",
+      "greenhouse:schonfeld:8171694",
       "greenhouse:schonfeld:8171696",
       "greenhouse:schonfeld:8171699",
       "greenhouse:schonfeld:8180089",
       "greenhouse:schonfeld:8267092"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -5740,9 +5745,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-29",
      "role_ids": [
-      "oracle:ejhp.fa.us6.oraclecloud.com:2625128"
+      "oracle:ejhp.fa.us6.oraclecloud.com:2625128",
+      "oracle:ejhp.fa.us6.oraclecloud.com:2627789"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -5958,9 +5964,10 @@
      "first_posted": "2026-10-27",
      "role_ids": [
       "workday:sonos:/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
-      "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"
+      "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+      "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2885"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6966,12 +6973,13 @@
     "Summer 2027": {
      "first_posted": "2026-10-09",
      "role_ids": [
+      "workday:workday:/job/USA-CA-Pleasanton/Analytics-Engineer-Intern_JR-0111200",
       "workday:workday:/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
       "workday:workday:/job/USA-CA-Pleasanton/Machine-Learning-Engineer-Intern_JR-0110812",
       "workday:workday:/job/USA-CA-Pleasanton/Software-Application-Development-Engineer-Intern_JR-0110811",
       "workday:workday:/job/USA-CA-Pleasanton/Software-Development-Engineer-Intern_JR-0110810"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -7068,9 +7076,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:98140",
       "oracle:emit.fa.ca3.oraclecloud.com:98213",
       "oracle:emit.fa.ca3.oraclecloud.com:98294",
-      "oracle:emit.fa.ca3.oraclecloud.com:98372"
+      "oracle:emit.fa.ca3.oraclecloud.com:98372",
+      "oracle:emit.fa.ca3.oraclecloud.com:98461"
      ],
-     "count": 54
+     "count": 55
     }
    }
   },
@@ -7212,5 +7221,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T18:22:06Z"
+ "updated_at": "2026-10-28T23:11:03Z"
 }

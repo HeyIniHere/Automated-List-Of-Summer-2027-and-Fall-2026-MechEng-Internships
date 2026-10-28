@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T11:24:36Z",
+ "generated_at": "2026-10-28T18:22:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -226,6 +226,20 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/fiveringsllc/jobs/5349707008",
    "note": "opens ~Aug, very early"
+  },
+  {
+   "company": "Old Mission",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-15",
+   "days_until": -105,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/old-mission-capital/d003aaa4-a1e9-46b5-b271-eaccc15db9d6",
+   "note": ""
   },
   {
    "company": "Chevron Corporation",
@@ -1768,6 +1782,20 @@
    "note": ""
   },
   {
+   "company": "FUTO",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -50,
+   "status": "open",
+   "url": "https://jobs.lever.co/futo-org/7dd9877a-9009-408d-aa50-623cd5153f70",
+   "note": ""
+  },
+  {
    "company": "Graco",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -1835,6 +1863,20 @@
    "days_until": -49,
    "status": "open",
    "url": "https://caci.wd1.myworkdayjobs.com/external/job/Aberdeen-Proving-Ground-MD-US/Aerospace-Engineer-Intern---Summer-2027_333570",
+   "note": ""
+  },
+  {
+   "company": "Emerson Electric",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-09",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-09",
+   "days_until": -49,
+   "status": "open",
+   "url": "https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26011001",
    "note": ""
   },
   {
@@ -3518,6 +3560,20 @@
    "note": ""
   },
   {
+   "company": "T-Mobile",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
+   "note": ""
+  },
+  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -3963,6 +4019,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+   "note": ""
+  },
+  {
+   "company": "Ace Hardware",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
+   "note": ""
+  },
+  {
+   "company": "Infleqtion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/",
    "note": ""
   },
   {
@@ -5198,20 +5282,6 @@
    "note": ""
   },
   {
-   "company": "Emerson Electric",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-09",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-09",
-   "days_until": -49,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "HMH",
    "last_cycle_posted": "",
    "posted_on": "2026-09-09",
@@ -5884,20 +5954,6 @@
    "note": ""
   },
   {
-   "company": "T-Mobile",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -13,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Pattern",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -5968,5 +6024,5 @@
    "note": ""
   }
  ],
- "count": 426
+ "count": 430
 }

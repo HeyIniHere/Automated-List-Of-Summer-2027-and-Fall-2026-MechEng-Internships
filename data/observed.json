@@ -64,6 +64,18 @@
     }
    }
   },
+  "ace hardware": {
+   "name": "Ace Hardware",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "workday:acehardware:/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797"
+     ],
+     "count": 1
+    }
+   }
+  },
   "achievers": {
    "name": "Achievers",
    "cycles": {
@@ -1525,9 +1537,10 @@
       "oracle:epyc.fa.us2.oraclecloud.com:166786",
       "oracle:epyc.fa.us2.oraclecloud.com:167236",
       "oracle:epyc.fa.us2.oraclecloud.com:167238",
-      "oracle:epyc.fa.us2.oraclecloud.com:167555"
+      "oracle:epyc.fa.us2.oraclecloud.com:167555",
+      "oracle:epyc.fa.us2.oraclecloud.com:167672"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -2398,6 +2411,18 @@
     }
    }
   },
+  "futo": {
+   "name": "FUTO",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-09-08",
+     "role_ids": [
+      "lever:futo-org:7dd9877a-9009-408d-aa50-623cd5153f70"
+     ],
+     "count": 1
+    }
+   }
+  },
   "g2": {
    "name": "G2",
    "cycles": {
@@ -3226,6 +3251,18 @@
     }
    }
   },
+  "infleqtion": {
+   "name": "Infleqtion",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-28",
+     "role_ids": [
+      "workable:coldquanta:EB77DE8198"
+     ],
+     "count": 1
+    }
+   }
+  },
   "ing": {
    "name": "ING",
    "cycles": {
@@ -3795,6 +3832,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:marvell:/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
       "workday:marvell:/job/Burlington-VT/SRAM-Software-Engineer-Intern--BS---Summer-2027_2603760",
       "workday:marvell:/job/Santa-Clara-CA/AI-Data-Science-Intern--MS---Summer-2027_2603846",
       "workday:marvell:/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
@@ -3802,7 +3840,7 @@
       "workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2603860-1",
       "workday:marvell:/job/Santa-Clara-CA/Machine-Learning-Engineer-Intern--BS-MS---Summer-2027_2604989"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -4114,12 +4152,13 @@
      "first_posted": "2026-09-09",
      "role_ids": [
       "workday:moog:/job/Buffalo-NY/Intern--Additive-Manufacturing-Engineering_R-26-20786",
+      "workday:moog:/job/Buffalo-NY/Intern--Mechanical-Engineering_R-26-20902",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19888-1",
       "workday:moog:/job/Mineral-Wells-TX/Intern--Software-Engineering_R-26-19965",
       "workday:moog:/job/Torrance-CA/Intern--Computer-Science_R-26-19819",
       "workday:moog:/job/Torrance-CA/Intern--Manufacturing-and-Industrial-Engineering_R-26-19823"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4575,6 +4614,18 @@
       "workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"
      ],
      "count": 2
+    }
+   }
+  },
+  "old mission": {
+   "name": "Old Mission",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-07-15",
+     "role_ids": [
+      "ashby:old-mission-capital:d003aaa4-a1e9-46b5-b271-eaccc15db9d6"
+     ],
+     "count": 1
     }
    }
   },
@@ -5332,6 +5383,7 @@
       "workday:globalhr:/job/US-CO-COLORADO-SPRINGS-793--1225-Aeroplaza-Dr--AEROPLAZA/Mechanical-Design-Engineering-Intern--Summer-2027-_01872155",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Spring-Summer-2027-_01874253",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Advanced-Manufacturing-Engineering-Co-Op--Summer-Fall-2027-_01874261",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Manufacturing-Execution-System--MES--Co-Op--Spring-Summer-2027-_01885556",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Co-op--Summer-Fall-2027-_01870194",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01870343",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-105--400-Collins-Rd-NE--BLDG-105/Software-Engineering-Intern--Summer-2027-_01873099",
@@ -5399,7 +5451,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 70
+     "count": 71
     }
    }
   },
@@ -5700,12 +5752,14 @@
     "Summer 2027": {
      "first_posted": "2026-08-27",
      "role_ids": [
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:661d7ac4-51df-454d-82c8-2a0d94852036",
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
       "lever:shieldai:aa71c28a-be00-43ca-8aa7-b764b2143797",
+      "lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 4
+     "count": 6
     }
    }
   },
@@ -5903,9 +5957,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-27",
      "role_ids": [
+      "workday:sonos:/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
       "workday:sonos:/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -6112,9 +6167,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
-      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322"
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+      "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -7156,5 +7212,5 @@
    }
   }
  },
- "updated_at": "2026-10-28T11:24:29Z"
+ "updated_at": "2026-10-28T18:22:06Z"
 }

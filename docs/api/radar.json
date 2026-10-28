@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-28T05:09:08Z",
+ "generated_at": "2026-10-28T11:24:36Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1288,7 +1288,7 @@
    "expected": "2026-09-01",
    "days_until": -57,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
    "note": ""
   },
   {
@@ -2534,7 +2534,7 @@
    "expected": "2026-09-17",
    "days_until": -41,
    "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
    "note": ""
   },
   {
@@ -2773,20 +2773,6 @@
    "days_until": -33,
    "status": "open",
    "url": "https://amfam.wd1.myworkdayjobs.com/AmFamGroupInternCareers/job/WI-Madison/Intern---Application-Billing-Center-Developer_R39407",
-   "note": ""
-  },
-  {
-   "company": "Cencora",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-25",
-   "days_until": -33,
-   "status": "open",
-   "url": "https://myhrabc.wd5.myworkdayjobs.com/Global/job/Conshohocken-PA/AI-Intern_R2613670",
    "note": ""
   },
   {
@@ -3977,6 +3963,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Engineering-Intern--Seattle-_R2871",
+   "note": ""
+  },
+  {
+   "company": "VSP Vision",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "note": ""
   },
   {
@@ -5590,6 +5590,20 @@
    "note": ""
   },
   {
+   "company": "Cencora",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-25",
+   "days_until": -33,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "RRS Group",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -5954,5 +5968,5 @@
    "note": ""
   }
  ],
- "count": 425
+ "count": 426
 }

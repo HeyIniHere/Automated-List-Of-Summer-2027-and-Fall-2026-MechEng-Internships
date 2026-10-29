@@ -1,18 +1,3 @@
 {
-  "pending": [
-    "amazon:amazon:10593054",
-    "workday:centene:/job/Remote-MO/AI-Engineer-Intern--Undergraduate---Summer-2027-_1667739",
-    "workday:centene:/job/Remote-MO/Portfolio-Data-Analyst-Intern--Undergraduate---Summer-2027-_1667733-1",
-    "oracle:fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com:261197",
-    "workday:gaig:/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826",
-    "workday:hcsc:/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508",
-    "workday:ngc:/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435",
-    "workday:ngc:/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
-    "greenhouse:pathrobotics:8924241002",
-    "workday:philips:/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730",
-    "greenhouse:samsungsemiconductor:8046887003",
-    "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484",
-    "lever:tri:16336213-1880-482f-87d0-b15fa4141047",
-    "lever:tri:dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8"
-  ]
+  "pending": []
 }

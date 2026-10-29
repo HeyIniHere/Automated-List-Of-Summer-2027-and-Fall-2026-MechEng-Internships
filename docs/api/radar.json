@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T12:48:55Z",
+ "generated_at": "2026-10-29T19:01:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -368,6 +368,20 @@
    "note": ""
   },
   {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -92,
+   "status": "open",
+   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
+   "note": ""
+  },
+  {
    "company": "Heliux",
    "last_cycle_posted": "",
    "posted_on": "2026-07-31",
@@ -574,7 +588,7 @@
    "expected": "2026-08-14",
    "days_until": -76,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583",
    "note": ""
   },
   {
@@ -728,7 +742,7 @@
    "expected": "2026-08-20",
    "days_until": -70,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952",
    "note": ""
   },
   {
@@ -1768,6 +1782,20 @@
    "note": ""
   },
   {
+   "company": "Qube Research & Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+   "note": ""
+  },
+  {
    "company": "Talos",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -2562,7 +2590,7 @@
    "expected": "2026-09-17",
    "days_until": -42,
    "status": "open",
-   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/Software-Engineer--Intern---2027-Ashburn--VA_REF089879W-1",
+   "url": "https://visa.wd5.myworkdayjobs.com/Visa/job/US---Ashburn-VA/XMLNAME-2027-Sophomore-Internship-Program---Software-Engineer-Intern--Ashburn_REF089878W-1",
    "note": ""
   },
   {
@@ -3042,6 +3070,20 @@
    "note": ""
   },
   {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -24,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009",
+   "note": ""
+  },
+  {
    "company": "Hitachi Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -3504,6 +3546,20 @@
    "note": ""
   },
   {
+   "company": "Pattern",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -13,
+   "status": "open",
+   "url": "https://jobs.lever.co/pattern/48945dce-b5ef-43cd-9d85-f8b26ce5b43e",
+   "note": ""
+  },
+  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -3697,6 +3753,20 @@
    "days_until": -8,
    "status": "open",
    "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
+   "note": ""
+  },
+  {
+   "company": "OneEthos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -8,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/oneethos/jobs/4459298009",
    "note": ""
   },
   {
@@ -3910,6 +3980,20 @@
    "note": ""
   },
   {
+   "company": "Castelion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": -2,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/castelioncorporation/jobs/4468205009",
+   "note": ""
+  },
+  {
    "company": "Great American Insurance Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -3977,6 +4061,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://apply.workable.com/coldquanta/j/EB77DE8198/",
+   "note": ""
+  },
+  {
+   "company": "VSP Vision",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://vsp.wd1.myworkdayjobs.com/vspvisioncareers/job/Remote-US/Internship--Software-Engineer_R-10046",
    "note": ""
   },
   {
@@ -4437,20 +4535,6 @@
    "source": "engine",
    "expected": "2026-07-28",
    "days_until": -93,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -92,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5940,20 +6024,6 @@
    "note": ""
   },
   {
-   "company": "Pattern",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-16",
-   "days_until": -13,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Berkshire Hathaway Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -6008,21 +6078,7 @@
    "status": "dropped",
    "url": "",
    "note": ""
-  },
-  {
-   "company": "VSP Vision",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-28",
-   "days_until": -1,
-   "status": "dropped",
-   "url": "",
-   "note": ""
   }
  ],
- "count": 430
+ "count": 434
 }

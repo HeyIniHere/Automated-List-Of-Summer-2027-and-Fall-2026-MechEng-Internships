@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29T05:20:51Z",
+ "generated_at": "2026-10-29T12:48:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -574,7 +574,7 @@
    "expected": "2026-08-14",
    "days_until": -76,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
    "note": ""
   },
   {
@@ -2548,7 +2548,7 @@
    "expected": "2026-09-17",
    "days_until": -42,
    "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
    "note": ""
   },
   {
@@ -2731,20 +2731,6 @@
    "days_until": -36,
    "status": "open",
    "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
-   "note": ""
-  },
-  {
-   "company": "Aurora Innovation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -35,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/bc852c2c-945f-4a1e-b383-54a0f6e0ace9",
    "note": ""
   },
   {
@@ -5599,6 +5585,20 @@
    "source": "engine",
    "expected": "2026-09-22",
    "days_until": -37,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Aurora Innovation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -35,
    "status": "dropped",
    "url": "",
    "note": ""

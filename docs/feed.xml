@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-29T05:20:51Z</updated>
+  <updated>2026-10-29T12:48:55Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:cubic:/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1</id>
+    <title>Cubic: Mechanical Engineering Intern</title>
+    <link href="https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1"/>
+    <updated>2026-10-29T12:48:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · San Diego, California · H-1B track record: ~44 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583</id>
+    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
+    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583"/>
+    <updated>2026-10-29T12:48:47Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1</id>
+    <title>KLA: Software Engineer Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"/>
+    <updated>2026-10-29T12:48:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · Python, Java, C++, C# · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:SyngentaGroup:744000158494415</id>
+    <title>Syngenta Group: Data Scientist Intern</title>
+    <link href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415"/>
+    <updated>2026-10-29T12:48:47Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC, United States · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:arcboatcompany:5466630008</id>
     <title>Arc: Manufacturing Engineering Intern</title>
@@ -16,20 +48,20 @@
     <summary>Summer 2027 · Hardware · Torrance, CA · $36/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208</id>
-    <title>Northrop Grumman: 2027 Structural Engineer Intern - Gilbert AZ 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208"/>
-    <updated>2026-10-29T05:20:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:usafacts:4472154009</id>
     <title>USAFacts: AI &amp; Software Engineering Intern</title>
     <link href="https://job-boards.greenhouse.io/usafacts/jobs/4472154009"/>
     <updated>2026-10-29T05:20:46Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Bellevue, WA · $38/hr · Python, TypeScript, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208</id>
+    <title>Northrop Grumman: 2027 Structural Engineer Intern - Gilbert AZ 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208"/>
+    <updated>2026-10-29T05:20:46Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10591833</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-27T20:06:13Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Security · Sparks, NV · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lilasciences:4465061009</id>
-    <title>Lila Sciences: Co-Op, AI Nucleic Acid Design</title>
-    <link href="https://job-boards.greenhouse.io/lilasciences/jobs/4465061009"/>
-    <updated>2026-10-27T14:23:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Francisco, CA USA · Python, PyTorch, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:edxn.fa.us2.oraclecloud.com:26173</id>
-    <title>Boston Properties: Cyber Security Co-Op</title>
-    <link href="https://edxn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_5001/job/26173"/>
-    <updated>2026-10-27T14:23:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Boston, MA, United States · $23–$26/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:epyc.fa.us2.oraclecloud.com:167555</id>
-    <title>Clean Harbors: Mechanical Engineer Intern - Summer 2027</title>
-    <link href="https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167555"/>
-    <updated>2026-10-27T14:23:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · El Dorado, AR, United States · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com:392190</id>
-    <title>Mayo Clinic: Graduate Engineering Intern - Software Development</title>
-    <link href="https://fa-euwp-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/392190"/>
-    <updated>2026-10-27T14:23:26Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Rochester, MN, United States · Python, MATLAB, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~585 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

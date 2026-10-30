@@ -1,3 +1,16 @@
 {
-  "pending": []
+  "pending": [
+    "workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Engineer_J-00356448",
+    "lever:cfsenergy:2edaad6a-3def-479e-992e-b0c333b9022f",
+    "greenhouse:gardacp:6239821004",
+    "workday:hp:/job/Spring-Texas-United-States-of-America/Product-Management-Intern_UNI4358-1",
+    "greenhouse:lilasciences:4469152009",
+    "oracle:hckd.fa.us2.oraclecloud.com:2040172",
+    "oracle:fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com:41339",
+    "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
+    "greenhouse:thenewyorktimes:4748483005",
+    "greenhouse:thenewyorktimes:4748461005",
+    "workday:hcmportal:/job/US---COMMERCE-CITY-CODEN/XMLNAME-2027-Industrial-Engineering-Summer-Internship---Denver--CO_R26039749",
+    "workday:vsp:/job/Remote-US/Internship--AI---Agentic---Machine-Learning-Development_R-10072"
+  ]
 }

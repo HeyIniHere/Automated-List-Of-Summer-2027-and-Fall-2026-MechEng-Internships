@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30T12:41:13Z",
+ "generated_at": "2026-10-30T18:37:55Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -743,6 +743,20 @@
    "days_until": -71,
    "status": "open",
    "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94952",
+   "note": ""
+  },
+  {
+   "company": "C3.ai",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-21",
+   "days_until": -70,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/c3ascend/jobs/8738917002",
    "note": ""
   },
   {
@@ -2087,20 +2101,6 @@
    "days_until": -50,
    "status": "open",
    "url": "https://nvent.wd5.myworkdayjobs.com/nVent/job/Anoka-MN-US/Manufacturing-Automaton-Intern--June---August-2027-_R23865",
-   "note": ""
-  },
-  {
-   "company": "SEP",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-10",
-   "days_until": -50,
-   "status": "open",
-   "url": "https://jobs.lever.co/sep/4efbdbce-a753-41b5-8ed7-0661cd193178",
    "note": ""
   },
   {
@@ -4008,6 +4008,20 @@
    "note": ""
   },
   {
+   "company": "Loft Orbital",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-27",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.lever.co/loftorbital/03f948ff-0767-4bb0-a13b-345321d63d71",
+   "note": ""
+  },
+  {
    "company": "Radiance Technologies",
    "last_cycle_posted": "",
    "posted_on": "2026-10-27",
@@ -4092,6 +4106,20 @@
    "note": ""
   },
   {
+   "company": "AstraZeneca",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167",
+   "note": ""
+  },
+  {
    "company": "Stratolaunch",
    "last_cycle_posted": "",
    "posted_on": "2026-10-30",
@@ -4104,6 +4132,20 @@
    "status": "open",
    "url": "https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008",
    "note": ""
+  },
+  {
+   "company": "Stripe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://stripe.com/jobs/search?gh_jid=8333074",
+   "note": "early Sept, closes mid-Nov"
   },
   {
    "company": "APEX Analytix",
@@ -4342,20 +4384,6 @@
    "status": "waiting",
    "url": "",
    "note": "Cubist/academy, opens fall"
-  },
-  {
-   "company": "Stripe",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -59,
-   "status": "waiting",
-   "url": "",
-   "note": "early Sept, closes mid-Nov"
   },
   {
    "company": "D.E. Shaw",
@@ -5380,6 +5408,20 @@
    "note": ""
   },
   {
+   "company": "SEP",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-10",
+   "days_until": -50,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Target",
    "last_cycle_posted": "",
    "posted_on": "2026-09-10",
@@ -6108,5 +6150,5 @@
    "note": ""
   }
  ],
- "count": 436
+ "count": 439
 }

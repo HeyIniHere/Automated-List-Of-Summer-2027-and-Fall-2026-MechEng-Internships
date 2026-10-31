@@ -5,15 +5,71 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-31T02:18:19Z</updated>
+  <updated>2026-10-31T09:35:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679</id>
-    <title>Northrop Grumman: 2027 Intern Product Support – Data Scientist 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"/>
-    <updated>2026-10-31T02:18:13Z</updated>
+    <id>urn:intern-engine:lever:tevora:fb3b174b-07ac-410d-9c44-53c70793635c</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Enterprise Risk Management</title>
+    <link href="https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"/>
+    <updated>2026-10-31T09:35:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · United States-California-San Diego · Python, C++, SQL, PyTorch, scikit-learn · sponsorship: citizens-only</summary>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Healthcare</title>
+    <link href="https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:648630ae-0dce-4b80-af2b-911c2c8f159c</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - International Organization for Standardization (ISO)</title>
+    <link href="https://jobs.lever.co/tevora/648630ae-0dce-4b80-af2b-911c2c8f159c"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:7b1010a9-9379-459a-89f8-222af2fe7721</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Payments</title>
+    <link href="https://jobs.lever.co/tevora/7b1010a9-9379-459a-89f8-222af2fe7721"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Fairfax, VA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:facb1a9a-67b3-42ca-90f1-65d934d9b68d</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Solutions</title>
+    <link href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:4e3b7ae3-cb18-4c76-815c-0014e3c7598c</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</title>
+    <link href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:5acd8859-ba7f-4996-9503-13a231376758</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Threat</title>
+    <link href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
+    <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
+    <link href="https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Fairfax, VA · 27 USD/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:omnis-corporation:c6a2ae56-59aa-4493-bc4b-5d555b21b9c9</id>
@@ -22,6 +78,14 @@
     <updated>2026-10-31T02:18:13Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Venice, CA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679</id>
+    <title>Northrop Grumman: 2027 Intern Product Support – Data Scientist 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679"/>
+    <updated>2026-10-31T02:18:13Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · United States-California-San Diego · Python, C++, SQL, PyTorch, scikit-learn · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:gardacp:6239821004</id>
@@ -742,69 +806,5 @@
     <updated>2026-10-29T19:01:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Seattle, WA · SQL · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:zoll:/job/Pittsburgh-PA/Mechanical-Engineering-Co-op_R20707</id>
-    <title>ZOLL Medical Corporation: Mechanical Engineering Co-op</title>
-    <link href="https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Pittsburgh-PA/Mechanical-Engineering-Co-op_R20707"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Pittsburgh, PA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:SyngentaGroup:744000158494415</id>
-    <title>Syngenta Group: Data Scientist Intern</title>
-    <link href="https://jobs.smartrecruiters.com/SyngentaGroup/744000158494415"/>
-    <updated>2026-10-29T12:48:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC, United States · Python</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:cubic:/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1</id>
-    <title>Cubic: Mechanical Engineering Intern</title>
-    <link href="https://cubic.wd1.myworkdayjobs.com/cubic_USA_careers/job/San-Diego-California/Mechanical-Engineering-Intern_REQ_50332-1"/>
-    <updated>2026-10-29T12:48:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Diego, California · H-1B track record: ~44 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globalfoundries:/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583</id>
-    <title>GlobalFoundries: Advanced Manufacturing Engineering Intern, Process &amp; Equipment (Summer 2027)</title>
-    <link href="https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583"/>
-    <updated>2026-10-29T12:48:47Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - New York - Malta · H-1B track record: ~110 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Engineer-Intern_2642721-1</id>
-    <title>KLA: Software Engineer Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Engineer-Intern_2642721-1"/>
-    <updated>2026-10-29T12:48:47Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · Python, Java, C++, C# · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:arcboatcompany:5466630008</id>
-    <title>Arc: Manufacturing Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/arcboatcompany/jobs/5466630008"/>
-    <updated>2026-10-29T05:20:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Torrance, CA · $36/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:usafacts:4472154009</id>
-    <title>USAFacts: AI &amp; Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/usafacts/jobs/4472154009"/>
-    <updated>2026-10-29T05:20:46Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA · $38/hr · Python, TypeScript, JavaScript, SQL</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208</id>
-    <title>Northrop Grumman: 2027 Structural Engineer Intern - Gilbert AZ 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208"/>
-    <updated>2026-10-29T05:20:46Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

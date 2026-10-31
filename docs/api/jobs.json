@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-10-31T15:48:42Z",
+ "generated_at": "2026-10-31T19:59:34Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1505,
+ "count": 1502,
  "jobs": [
   {
    "id": "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09",
@@ -5306,27 +5306,6 @@
    ],
    "source": "workday",
    "h1b_approvals": 42,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:trekbikes:/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843",
-   "company": "TREK",
-   "title": "Mechanical Engineering Intern",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Hardware",
-   "location": "Waterloo, Wisconsin",
-   "url": "https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843",
-   "posted_at": "2026-10-23T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-23T22:09:09Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 15,
    "program": "Internship",
    "remote": false
   },
@@ -28250,27 +28229,6 @@
    "remote": false
   },
   {
-   "id": "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
-   "company": "Hy-Vee",
-   "title": "Cyber Security Intern- Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security",
-   "location": "Corporate Office, Westown Pkwy., West Des Moines, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
-   "posted_at": "2026-09-04T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-05T00:54:43Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "workday",
-   "h1b_approvals": 2,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "smartrecruiters:AECOM2:744000147581370",
    "company": "AECOM",
    "title": "Structural Engineering Intern - Hiring Event with AECOM - Philadelphia",
@@ -28288,29 +28246,6 @@
    "skills": [],
    "source": "smartrecruiters",
    "h1b_approvals": 246,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "workday:hyvee:/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133",
-   "company": "Hy-Vee",
-   "title": "Digital Software Engineering Intern - Summer 2027",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "Corporate Office, Westown Pkwy., West Des Moines, IA",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Digital-Software-Engineering-Intern---Summer-2027_R250133",
-   "posted_at": "2026-09-04T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-09-04T20:41:19Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL"
-   ],
-   "source": "workday",
-   "h1b_approvals": 2,
    "program": "Internship",
    "remote": false
   },

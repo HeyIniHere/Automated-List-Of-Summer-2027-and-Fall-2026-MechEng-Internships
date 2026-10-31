@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T15:48:42Z",
+ "generated_at": "2026-10-31T19:59:34Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1541,20 +1541,6 @@
    "days_until": -57,
    "status": "open",
    "url": "https://gevernova.wd5.myworkdayjobs.com/only_confidential_executive_recruiting/job/Charleroi-USA/GE-Vernova-Manufacturing-Process-Engineer-Intern---Summer-2027_R5053285",
-   "note": ""
-  },
-  {
-   "company": "Hy-Vee",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-04",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-04",
-   "days_until": -57,
-   "status": "open",
-   "url": "https://hyvee.wd1.myworkdayjobs.com/HyVeeCareers/job/Corporate-Office-Westown-Pkwy-West-Des-Moines-IA/Cyber-Security-Intern--Summer-2027_R250153",
    "note": ""
   },
   {
@@ -3714,20 +3700,6 @@
    "note": ""
   },
   {
-   "company": "TREK",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-23",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-23",
-   "days_until": -8,
-   "status": "open",
-   "url": "https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mechanical-Engineering-Intern_Trek115843",
-   "note": ""
-  },
-  {
    "company": "Verdantas",
    "last_cycle_posted": "",
    "posted_on": "2026-10-23",
@@ -5282,6 +5254,20 @@
    "note": ""
   },
   {
+   "company": "Hy-Vee",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-04",
+   "days_until": -57,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Dropbox",
    "last_cycle_posted": "",
    "posted_on": "2026-09-07",
@@ -6229,6 +6215,20 @@
    "source": "engine",
    "expected": "2026-10-22",
    "days_until": -9,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "TREK",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-23",
+   "days_until": -8,
    "status": "dropped",
    "url": "",
    "note": ""

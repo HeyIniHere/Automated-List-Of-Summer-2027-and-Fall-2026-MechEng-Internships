@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-31T15:48:41Z</updated>
+  <updated>2026-10-31T19:59:34Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09</id>
-    <title>Firework: Data Engineer Intern</title>
-    <link href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"/>
-    <updated>2026-10-31T15:48:35Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, SQL, Spark, Airflow</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morph:4467371009</id>
     <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
@@ -30,6 +22,14 @@
     <updated>2026-10-31T15:48:35Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · New York, New York</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09</id>
+    <title>Firework: Data Engineer Intern</title>
+    <link href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"/>
+    <updated>2026-10-31T15:48:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, SQL, Spark, Airflow</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Pyrotek3:744000158830479</id>

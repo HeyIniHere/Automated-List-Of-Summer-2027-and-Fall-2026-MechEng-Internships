@@ -8,7 +8,7 @@
 
 ### 1502 open roles (633 listed below) · 238 new this week
 
-4,889 employers tracked · updated Oct 31, 2026 at 19:59 UTC
+4,889 employers tracked · updated Oct 31, 2026 at 23:22 UTC
 
 _1062 have a cycle the employer stated · 440 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -102,12 +102,12 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Stratolaunch | Manufacturing (Systems) Engineering Intern Summer 2027 🇺🇸 🆕 | Hardware | Mojave, California, United States | Oct 30, 2026 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467824008) |
 | Stratolaunch | Manufacturing Engineering Intern Summer 2027 🇺🇸 🆕 | Hardware | Mojave, California, United States | Oct 30, 2026 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467828008) |
 | Stratolaunch | Manufacturing (Electrical) Engineering Intern Summer 2027 🇺🇸 🆕 | Hardware | Mojave, California, United States | Oct 30, 2026 | [Apply](https://job-boards.greenhouse.io/stratolaunch/jobs/5467832008) |
-| Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast 🆕 | Data & ML/AI | Austin, Texas, USA | Oct 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
-| GM financial | Intern - Data Engineer 🆕 | Data & ML/AI | Arlington, TX, United States | Oct 29, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) |
-| Great American Insurance Company ✓ | DevOps Developer Intern - Summer 2027 🆕 | Software | Cincinnati, OH (USA) | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) |
-| Northrop Grumman | 2027 Mechanical Engineer Internship - East Hartford CT 🇺🇸 🆕 | Hardware | United States-Connecticut-East Hartford | Oct 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435) |
-| Philips | Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027 🆕 | Data & ML/AI | Murrysville, Pennsylvania, United States | Oct 29, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730) |
-| T-Mobile ✓ | Summer 2027 Assoc AI Engineer Internship 🆕 | Data & ML/AI | Overland Park, Kansas | Oct 29, 2026 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) |
+| Amazon ✓ | Data Center Infrastructure Engineer Intern, Summer 2027 - Midwest / Southeast | Data & ML/AI | Austin, Texas, USA | Oct 29, 2026 | [Apply](https://www.amazon.jobs/en/jobs/10593054/data-center-infrastructure-engineer-intern-summer-2027-midwest-southeast) |
+| GM financial | Intern - Data Engineer | Data & ML/AI | Arlington, TX, United States | Oct 29, 2026 | [Apply](https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197) |
+| Great American Insurance Company ✓ | DevOps Developer Intern - Summer 2027 | Software | Cincinnati, OH (USA) | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/DevOps-Developer-Intern---Summer-2027_R9826) |
+| Northrop Grumman | 2027 Mechanical Engineer Internship - East Hartford CT 🇺🇸 | Hardware | United States-Connecticut-East Hartford | Oct 29, 2026 | [Apply](https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435) |
+| Philips | Co-op – Data Engineer (Biocompatibility) – Murrysville, PA – January to June 2027 | Data & ML/AI | Murrysville, Pennsylvania, United States | Oct 29, 2026 | [Apply](https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Murrysville-Pennsylvania-United-States/Co-op---Data-Engineer--Biocompatibility----Murrysville--PA---January-to-June-2027_591730) |
+| T-Mobile ✓ | Summer 2027 Assoc AI Engineer Internship | Data & ML/AI | Overland Park, Kansas | Oct 29, 2026 | [Apply](https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484) |
 | Rendezvous Robotics | Manufacturing and Test Engineering Intern (Summer 2027) 🇺🇸 | Hardware | Golden, CO | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/rendezvousrobotics/jobs/4408588009) |
 | Great American Insurance Company ✓ | Content Publishing Developer Intern - Summer 2027 | Software | Cincinnati, OH (USA) | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Content-Publishing-Developer-Intern---Summer-2027_R9813) |
 | Great American Insurance Company ✓ | Extreme Programming Engineer Intern - Summer 2027 | Software | Cincinnati, OH (USA) | Oct 29, 2026 | [Apply](https://gaig.wd1.myworkdayjobs.com/GAIG_External/job/Cincinnati-OH-USA/Extreme-Programming-Engineer-Intern---Summer-2027_R9821) |
@@ -438,10 +438,10 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Sierra Nevada Corporation | Firmware Engineering Intern 🇺🇸 🆕 | Hardware | Folsom, CA | Oct 30, 2026 | [Apply](https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Folsom-CA/Firmware-Engineering-Intern_R0031219) |
 | Wex ✓ | Software Engineer Intern 🏠 🆕 | Software | US - Remote | Oct 30, 2026 | [Apply](https://wexinc.wd5.myworkdayjobs.com/WEXInc/job/US---Remote/Software-Engineer-Intern_R22585) |
 | ASML ✓ | Internship - Mechatronics Engineer 🆕 | Hardware | Wilton, CT, USA | Oct 29, 2026 | [Apply](https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356213) |
-| Samsung | Intern, Systems Software Engineering 🆕 | Software | San Jose, California, United States | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) |
-| Toyota Research Institute ✓ | Robotics Intern, Human-Machine Interaction Research 🆕 | Hardware | Los Altos, CA | Oct 29, 2026 | [Apply](https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047) |
-| Toyota Research Institute ✓ | Robotics Intern, Human-Machine Interaction Research 🆕 | Hardware | Los Altos, CA | Oct 29, 2026 | [Apply](https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8) |
-| HCSC | Early Careers - Cybersecurity Operations Intern 🛂 🆕 | Security | IL - Chicago | Oct 29, 2026 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) |
+| Samsung | Intern, Systems Software Engineering | Software | San Jose, California, United States | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8046887003) |
+| Toyota Research Institute ✓ | Robotics Intern, Human-Machine Interaction Research | Hardware | Los Altos, CA | Oct 29, 2026 | [Apply](https://jobs.lever.co/tri/16336213-1880-482f-87d0-b15fa4141047) |
+| Toyota Research Institute ✓ | Robotics Intern, Human-Machine Interaction Research | Hardware | Los Altos, CA | Oct 29, 2026 | [Apply](https://jobs.lever.co/tri/dcc68e06-e6a6-4cb5-b0a9-282ab9c16dc8) |
+| HCSC | Early Careers - Cybersecurity Operations Intern 🛂 | Security | IL - Chicago | Oct 29, 2026 | [Apply](https://hcsc.wd1.myworkdayjobs.com/HCSC_External/job/IL---Chicago/Early-Careers---Cybersecurity-Operations-Intern_R0059508) |
 | Two Six Technologies | Systems Software Engineering Intern 🇺🇸 | Software | Arlington, Virginia | Oct 29, 2026 | [Apply](https://job-boards.greenhouse.io/twosixtechnologies/jobs/6236518004) |
 | Emerson Electric | Software Engineering Intern 🛂 | Software | Austin, TX, United States | Oct 29, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26010840) |
 | Interco | Paid Internship -- Software Development -- React 🛂 | Software | St. Louis, MO, United States | Oct 29, 2026 | [Apply](https://jobs.smartrecruiters.com/Interco/744000158581114) |
@@ -830,7 +830,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,532 of 5,050 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 89% of the full registry) · completed in 574.9s · 106 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,613 of 5,050 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 474.3s · 121 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

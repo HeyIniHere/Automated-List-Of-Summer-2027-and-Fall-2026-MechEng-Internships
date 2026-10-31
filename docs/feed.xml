@@ -5,20 +5,60 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-10-31T09:35:41Z</updated>
+  <updated>2026-10-31T15:48:41Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:lever:tevora:fb3b174b-07ac-410d-9c44-53c70793635c</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Enterprise Risk Management</title>
-    <link href="https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"/>
+    <id>urn:intern-engine:lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09</id>
+    <title>Firework: Data Engineer Intern</title>
+    <link href="https://jobs.lever.co/fireworkhq/36722fbd-2705-4beb-83aa-1884068eaa09"/>
+    <updated>2026-10-31T15:48:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · San Mateo, California · Python, SQL, Spark, Airflow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:morph:4467371009</id>
+    <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
+    <link href="https://job-boards.greenhouse.io/morph/jobs/4467371009"/>
+    <updated>2026-10-31T15:48:35Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · New York City</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:pretiuminternships2027:8868243002</id>
+    <title>Pretium: 2027 AI, Data &amp; Innovation Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002"/>
+    <updated>2026-10-31T15:48:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, New York</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Pyrotek3:744000158830479</id>
+    <title>Pyrotek: Intern - Product Management</title>
+    <link href="https://jobs.smartrecruiters.com/Pyrotek3/744000158830479"/>
+    <updated>2026-10-31T15:48:35Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Spokane, WA, United States · $22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
+    <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
+    <link href="https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Fairfax, VA · 27 USD/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tevora:4e3b7ae3-cb18-4c76-815c-0014e3c7598c</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</title>
+    <link href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c"/>
     <updated>2026-10-31T09:35:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:tevora:a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Healthcare</title>
-    <link href="https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0"/>
+    <id>urn:intern-engine:lever:tevora:5acd8859-ba7f-4996-9503-13a231376758</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Threat</title>
+    <link href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758"/>
     <updated>2026-10-31T09:35:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
@@ -40,6 +80,14 @@
     <summary>Summer 2027 · Security · Fairfax, VA · 27 USD/hr</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:lever:tevora:a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Healthcare</title>
+    <link href="https://jobs.lever.co/tevora/a18eeda5-4b39-4e8f-b3b3-e4d80e3601b0"/>
+    <updated>2026-10-31T09:35:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:lever:tevora:facb1a9a-67b3-42ca-90f1-65d934d9b68d</id>
     <title>Tevora: Cybersecurity Internship Summer 2027 - Solutions</title>
     <link href="https://jobs.lever.co/tevora/facb1a9a-67b3-42ca-90f1-65d934d9b68d"/>
@@ -48,28 +96,12 @@
     <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:tevora:4e3b7ae3-cb18-4c76-815c-0014e3c7598c</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Systems and Organizations Controls (SOC)</title>
-    <link href="https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c"/>
+    <id>urn:intern-engine:lever:tevora:fb3b174b-07ac-410d-9c44-53c70793635c</id>
+    <title>Tevora: Cybersecurity Internship Summer 2027 - Enterprise Risk Management</title>
+    <link href="https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c"/>
     <updated>2026-10-31T09:35:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:5acd8859-ba7f-4996-9503-13a231376758</id>
-    <title>Tevora: Cybersecurity Internship Summer 2027 - Threat</title>
-    <link href="https://jobs.lever.co/tevora/5acd8859-ba7f-4996-9503-13a231376758"/>
-    <updated>2026-10-31T09:35:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Irvine, CA · 27 USD/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tevora:2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d</id>
-    <title>Tevora: Cybersecurity Internship Summer2027 - Federal</title>
-    <link href="https://jobs.lever.co/tevora/2ad5ba33-3c2a-4e51-a5ab-e5632adb0e0d"/>
-    <updated>2026-10-31T09:35:34Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Fairfax, VA · 27 USD/hr</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:rippling:omnis-corporation:c6a2ae56-59aa-4493-bc4b-5d555b21b9c9</id>
@@ -774,37 +806,5 @@
     <updated>2026-10-29T19:01:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:nordsonhcm:/job/USA---New-Hampshire---Salem/Manufacturing-Engineering-Intern_REQ53029</id>
-    <title>Nordson: Manufacturing Engineering Intern</title>
-    <link href="https://nordsonhcm.wd501.myworkdayjobs.com/nordsoncareers/job/USA---New-Hampshire---Salem/Manufacturing-Engineering-Intern_REQ53029"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA - New Hampshire - Salem</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:snc:/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031291</id>
-    <title>Sierra Nevada Corporation: Structural Engineering Intern - Summer 2027 (For SNC Summer 2026 Interns Only) 🇺🇸</title>
-    <link href="https://snc.wd1.myworkdayjobs.com/snc_external_career_site/job/Lone-Tree-CO/Structural-Engineering-Intern---Summer-2027--For-SNC-Summer-2026-Interns-Only-_R0031291"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lone Tree, CO · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1</id>
-    <title>Sonos: Software Partner Engineering Intern (Boston) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Partner-Engineering-Intern--Boston-_R2886-1"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Boston, MA · C++, Swift, Kotlin, Git · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:sonos:/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1</id>
-    <title>Sonos: Software Product Management Intern (Seattle) 🛂</title>
-    <link href="https://sonos.wd1.myworkdayjobs.com/Sonos/job/Seattle-WA/Software-Product-Management-Intern--Seattle-_R2888-1"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Seattle, WA · SQL · sponsorship: no-sponsorship · H-1B track record: ~54 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

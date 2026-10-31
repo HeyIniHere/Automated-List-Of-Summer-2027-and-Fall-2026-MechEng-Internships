@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-31T09:35:41Z",
+ "generated_at": "2026-10-31T15:48:42Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -452,20 +452,6 @@
    "note": ""
   },
   {
-   "company": "Chamberlain Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-10",
-   "days_until": -82,
-   "status": "open",
-   "url": "https://chamberlain.wd1.myworkdayjobs.com/Chamberlain_Group/job/Oak-Brook-IL/Intern--Community-Product-Management--Summer-2026-_JR31309",
-   "note": ""
-  },
-  {
    "company": "DV Trading",
    "last_cycle_posted": "",
    "posted_on": "2026-08-10",
@@ -560,7 +546,7 @@
    "expected": "2026-08-14",
    "days_until": -78,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604583",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
    "note": ""
   },
   {
@@ -700,7 +686,7 @@
    "expected": "2026-08-20",
    "days_until": -72,
    "status": "open",
-   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Bothell-Washington-United-States/Intern---R-D-Front-End-Innovation-Intern---Oral-Healthcare---Bothell--WA---Summer-2027_593146",
+   "url": "https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Latham-New-York-United-States/Co-op---Manufacturing-Engineering---Latham--NY---January-August-2027_590906",
    "note": ""
   },
   {
@@ -2538,20 +2524,6 @@
    "note": ""
   },
   {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -43,
-   "status": "open",
-   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
-   "note": ""
-  },
-  {
    "company": "Charter Manufacturing",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -3028,20 +3000,6 @@
    "note": ""
   },
   {
-   "company": "LexisNexis Risk Solutions",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -26,
-   "status": "open",
-   "url": "https://relx.wd3.myworkdayjobs.com/RiskSolutions/job/Alpharetta-GA-Alderman/Data-Science-Intern_R118955",
-   "note": ""
-  },
-  {
    "company": "Midland States Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -3137,6 +3095,20 @@
    "days_until": -25,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/niantic-spatial/ed68b062-4dcb-4deb-9cc0-ed38030f6e43",
+   "note": ""
+  },
+  {
+   "company": "Pretium",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-06",
+   "days_until": -25,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/pretiuminternships2027/jobs/8868243002",
    "note": ""
   },
   {
@@ -4050,6 +4022,20 @@
    "note": ""
   },
   {
+   "company": "Pyrotek",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000158830479",
+   "note": ""
+  },
+  {
    "company": "Stratolaunch",
    "last_cycle_posted": "",
    "posted_on": "2026-10-30",
@@ -4102,7 +4088,7 @@
    "expected": "2026-10-31",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.lever.co/tevora/fb3b174b-07ac-410d-9c44-53c70793635c",
+   "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
    "note": ""
   },
   {
@@ -4703,6 +4689,20 @@
    "source": "engine",
    "expected": "2026-08-07",
    "days_until": -85,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Chamberlain Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-10",
+   "days_until": -82,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5702,6 +5702,20 @@
    "note": ""
   },
   {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -43,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Thrivent",
    "last_cycle_posted": "",
    "posted_on": "2026-09-18",
@@ -6024,6 +6038,20 @@
    "note": ""
   },
   {
+   "company": "LexisNexis Risk Solutions",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -26,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "MEMX",
    "last_cycle_posted": "",
    "posted_on": "2026-10-06",
@@ -6220,5 +6248,5 @@
    "note": ""
   }
  ],
- "count": 444
+ "count": 446
 }

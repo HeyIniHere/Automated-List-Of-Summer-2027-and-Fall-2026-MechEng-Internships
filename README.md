@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1492 open roles (625 listed below) · 238 new this week
+### 1491 open roles (625 listed below) · 237 new this week
 
-4,889 employers tracked · updated Nov 01, 2026 at 13:05 UTC
+4,892 employers tracked · updated Nov 01, 2026 at 18:30 UTC
 
-_1059 have a cycle the employer stated · 433 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_1058 have a cycle the employer stated · 433 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -36,7 +36,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 - **A date on nearly every role** - taken from the job portal itself where the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run.
 - **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/), included in the CSV and API.
 - **Alerts your way** - [email digests](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe) or [RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml) (point any reader, or a Slack/Discord RSS integration, at it) - plus a [live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/) with search, filters, and a saved-roles list that never leaves your browser.
-- **An engine, not a spreadsheet** - 5,050 job-board endpoints (4,889 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
+- **An engine, not a spreadsheet** - 5,053 job-board endpoints (4,892 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
 
 ## Scope
 
@@ -209,7 +209,6 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Anduril | 2027 Finance Data Analyst Intern | Data & ML/AI | Costa Mesa, California, United States | Oct 20, 2026 | [Apply](https://boards.greenhouse.io/andurilindustries/jobs/5269977007?gh_jid=5269977007) |
 | Integrate | Software Engineering Intern (Summer 2027) 🇺🇸 | Software | Seattle, WA | Oct 20, 2026 | [Apply](https://jobs.ashbyhq.com/integrate/7681f59b-70c0-414b-96d9-ae8925cc2ed3) |
 | GoFundMe ✓ | MBA Product Management Internship, Summer 2027 | Software | San Francisco, CA | Oct 20, 2026 | [Apply](https://job-boards.greenhouse.io/gofundme/jobs/8304644) |
-| Uber ✓ | 2027 Software Engineering Intern, US | Software | San Francisco, CA, United States | Oct 20, 2026 | [Apply](https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922) |
 | LinkedIn ✓ | Software Engineer Intern, Undergraduate - Summer 2027 (Mountain View, CA) | Software | Mountain View, CA, United States | Oct 20, 2026 | [Apply](https://jobs.smartrecruiters.com/LinkedIn3/744000156616169) |
 | Toyota | 2027 TFS Data Science Internship | Data & ML/AI | Plano, Texas | Oct 20, 2026 | [Apply](https://toyota.wd503.myworkdayjobs.com/tmna/job/Plano-Texas/XMLNAME-2027-TFS-Data-Science-Internship_10338545-1) |
 | TruStage | Information Technology - Development and Infrastructure Internship (hybrid) 🏠 | Software | Wisconsin - Remote | Oct 20, 2026 | [Apply](https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155) |
@@ -351,6 +350,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Generac ✓ | 2027 Summer Intern Digital Manufacturing Engineering | Hardware | Waukesha, WI - USA | Oct 01, 2026 | [Apply](https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/XMLNAME-2027-Summer-Intern-Digital-Manufacturing-Engineering_JR16255) |
 | Muon Space | Thermal Engineering Intern (Summer 2027) 🇺🇸 | Hardware | San Jose, CA | Sep 30, 2026 | [Apply](https://job-boards.greenhouse.io/muonspace/jobs/5253474007) |
 | Allen Control Systems | Android Developer Intern, 2027 | Software | Austin, TX | Sep 30, 2026 | [Apply](https://jobs.ashbyhq.com/allen-control-systems/1cd2b432-9a01-4ae0-8eb2-6ebd9c278b94) |
+| STV ✓ | Structural Engineering Intern - Summer 2027 🛂 | Hardware | Oklahoma City, Oklahoma | Sep 30, 2026 | [Apply](https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315) |
 | Figma ✓ | Data Engineer Intern (2027) | Data & ML/AI | San Francisco, CA • New York, NY | Sep 23, 2026 | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) |
 | DoorDash ✓ | Machine Learning Intern (Masters) - Summer 2027 | Data & ML/AI | San Francisco +7 more | Sep 23, 2026 | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8204111) |
 | Figma ✓ | Software Engineer Intern (Summer 2027) | Software | San Francisco, CA • New York, NY | Sep 14, 2026 | [Apply](https://boards.greenhouse.io/figma/jobs/6143238004?gh_jid=6143238004) |
@@ -764,6 +764,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 
 | Company | Role | Cycle | Closed | Why |
 |---|---|---|---|---|
+| Uber | 2027 Software Engineering Intern, US | Summer 2027 | 2026-11-01 | gone from feed |
 | American Century Investments | Cybersecurity Intern | Fall 2026 | 2026-11-01 | gone from feed |
 | American Century Investments | Infrastructure Automation Engineer Intern | Fall 2026 | 2026-11-01 | gone from feed |
 | American Century Investments | Software Developer Intern | Fall 2026 | 2026-11-01 | gone from feed |
@@ -803,7 +804,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Marvell | SRAM Software Engineer Intern, BS - Summer 2027 | Summer 2027 | 2026-10-30 | gone from feed |
 | Stryker | Summer 2027 Internship - Mechanical Engineer | Summer 2027 | 2026-10-30 | gone from feed |
 | Visa | Data Science Intern, Data and AI Team – Summer 2027 | Summer 2027 | 2026-10-30 | gone from feed |
-| SEP | Software Engineering Intern (Summer 2027, In person) | Summer 2027 | 2026-10-30 | gone from feed |
 
 </details>
 
@@ -822,7 +822,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 4,625 of 5,050 registered boards returned successfully across 12 ATS platforms (95% of boards attempted, 91% of the full registry) · completed in 429.1s · 120 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 4,607 of 5,053 registered boards returned successfully across 12 ATS platforms (99% of boards attempted, 91% of the full registry) · completed in 473.0s · 121 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

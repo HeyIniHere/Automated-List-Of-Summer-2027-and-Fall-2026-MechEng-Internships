@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-01T13:05:43Z",
+ "generated_at": "2026-11-01T18:30:59Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3588,20 +3588,6 @@
    "note": ""
   },
   {
-   "company": "Uber",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-   "note": "opens late summer, rolling"
-  },
-  {
    "company": "Allstate Insurance Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -6176,6 +6162,20 @@
    "status": "dropped",
    "url": "",
    "note": ""
+  },
+  {
+   "company": "Uber",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": "opens late summer, rolling"
   },
   {
    "company": "Crusoe",

@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-01T13:05:43Z",
+ "generated_at": "2026-11-01T18:30:59Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1492,
+ "count": 1491,
  "jobs": [
   {
    "id": "lever:fireworkhq:36722fbd-2705-4beb-83aa-1884068eaa09",
@@ -7296,31 +7296,6 @@
    "skills": [],
    "source": "oracle",
    "h1b_approvals": 96,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "oracle:iaziqy.fa.ocs.oraclecloud.com:303922",
-   "company": "Uber",
-   "title": "2027 Software Engineering Intern, US",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Software",
-   "location": "San Francisco, CA, United States",
-   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/303922",
-   "posted_at": "2026-10-20",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-20T23:50:02Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
-   ],
-   "source": "oracle",
-   "h1b_approvals": 1279,
    "program": "Internship",
    "remote": false
   },

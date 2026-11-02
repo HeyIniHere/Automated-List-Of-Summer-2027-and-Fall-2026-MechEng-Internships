@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-02T10:55:41Z",
+ "generated_at": "2026-11-02T20:49:56Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -757,20 +757,6 @@
    "days_until": -70,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
-   "note": ""
-  },
-  {
-   "company": "The Hartford",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -70,
-   "status": "open",
-   "url": "https://thehartford.wd5.myworkdayjobs.com/Careers_External/job/Hartford-CT/Tech---Data-Program-Summer-2027---Data-Engineer-Intern--Hartford-_R2626103-1",
    "note": ""
   },
   {
@@ -4064,6 +4050,48 @@
    "note": ""
   },
   {
+   "company": "Intuitive Surgical",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
+   "note": ""
+  },
+  {
+   "company": "KLA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://kla.wd1.myworkdayjobs.com/Search/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3",
+   "note": ""
+  },
+  {
+   "company": "TIAA",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://tiaa.wd1.myworkdayjobs.com/Search/job/New-York-NY---730-Third-Avenue/XMLNAME-2027-Intern--Energy-Infrastructure-Credit_R261000336-1",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4905,6 +4933,20 @@
   },
   {
    "company": "Freddie Mac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -70,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "The Hartford",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
    "precision": "day",
@@ -6262,5 +6304,5 @@
    "note": ""
   }
  ],
- "count": 447
+ "count": 450
 }

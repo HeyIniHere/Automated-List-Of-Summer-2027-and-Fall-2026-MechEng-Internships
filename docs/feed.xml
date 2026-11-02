@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-01T22:46:29Z</updated>
+  <updated>2026-11-02T02:23:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:knowbe4:8919280002</id>
+    <title>KnowBe: Software Engineer Summer Internship</title>
+    <link href="https://job-boards.greenhouse.io/knowbe4/jobs/8919280002"/>
+    <updated>2026-11-02T02:23:09Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Clearwater, Florida · Python, SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:morph:4467371009</id>
     <title>Morph Labs: Design Intern (Industrial / Mechanical)</title>
@@ -798,13 +806,5 @@
     <updated>2026-10-29T19:01:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270</id>
-    <title>Northrop Grumman: 2027 Structural Engineering Intern- Roy UT 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270"/>
-    <updated>2026-10-29T19:01:36Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Utah-Roy · $23–$29/hr · sponsorship: citizens-only</summary>
   </entry>
 </feed>

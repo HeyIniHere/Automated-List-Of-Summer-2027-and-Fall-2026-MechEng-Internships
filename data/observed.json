@@ -3659,6 +3659,18 @@
     }
    }
   },
+  "knowbe": {
+   "name": "KnowBe",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-01",
+     "role_ids": [
+      "greenhouse:knowbe4:8919280002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "kraft heinz": {
    "name": "Kraft Heinz",
    "cycles": {
@@ -7485,5 +7497,5 @@
    }
   }
  },
- "updated_at": "2026-11-01T22:46:23Z"
+ "updated_at": "2026-11-02T02:23:09Z"
 }

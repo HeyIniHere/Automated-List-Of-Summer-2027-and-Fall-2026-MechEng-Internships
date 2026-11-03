@@ -515,9 +515,11 @@
       "oracle:egug.fa.us2.oraclecloud.com:26012781",
       "oracle:egug.fa.us2.oraclecloud.com:26013190",
       "oracle:egug.fa.us2.oraclecloud.com:26013191",
-      "oracle:egug.fa.us2.oraclecloud.com:26014224"
+      "oracle:egug.fa.us2.oraclecloud.com:26014224",
+      "oracle:egug.fa.us2.oraclecloud.com:26015722",
+      "oracle:egug.fa.us2.oraclecloud.com:26016065"
      ],
-     "count": 43
+     "count": 45
     }
    }
   },
@@ -789,9 +791,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
-      "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167"
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167",
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -1206,6 +1209,18 @@
       "workday:brevanhoward:/job/New-York/XMLNAME-2027-Summer-Internship-Program---Systematic-Trading-Technology-Software-Engineer--New-York_JR101597"
      ],
      "count": 2
+    }
+   }
+  },
+  "bristol myers squibb": {
+   "name": "Bristol Myers Squibb",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "workday:bristolmyerssquibb:/job/Summit-West---NJ---US/Manufacturing-Science-and-Technology-Process-Engineering-Co-Op_R1608131"
+     ],
+     "count": 1
     }
    }
   },
@@ -3531,9 +3546,10 @@
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
-      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079"
+      "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
+      "workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -4331,9 +4347,10 @@
     "Summer 2027": {
      "first_posted": "2026-07-22",
      "role_ids": [
+      "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Artificial-Intelligence-Co-Op-Intern---Summer-2027_65420",
       "workday:mosaic:/job/US---Tampa-FL-Lithia-area/Structural-Engineer-Co-Op-Intern---Summer-2027_64448"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4514,6 +4531,18 @@
     }
    }
   },
+  "nex": {
+   "name": "Nex",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "greenhouse:nex:5421056008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "nexus engineering group": {
    "name": "Nexus Engineering Group",
    "cycles": {
@@ -4576,7 +4605,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 85,
+     "count": 87,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4591,6 +4620,7 @@
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+      "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253538",
@@ -4631,6 +4661,7 @@
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Annapolis-MD_R10254697",
+      "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Electrical-Engineer-Intern---Field-Engineering---Baltimore-MD_R10258965",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
@@ -5818,6 +5849,13 @@
       "greenhouse:samsungresearchamericainternship:8541339002",
       "greenhouse:samsungresearchamericainternship:8560657002"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-03",
+     "role_ids": [
+      "greenhouse:samsungresearchamericainternship:8926019002"
+     ],
+     "count": 1
     }
    }
   },
@@ -7481,11 +7519,12 @@
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626",
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -7556,5 +7595,5 @@
    }
   }
  },
- "updated_at": "2026-11-03T10:45:37Z"
+ "updated_at": "2026-11-03T18:28:08Z"
 }

@@ -1,20 +1,3 @@
 {
-  "pending": [
-    "workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532",
-    "workday:asml:/job/Wilton-CT-USA/Coop---Mechatronics-Engineer--Internship-_J-00356203",
-    "workday:kla:/job/Austin-TX/Software-Engineering-Intern_2642004-1",
-    "workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00196049",
-    "greenhouse:samsungsemiconductor:8163994003",
-    "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
-    "ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
-    "lever:shieldai:ac38d092-f435-4301-880b-48d0e92679a4",
-    "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:621d736b-5ae1-4d62-8f05-088753318d29",
-    "ashby:shieldai:621d736b-5ae1-4d62-8f05-088753318d29",
-    "workday:stvinc:/job/Austin-Texas/Structural-Engineering-Intern---Summer-2027_JR6487",
-    "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
-    "workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-2_JR-18899",
-    "workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-1_JR-18898",
-    "workday:tranetechnologies:/job/Kentwood-Michigan/Manufacturing-Engineering-Intern-3_JR-18900",
-    "smartrecruiters:WellmarkInc:744000159260670"
-  ]
+  "pending": []
 }

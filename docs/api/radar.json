@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03T02:59:59Z",
+ "generated_at": "2026-11-03T10:45:41Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -574,7 +574,7 @@
    "expected": "2026-08-14",
    "days_until": -81,
    "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
    "note": ""
   },
   {
@@ -924,7 +924,7 @@
    "expected": "2026-08-27",
    "days_until": -68,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/New-Berlin-Wisconsin-United-States-of-America/Product-Management-Intern---Summer-2027_JR00047280",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/Fort-Smith-Arkansas-United-States-of-America/Mechanical-Design-Engineer-Intern--Summer-2027_JR00045727",
    "note": ""
   },
   {
@@ -966,7 +966,7 @@
    "expected": "2026-08-27",
    "days_until": -68,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
    "note": ""
   },
   {
@@ -2786,7 +2786,7 @@
    "expected": "2026-09-30",
    "days_until": -34,
    "status": "open",
-   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315",
+   "url": "https://stvinc.wd5.myworkdayjobs.com/stv/job/Austin-Texas/Structural-Engineering-Intern---Summer-2027_JR6487",
    "note": ""
   },
   {
@@ -3322,6 +3322,20 @@
    "note": ""
   },
   {
+   "company": "LSEG",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-14",
+   "days_until": -20,
+   "status": "open",
+   "url": "https://lseg.wd3.myworkdayjobs.com/Graduate_Careers/job/New-York-City-United-States/Intern---Software-Engineer_R0124266-1",
+   "note": ""
+  },
+  {
    "company": "Point7",
    "last_cycle_posted": "",
    "posted_on": "2026-10-14",
@@ -3374,7 +3388,7 @@
    "expected": "2026-10-15",
    "days_until": -19,
    "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
    "note": ""
   },
   {
@@ -3910,20 +3924,6 @@
    "note": ""
   },
   {
-   "company": "Molina Healthcare",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-30",
-   "days_until": -4,
-   "status": "open",
-   "url": "https://hckd.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/2040172",
-   "note": ""
-  },
-  {
    "company": "Pyrotek",
    "last_cycle_posted": "",
    "posted_on": "2026-10-30",
@@ -3991,20 +3991,6 @@
    "days_until": -3,
    "status": "open",
    "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
-   "note": ""
-  },
-  {
-   "company": "KnowBe",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-01",
-   "days_until": -2,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/knowbe4/jobs/8919280002",
    "note": ""
   },
   {
@@ -6150,20 +6136,6 @@
    "note": ""
   },
   {
-   "company": "LSEG",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-14",
-   "days_until": -20,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Fortive",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -6285,6 +6257,34 @@
    "source": "engine",
    "expected": "2026-10-29",
    "days_until": -5,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Molina Healthcare",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": -4,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "KnowBe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-01",
+   "days_until": -2,
    "status": "dropped",
    "url": "",
    "note": ""

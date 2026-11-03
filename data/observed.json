@@ -95,9 +95,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
-      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531"
+      "workday:adient:/job/Plymouth-MI/Lean-Manufacturing-Intern_R-29531",
+      "workday:adient:/job/Plymouth-MI/Manufacturing-Intern_R-29532"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3661,9 +3662,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-02",
      "role_ids": [
-      "workday:kla:/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3"
+      "workday:kla:/job/Ann-Arbor-MI/Mechatronics-Summer-Intern_2641557-3",
+      "workday:kla:/job/Austin-TX/Software-Engineering-Intern_2642004-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3757,6 +3759,7 @@
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00193914",
       "workday:leidos:/job/Annapolis-Junction-MD/Software-Developer-Intern_R-00195829",
       "workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00193937",
+      "workday:leidos:/job/Arlington-VA/Data-Science-Intern_R-00196049",
       "workday:leidos:/job/Arlington-VA/Software-Engineer-Intern_R-00193933",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00192042",
       "workday:leidos:/job/Huntsville-AL/AI-ML-Intern_R-00195168",
@@ -3767,7 +3770,7 @@
       "workday:leidos:/job/Sunset-UT/Cybersecurity-Analyst-Intern_R-00190664",
       "workday:leidos:/job/Whitehall-OH/Cybersecurity-Analyst-Intern_R-00190669"
      ],
-     "count": 17
+     "count": 18
     }
    }
   },
@@ -6001,20 +6004,25 @@
      "role_ids": [
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:621d736b-5ae1-4d62-8f05-088753318d29",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:db04c516-d21a-449c-8bfd-1cf830eafb5a",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33",
+      "ashby:shieldai:621d736b-5ae1-4d62-8f05-088753318d29",
       "ashby:shieldai:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:shieldai:db04c516-d21a-449c-8bfd-1cf830eafb5a",
+      "ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "lever:shieldai:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
       "lever:shieldai:8c850c75-081d-4d09-bebf-096379a93010",
       "lever:shieldai:aa71c28a-be00-43ca-8aa7-b764b2143797",
+      "lever:shieldai:ac38d092-f435-4301-880b-48d0e92679a4",
       "lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
      ],
-     "count": 14
+     "count": 19
     }
    }
   },
@@ -6424,10 +6432,11 @@
     "Summer 2027": {
      "first_posted": "2026-09-30",
      "role_ids": [
+      "workday:stvinc:/job/Austin-Texas/Structural-Engineering-Intern---Summer-2027_JR6487",
       "workday:stvinc:/job/Oklahoma-City-Oklahoma/Structural-Engineering-Intern---Summer-2027_JR6315",
       "workday:stvinc:/job/Philadelphia-Pennsylvania/Mechanical-Engineering-Intern---Summer-2027_JR6097-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6462,13 +6471,14 @@
      "first_posted": "2026-10-15",
      "role_ids": [
       "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+      "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
       "workday:tmobile:/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
       "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484",
       "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -7546,5 +7556,5 @@
    }
   }
  },
- "updated_at": "2026-11-02T20:49:49Z"
+ "updated_at": "2026-11-03T02:59:52Z"
 }

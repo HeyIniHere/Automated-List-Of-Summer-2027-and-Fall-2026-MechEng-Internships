@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T00:04:28Z",
+ "generated_at": "2026-11-04T05:50:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -28,7 +28,7 @@
    "expected": "2023-09-12",
    "days_until": -1149,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076978007",
+   "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
    "note": ""
   },
   {
@@ -630,7 +630,7 @@
    "expected": "2026-08-17",
    "days_until": -79,
    "status": "open",
-   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Denver-Metro-CO/Mechanical-Engineering-Intern---Greenwood-Village--CO_R-16558",
+   "url": "https://wd1.myworkdaysite.com/recruiting/imeg/Imeg_Careers/job/Houston-TX/Structural-Engineering-Intern---Houston--TX_R-15014",
    "note": ""
   },
   {
@@ -1121,20 +1121,6 @@
    "days_until": -65,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/lexingtonmedical/jobs/5404584008",
-   "note": ""
-  },
-  {
-   "company": "Michelin",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -65,
-   "status": "open",
-   "url": "https://michelinhr.wd3.myworkdayjobs.com/Michelin/job/EMPORIA-KS/XMLNAME-2027-Summer-Mechanical-Engineer--Emporia--KS-_R-2026030587",
    "note": ""
   },
   {
@@ -2114,7 +2100,7 @@
    "expected": "2026-09-11",
    "days_until": -54,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/megazone/e2889469-cf20-4227-bf24-2a6e885f8dca",
+   "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
    "note": ""
   },
   {
@@ -2296,7 +2282,7 @@
    "expected": "2026-09-15",
    "days_until": -50,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
    "note": ""
   },
   {
@@ -3010,7 +2996,7 @@
    "expected": "2026-10-06",
    "days_until": -29,
    "status": "open",
-   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/166786",
+   "url": "https://epyc.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/167236",
    "note": ""
   },
   {
@@ -3388,7 +3374,7 @@
    "expected": "2026-10-15",
    "days_until": -20,
    "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
    "note": ""
   },
   {
@@ -3472,7 +3458,7 @@
    "expected": "2026-10-19",
    "days_until": -16,
    "status": "open",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-AI-Engineer--Handheld-Mobile-Computers-_JR103632",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631",
    "note": ""
   },
   {
@@ -3556,7 +3542,7 @@
    "expected": "2026-10-20",
    "days_until": -15,
    "status": "open",
-   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Wisconsin---Remote/Enterprise-Information---Technology-Internship--Hybrid-_R-012155",
+   "url": "https://trustage.wd1.myworkdayjobs.com/TruStage/job/Madison-WI/IT---Innovation---AI-Technology-Internship--Hybrid-_R-012293",
    "note": ""
   },
   {
@@ -3738,7 +3724,7 @@
    "expected": "2026-10-26",
    "days_until": -9,
    "status": "open",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI-Intern_JR105180",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095",
    "note": ""
   },
   {
@@ -3851,20 +3837,6 @@
    "days_until": -8,
    "status": "open",
    "url": "https://sonos.wd1.myworkdayjobs.com/Sonos/job/Boston-MA/Software-Engineering-Intern--Boston-_R2882-1",
-   "note": ""
-  },
-  {
-   "company": "Ace Hardware",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-28",
-   "days_until": -7,
-   "status": "open",
-   "url": "https://acehardware.wd1.myworkdayjobs.com/External/job/IL---Oak-Brook/IT-Associate-Software-Engineer-2027-Summer-Internship--Full-Time-Paid-12-weeks-_REQ-34797",
    "note": ""
   },
   {
@@ -5045,6 +5017,20 @@
   },
   {
    "company": "BlueCross BlueShield of Nebraska",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -65,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Michelin",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
    "precision": "day",
@@ -6271,6 +6257,20 @@
    "source": "engine",
    "expected": "2026-10-27",
    "days_until": -8,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Ace Hardware",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-28",
+   "days_until": -7,
    "status": "dropped",
    "url": "",
    "note": ""

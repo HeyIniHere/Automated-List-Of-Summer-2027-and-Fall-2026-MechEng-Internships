@@ -693,10 +693,11 @@
      "role_ids": [
       "workday:amat:/job/AustinTX/Summer-2027-Mechanical-Engineer-Intern--Bachelor-s--Austin--TX-_R2628093",
       "workday:amat:/job/AustinTX/XMLNAME-2027-Manufacturing-Engineer-Summer-Internship--Bachelors-Austin--TX-_R2626242",
+      "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineer-Intern--Master-s--Santa-Clara--CA-_R2630072",
       "workday:amat:/job/Santa-ClaraCA/Summer-2027-Industrial-Engineering-Intern--Bachelor-s--Santa-Clara--CA-_R2626710",
       "workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Software-Engineering-Intern--Masters---Santa-Clara--CA-_R2628265"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -3747,9 +3748,15 @@
       "smartrecruiters:LLNL:3743990016165496",
       "smartrecruiters:LLNL:3743990016165506",
       "smartrecruiters:LLNL:3743990016165586",
-      "smartrecruiters:LLNL:3743990016165636"
+      "smartrecruiters:LLNL:3743990016165636",
+      "smartrecruiters:LLNL:3743990016610101",
+      "smartrecruiters:LLNL:3743990016610186",
+      "smartrecruiters:LLNL:3743990016610216",
+      "smartrecruiters:LLNL:3743990016610426",
+      "smartrecruiters:LLNL:3743990016610436",
+      "smartrecruiters:LLNL:3743990016610446"
      ],
-     "count": 12
+     "count": 18
     }
    }
   },
@@ -3878,9 +3885,15 @@
       "smartrecruiters:llnl:3743990016165496",
       "smartrecruiters:llnl:3743990016165506",
       "smartrecruiters:llnl:3743990016165586",
-      "smartrecruiters:llnl:3743990016165636"
+      "smartrecruiters:llnl:3743990016165636",
+      "smartrecruiters:llnl:3743990016610101",
+      "smartrecruiters:llnl:3743990016610186",
+      "smartrecruiters:llnl:3743990016610216",
+      "smartrecruiters:llnl:3743990016610426",
+      "smartrecruiters:llnl:3743990016610436",
+      "smartrecruiters:llnl:3743990016610446"
      ],
-     "count": 11
+     "count": 17
     }
    }
   },
@@ -4609,7 +4622,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 88,
+     "count": 89,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4673,6 +4686,7 @@
       "workday:ngc:/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
+      "workday:ngc:/job/United-States-Maryland-Sykesville/XMLNAME-2027-S-W-Embedded-Engineering-Intern---Sykesville-MD_R10258553",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Industrial-Engineering-Intern_R10248838",
       "workday:ngc:/job/United-States-Mississippi-Iuka/XMLNAME-2027-Manufacturing-Engineer-Intern_R10251750-1",
       "workday:ngc:/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Intern---Morrisville-NC_R10253768",
@@ -7588,6 +7602,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-14",
      "role_ids": [
+      "workday:elkay:/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096",
       "workday:elkay:/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065",
       "workday:elkay:/job/Erie-PA/Product-Management-Intern---Summer-2027_REQ-020103-1",
       "workday:elkay:/job/Freeport-IL/Industrial-Engineering-Intern--Summer-2027-_REQ-020072",
@@ -7602,10 +7617,10 @@
       "workday:elkay:/job/Paso-Robles-CA/Mechanical-Engineering-Intern--Summer-2027-_REQ-020111",
       "workday:elkay:/job/Paso-Robles-CA/Product-Management-Intern--Summer-2027-_REQ-020109"
      ],
-     "count": 13
+     "count": 14
     }
    }
   }
  },
- "updated_at": "2026-11-04T00:04:20Z"
+ "updated_at": "2026-11-04T05:50:12Z"
 }

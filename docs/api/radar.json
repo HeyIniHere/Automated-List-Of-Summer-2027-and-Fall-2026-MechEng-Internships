@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T14:17:48Z",
+ "generated_at": "2026-11-04T21:20:04Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -29,6 +29,20 @@
    "days_until": -1149,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+   "note": ""
+  },
+  {
+   "company": "Vatic Investments",
+   "last_cycle_posted": "",
+   "posted_on": "2025-09-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2025-09-04",
+   "days_until": -426,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/vaticlabs/jobs/7205954",
    "note": ""
   },
   {
@@ -364,7 +378,21 @@
    "expected": "2026-07-27",
    "days_until": -100,
    "status": "open",
-   "url": "https://jobs.lever.co/nexuse-group/a284c926-1072-4dff-9e62-c07365503224",
+   "url": "https://jobs.lever.co/nexuse-group/fd0f60a1-bee2-4ff2-8d90-ef42d1fc033f",
+   "note": ""
+  },
+  {
+   "company": "Draper",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-28",
+   "days_until": -99,
+   "status": "open",
+   "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
    "note": ""
   },
   {
@@ -518,7 +546,7 @@
    "expected": "2026-08-13",
    "days_until": -83,
    "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26012375",
+   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
    "note": ""
   },
   {
@@ -813,6 +841,20 @@
    "days_until": -71,
    "status": "open",
    "url": "https://ibqbjb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/158088",
+   "note": ""
+  },
+  {
+   "company": "MetOx International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -71,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5471476008",
    "note": ""
   },
   {
@@ -1401,6 +1443,20 @@
    "days_until": -62,
    "status": "open",
    "url": "https://momentive.wd1.myworkdayjobs.com/MC/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
+   "note": ""
+  },
+  {
+   "company": "Saab",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-03",
+   "days_until": -62,
+   "status": "open",
+   "url": "https://saabusa.wd1.myworkdayjobs.com/saab_careers/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
    "note": ""
   },
   {
@@ -2440,6 +2496,20 @@
    "note": ""
   },
   {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -48,
+   "status": "open",
+   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
+   "note": ""
+  },
+  {
    "company": "X-energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -2465,6 +2535,20 @@
    "days_until": -48,
    "status": "open",
    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
+   "note": ""
+  },
+  {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
    "note": ""
   },
   {
@@ -4022,6 +4106,20 @@
    "note": ""
   },
   {
+   "company": "Bose",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-04",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-04",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4451,20 +4549,6 @@
    "source": "engine",
    "expected": "2026-07-20",
    "days_until": -107,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Draper",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-28",
-   "days_until": -99,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -4904,20 +4988,6 @@
    "note": ""
   },
   {
-   "company": "MetOx International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -71,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Verisk",
    "last_cycle_posted": "",
    "posted_on": "2026-08-26",
@@ -5157,20 +5227,6 @@
   },
   {
    "company": "POET",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-03",
-   "days_until": -62,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Saab",
    "last_cycle_posted": "",
    "posted_on": "2026-09-03",
    "precision": "day",
@@ -5646,20 +5702,6 @@
    "note": ""
   },
   {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -48,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Visa",
    "last_cycle_posted": "",
    "posted_on": "2026-09-17",
@@ -5669,20 +5711,6 @@
    "source": "engine",
    "expected": "2026-09-17",
    "days_until": -48,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -47,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -6332,5 +6360,5 @@
    "note": ""
   }
  ],
- "count": 452
+ "count": 454
 }

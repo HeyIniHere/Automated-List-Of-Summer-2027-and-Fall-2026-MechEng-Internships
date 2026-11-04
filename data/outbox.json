@@ -1,3 +1,29 @@
 {
-  "pending": []
+  "pending": [
+    "smartrecruiters:AECOM2:744000159722317",
+    "smartrecruiters:AECOM2:744000159722189",
+    "workday:badgermeter:/job/US---WI---Milwaukee-HQ/Firmware-Test-Engineer-Intern_4675",
+    "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Software-Engineering-Intern--Year-Round-_R2026-2448-1",
+    "workday:boseallaboutme:/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+    "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
+    "workday:centene:/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
+    "oracle:epyc.fa.us2.oraclecloud.com:168312",
+    "workday:cbrands:/job/Rochester-New-York/Intern--AI---Automation-Engineering_R-41655",
+    "workday:dtna:/job/Portland-OR-US/Manufacturing-Engineering-Co-op-Intern_DT-20544",
+    "workday:dtna:/job/Gaffney-SC-US/Mechatronics-Engineering-Intern---Powertrain-Integration_DT-20546-1",
+    "workday:draper:/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
+    "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027",
+    "greenhouse:metoxinternationalinc:5471476008",
+    "workday:microchiphr:/job/OR---Gresham/Intern--Data-Analyst-_R4441-26",
+    "workday:neogen:/job/Lexington-KY/Manufacturing-Internship--Sample-Collection-Solution-Prep-Optimization_REQ-11232",
+    "workday:niagarawater:/job/Dallas---Dallas-TX/Manufacturing-Intern---Texas_R56468",
+    "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321",
+    "workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
+    "workday:smithnephew:/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
+    "lever:tri:e7cc38d2-2b08-4349-b322-4d56cac9fb1b",
+    "greenhouse:vaticlabs:7205954",
+    "oracle:emit.fa.ca3.oraclecloud.com:98774",
+    "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
+    "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645"
+  ]
 }

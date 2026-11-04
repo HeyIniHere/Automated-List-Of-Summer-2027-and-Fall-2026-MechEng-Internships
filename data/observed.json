@@ -1173,6 +1173,18 @@
     }
    }
   },
+  "bose": {
+   "name": "Bose",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-04",
+     "role_ids": [
+      "workday:boseallaboutme:/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371"
+     ],
+     "count": 1
+    }
+   }
+  },
   "bot auto": {
    "name": "Bot Auto",
    "cycles": {
@@ -1328,11 +1340,12 @@
       "workday:caci:/job/Melbourne-FL-US/Manufacturing-Engineering-Intern---Summer-2027_332898",
       "workday:caci:/job/Oklahoma-City-OK-US/Software-Development-Intern---Summer-2027_333085",
       "workday:caci:/job/Omaha-NE-US/Software-Engineer-Intern---Summer-2027_332776",
+      "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -1436,6 +1449,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
+      "workday:centene:/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
       "workday:centene:/job/Remote-MO/AI-Design-Systems-Design-Intern--Master-s---Summer-2027-_1667737",
       "workday:centene:/job/Remote-MO/AI-Engineer-Intern--Undergraduate---Summer-2027-_1667739",
       "workday:centene:/job/Remote-MO/AI-Software-Developer-Intern--Undergraduate---Summer-2027-_1667710",
@@ -1443,7 +1457,7 @@
       "workday:centene:/job/Remote-MO/Cybersecurity-Summer-2027-Intern--Undergraduate-_1660514",
       "workday:centene:/job/Remote-MO/Portfolio-Data-Analyst-Intern--Undergraduate---Summer-2027-_1667733-1"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -1625,9 +1639,10 @@
       "oracle:epyc.fa.us2.oraclecloud.com:167236",
       "oracle:epyc.fa.us2.oraclecloud.com:167238",
       "oracle:epyc.fa.us2.oraclecloud.com:167555",
-      "oracle:epyc.fa.us2.oraclecloud.com:167672"
+      "oracle:epyc.fa.us2.oraclecloud.com:167672",
+      "oracle:epyc.fa.us2.oraclecloud.com:168312"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -2078,10 +2093,11 @@
      "first_posted": "2026-07-28",
      "role_ids": [
       "workday:draper:/job/Cambridge-MA/Classified-Cybersecurity-IT-Internship--Summer-2027-_JR003021",
+      "workday:draper:/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
       "workday:draper:/job/Cambridge-MA/Electronics---Embedded-Systems-Intern--Summer-2027-_JR002735",
       "workday:draper:/job/Cambridge-MA/Mechanical-Engineering---System-Packaging-Intern--Summer-2027-_JR002943"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3029,11 +3045,12 @@
      "first_posted": "2026-10-06",
      "role_ids": [
       "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J289812",
+      "workday:highmarkhealth:/job/PA-Working-at-Home---Pennsylvania/Summer-2027-Software-Engineer-enGen-Undergraduate-Intern_J290027",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Data-Analyst-Undergraduate-Intern_J288017",
       "workday:highmarkhealth:/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -4176,9 +4193,10 @@
      "first_posted": "2026-08-25",
      "role_ids": [
       "greenhouse:metoxinternationalinc:5405775008",
-      "greenhouse:metoxinternationalinc:5427064008"
+      "greenhouse:metoxinternationalinc:5427064008",
+      "greenhouse:metoxinternationalinc:5471476008"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4622,7 +4640,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 93,
+     "count": 94,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4712,6 +4730,7 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Software-Engineering-Intern-Dulles-VA_R10253731",
@@ -5820,6 +5839,7 @@
      "first_posted": "2026-09-03",
      "role_ids": [
       "workday:saabusa:/job/East-Syracuse-NY-Aspen-Park/Mechanical-Engineer-Co-Op--Summer-2027-_R-03261-1",
+      "workday:saabusa:/job/East-Syracuse-NY-Collamer/Co-Op--Information-Security--Spring---Summer-2027-_R-03409-1",
       "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineer-Co-Op--Summer-2027-_R-03264-1",
       "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Spring---Summer-2027-_R-03240-1",
       "workday:saabusa:/job/East-Syracuse-NY-Collamer/Software-Engineering-Co-Op--Summer-2027-_R-03237-1",
@@ -5827,7 +5847,7 @@
       "workday:saabusa:/job/West-Lafayette-IN/Manufacturing-Engineer--Summer-Intern-2027-_R-03234",
       "workday:saabusa:/job/West-Lafayette-IN/Mechanical-Engineer--Summer-Intern-2027-_R-03223"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -6245,6 +6265,7 @@
     "Summer 2027": {
      "first_posted": "2026-09-17",
      "role_ids": [
+      "workday:smithnephew:/job/Andover-MA/Intern-AI-Engineer-R-D_R92966",
       "workday:smithnephew:/job/Andover-MA/Intern-Agentic-AI-Software-Engineering_R92953",
       "workday:smithnephew:/job/Andover-MA/Intern-Computer-Vision-Software-Engineering_R92964",
       "workday:smithnephew:/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
@@ -6253,7 +6274,7 @@
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-AI-Center-of-Excellence-Data-Science_R92480-1",
       "workday:smithnephew:/job/US---Pittsburgh-PA/Intern-Robotics-Software-Engineering_R92482"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -6964,6 +6985,18 @@
     }
    }
   },
+  "vatic investments": {
+   "name": "Vatic Investments",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2025-09-04",
+     "role_ids": [
+      "greenhouse:vaticlabs:7205954"
+     ],
+     "count": 1
+    }
+   }
+  },
   "veolia": {
    "name": "Veolia",
    "cycles": {
@@ -7474,9 +7507,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:98213",
       "oracle:emit.fa.ca3.oraclecloud.com:98294",
       "oracle:emit.fa.ca3.oraclecloud.com:98372",
-      "oracle:emit.fa.ca3.oraclecloud.com:98461"
+      "oracle:emit.fa.ca3.oraclecloud.com:98461",
+      "oracle:emit.fa.ca3.oraclecloud.com:98774"
      ],
-     "count": 55
+     "count": 56
     }
    }
   },
@@ -7550,11 +7584,13 @@
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103625",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103626",
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103638",
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103645",
+      "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
      ],
-     "count": 9
+     "count": 11
     }
    }
   },
@@ -7626,5 +7662,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T14:17:43Z"
+ "updated_at": "2026-11-04T21:19:57Z"
 }

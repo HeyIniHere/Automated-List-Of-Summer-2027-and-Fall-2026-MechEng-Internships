@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04T05:50:18Z",
+ "generated_at": "2026-11-04T14:17:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2212,7 +2212,7 @@
    "expected": "2026-09-14",
    "days_until": -51,
    "status": "open",
-   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/Product-Management-Intern---Summer-2027_REQ-020065",
+   "url": "https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Downers-Grove-IL/CY27-Intern---Mechanical---HVAC-Refrigeration-Engineer_REQ-020096",
    "note": ""
   },
   {
@@ -2437,20 +2437,6 @@
    "days_until": -48,
    "status": "open",
    "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Boise-ID/Data-Science-Intern--BS---Summer-2027_2603782",
-   "note": ""
-  },
-  {
-   "company": "Smith+Nephew",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-17",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-17",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://smithnephew.wd5.myworkdayjobs.com/External/job/Andover-MA/Intern-Embedded-Software-Engineering_R92952",
    "note": ""
   },
   {
@@ -5655,6 +5641,20 @@
    "source": "engine",
    "expected": "2026-09-16",
    "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Smith+Nephew",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -48,
    "status": "dropped",
    "url": "",
    "note": ""

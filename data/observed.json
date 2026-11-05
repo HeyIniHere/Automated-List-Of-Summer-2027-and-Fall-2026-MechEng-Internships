@@ -4640,7 +4640,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 94,
+     "count": 96,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4651,6 +4651,7 @@
       "workday:ngc:/job/United-States-Arizona-Chandler/XMLNAME-2027-Mechanical-Engineering-Intern---Chandler-AZ_R10254534",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Design-Intern---Gilbert-AZ_R10258156",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258213-1",
+      "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214",
       "workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Structural-Engineer-Intern---Gilbert-AZ_R10258208",
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
@@ -4662,6 +4663,7 @@
       "workday:ngc:/job/United-States-California-Palmdale/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10244597",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural---Electromechanical-Engineer-Intern---Redondo-Beach-CA_R10257211",
+      "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391",
       "workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-mechanical-Engineer-Intern--Redondo-Beach-CA_R10258669",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Intern-Product-Support---Data-Scientist_R10258679",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Manufacturing-Engineer-Intern---San-Diego-CA_R10255134",
@@ -6834,9 +6836,10 @@
      "first_posted": "2026-10-26",
      "role_ids": [
       "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
-      "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424"
+      "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424",
+      "lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -7662,5 +7665,5 @@
    }
   }
  },
- "updated_at": "2026-11-04T21:19:57Z"
+ "updated_at": "2026-11-05T02:12:29Z"
 }

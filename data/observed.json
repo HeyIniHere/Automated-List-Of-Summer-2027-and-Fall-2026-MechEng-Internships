@@ -2318,13 +2318,14 @@
     "Summer 2027": {
      "first_posted": "2026-10-01",
      "role_ids": [
+      "workday:rb:/job/Atlanta-GA/XMLNAME-2027-Summer-Internship-Program---Information-Security-Intern_R-0000033910",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Computer-Science-and-Software-Engineering_R-0000033637",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Cybersecurity-and-Information-Security_R-0000033612-1",
       "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
       "workday:rb:/job/Cleveland-OH/TS---Application-Security-Intern---2027_R-0000033625",
       "workday:rb:/job/Dallas-TX/XMLNAME-2027-Intern---Mac-Mobile_R-0000033714"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -3536,9 +3537,10 @@
      "role_ids": [
       "workday:jabil:/job/Austin-TX/AI-Transformation-Intern_J2466044",
       "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
-      "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367"
+      "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+      "workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -3568,10 +3570,11 @@
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Data-Engineer-Intern_JR105120",
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105158",
       "workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105182",
+      "workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
       "workday:jmfamily:/job/Florida---Jacksonville/Advance-Manufacturing-Engineering-Intern_JR105079",
       "workday:jmfamily:/job/Florida---Jacksonville/Industrial-Engineering-Intern_JR105189"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -4186,6 +4189,18 @@
     }
    }
   },
+  "metalenz": {
+   "name": "Metalenz",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-21",
+     "role_ids": [
+      "ashby:metalenz:979c12dd-e71a-41b5-9c5f-a0d7204a22f6"
+     ],
+     "count": 1
+    }
+   }
+  },
   "metox international": {
    "name": "MetOx International",
    "cycles": {
@@ -4212,9 +4227,10 @@
       "oracle:ebxs.fa.us2.oraclecloud.com:309901",
       "oracle:ebxs.fa.us2.oraclecloud.com:309902",
       "oracle:ebxs.fa.us2.oraclecloud.com:309903",
-      "oracle:ebxs.fa.us2.oraclecloud.com:310073"
+      "oracle:ebxs.fa.us2.oraclecloud.com:310073",
+      "oracle:ebxs.fa.us2.oraclecloud.com:310162"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -4490,6 +4506,18 @@
       "greenhouse:nationallifeinsurancecompany:4449670009"
      ],
      "count": 2
+    }
+   }
+  },
+  "nbcuniversal": {
+   "name": "NBCUniversal",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "smartrecruiters:NBCUniversal3:744000159947792"
+     ],
+     "count": 1
     }
    }
   },
@@ -6105,12 +6133,14 @@
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:621d736b-5ae1-4d62-8f05-088753318d29",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:661d7ac4-51df-454d-82c8-2a0d94852036",
+      "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:a28e047a-ee12-452c-883b-ecd995d1b6b2",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shieldai:621d736b-5ae1-4d62-8f05-088753318d29",
       "ashby:shieldai:661d7ac4-51df-454d-82c8-2a0d94852036",
+      "ashby:shieldai:a28e047a-ee12-452c-883b-ecd995d1b6b2",
       "ashby:shieldai:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:shieldai:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "lever:shieldai:1be0e71a-cf7f-4966-8532-09e6f40bb9dc",
@@ -6119,9 +6149,10 @@
       "lever:shieldai:ac38d092-f435-4301-880b-48d0e92679a4",
       "lever:shieldai:bc41648b-c201-4b01-8feb-d228cbfdd875",
       "lever:shieldai:c41c41a2-83d8-41a0-8a3b-ff8b84dc1c8a",
-      "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc"
+      "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
+      "lever:shieldai:db8fc063-8856-4404-991c-f287712de949"
      ],
-     "count": 19
+     "count": 22
     }
    }
   },
@@ -6168,10 +6199,11 @@
       "workday:snc:/job/Southern-Pines-NC/Software-Engineer-Intern--Summer-2027-_R0031230",
       "workday:snc:/job/Southern-Pines-NC/Software-Engineering-Intern--Summer-2027-_R0030759",
       "workday:snc:/job/Sparks-NV/Data-Science-Intern--Summer-2027-_R0031257",
+      "workday:snc:/job/Sparks-NV/Firmware-Engineer-Intern--Summer-2027-_R0031233",
       "workday:snc:/job/Sparks-NV/Manufacturing-Engineer-Intern--Summer-2027-_R0031241",
       "workday:snc:/job/Sparks-NV/Software-Engineering-Intern--Summer-2027-_R0030760"
      ],
-     "count": 27
+     "count": 28
     },
     "Fall 2026": {
      "first_posted": "2026-09-23",
@@ -7678,5 +7710,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T10:45:22Z"
+ "updated_at": "2026-11-05T18:43:22Z"
 }

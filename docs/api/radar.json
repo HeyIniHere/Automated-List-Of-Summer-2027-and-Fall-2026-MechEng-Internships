@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T10:45:28Z",
+ "generated_at": "2026-11-05T18:43:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1264,6 +1264,20 @@
    "note": ""
   },
   {
+   "company": "Michael Baker International",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -65,
+   "status": "open",
+   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310162",
+   "note": ""
+  },
+  {
    "company": "Mondelez International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -2090,6 +2104,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -55,
+   "status": "open",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1",
+   "note": ""
+  },
+  {
    "company": "Klaviyo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2310,7 +2338,7 @@
    "expected": "2026-09-15",
    "days_until": -51,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
    "note": ""
   },
   {
@@ -2493,20 +2521,6 @@
    "days_until": -49,
    "status": "open",
    "url": "https://zekelman.wd12.myworkdayjobs.com/Careers/job/Blytheville-AR---Atlas/Intern--Industrial-Engineer_JR002764",
-   "note": ""
-  },
-  {
-   "company": "Centene",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-18",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-18",
-   "days_until": -48,
-   "status": "open",
-   "url": "https://centene.wd5.myworkdayjobs.com/Centene_External/job/Remote-MO/AI-Business-Strategy-Intern--Undergraduate-Summer-2027-_1667703-1",
    "note": ""
   },
   {
@@ -3126,6 +3140,20 @@
    "note": ""
   },
   {
+   "company": "S&C Electric Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -29,
+   "status": "open",
+   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
+   "note": ""
+  },
+  {
    "company": "State Affairs",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -3588,6 +3616,20 @@
    "note": ""
   },
   {
+   "company": "Metalenz",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -15,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/metalenz/979c12dd-e71a-41b5-9c5f-a0d7204a22f6",
+   "note": ""
+  },
+  {
    "company": "OneEthos",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -4047,6 +4089,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+   "note": ""
+  },
+  {
+   "company": "NBCUniversal",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/NBCUniversal3/744000159947792",
    "note": ""
   },
   {
@@ -5114,20 +5170,6 @@
    "note": ""
   },
   {
-   "company": "Michael Baker International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -65,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Texas Instruments",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -5492,20 +5534,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -55,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -5697,6 +5725,20 @@
    "source": "engine",
    "expected": "2026-09-17",
    "days_until": -49,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Centene",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-18",
+   "days_until": -48,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -6108,20 +6150,6 @@
    "note": ""
   },
   {
-   "company": "S&C Electric Company",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -29,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Jones Lang LaSalle (JLL)",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -6374,5 +6402,5 @@
    "note": ""
   }
  ],
- "count": 455
+ "count": 457
 }

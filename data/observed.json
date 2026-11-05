@@ -5070,6 +5070,19 @@
     }
    }
   },
+  "paypal": {
+   "name": "PayPal",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:paypal:/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
+      "workday:paypal:/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581"
+     ],
+     "count": 2
+    }
+   }
+  },
   "pdt partners": {
    "name": "PDT Partners",
    "cycles": {
@@ -7665,5 +7678,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T02:12:29Z"
+ "updated_at": "2026-11-05T10:45:22Z"
 }

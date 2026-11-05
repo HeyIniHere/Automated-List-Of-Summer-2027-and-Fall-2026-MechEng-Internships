@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-05T02:12:33Z</updated>
+  <updated>2026-11-05T10:45:28Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:paypal:/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582</id>
+    <title>PayPal: Data Scientist Intern - Summer 2027 🛂</title>
+    <link href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582"/>
+    <updated>2026-11-05T10:45:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Jose, California, United States of America · Python, SQL, Tableau · sponsorship: no-sponsorship · H-1B track record: ~1.2k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:paypal:/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581</id>
+    <title>PayPal: Machine Learning Engineer Intern - Summer 2027 🛂</title>
+    <link href="https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer-Intern---Summer-2027_R0138581"/>
+    <updated>2026-11-05T10:45:22Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · San Jose, California, United States of America · Python, Java, C++, TensorFlow, scikit-learn · sponsorship: no-sponsorship · H-1B track record: ~1.2k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:17acdd1f-f234-4a30-a313-34be94a1adcd</id>
+    <title>Toyota Research Institute: Robotics Research Intern, Manipulation</title>
+    <link href="https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd"/>
+    <updated>2026-11-05T02:12:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Los Altos, CA · $65/hr · Python, C++, LLMs, Computer Vision, ROS · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e</id>
+    <title>Toyota Research Institute: Human-Centered AI Research Intern, Human Language Models</title>
+    <link href="https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"/>
+    <updated>2026-11-05T02:12:29Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567</id>
     <title>ASML: Internship -  Machine Learning and image-based EUV system setup</title>
@@ -64,14 +96,6 @@
     <summary>Not stated · Hardware · Schaumburg, IL · $24–$27/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391</id>
-    <title>Northrop Grumman: 2027 Structural Dynamics Engineer Intern - Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-California-Redondo Beach · $21.5–$39/hr · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214</id>
     <title>Northrop Grumman: 2027 Mechanical Engineer Intern- Gilbert AZ 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214"/>
@@ -80,20 +104,12 @@
     <summary>Summer 2027 · Hardware · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e</id>
-    <title>Toyota Research Institute: Human-Centered AI Research Intern, Human Language Models</title>
-    <link href="https://jobs.lever.co/tri/d4184c04-b963-489a-9a0b-91bc57d6267e"/>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391</id>
+    <title>Northrop Grumman: 2027 Structural Dynamics Engineer Intern - Redondo Beach CA 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391"/>
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:17acdd1f-f234-4a30-a313-34be94a1adcd</id>
-    <title>Toyota Research Institute: Robotics Research Intern, Manipulation</title>
-    <link href="https://jobs.lever.co/tri/17acdd1f-f234-4a30-a313-34be94a1adcd"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Los Altos, CA · $65/hr · Python, C++, LLMs, Computer Vision, ROS · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Hardware · United States-California-Redondo Beach · $21.5–$39/hr · MATLAB · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:metoxinternationalinc:5471476008</id>
@@ -616,28 +632,12 @@
     <summary>Summer 2027 · Software · San Jose, California (Hybrid)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:samsungresearchamericainternship:8926019002</id>
-    <title>Samsung Research America: 2027 Spring/Summer Intern, Agentic AI Solutions</title>
-    <link href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002"/>
-    <updated>2026-11-03T18:28:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · 665 Clyde Avenue, Mountain View,  CA, USA · Python, Java, PyTorch, TensorFlow, LLMs · H-1B track record: ~98 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:greenhouse:thenewyorktimes:4750496005</id>
     <title>The New York Times: Advertising Business Data Analyst Intern</title>
     <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4750496005"/>
     <updated>2026-11-03T18:28:08Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · New York, NY · SQL, LLMs, Tableau · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:egug.fa.us2.oraclecloud.com:26015722</id>
-    <title>American Express: Campus Undergraduate Summer Internship Program - 2027 Software Engineer, Enterprise Technology Services- Sunnyvale, CA</title>
-    <link href="https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722"/>
-    <updated>2026-11-03T18:28:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Sunnyvale, CA, United States · Python, Java, C#, Go, TypeScript · H-1B track record: ~133 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:Loram1:3743990016593745</id>

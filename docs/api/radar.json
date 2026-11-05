@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05T02:12:33Z",
+ "generated_at": "2026-11-05T10:45:28Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -519,20 +519,6 @@
    "days_until": -85,
    "status": "open",
    "url": "https://globalhr.wd5.myworkdayjobs.com/rec_rtx_ext_gateway/job/US-CO-COLORADO-SPRINGS-1275--1275-N-Newport-Rd--NEWPORT/Mechanical-Design-Engineering-Intern--Summer-2027-_01873545",
-   "note": ""
-  },
-  {
-   "company": "American Express",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-13",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-13",
-   "days_until": -84,
-   "status": "open",
-   "url": "https://egug.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26015722",
    "note": ""
   },
   {
@@ -3140,20 +3126,6 @@
    "note": ""
   },
   {
-   "company": "S&C Electric Company",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -29,
-   "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107465",
-   "note": ""
-  },
-  {
    "company": "State Affairs",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
@@ -4060,7 +4032,7 @@
    "expected": "2026-11-03",
    "days_until": -2,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8926019002",
+   "url": "https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002",
    "note": ""
   },
   {
@@ -4075,6 +4047,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://boseallaboutme.wd503.myworkdayjobs.com/Bose_Careers/job/US-MA---Framingham/DSP-ML-Research-Engineer-Intern---Summer-2027_R29371",
+   "note": ""
+  },
+  {
+   "company": "PayPal",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://paypal.wd1.myworkdayjobs.com/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist-Intern---Summer-2027_R0138582",
    "note": ""
   },
   {
@@ -4689,6 +4675,20 @@
    "source": "engine",
    "expected": "2026-08-11",
    "days_until": -86,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "American Express",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-13",
+   "days_until": -84,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -6108,6 +6108,20 @@
    "note": ""
   },
   {
+   "company": "S&C Electric Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Jones Lang LaSalle (JLL)",
    "last_cycle_posted": "",
    "posted_on": "2026-10-08",
@@ -6360,5 +6374,5 @@
    "note": ""
   }
  ],
- "count": 454
+ "count": 455
 }

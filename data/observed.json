@@ -171,6 +171,7 @@
       "workday:aero:/job/Chantilly-VA/XMLNAME-2027-Software-Implementation-and-Integration-Undergrad-Cleared-Intern_R016740",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Aerospace-Software-Engineer-Undergraduate-Intern_R016605",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Defensive-Cyber-Operations-Undergrad-Intern_R017011",
+      "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Undergraduate-Intern_R016671",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Software-Tools-and-Assurance-Engineering-Grad-Intern_R016753",
@@ -178,7 +179,7 @@
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Dynamics-Undergraduate-Intern_R016668",
       "workday:aero:/job/El-Segundo-CA/XMLNAME-2027-Structural-Mechanics-Undergraduate-Intern_R016763"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -2544,6 +2545,18 @@
     }
    }
   },
+  "galaxy": {
+   "name": "Galaxy",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "greenhouse:galaxydigitalservices:6250002004"
+     ],
+     "count": 1
+    }
+   }
+  },
   "garda capital partners": {
    "name": "Garda Capital Partners",
    "cycles": {
@@ -2674,6 +2687,7 @@
       "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
+      "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
@@ -2697,7 +2711,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
      ],
-     "count": 25
+     "count": 26
     }
    }
   },
@@ -4075,6 +4089,22 @@
       "workday:mastercard:/job/OFallon-Missouri/Product-Management-Intern--Summer-2027---St-Louis--MO--US-_R-287625-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "match group": {
+   "name": "Match Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "lever:matchgroup:54a814d1-9a73-43d7-a266-c933ffd99ce3",
+      "lever:matchgroup:573621f6-9931-4e39-840a-1d04171be2ff",
+      "lever:matchgroup:860a839a-5be3-44dc-916f-eb2e71d67d72",
+      "lever:matchgroup:cda906dd-c02a-4bbc-b533-1636d58958ef",
+      "lever:matchgroup:f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d"
+     ],
+     "count": 5
     }
    }
   },
@@ -7767,5 +7797,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T06:35:20Z"
+ "updated_at": "2026-11-06T15:00:34Z"
 }

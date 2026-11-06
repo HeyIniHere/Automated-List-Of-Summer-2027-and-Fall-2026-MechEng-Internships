@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T06:35:27Z",
+ "generated_at": "2026-11-06T15:00:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -4092,6 +4092,34 @@
    "note": ""
   },
   {
+   "company": "Galaxy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
+   "note": ""
+  },
+  {
+   "company": "Match Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -6458,5 +6486,5 @@
    "note": ""
   }
  ],
- "count": 461
+ "count": 463
 }

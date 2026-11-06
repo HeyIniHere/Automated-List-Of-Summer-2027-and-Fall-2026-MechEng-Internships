@@ -5,8 +5,64 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-06T00:08:12Z</updated>
+  <updated>2026-11-06T06:35:27Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:lever:tri:11da7518-14d4-4960-a3aa-57dc010f3642</id>
+    <title>Toyota Research Institute: Robotics Intern, Human-Robot Interaction</title>
+    <link href="https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Cambridge, MA · $58/hr · Python, C++, ROS · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:tri:8955d154-acfc-4e6b-a68c-14f1438034c9</id>
+    <title>Toyota Research Institute: Robotics Intern, Mechanical Engineering</title>
+    <link href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Cambridge, MA · $58/hr · Python, C++, MATLAB · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded</id>
+    <title>Zoox: Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Foster City, CA · Python, SQL · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877</id>
+    <title>Zoox: Software Engineer Intern, Autonomy Software [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Foster City, CA · Python, C++, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:88f6cb68-1534-44af-80db-10e43c203520</id>
+    <title>Zoox: Software Engineer Intern, Software Platforms &amp; Product [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Foster City, CA · Java, C++, Swift, Kotlin, Linux · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20</id>
+    <title>Zoox: Software Engineer Intern, Software Systems [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Foster City, CA · Python, C++, Git · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008748</id>
+    <title>Stantec: Structural Engineering Intern</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Chicago, IL, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship--Mechatronics-Engineer_J-00356535</id>
     <title>ASML: Internship -Mechatronics Engineer</title>
@@ -56,36 +112,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Working Remote USA · $21/hr · Python, SQL, Tableau</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1008748</id>
-    <title>Stantec: Structural Engineering Intern</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008748"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Chicago, IL, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650</id>
     <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
     <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650"/>
     <updated>2026-11-06T00:08:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Atlanta, Georgia · $27/hr · Git · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:11da7518-14d4-4960-a3aa-57dc010f3642</id>
-    <title>Toyota Research Institute: Robotics Intern, Human-Robot Interaction</title>
-    <link href="https://jobs.lever.co/tri/11da7518-14d4-4960-a3aa-57dc010f3642"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cambridge, MA · $58/hr · Python, C++, ROS · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:8955d154-acfc-4e6b-a68c-14f1438034c9</id>
-    <title>Toyota Research Institute: Robotics Intern, Mechanical Engineering</title>
-    <link href="https://jobs.lever.co/tri/8955d154-acfc-4e6b-a68c-14f1438034c9"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cambridge, MA · $58/hr · Python, C++, MATLAB · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tranetechnologies:/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684</id>
@@ -96,25 +128,17 @@
     <summary>Not stated · Hardware · La Crosse, Wisconsin</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024</id>
+    <title>Western Alliance: Summer 2027 Internship - Columbus, OH - Platform Engineering</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024"/>
+    <updated>2026-11-06T00:08:06Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Columbus, OH · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019</id>
     <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
     <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023</id>
-    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021</id>
-    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021"/>
     <updated>2026-11-06T00:08:06Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
@@ -128,44 +152,20 @@
     <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024</id>
-    <title>Western Alliance: Summer 2027 Internship - Columbus, OH - Platform Engineering</title>
-    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024"/>
+    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021</id>
+    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021"/>
     <updated>2026-11-06T00:08:06Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Columbus, OH · H-1B track record: ~59 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded</id>
-    <title>Zoox: Hardware Engineer Intern, Manufacturing Operations [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/53f5297a-fe30-4e1e-ab1c-96db5b23eded"/>
+    <id>urn:intern-engine:workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023</id>
+    <title>Western Alliance: Summer 2027 Internship - Dallas, TX - Platform Engineering</title>
+    <link href="https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023"/>
     <updated>2026-11-06T00:08:06Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Foster City, CA · Python, SQL · H-1B track record: ~280 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877</id>
-    <title>Zoox: Software Engineer Intern, Autonomy Software [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/7b20b929-d9a4-4995-a472-16cd4925a877"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Foster City, CA · Python, C++, PyTorch, TensorFlow, Computer Vision · H-1B track record: ~280 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:zoox:88f6cb68-1534-44af-80db-10e43c203520</id>
-    <title>Zoox: Software Engineer Intern, Software Platforms &amp; Product [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/88f6cb68-1534-44af-80db-10e43c203520"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Foster City, CA · Java, C++, Swift, Kotlin, Linux · H-1B track record: ~280 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20</id>
-    <title>Zoox: Software Engineer Intern, Software Systems [Summer 2027]</title>
-    <link href="https://jobs.lever.co/zoox/8b32157b-ab44-4078-85ea-1d8d7b747a20"/>
-    <updated>2026-11-06T00:08:06Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Foster City, CA · Python, C++, Git · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Dallas, TX · H-1B track record: ~59 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:a28e047a-ee12-452c-883b-ecd995d1b6b2</id>
@@ -232,22 +232,6 @@
     <summary>Summer 2027 · Software · San Francisco, CALIFORNIA, United States · $19.61/hr · H-1B track record: ~105 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:RRDonnelley:744000159883479</id>
-    <title>RR Donnelley: IT Software Integration &amp; Automation Summer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RRDonnelley/744000159883479"/>
-    <updated>2026-11-05T18:43:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Minneapolis, MN, United States · $24/hr · Python, Java, JavaScript, Spring</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:RRDonnelley:744000159883639</id>
-    <title>RR Donnelley: Software Developer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/RRDonnelley/744000159883639"/>
-    <updated>2026-11-05T18:43:22Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Warrenville, IL, United States · $24/hr · C#, SQL, .NET</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:borgwarner:/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400</id>
     <title>BorgWarner: Manufacturing Execution System Intern</title>
     <link href="https://borgwarner.wd5.myworkdayjobs.com/BorgWarner_Careers/job/Hendersonville---North-Carolina---USA/Manufacturing-Execution-System-Intern_R2026-4400"/>
@@ -294,14 +278,6 @@
     <updated>2026-11-05T18:43:22Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Detroit, MI</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1</id>
-    <title>Jabil: Mechanical Engineering Intern</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"/>
-    <updated>2026-11-05T18:43:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · St. Petersburg/Tampa, FL · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:jmfamily:/job/Florida---Deerfield-Beach/Software-Analyst-Intern_JR105187</id>
@@ -806,5 +782,29 @@
     <updated>2026-11-04T00:04:20Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Austin, TX · Python, Java, React, AWS, Terraform · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:roboforce:5470001008</id>
+    <title>RoboForce: Machine Learning Engineer Intern, AI &amp; Robotics</title>
+    <link href="https://job-boards.greenhouse.io/roboforce/jobs/5470001008"/>
+    <updated>2026-11-04T00:04:20Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Data &amp; ML/AI · Milpitas, CA · PyTorch, TensorFlow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:samsungresearchamericainternship:8927216002</id>
+    <title>Samsung Research America: 2027 Summer Intern, Generative AI based Imaging and Video R&amp;D</title>
+    <link href="https://job-boards.greenhouse.io/samsungresearchamericainternship/jobs/8927216002"/>
+    <updated>2026-11-04T00:04:20Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · 6105 Tennyson Pkwy, Suite 300, Plano TX 75024 · LLMs, Computer Vision · H-1B track record: ~98 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:usafacts:4478239009</id>
+    <title>USAFacts: AI Product Intern</title>
+    <link href="https://job-boards.greenhouse.io/usafacts/jobs/4478239009"/>
+    <updated>2026-11-04T00:04:20Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Bellevue, WA · $33/hr · Python, LLMs</summary>
   </entry>
 </feed>

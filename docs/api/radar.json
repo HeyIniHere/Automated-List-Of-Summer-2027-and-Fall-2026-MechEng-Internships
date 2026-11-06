@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T00:08:12Z",
+ "generated_at": "2026-11-06T06:35:27Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1218,7 +1218,7 @@
    "expected": "2026-09-01",
    "days_until": -66,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
    "note": ""
   },
   {
@@ -2104,20 +2104,6 @@
    "note": ""
   },
   {
-   "company": "Jabil",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1",
-   "note": ""
-  },
-  {
    "company": "Klaviyo",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2339,20 +2325,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/covar/jobs/5240360007",
-   "note": ""
-  },
-  {
-   "company": "Duracell",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-16",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-16",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_26/job/1399",
    "note": ""
   },
   {
@@ -2944,20 +2916,6 @@
    "note": ""
   },
   {
-   "company": "Astronics",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-05",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-05",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/astronicscorporation/jobs/4430399009",
-   "note": ""
-  },
-  {
    "company": "Hitachi Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -3066,7 +3024,7 @@
    "expected": "2026-10-06",
    "days_until": -31,
    "status": "open",
-   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-FAP-5th-Avenue-Place/Summer-2027-Artificial-Intelligence--Operations--Undergraduate-Intern_J287476",
+   "url": "https://highmarkhealth.wd1.myworkdayjobs.com/highmark/job/Pittsburgh-PA-15222-PAP-Penn-Avenue-Place/Summer-2027-Data-Analyst-enGen-Undergraduate-Intern_J286826",
    "note": ""
   },
   {
@@ -3137,20 +3095,6 @@
    "days_until": -30,
    "status": "open",
    "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
-   "note": ""
-  },
-  {
-   "company": "State Affairs",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/stateaffairs/jobs/4437430009",
    "note": ""
   },
   {
@@ -3402,7 +3346,7 @@
    "expected": "2026-10-15",
    "days_until": -22,
    "status": "open",
-   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
+   "url": "https://tmobile.wd1.myworkdayjobs.com/External/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
    "note": ""
   },
   {
@@ -3906,7 +3850,7 @@
    "expected": "2026-10-30",
    "days_until": -7,
    "status": "open",
-   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167",
+   "url": "https://astrazeneca.wd3.myworkdayjobs.com/Careers/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
    "note": ""
   },
   {
@@ -4144,7 +4088,7 @@
    "expected": "2026-11-05",
    "days_until": -1,
    "status": "open",
-   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
+   "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024",
    "note": ""
   },
   {
@@ -5562,6 +5506,20 @@
    "note": ""
   },
   {
+   "company": "Jabil",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -5703,6 +5661,20 @@
   },
   {
    "company": "Cartesian",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-16",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Duracell",
    "last_cycle_posted": "",
    "posted_on": "2026-09-16",
    "precision": "day",
@@ -6108,6 +6080,20 @@
    "note": ""
   },
   {
+   "company": "Astronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-05",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "LexisNexis Risk Solutions",
    "last_cycle_posted": "",
    "posted_on": "2026-10-05",
@@ -6179,6 +6165,20 @@
   },
   {
    "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "State Affairs",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
    "precision": "day",

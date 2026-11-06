@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06T15:00:38Z",
+ "generated_at": "2026-11-06T20:54:47Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -994,7 +994,7 @@
    "expected": "2026-08-27",
    "days_until": -71,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/043c739e-ff80-4faa-b2be-5d1e96768dfa",
+   "url": "https://jobs.ashbyhq.com/f7d8749a-72d6-407c-bf98-292ea630c73a/661d7ac4-51df-454d-82c8-2a0d94852036",
    "note": ""
   },
   {
@@ -1162,7 +1162,7 @@
    "expected": "2026-08-31",
    "days_until": -67,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/sierra/34b31b67-268c-4270-b48f-72e59064c96e",
+   "url": "https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e",
    "note": ""
   },
   {
@@ -1218,7 +1218,7 @@
    "expected": "2026-09-01",
    "days_until": -66,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
    "note": ""
   },
   {
@@ -1373,20 +1373,6 @@
    "days_until": -65,
    "status": "open",
    "url": "https://alliedsolutions.wd501.myworkdayjobs.com/Allied_External/job/St-Paul-MN/Product-Management-Intern---Risk-Management_R-011083",
-   "note": ""
-  },
-  {
-   "company": "McKesson",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-02",
-   "days_until": -65,
-   "status": "open",
-   "url": "https://mckesson.wd3.myworkdayjobs.com/External_Careers/job/USA-CO-Longmont/Software-Engineer-Intern---Summer-2027_JR0152742",
    "note": ""
   },
   {
@@ -1778,7 +1764,7 @@
    "expected": "2026-09-08",
    "days_until": -59,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/talos-trading/2c833180-484f-4657-80e3-f822cf1a0285",
+   "url": "https://jobs.ashbyhq.com/Talos-Trading/2c833180-484f-4657-80e3-f822cf1a0285",
    "note": ""
   },
   {
@@ -2296,7 +2282,7 @@
    "expected": "2026-09-15",
    "days_until": -52,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Flight-Loads-Structural-Dynamics-Graduate-Intern_R016755",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
    "note": ""
   },
   {
@@ -4050,6 +4036,20 @@
    "note": ""
   },
   {
+   "company": "Lumbermen's",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-05",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-05",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/lumbermens/jobs/5474347008",
+   "note": ""
+  },
+  {
    "company": "NBCUniversal",
    "last_cycle_posted": "",
    "posted_on": "2026-11-05",
@@ -4106,6 +4106,34 @@
    "note": ""
   },
   {
+   "company": "L.L.Bean",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264",
+   "note": ""
+  },
+  {
+   "company": "Marmon Holdings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903",
+   "note": ""
+  },
+  {
    "company": "Match Group",
    "last_cycle_posted": "",
    "posted_on": "2026-11-06",
@@ -4116,7 +4144,21 @@
    "expected": "2026-11-06",
    "days_until": 0,
    "status": "open",
-   "url": "https://jobs.lever.co/matchgroup/f0e29495-4dd2-4bc5-9ceb-31d36f0b5a9d",
+   "url": "https://jobs.lever.co/matchgroup/54a814d1-9a73-43d7-a266-c933ffd99ce3",
+   "note": ""
+  },
+  {
+   "company": "Ryder System",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897",
    "note": ""
   },
   {
@@ -5199,6 +5241,20 @@
   },
   {
    "company": "HD Supply",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-02",
+   "days_until": -65,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "McKesson",
    "last_cycle_posted": "",
    "posted_on": "2026-09-02",
    "precision": "day",
@@ -6486,5 +6542,5 @@
    "note": ""
   }
  ],
- "count": 463
+ "count": 467
 }

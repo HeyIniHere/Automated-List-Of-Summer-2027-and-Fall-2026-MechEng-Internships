@@ -156,9 +156,10 @@
       "smartrecruiters:AECOM2:744000155595329",
       "smartrecruiters:AECOM2:744000157611879",
       "smartrecruiters:AECOM2:744000157611929",
-      "smartrecruiters:AECOM2:744000158171520"
+      "smartrecruiters:AECOM2:744000158171520",
+      "smartrecruiters:AECOM2:744000160245149"
      ],
-     "count": 21
+     "count": 22
     }
    }
   },
@@ -3790,6 +3791,20 @@
     }
    }
   },
+  "l l bean": {
+   "name": "L.L.Bean",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:llbean:/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275",
+      "workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264",
+      "workday:llbean:/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1"
+     ],
+     "count": 3
+    }
+   }
+  },
   "lawrence livermore national laboratory llnl": {
    "name": "Lawrence Livermore National Laboratory (LLNL)",
    "cycles": {
@@ -4006,6 +4021,18 @@
     }
    }
   },
+  "lumbermen s": {
+   "name": "Lumbermen's",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:lumbermens:5474347008"
+     ],
+     "count": 1
+    }
+   }
+  },
   "lyft": {
    "name": "Lyft",
    "cycles": {
@@ -4045,6 +4072,18 @@
      "first_posted": "2026-10-02",
      "role_ids": [
       "workday:sterlingmets:/job/Citi-Field--Queens-New-York/Intern--Data-Science_R1508"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "marmon holdings": {
+   "name": "Marmon Holdings",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"
      ],
      "count": 1
     }
@@ -4631,9 +4670,14 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
-      "greenhouse:thenewyorktimes:4748461005"
+      "greenhouse:thenewyorktimes:4748461005",
+      "greenhouse:thenewyorktimes:4751907005",
+      "greenhouse:thenewyorktimes:4751909005",
+      "greenhouse:thenewyorktimes:4751917005",
+      "greenhouse:thenewyorktimes:4751919005",
+      "greenhouse:thenewyorktimes:4751973005"
      ],
-     "count": 1
+     "count": 6
     }
    }
   },
@@ -4862,9 +4906,11 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
-      "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c"
+      "ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947",
+      "ashby:notion:3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c",
+      "ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -5847,6 +5893,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01879738",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882137",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-130--5350-C-Ave-NE--BLDG-130/Software-Engineering-Co-op--Summer-Fall-2027-_01882414",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op---Summer-Fall-2027-_01871480",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01871645",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Software-Engineering-Co-op--Spring-Summer-2027-_01878369",
@@ -5871,7 +5918,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 71
+     "count": 72
     }
    }
   },
@@ -5896,6 +5943,19 @@
      "role_ids": [
       "workday:ryan:/job/Plano/Summer-2027-Intern--Software-Development_R0020822-1",
       "workday:ryan:/job/Plano/Summer-2027-Intern--Software-Engineering_R0020843-1"
+     ],
+     "count": 2
+    }
+   }
+  },
+  "ryder system": {
+   "name": "Ryder System",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-06",
+     "role_ids": [
+      "workday:ryder:/job/USA---Chambersburg-PA-17202/Industrial-Engineer-Intern--summer-2027-_R188911",
+      "workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"
      ],
      "count": 2
     }
@@ -6659,16 +6719,27 @@
      "role_ids": [
       "workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
       "workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381194",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ381198",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380916",
       "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768",
+      "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917",
       "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
       "workday:tmobile:/job/New-York-New-York/Summer-2027-Software-Engineering-Internship_REQ380886",
       "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Assoc-AI-Engineer-Internship_REQ380484",
       "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380441",
+      "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734",
+      "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
      ],
-     "count": 10
+     "count": 21
     }
    }
   },
@@ -7797,5 +7868,5 @@
    }
   }
  },
- "updated_at": "2026-11-06T15:00:34Z"
+ "updated_at": "2026-11-06T20:54:41Z"
 }

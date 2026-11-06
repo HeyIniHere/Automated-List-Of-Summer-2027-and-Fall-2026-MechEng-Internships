@@ -793,10 +793,11 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
+      "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -3491,6 +3492,18 @@
     }
    }
   },
+  "invesco": {
+   "name": "Invesco",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:invesco:/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1"
+     ],
+     "count": 1
+    }
+   }
+  },
   "irhythm technologies": {
    "name": "iRhythm Technologies",
    "cycles": {
@@ -3526,6 +3539,18 @@
       "workday:itron:/job/United-States-of-America-Washington-Liberty-Lake/Intern---Data-Science--Distributed-Intelligence_JR102942-2"
      ],
      "count": 2
+    }
+   }
+  },
+  "j m smucker": {
+   "name": "J.M. Smucker",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:smucker:/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118"
+     ],
+     "count": 1
     }
    }
   },
@@ -6602,6 +6627,7 @@
     "Summer 2027": {
      "first_posted": "2026-10-15",
      "role_ids": [
+      "workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
       "workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380652",
       "workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Intern_REQ368322",
       "workday:tmobile:/job/Irving-Texas/Summer-2027-Industrial-Engineering-Internship_REQ380736",
@@ -6612,7 +6638,7 @@
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -7394,6 +7420,22 @@
     }
    }
   },
+  "western alliance": {
+   "name": "Western Alliance",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024",
+      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
+      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020",
+      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021",
+      "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023"
+     ],
+     "count": 5
+    }
+   }
+  },
   "western digital": {
    "name": "Western Digital",
    "cycles": {
@@ -7684,6 +7726,21 @@
     }
    }
   },
+  "zoox": {
+   "name": "Zoox",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-30",
+     "role_ids": [
+      "lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded",
+      "lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877",
+      "lever:zoox:88f6cb68-1534-44af-80db-10e43c203520",
+      "lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20"
+     ],
+     "count": 4
+    }
+   }
+  },
   "zurn elkay water solutions": {
    "name": "Zurn Elkay Water Solutions",
    "cycles": {
@@ -7710,5 +7767,5 @@
    }
   }
  },
- "updated_at": "2026-11-05T18:43:22Z"
+ "updated_at": "2026-11-06T00:08:06Z"
 }

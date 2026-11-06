@@ -1,24 +1,3 @@
 {
-  "pending": [
-    "workday:asml:/job/Wilton-CT-USA/Internship--Mechatronics-Engineer_J-00356535",
-    "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
-    "workday:borgwarner:/job/Auburn-Hills---Michigan---USA/Software-Test-Intern_R2026-4385-1",
-    "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Embedded-Software-Co-Op_R0273960",
-    "workday:invesco:/job/Atlanta-Georgia/Early-Career-Intern---Digital-Product-Management_R-15876-1",
-    "workday:smucker:/job/Working-Remote-USA/Data-Science-Intern--Summer-2027_116118",
-    "oracle:hdhl.fa.us6.oraclecloud.com:1008748",
-    "workday:tmobile:/job/Atlanta-Georgia/Summer-2027-Software-Engineering-Internship_REQ380650",
-    "lever:tri:11da7518-14d4-4960-a3aa-57dc010f3642",
-    "lever:tri:8955d154-acfc-4e6b-a68c-14f1438034c9",
-    "workday:tranetechnologies:/job/La-Crosse-Wisconsin/Mechanical-Engineering-Co-op_JR-8684",
-    "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14019",
-    "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14023",
-    "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14021",
-    "workday:westernalliancebank:/job/Dallas-TX/Summer-2027-Internship---Dallas--TX---Platform-Engineering_R14020",
-    "workday:westernalliancebank:/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024",
-    "lever:zoox:53f5297a-fe30-4e1e-ab1c-96db5b23eded",
-    "lever:zoox:7b20b929-d9a4-4995-a472-16cd4925a877",
-    "lever:zoox:88f6cb68-1534-44af-80db-10e43c203520",
-    "lever:zoox:8b32157b-ab44-4078-85ea-1d8d7b747a20"
-  ]
+  "pending": []
 }

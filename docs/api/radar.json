@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-07T00:56:10Z",
+ "generated_at": "2026-11-07T07:05:44Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -100,20 +100,6 @@
    "status": "open",
    "url": "https://boards.greenhouse.io/andurilindustries/jobs/5148079007?gh_jid=5148079007",
    "note": "rolling intern postings across teams"
-  },
-  {
-   "company": "Voloridge",
-   "last_cycle_posted": "",
-   "posted_on": "2026-06-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-06-11",
-   "days_until": -149,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/voloridgeinvestmentmanagement/jobs/4224862009",
-   "note": ""
   },
   {
    "company": "Quantiq",
@@ -980,7 +966,7 @@
    "expected": "2026-08-27",
    "days_until": -72,
    "status": "open",
-   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Cyber-Security-Intern---Atlanta--GA_R0248139",
+   "url": "https://bah.wd1.myworkdayjobs.com/bah_jobs/job/Atlanta-GA/University---2027-Summer-Games-Software-Developer-Intern---Atlanta--GA_R0248138",
    "note": ""
   },
   {
@@ -1218,7 +1204,7 @@
    "expected": "2026-09-01",
    "days_until": -67,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI--Masters-_JR-202622540",
    "note": ""
   },
   {
@@ -1610,7 +1596,7 @@
    "expected": "2026-09-07",
    "days_until": -61,
    "status": "open",
-   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603518",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603521",
    "note": ""
   },
   {
@@ -4549,6 +4535,20 @@
    "source": "engine",
    "expected": "2026-06-01",
    "days_until": -159,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Voloridge",
+   "last_cycle_posted": "",
+   "posted_on": "2026-06-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-06-11",
+   "days_until": -149,
    "status": "dropped",
    "url": "",
    "note": ""

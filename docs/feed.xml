@@ -5,39 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-07T00:56:09Z</updated>
+  <updated>2026-11-07T07:05:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
-    <updated>2026-11-07T00:56:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wilton, CT, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215</id>
-    <title>ASML: Internship - Mechanical Design Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215"/>
-    <updated>2026-11-07T00:56:03Z</updated>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
+    <updated>2026-11-07T07:05:36Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:invesco:/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1</id>
-    <title>Invesco: Early Career Intern - Real Estate (Data Science)</title>
-    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1"/>
-    <updated>2026-11-07T00:56:03Z</updated>
+    <id>urn:intern-engine:lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1</id>
+    <title>Zoox: AI Workflows &amp; Safety Decision Making Intern [2027]</title>
+    <link href="https://jobs.lever.co/zoox/0168ad29-2fd8-4c91-865c-b9fff8aa30c1"/>
+    <updated>2026-11-07T07:05:36Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Dallas, Texas · $40/hr · Python · H-1B track record: ~78 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1</id>
-    <title>KLA: Mechanical Engineer Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1"/>
-    <updated>2026-11-07T00:56:03Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Milpitas, CA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Foster City, CA · Python, SQL, LLMs, Flask · H-1B track record: ~280 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
@@ -62,6 +46,38 @@
     <updated>2026-11-07T00:56:03Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Foster City, CA · Python, SQL, LLMs, Computer Vision, Git · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215</id>
+    <title>ASML: Internship - Mechanical Design Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wilton, CT, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:invesco:/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1</id>
+    <title>Invesco: Early Career Intern - Real Estate (Data Science)</title>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dallas, Texas · $40/hr · Python · H-1B track record: ~78 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1</id>
+    <title>KLA: Mechanical Engineer Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Milpitas, CA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:niural:0daacf58-a15d-4c6f-bfa0-0fc069e4956e</id>
@@ -414,14 +430,6 @@
     <updated>2026-11-06T15:00:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · El Segundo, CA · Python, C++, TensorFlow, CUDA, Linux · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439</id>
-    <title>General Motors: 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439"/>
-    <updated>2026-11-06T15:00:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, California, United States of America · Python, Go, GCP, Kubernetes, Docker · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:tri:11da7518-14d4-4960-a3aa-57dc010f3642</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Portland, OR US · $21–$29/hr · Python, MATLAB · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Schaumburg-IL/Android-Software-Intern_JR-025277</id>
-    <title>Life Fitness: Android Software Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Android-Software-Intern_JR-025277"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Schaumburg, IL · $24–$27/hr · Java, Kotlin, Linux · H-1B track record: ~12 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

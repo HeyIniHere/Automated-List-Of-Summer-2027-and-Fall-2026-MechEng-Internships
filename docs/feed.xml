@@ -5,63 +5,87 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-06T20:54:47Z</updated>
+  <updated>2026-11-07T00:56:09Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:AECOM2:744000160245149</id>
-    <title>AECOM: Mechanical Intern 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/AECOM2/744000160245149"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Dallas, TX, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356543"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wilton, CT, USA · Python, C++, MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:globusmedical:/job/Methuen-MA/Software-COOP_JR108063</id>
-    <title>Globus Medical: Software COOP</title>
-    <link href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063"/>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215</id>
+    <title>ASML: Internship - Mechanical Design Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechanical-Design-Engineer_J-00356215"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:invesco:/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1</id>
+    <title>Invesco: Early Career Intern - Real Estate (Data Science)</title>
+    <link href="https://invesco.wd1.myworkdayjobs.com/IVZ/job/Dallas-Texas/Early-Career-Intern---Real-Estate--Data-Science-_R-15091-1"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Dallas, Texas · $40/hr · Python · H-1B track record: ~78 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1</id>
+    <title>KLA: Mechanical Engineer Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Mechanical-Engineer-Intern_2643268-1"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Milpitas, CA · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
+    <title>Parspec: Applied AI Engineer Intern</title>
+    <link href="https://jobs.ashbyhq.com/parspec/0a897c21-0df7-40ba-85f2-694bf6678504"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Hybrid - San Mateo, California</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:vardaspace:8198267003</id>
+    <title>Varda Space: Site Reliability Internship - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/vardaspace/jobs/8198267003"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Other · El Segundo, California, United States · Python, AWS, GCP, Azure, Kubernetes · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:zoox:85c6aec7-8da2-445d-9c4d-812365dbce97</id>
+    <title>Zoox: Data Science Intern [Summer 2027]</title>
+    <link href="https://jobs.lever.co/zoox/85c6aec7-8da2-445d-9c4d-812365dbce97"/>
+    <updated>2026-11-07T00:56:03Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Foster City, CA · Python, SQL, LLMs, Computer Vision, Git · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:niural:0daacf58-a15d-4c6f-bfa0-0fc069e4956e</id>
+    <title>Niural: AI Product Operator Intern</title>
+    <link href="https://jobs.ashbyhq.com/Niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Methuen, MA · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Data &amp; ML/AI · New York City · $20 – $25 per hour · Python, TypeScript, JavaScript, SQL, LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Intern_2642954-1</id>
-    <title>KLA: Software Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, Docker · H-1B track record: ~369 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264</id>
-    <title>L.L.Bean: Industrial Engineer Intern (Summer 2027)</title>
-    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264"/>
+    <id>urn:intern-engine:ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947</id>
+    <title>Notion: Software Engineering Intern, iOS (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Freeport, ME · $20–$22/hr</summary>
+    <summary>Summer 2027 · Software · New York, New York · $57/hr · Python, Rust, TypeScript, Swift, LLMs · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275</id>
-    <title>L.L.Bean: Business/ Data Analyst Intern (Summer 2027)</title>
-    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275"/>
+    <id>urn:intern-engine:ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413</id>
+    <title>Notion: Software Engineering Intern, Frontend (Summer 2027)</title>
+    <link href="https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Freeport, ME · $20–$22/hr · Python, SQL, Tableau</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1</id>
-    <title>L.L.Bean: Software Developer Intern (Summer 2027)</title>
-    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Freeport, ME · $20–$22/hr · Python, Java, C#, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319</id>
-    <title>Leidos: AI/Automation Development Intern - Assessment &amp; Authorization 🇺🇸</title>
-    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, SQL, PyTorch, TensorFlow · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · New York, New York · $57/hr · TypeScript, LLMs, React · H-1B track record: ~28 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lilasciences:4480337009</id>
@@ -80,44 +104,52 @@
     <summary>Summer 2027 · Hardware · Byron Center, MI</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903</id>
-    <title>Marmon Holdings: Intern - AI Technology Solutions</title>
-    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"/>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
+    <title>The New York Times: Full-Stack Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · Python, Tableau</summary>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, JavaScript, Kotlin, Scala · H-1B track record: ~52 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:niural:0daacf58-a15d-4c6f-bfa0-0fc069e4956e</id>
-    <title>Niural: AI Product Operator Intern</title>
-    <link href="https://jobs.ashbyhq.com/Niural/0daacf58-a15d-4c6f-bfa0-0fc069e4956e"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · New York City · $20 – $25 per hour · Python, TypeScript, JavaScript, SQL, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:notion:43ffba97-b64a-4c6a-ac13-c803253c9413</id>
-    <title>Notion: Software Engineering Intern, Frontend (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/notion/43ffba97-b64a-4c6a-ac13-c803253c9413"/>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751909005</id>
+    <title>The New York Times: Frontend Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York · $57/hr · TypeScript, LLMs, React · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · LLMs, React, GraphQL · H-1B track record: ~52 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:notion:27090d0f-07d3-419b-adaa-837b5e22f947</id>
-    <title>Notion: Software Engineering Intern, iOS (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/notion/27090d0f-07d3-419b-adaa-837b5e22f947"/>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751917005</id>
+    <title>The New York Times: Android Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, New York · $57/hr · Python, Rust, TypeScript, Swift, LLMs · H-1B track record: ~28 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Kotlin, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501</id>
-    <title>Oshkosh: Customer Support AI Intern</title>
-    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501"/>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751919005</id>
+    <title>The New York Times: iOS Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"/>
     <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McConnellsburg, Pennsylvania, United States · Tableau</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Swift, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751973005</id>
+    <title>The New York Times: Backend Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, SQL, Scala, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:AECOM2:744000160245149</id>
+    <title>AECOM: Mechanical Intern 🇺🇸</title>
+    <link href="https://jobs.smartrecruiters.com/AECOM2/744000160245149"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Dallas, TX, United States · sponsorship: citizens-only · H-1B track record: ~246 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:globalhr:/job/US-IA-CEDAR-RAPIDS-131--5450-C-Ave-NE--BLDG-131/Mechanical-Engineering-Co-op--Summer-Fall-2027-_01887850</id>
@@ -128,12 +160,76 @@
     <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: citizens-only</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897</id>
-    <title>Ryder System: Industrial Engineer Intern (summer 2027)</title>
-    <link href="https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"/>
+    <id>urn:intern-engine:workday:globusmedical:/job/Methuen-MA/Software-COOP_JR108063</id>
+    <title>Globus Medical: Software COOP</title>
+    <link href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Methuen, MA · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386</id>
+    <title>Voya Financial: Summer Intern – Renewable Energy Infrastructure Debt</title>
+    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · New York, NY · $23/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Intern_2642954-1</id>
+    <title>KLA: Software Intern</title>
+    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, Docker · H-1B track record: ~369 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:leidos:/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319</id>
+    <title>Leidos: AI/Automation Development Intern - Assessment &amp; Authorization 🇺🇸</title>
+    <link href="https://leidos.wd5.myworkdayjobs.com/External/job/6314-RemoteTeleworker-US/AI-Automation-Development-Intern---Assessment---Authorization_R-00195319"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6314 Remote/Teleworker US · Python, JavaScript, SQL, PyTorch, TensorFlow · sponsorship: citizens-only · H-1B track record: ~79 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275</id>
+    <title>L.L.Bean: Business/ Data Analyst Intern (Summer 2027)</title>
+    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Business--Data-Analyst-Intern--Summer-2027-_JR11275"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · USA - Hagerstown MD 21740 · H-1B track record: ~58 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Freeport, ME · $20–$22/hr · Python, SQL, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264</id>
+    <title>L.L.Bean: Industrial Engineer Intern (Summer 2027)</title>
+    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Industrial-Engineer-Intern--Summer-2027-_JR11264"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Freeport, ME · $20–$22/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:llbean:/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1</id>
+    <title>L.L.Bean: Software Developer Intern (Summer 2027)</title>
+    <link href="https://llbean.wd1.myworkdayjobs.com/LLBean_Careers/job/Freeport-ME/Software-Developer-Intern--Summer-2027-_JR11274-1"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Freeport, ME · $20–$22/hr · Python, Java, C#, JavaScript, React</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903</id>
+    <title>Marmon Holdings: Intern - AI Technology Solutions</title>
+    <link href="https://marmon.wd501.myworkdayjobs.com/Marmon_Careers/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Chicago, IL · Python, Tableau</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:oshkoshcorporation:/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501</id>
+    <title>Oshkosh: Customer Support AI Intern</title>
+    <link href="https://oshkoshcorporation.wd5.myworkdayjobs.com/Oshkosh/job/McConnellsburg-Pennsylvania-United-States/Customer-Support-Business-Analyst-Intern_R49501"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · McConnellsburg, Pennsylvania, United States · Tableau</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:ryder:/job/USA---Chambersburg-PA-17202/Industrial-Engineer-Intern--summer-2027-_R188911</id>
@@ -144,28 +240,20 @@
     <summary>Summer 2027 · Hardware · USA - Chambersburg PA 17202 · H-1B track record: ~58 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:ryder:/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897</id>
+    <title>Ryder System: Industrial Engineer Intern (summer 2027)</title>
+    <link href="https://ryder.wd5.myworkdayjobs.com/RyderCareers/job/USA---Hagerstown-MD-21740/Industrial-Engineer-Intern--summer-2027-_R188897"/>
+    <updated>2026-11-06T20:54:41Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · USA - Hagerstown MD 21740 · H-1B track record: ~58 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1</id>
     <title>Samsung: Samsung Care AI Data Analytic Intern 🛂</title>
     <link href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/Samsung-Care-AI-Data-Analytic-Intern_R121971-1"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · 6625 Excellence Way, Plano, TX, USA · Python, Java, C++, SQL, PyTorch · sponsorship: no-sponsorship</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Overland Park, Kansas · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Overland Park, Kansas · $27/hr · Git · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Engineering-Internship_REQ380765</id>
@@ -192,28 +280,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Bellevue, Washington · $27/hr · Python, TypeScript, JavaScript, LLMs, Git · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279</id>
+    <title>T-Mobile: Summer 2027 AI Strategist Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · Python, LLMs, AWS, Azure, Kubernetes · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768</id>
-    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Data &amp; ML/AI · Bellevue, Washington · $27/hr · SQL, LLMs · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineer-HR-Data-Products-Internship_REQ380766</id>
@@ -232,60 +304,44 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Bellevue, Washington · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279</id>
-    <title>T-Mobile: Summer 2027 AI Strategist Internship</title>
-    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-AI-Strategist-Internship_REQ381279"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757</id>
+    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380757"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Bellevue, Washington · $27/hr · SQL, LLMs · H-1B track record: ~697 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · Python, LLMs, AWS, Azure, Kubernetes · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751917005</id>
-    <title>The New York Times: Android Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751917005"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768</id>
+    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380768"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Kotlin, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751973005</id>
-    <title>The New York Times: Backend Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751973005"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917</id>
+    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Bellevue-Washington/Summer-2027-Software-Engineering-Internship_REQ380917"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, SQL, Scala, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Bellevue, Washington · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751909005</id>
-    <title>The New York Times: Frontend Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751909005"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734</id>
+    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380734"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · LLMs, React, GraphQL · H-1B track record: ~52 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Overland Park, Kansas · $27/hr · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751907005</id>
-    <title>The New York Times: Full-Stack Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751907005"/>
+    <id>urn:intern-engine:workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739</id>
+    <title>T-Mobile: Summer 2027 Software Engineering Internship</title>
+    <link href="https://tmobile.wd1.myworkdayjobs.com/External/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739"/>
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Python, Java, JavaScript, Kotlin, Scala · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:thenewyorktimes:4751919005</id>
-    <title>The New York Times: iOS Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/thenewyorktimes/jobs/4751919005"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $40/hr · Swift, LLMs · H-1B track record: ~52 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386</id>
-    <title>Voya Financial: Summer Intern – Renewable Energy Infrastructure Debt</title>
-    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · $23/hr</summary>
+    <summary>Summer 2027 · Software · Overland Park, Kansas · $27/hr · Git · H-1B track record: ~697 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:galaxydigitalservices:6250002004</id>
@@ -750,61 +806,5 @@
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Schaumburg, IL · $24–$27/hr · Java, Kotlin, Linux · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276</id>
-    <title>Life Fitness: Embedded Software Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Embedded-Software-Intern_JR-025276"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Schaumburg, IL · $24–$27/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lifefitness:/job/Schaumburg-IL/Mechanical-Engineering-Intern_JR-025279</id>
-    <title>Life Fitness: Mechanical Engineering Intern</title>
-    <link href="https://lifefitness.wd1.myworkdayjobs.com/searchLFN/job/Schaumburg-IL/Mechanical-Engineering-Intern_JR-025279"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Schaumburg, IL · $24–$27/hr · H-1B track record: ~12 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214</id>
-    <title>Northrop Grumman: 2027 Mechanical Engineer Intern- Gilbert AZ 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/XMLNAME-2027-Mechanical-Engineer-Intern--Gilbert-AZ_R10258214"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Arizona-Gilbert · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391</id>
-    <title>Northrop Grumman: 2027 Structural Dynamics Engineer Intern - Redondo Beach CA 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Structural-Dynamics-Engineer-Intern---Redondo-Beach-CA_R10259391"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-California-Redondo Beach · $21.5–$39/hr · MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:metoxinternationalinc:5471476008</id>
-    <title>MetOx International: Mechanical Engineering Co-Op/Intern (Summer &amp; Fall 2027)</title>
-    <link href="https://job-boards.greenhouse.io/metoxinternationalinc/jobs/5471476008"/>
-    <updated>2026-11-04T21:19:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Houston, TX</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:vaticlabs:7205954</id>
-    <title>Vatic Investments: AI Research Internship (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/vaticlabs/jobs/7205954"/>
-    <updated>2026-11-04T21:19:57Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York · Python, C++, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:e7cc38d2-2b08-4349-b322-4d56cac9fb1b</id>
-    <title>Toyota Research Institute: Automated Driving Advanced Development Intern, Machine Learning Research</title>
-    <link href="https://jobs.lever.co/tri/e7cc38d2-2b08-4349-b322-4d56cac9fb1b"/>
-    <updated>2026-11-04T21:19:57Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, CUDA · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

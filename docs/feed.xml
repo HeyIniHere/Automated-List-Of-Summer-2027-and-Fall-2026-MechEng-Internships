@@ -5,15 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-07T07:05:44Z</updated>
+  <updated>2026-11-07T14:01:18Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
-    <title>ASML: Internship – Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
-    <updated>2026-11-07T07:05:36Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228</id>
+    <title>Motorola: Software Presales Enablement Intern - Summer Internship 2027 🛂</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228"/>
+    <updated>2026-11-07T14:01:11Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Illinois Remote Work, More... · sponsorship: no-sponsorship · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1</id>
@@ -22,6 +22,14 @@
     <updated>2026-11-07T07:05:36Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Foster City, CA · Python, SQL, LLMs, Flask · H-1B track record: ~280 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548</id>
+    <title>ASML: Internship – Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356548"/>
+    <updated>2026-11-07T07:05:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Wilton, CT, USA · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:parspec:0a897c21-0df7-40ba-85f2-694bf6678504</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Portland-OR-US/Vehicle-Thermal-Integration---Validation-Engineering-Intern_DT-20558</id>
-    <title>Daimler Truck: Vehicle Thermal Integration - Validation Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Portland-OR-US/Vehicle-Thermal-Integration---Validation-Engineering-Intern_DT-20558"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Portland, OR US · $21–$29/hr · Python, MATLAB · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

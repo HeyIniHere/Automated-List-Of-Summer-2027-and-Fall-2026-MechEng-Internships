@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-08T02:20:07Z",
+ "generated_at": "2026-11-08T10:09:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3053,20 +3053,6 @@
    "days_until": -32,
    "status": "open",
    "url": "https://alliance.wd3.myworkdayjobs.com/nissanjobs/job/Canton-Mississippi---United-States-of-America/Industrial-Engineering-Intern---Summer-2027---Canton--MS_R00214256",
-   "note": ""
-  },
-  {
-   "company": "S&C Electric Company",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-07",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-07",
-   "days_until": -32,
-   "status": "open",
-   "url": "https://ejia.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/107361",
    "note": ""
   },
   {
@@ -6249,6 +6235,20 @@
   },
   {
    "company": "Ingredion",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-07",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-07",
+   "days_until": -32,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "S&C Electric Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-07",
    "precision": "day",

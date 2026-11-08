@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-07T22:44:05Z",
+ "generated_at": "2026-11-08T02:20:07Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1573,
+ "count": 1571,
  "jobs": [
   {
    "id": "lever:zoox:0168ad29-2fd8-4c91-865c-b9fff8aa30c1",
@@ -22926,33 +22926,6 @@
    "remote": false
   },
   {
-   "id": "greenhouse:ziprecruiter:8180455",
-   "company": "ZipRecruiter",
-   "title": "Software Engineer - Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Santa Monica, CA",
-   "url": "https://job-boards.greenhouse.io/ziprecruiter/jobs/8180455",
-   "posted_at": "2026-09-23T15:03:20-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-24T14:56:56Z",
-   "sponsorship": "unknown",
-   "salary": "$45/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "JavaScript",
-    "React",
-    "Kubernetes"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 22,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:zekelman:/job/Killeen-TX/Industrial-Engineer---Intern_JR002772",
    "company": "Zekelman Industries",
    "title": "Industrial Engineer - Intern",
@@ -23176,32 +23149,6 @@
    "source": "smartrecruiters",
    "h1b_approvals": 246,
    "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "smartrecruiters:Keenfinity:744000151395769",
-   "company": "Keenfinity",
-   "title": "Software Test Automation Co-Op",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Fairport, NY, United States",
-   "url": "https://jobs.smartrecruiters.com/Keenfinity/744000151395769",
-   "posted_at": "2026-09-23T14:10:21.366Z",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-23T16:39:59Z",
-   "sponsorship": "unknown",
-   "salary": "$25–$26/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Azure",
-    "Linux"
-   ],
-   "source": "smartrecruiters",
-   "h1b_approvals": null,
-   "program": "Co-op",
    "remote": false
   },
   {

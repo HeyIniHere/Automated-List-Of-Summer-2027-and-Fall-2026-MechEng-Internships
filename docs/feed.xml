@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-08T21:09:20Z</updated>
+  <updated>2026-11-09T01:39:03Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636</id>
-    <title>The Toro Company: Manufacturing Engineering Intern (Tomah, WI) - The Toro Company 🛂</title>
-    <link href="https://ttc.wd1.myworkdayjobs.com/Toro_External_Careers/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636"/>
-    <updated>2026-11-07T18:43:26Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Tomah, WI · sponsorship: no-sponsorship</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228</id>
     <title>Motorola: Software Presales Enablement Intern - Summer Internship 2027 🛂</title>
@@ -806,5 +798,13 @@
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, MATLAB · H-1B track record: ~38 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564</id>
+    <title>Daimler Truck: Industrial Engineering Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564"/>
+    <updated>2026-11-05T02:12:29Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

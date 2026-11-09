@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-09T01:38:56Z",
- "duration_seconds": 414.5,
+ "generated_at": "2026-11-09T09:38:37Z",
+ "duration_seconds": 575.0,
  "companies_total": 5098,
  "companies_by_source": {
   "greenhouse": 1206,
@@ -16,24 +16,25 @@
   "breezy": 19,
   "eightfold": 1
  },
- "quarantined": 407,
- "fetched_ok": 4654,
- "fetch_errors": 37,
+ "quarantined": 388,
+ "fetched_ok": 4535,
+ "fetch_errors": 175,
  "errors_by_source": {
-  "recruitee": 1,
-  "lever": 4,
-  "workday": 14,
-  "greenhouse": 10,
-  "ashby": 8
+  "workday": 121,
+  "rippling": 1,
+  "greenhouse": 5,
+  "lever": 3,
+  "workable": 44,
+  "ashby": 1
  },
- "fetch_success_rate": 0.992,
- "fetch_success_rate_registry": 0.913,
- "snapshots_complete": 4529,
- "snapshots_partial": 125,
- "roles_matched": 1101,
- "dropped_no_year_in_title": 841,
- "dropped_offcycle_by_text": 203,
- "roles_cycle_inferred": 446,
+ "fetch_success_rate": 0.963,
+ "fetch_success_rate_registry": 0.89,
+ "snapshots_complete": 4416,
+ "snapshots_partial": 119,
+ "roles_matched": 1066,
+ "dropped_no_year_in_title": 774,
+ "dropped_offcycle_by_text": 193,
+ "roles_cycle_inferred": 447,
  "roles_by_source": {
   "amazon": 17,
   "ashby": 77,
@@ -41,32 +42,32 @@
   "eightfold": 1,
   "greenhouse": 274,
   "lever": 80,
-  "oracle": 29,
+  "oracle": 30,
   "rippling": 9,
   "smartrecruiters": 135,
   "workable": 8,
-  "workday": 925
+  "workday": 927
  },
  "roles_by_cycle": {
-  "Summer 2027": 1078,
+  "Summer 2027": 1080,
   "Fall 2026": 36,
-  "Not stated": 446
+  "Not stated": 447
  },
  "roles_by_region": {
-  "US": 1559
+  "US": 1562
  },
  "sponsorship_counts": {
-  "unknown": 1016,
+  "unknown": 1018,
   "citizens-only": 415,
-  "no-sponsorship": 114,
+  "no-sponsorship": 115,
   "offers": 14
  },
  "posted_date_coverage": 0.994,
- "enriched_this_run": 0,
- "enrichment_detail_fetches": 0,
+ "enriched_this_run": 3,
+ "enrichment_detail_fetches": 3,
  "purged_this_run": 0,
- "new_this_run": 0,
- "open_total": 1559,
+ "new_this_run": 3,
+ "open_total": 1562,
  "detection_latency": {
   "median_minutes": 188.4,
   "p95_minutes": 692.3,

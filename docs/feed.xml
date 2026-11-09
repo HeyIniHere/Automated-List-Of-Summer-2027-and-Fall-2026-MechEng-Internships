@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-09T01:39:03Z</updated>
+  <updated>2026-11-09T09:38:44Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657</id>
+    <title>Applied Materials: 2027 Summer Mechanical Engineer Intern - BS or MS (Gloucester, MA)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/GloucesterMA/XMLNAME-2027-Summer-Mechanical-Engineer-Intern---BS-or-MS--Gloucester--MA-_R2630657"/>
+    <updated>2026-11-09T09:38:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Gloucester,MA · $31–$41/hr · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:amat:/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426</id>
+    <title>Applied Materials: 2027 Summer Intern - Mechanical Engineer - BS/MS Degree, (Santa Clara)</title>
+    <link href="https://amat.wd1.myworkdayjobs.com/External/job/Santa-ClaraCA/XMLNAME-2027-Summer-Intern---Mechanical-Engineer---BS-MS-Degree---Santa-Clara-_R2629426"/>
+    <updated>2026-11-09T09:38:36Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Santa Clara,CA · H-1B track record: ~650 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:sec:/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996</id>
+    <title>Samsung: ePro Business &amp; Data Analyst Intern 🛂</title>
+    <link href="https://sec.wd3.myworkdayjobs.com/Samsung_Careers/job/6625-Excellence-Way-Plano-TX-USA/ePro-Business---Data-Analyst-Intern_R121996"/>
+    <updated>2026-11-09T09:38:36Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 6625 Excellence Way, Plano, TX, USA · SQL, LLMs, Tableau · sponsorship: no-sponsorship</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Illinois-Remote-Work/Software-Presales-Enablement-Intern---Summer-Internship-2027_R70228</id>
     <title>Motorola: Software Presales Enablement Intern - Summer Internship 2027 🛂</title>
@@ -782,29 +806,5 @@
     <updated>2026-11-05T02:12:29Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Los Altos, CA · $65/hr · Python, PyTorch, LLMs · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567</id>
-    <title>ASML: Internship -  Machine Learning and image-based EUV system setup</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/San-Diego-CA-USA/Internship----Machine-Learning-and-image-based-EUV-system-setup_J-00356567"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Diego, CA, USA · Python · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:bah:/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024</id>
-    <title>Booz Allen: University, AI RAN Telecommunications Engineer Intern</title>
-    <link href="https://bah.wd1.myworkdayjobs.com/bah_jobs/job/McLean-VA/University--AI-RAN-Telecommunications-Engineer-Intern_R0253024"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · McLean, VA · $108k/yr · Python, C++, MATLAB · H-1B track record: ~38 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564</id>
-    <title>Daimler Truck: Industrial Engineering Intern</title>
-    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Industrial-Engineering-Intern_DT-20564"/>
-    <updated>2026-11-05T02:12:29Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

@@ -1,29 +1,3 @@
 {
-  "pending": [
-    "greenhouse:addepar1:8927543002",
-    "greenhouse:addepar1:8927531002",
-    "workday:allegion:/job/Carmel-IN/Summer-Intern---Advanced-Manufacturing-Engineering---Electrical-Engineering_JR37429-1",
-    "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2",
-    "oracle:epyc.fa.us2.oraclecloud.com:168741",
-    "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
-    "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
-    "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1104",
-    "greenhouse:judihealth:5477146008",
-    "oracle:iadugs.fa.ocs.oraclecloud.com:1837",
-    "greenhouse:lumbermens:5474346008",
-    "workday:momentive:/job/US-NY-Waterford/XMLNAME-2027-Co-Op---Electronics---Aerospace_R10058",
-    "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976",
-    "oracle:egay.fa.us6.oraclecloud.com:45478",
-    "lever:palantir:130ee501-bd22-4d44-b651-39581ef97743",
-    "lever:palantir:eb496d6a-a960-43d3-a09b-e3843052f54e",
-    "lever:palantir:45e4617d-d658-4b30-8dc9-378ca84a027a",
-    "ashby:parspec:aa7b7f63-b31f-47fa-a711-b76d93028e56",
-    "ashby:regent:9f25824f-486e-4d3a-b444-116b474619d7",
-    "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225",
-    "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
-    "workday:ttc:/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845",
-    "lever:tri:be41a03c-460e-4ff7-b817-f012aa1c4b37",
-    "workday:trimble:/job/US---TN-Knoxville/Software-Engineering-Intern_R58120",
-    "smartrecruiters:VeoliaEnvironnementSA:744000160896184"
-  ]
+  "pending": []
 }

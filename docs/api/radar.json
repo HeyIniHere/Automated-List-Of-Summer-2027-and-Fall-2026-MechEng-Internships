@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T03:26:12Z",
+ "generated_at": "2026-11-10T12:29:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -379,20 +379,6 @@
    "days_until": -105,
    "status": "open",
    "url": "https://draper.wd5.myworkdayjobs.com/Draper_Careers/job/Cambridge-MA/Electro-Mechanical-Instrument-Intern--Summer-2027-_JR003093",
-   "note": ""
-  },
-  {
-   "company": "Leidos",
-   "last_cycle_posted": "",
-   "posted_on": "2026-07-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-07-29",
-   "days_until": -104,
-   "status": "open",
-   "url": "https://leidos.wd5.myworkdayjobs.com/External/job/Odenton-MD/Cybersecurity-Analyst-Intern_R-00196546",
    "note": ""
   },
   {
@@ -1040,20 +1026,6 @@
    "note": ""
   },
   {
-   "company": "Alcon",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-31",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-31",
-   "days_until": -71,
-   "status": "open",
-   "url": "https://alcon.wd5.myworkdayjobs.com/careers_alcon/job/Fort-Worth-Texas/Spring-Summer-2027-Manufacturing-Science---Technology-Co-op_R-2026-50373",
-   "note": ""
-  },
-  {
    "company": "Awetomaton",
    "last_cycle_posted": "",
    "posted_on": "2026-08-31",
@@ -1652,7 +1624,7 @@
    "expected": "2026-09-08",
    "days_until": -63,
    "status": "open",
-   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1",
+   "url": "https://slihrms.wd3.myworkdayjobs.com/careers/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
    "note": ""
   },
   {
@@ -3388,7 +3360,7 @@
    "expected": "2026-10-19",
    "days_until": -22,
    "status": "open",
-   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Mechanical-Engineer--EMC-Handheld-BU_JR103631",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
    "note": ""
   },
   {
@@ -4172,7 +4144,7 @@
    "expected": "2026-11-09",
    "days_until": -1,
    "status": "open",
-   "url": "https://jobs.lever.co/pivotal/b7f01112-1ca4-47c4-bd34-c291206bd506",
+   "url": "https://jobs.lever.co/pivotal/3a80913d-886a-4d22-bf5e-9a011b157ec4",
    "note": ""
   },
   {
@@ -4647,6 +4619,20 @@
    "source": "engine",
    "expected": "2026-07-20",
    "days_until": -113,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Leidos",
+   "last_cycle_posted": "",
+   "posted_on": "2026-07-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-07-29",
+   "days_until": -104,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -5179,6 +5165,20 @@
    "source": "engine",
    "expected": "2026-08-30",
    "days_until": -72,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Alcon",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-31",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-31",
+   "days_until": -71,
    "status": "dropped",
    "url": "",
    "note": ""

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-10T12:29:48Z",
+ "generated_at": "2026-11-10T20:33:17Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -560,7 +560,7 @@
    "expected": "2026-08-14",
    "days_until": -88,
    "status": "open",
-   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Advanced-Manufacturing-Engineering-Intern--Process---Equipment--Summer-2027-_JR-2604592",
+   "url": "https://globalfoundries.wd1.myworkdayjobs.com/External/job/USA---New-York---Malta/Industrial-Engineering-Intern--Summer-2027-_JR-2604575",
    "note": ""
   },
   {
@@ -924,7 +924,7 @@
    "expected": "2026-08-27",
    "days_until": -75,
    "status": "open",
-   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
+   "url": "https://abb.wd3.myworkdayjobs.com/external_career_page/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089",
    "note": ""
   },
   {
@@ -1163,6 +1163,20 @@
    "days_until": -71,
    "status": "open",
    "url": "https://vermeer.wd5.myworkdayjobs.com/externalcareersite/job/Pella-Iowa-USA---Corporate-Office/Embedded-Software-Engineer-Internship-Summer-2027_REQ-22165",
+   "note": ""
+  },
+  {
+   "company": "Clarios",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -70,
+   "status": "open",
+   "url": "https://clarios.wd5.myworkdayjobs.com/clarioscareers/job/United-States-Wisconsin-Milwaukee/IT-Digital-AI-Intern--Summer-2027-_WD49910",
    "note": ""
   },
   {
@@ -2254,7 +2268,7 @@
    "expected": "2026-09-15",
    "days_until": -56,
    "status": "open",
-   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Undergrad-Intern_R016949",
+   "url": "https://aero.wd5.myworkdayjobs.com/external/job/El-Segundo-CA/XMLNAME-2027-Embedded-Software-Engineering-Grad-Intern_R016950",
    "note": ""
   },
   {
@@ -2381,6 +2395,20 @@
    "days_until": -54,
    "status": "open",
    "url": "https://marvell.wd1.myworkdayjobs.com/marvellcareers2/job/Santa-Clara-CA/AI-Native-Development-Platform-Engineer-Intern--MS---Summer-2027_2603848",
+   "note": ""
+  },
+  {
+   "company": "SharkNinja",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-17",
+   "days_until": -54,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4713808006",
    "note": ""
   },
   {
@@ -2577,6 +2605,20 @@
    "days_until": -47,
    "status": "open",
    "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
+   "note": ""
+  },
+  {
+   "company": "ZOLL Medical Corporation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -3053,20 +3095,6 @@
    "days_until": -33,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/ruggedrobotics/jobs/4730900005",
-   "note": ""
-  },
-  {
-   "company": "SharkNinja",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-08",
-   "days_until": -33,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/sharkninjaoperatingllc/jobs/4718812006",
    "note": ""
   },
   {
@@ -4176,6 +4204,62 @@
    "note": ""
   },
   {
+   "company": "Addepar",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/addepar1/jobs/8927543002",
+   "note": ""
+  },
+  {
+   "company": "Entegris",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
+   "note": ""
+  },
+  {
+   "company": "Hunt Oil Company",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1104",
+   "note": ""
+  },
+  {
+   "company": "Legrand",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -5212,20 +5296,6 @@
    "note": ""
   },
   {
-   "company": "Clarios",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -70,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "First National Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
@@ -6010,20 +6080,6 @@
    "note": ""
   },
   {
-   "company": "ZOLL Medical Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -47,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Cencora",
    "last_cycle_posted": "",
    "posted_on": "2026-09-25",
@@ -6612,5 +6668,5 @@
    "note": ""
   }
  ],
- "count": 472
+ "count": 476
 }

@@ -90,6 +90,19 @@
     }
    }
   },
+  "addepar": {
+   "name": "Addepar",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "greenhouse:addepar1:8927531002",
+      "greenhouse:addepar1:8927543002"
+     ],
+     "count": 2
+    }
+   }
+  },
   "adient": {
    "name": "Adient",
    "cycles": {
@@ -843,9 +856,10 @@
       "workday:slihrms:/job/USCODenver/Software-Developer-Intern---Summer-2027_R-161580-1",
       "workday:slihrms:/job/USCODenver/Structural-Engineering-Intern---Summer-2027_R-161182-1",
       "workday:slihrms:/job/USGAAtlanta2018-Powers-Ferry-Rd/Water-Infrastructure-Engineering-Intern---Summer-2027_R-163480-1",
+      "workday:slihrms:/job/USNVHenderson/Water-Infrastructure-Engineering-Intern---Summer-2027_R-160500-2",
       "workday:slihrms:/job/USWABothell/Structural-Engineering-Intern---Summer-2027_R-162449-1"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1661,9 +1675,10 @@
       "oracle:epyc.fa.us2.oraclecloud.com:167238",
       "oracle:epyc.fa.us2.oraclecloud.com:167555",
       "oracle:epyc.fa.us2.oraclecloud.com:167672",
-      "oracle:epyc.fa.us2.oraclecloud.com:168312"
+      "oracle:epyc.fa.us2.oraclecloud.com:168312",
+      "oracle:epyc.fa.us2.oraclecloud.com:168741"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -2279,6 +2294,19 @@
       "greenhouse:enova:8239619"
      ],
      "count": 1
+    }
+   }
+  },
+  "entegris": {
+   "name": "Entegris",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
+      "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834"
+     ],
+     "count": 2
     }
    }
   },
@@ -3260,6 +3288,13 @@
       "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1067"
      ],
      "count": 1
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "oracle:fa-eqcd-saasfaprod1.fa.ocs.oraclecloud.com:1104"
+     ],
+     "count": 1
     }
    }
   },
@@ -3877,6 +3912,18 @@
     }
    }
   },
+  "legrand": {
+   "name": "Legrand",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "oracle:iadugs.fa.ocs.oraclecloud.com:1837"
+     ],
+     "count": 1
+    }
+   }
+  },
   "leidos": {
    "name": "Leidos",
    "cycles": {
@@ -4059,9 +4106,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-05",
      "role_ids": [
+      "greenhouse:lumbermens:5474346008",
       "greenhouse:lumbermens:5474347008"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4441,9 +4489,10 @@
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Enterprise-Reporting---Analytics---Data-Science_R9807-1",
       "workday:momentive:/job/US-NY-Niskayuna/Summer-2027-Intern---Software-Development_R9756",
       "workday:momentive:/job/US-NY-Waterford/Summer-2027-Intern---Waterford-Manufacturing-Engineering_R9885",
+      "workday:momentive:/job/US-NY-Waterford/XMLNAME-2027-Co-Op---Electronics---Aerospace_R10058",
       "workday:momentive:/job/US-WV-Friendly/Summer-2027-Product-Management-Intern_R9816"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -4804,7 +4853,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 97,
+     "count": 98,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4820,6 +4869,7 @@
       "workday:ngc:/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903",
       "workday:ngc:/job/United-States-California-Camarillo/XMLNAME-2027-Embedded-Software-Engineer-Intern---Camarillo-CA_R10251835",
       "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern---Commerce-CA_R10255136",
+      "workday:ngc:/job/United-States-California-Commerce/XMLNAME-2027-Manufacturing-Engineer-Intern--Commerce-CA_R10259976",
       "workday:ngc:/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027---Mechanical-Engineer-Intern--McClellan-CA_R10255111",
       "workday:ngc:/job/United-States-California-McClellan/XMLNAME-2027-Software-Engineer-Intern---McClellan-CA_R10255207",
@@ -6283,11 +6333,13 @@
      ]
     },
     "Summer 2027": {
-     "first_posted": "2026-10-08",
+     "first_posted": "2026-09-17",
      "role_ids": [
+      "greenhouse:sharkninjaoperatingllc:4713808006",
+      "greenhouse:sharkninjaoperatingllc:4713812006",
       "greenhouse:sharkninjaoperatingllc:4718812006"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -6805,9 +6857,11 @@
       "workday:tmobile:/job/Overland-Park-Kansas/Summer-2027-Software-Engineering-Internship_REQ380739",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Product-Management-Internship_REQ380735",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-Software-Engineering-Internship_REQ380882",
+      "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381219",
+      "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381225",
       "workday:tmobile:/job/Philadelphia-Pennsylvania/Summer-2027-T-Ads-Software-Engineering-Internship_REQ381234"
      ],
-     "count": 21
+     "count": 23
     }
    }
   },
@@ -7005,6 +7059,7 @@
      "first_posted": "2026-09-10",
      "role_ids": [
       "workday:ttc:/job/Beatrice-NE/Manufacturing-Engineer-Intern---Exmark_JR17707",
+      "workday:ttc:/job/Bloomington-MN/Advanced-Manufacturing-Engineering-Intern---The-Toro-Company_JR17845",
       "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17114",
       "workday:ttc:/job/Bloomington-MN/Embedded-Software-Engineering-Intern---The-Toro-Company_JR17125",
       "workday:ttc:/job/Bloomington-MN/Mechanical-Design-Engineering-Intern---The-Toro-Company_JR17094",
@@ -7024,7 +7079,7 @@
       "workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 19
+     "count": 20
     }
    }
   },
@@ -7078,9 +7133,10 @@
      "role_ids": [
       "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
       "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424",
+      "lever:tri:be41a03c-460e-4ff7-b817-f012aa1c4b37",
       "lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -7952,5 +8008,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T12:29:42Z"
+ "updated_at": "2026-11-10T20:33:10Z"
 }

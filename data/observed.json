@@ -35,11 +35,12 @@
       "workday:abb:/job/USA-NC-Cary/AI-Engineering--ERP-Intern--Summer-2027_JR00048711",
       "workday:abb:/job/USA-NC-Cary/IS-Common-Infrastructure-Intern--Summer-2027_JR00047125",
       "workday:abb:/job/USA-NC-Hickory/Manufacturing-Engineering-Intern---Summer-2027_JR00047568",
+      "workday:abb:/job/USA-NC-Mebane/Mechanical-Engineering-Co-op--Summer-2027_JR00051089",
       "workday:abb:/job/USA-NJ-Hackettstown/Manufacturing-Engineering-Intern---Summer-2027_JR00044977",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Intern---Summer-2027_JR00047889",
       "workday:abb:/job/USA-NM-Albuquerque/Manufacturing-Quality-Intern---Summer-2027_JR00048446"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -415,7 +416,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 22,
+     "count": 23,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -438,7 +439,8 @@
       "amazon:amazon:10587999",
       "amazon:amazon:10591833",
       "amazon:amazon:10593054",
-      "amazon:amazon:10593521"
+      "amazon:amazon:10593521",
+      "amazon:amazon:10597379"
      ]
     }
    }
@@ -1360,9 +1362,10 @@
       "workday:caci:/job/Rochester-NY-US/Software-Engineering-Co-op-Intern---Spring-2027_334160",
       "workday:caci:/job/Sarasota-FL-US/Software-Engineering-Intern---Summer-2027_332618",
       "workday:caci:/job/Springfield-VA-US/Cyber-Security-Intern---Summer-2027_333046",
+      "workday:caci:/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 22
+     "count": 23
     }
    }
   },
@@ -3337,6 +3340,18 @@
     }
    }
   },
+  "illumio": {
+   "name": "Illumio",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e"
+     ],
+     "count": 1
+    }
+   }
+  },
   "imc trading": {
    "name": "IMC Trading",
    "cycles": {
@@ -4694,9 +4709,11 @@
       "greenhouse:thenewyorktimes:4751909005",
       "greenhouse:thenewyorktimes:4751917005",
       "greenhouse:thenewyorktimes:4751919005",
-      "greenhouse:thenewyorktimes:4751973005"
+      "greenhouse:thenewyorktimes:4751973005",
+      "greenhouse:thenewyorktimes:4752926005",
+      "greenhouse:thenewyorktimes:4752930005"
      ],
-     "count": 6
+     "count": 8
     }
    }
   },
@@ -4786,7 +4803,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 96,
+     "count": 97,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4826,6 +4843,7 @@
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
       "workday:ngc:/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10257798",
       "workday:ngc:/job/United-States-Connecticut-East-Hartford/XMLNAME-2027-Mechanical-Engineer-Internship---East-Hartford-CT_R10258435",
+      "workday:ngc:/job/United-States-Florida-Apopka/XMLNAME-2027-Software-Testing-Engineering-Intern---Apopka-FL_R10259820-1",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern---Systems-Security-Cybersecurity-Engineer_R10252418",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395",
@@ -5376,6 +5394,20 @@
     }
    }
   },
+  "pivotal software": {
+   "name": "Pivotal Software",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "lever:pivotal:3a80913d-886a-4d22-bf5e-9a011b157ec4",
+      "lever:pivotal:9aeda482-373d-4916-82a6-180748708ac2",
+      "lever:pivotal:b7f01112-1ca4-47c4-bd34-c291206bd506"
+     ],
+     "count": 3
+    }
+   }
+  },
   "plastipak": {
    "name": "Plastipak",
    "cycles": {
@@ -5901,6 +5933,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-109--400-Collins-Rd-NE--BLDG-109/Manufacturing-Electrical-Engineering-Co-Op--Summer-Fall-2027-_01871450",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-110--400-Collins-Rd-NE--BLDG-110/Industrial-Engineering-Co-Op--Summer-Fall-2027-_01882360",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-119--400-Collins-Rd-NE--BLDG-119/Manufacturing-Project-Specialist-Intern--Summer-2027-_01879288",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Industrial-Engineering-Co-op--Summer-Fall-2027-_01874945",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-121--350-Collins-Rd-NE--BLDG-121/Software-Engineering-Intern--Summer-2027-_01880499",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Co-op--Summer--Fall-2027-_01873293",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-124--400-Collins-Rd-NE--BLDG-124/Software-Engineering-Intern--Summer-2027-_01871884",
@@ -5938,7 +5971,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 72
+     "count": 73
     }
    }
   },
@@ -6079,6 +6112,18 @@
       "greenhouse:samsungresearchamericainternship:8927216002"
      ],
      "count": 2
+    }
+   }
+  },
+  "sanofi": {
+   "name": "Sanofi",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-09",
+     "role_ids": [
+      "workday:sanofi:/job/Swiftwater-PA/XMLNAME-2027-Summer-Intern-Automation-and-Manufacturing-Sys-Swiftwater-PA_R2865046"
+     ],
+     "count": 1
     }
    }
   },
@@ -7547,9 +7592,10 @@
       "greenhouse:waymo:8224900",
       "greenhouse:waymo:8238525",
       "greenhouse:waymo:8257237",
-      "greenhouse:waymo:8257660"
+      "greenhouse:waymo:8257660",
+      "greenhouse:waymo:8350832"
      ],
-     "count": 10
+     "count": 11
     }
    }
   },
@@ -7731,9 +7777,12 @@
       "oracle:emit.fa.ca3.oraclecloud.com:98294",
       "oracle:emit.fa.ca3.oraclecloud.com:98372",
       "oracle:emit.fa.ca3.oraclecloud.com:98461",
-      "oracle:emit.fa.ca3.oraclecloud.com:98774"
+      "oracle:emit.fa.ca3.oraclecloud.com:98774",
+      "oracle:emit.fa.ca3.oraclecloud.com:98934",
+      "oracle:emit.fa.ca3.oraclecloud.com:98938",
+      "oracle:emit.fa.ca3.oraclecloud.com:98940"
      ],
-     "count": 56
+     "count": 59
     }
    }
   },
@@ -7902,5 +7951,5 @@
    }
   }
  },
- "updated_at": "2026-11-09T20:41:33Z"
+ "updated_at": "2026-11-10T03:26:06Z"
 }

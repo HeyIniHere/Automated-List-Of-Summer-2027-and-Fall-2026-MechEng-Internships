@@ -1,12 +1,3 @@
 {
-  "pending": [
-    "workday:analogdevices:/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831",
-    "workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068",
-    "greenhouse:minitab:8200356003",
-    "workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1",
-    "ashby:skydio:c85af510-9fe4-4167-a914-c3ab344bef03",
-    "lever:tri:71e99c38-aa29-4414-956d-cc526644b9b7",
-    "smartrecruiters:WesternDigital:744000160975819",
-    "workday:elkay:/job/Freeport-IL/Manufacturing-Quality-Intern_REQ-020098"
-  ]
+  "pending": []
 }

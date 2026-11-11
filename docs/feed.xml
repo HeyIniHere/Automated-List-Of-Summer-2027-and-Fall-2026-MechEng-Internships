@@ -5,39 +5,31 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-11T01:16:41Z</updated>
+  <updated>2026-11-11T09:13:16Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:analogdevices:/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831</id>
-    <title>Analog Devices: Mechatronics Engineering Intern</title>
-    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831"/>
-    <updated>2026-11-11T01:16:34Z</updated>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655</id>
+    <title>Daimler Truck: Heavy Duty Engine Assembly Industrial Engineer Intern</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Heavy-Duty-Engine-Assembly-Industrial-Engineer-Intern_DT-20655"/>
+    <updated>2026-11-11T09:13:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · US, OR, Beaverton · Python, C++, MATLAB · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Detroit, MI US · $21–$29/hr · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068</id>
-    <title>Global Payments: CyberSecurity Intern 🛂</title>
-    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068"/>
-    <updated>2026-11-11T01:16:34Z</updated>
+    <id>urn:intern-engine:workday:dtna:/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656</id>
+    <title>Daimler Truck: Cybersecurity Intern: Governance, Risk, and Compliance (GRC) Analyst</title>
+    <link href="https://dtna.wd5.myworkdayjobs.com/DTNA_external/job/Detroit-MI-US/Cybersecurity-Intern--Governance--Risk--and-Compliance--GRC--Analyst_DT-20656"/>
+    <updated>2026-11-11T09:13:10Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · COLUMBUS, GEORGIA · AWS, GCP · sponsorship: no-sponsorship</summary>
+    <summary>Not stated · Security · Detroit, MI US · $21–$29/hr · LLMs · H-1B track record: ~50 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:minitab:8200356003</id>
-    <title>Minitab: Cybersecurity Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/minitab/jobs/8200356003"/>
-    <updated>2026-11-11T01:16:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · State College, Pennsylvania, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1</id>
-    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
-    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1"/>
-    <updated>2026-11-11T01:16:34Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · United States-Florida-Saint Augustine · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+    <id>urn:intern-engine:ashby:regent:dfdbb28f-f289-45b9-a2e5-158d81b93524</id>
+    <title>REGENT: Cybersecurity &amp; IT Operations Intern (Summer)</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/dfdbb28f-f289-45b9-a2e5-158d81b93524"/>
+    <updated>2026-11-11T09:13:10Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · North Kingstown, Rhode Island, USA · Python, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:skydio:c85af510-9fe4-4167-a914-c3ab344bef03</id>
@@ -46,6 +38,14 @@
     <updated>2026-11-11T01:16:34Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · San Mateo, California, United States · $47/hr · Python, C++ · H-1B track record: ~26 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:minitab:8200356003</id>
+    <title>Minitab: Cybersecurity Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/minitab/jobs/8200356003"/>
+    <updated>2026-11-11T01:16:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · State College, Pennsylvania, United States</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:tri:71e99c38-aa29-4414-956d-cc526644b9b7</id>
@@ -64,12 +64,36 @@
     <summary>Summer 2027 · Software · San Jose, CA, United States · Python, Java, C++, Go, JavaScript · H-1B track record: ~286 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:workday:analogdevices:/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831</id>
+    <title>Analog Devices: Mechatronics Engineering Intern</title>
+    <link href="https://analogdevices.wd1.myworkdayjobs.com/External/job/US-OR-Beaverton/Mechatronics-Engineering-Intern_R268831"/>
+    <updated>2026-11-11T01:16:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · US, OR, Beaverton · Python, C++, MATLAB · H-1B track record: ~181 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:workday:elkay:/job/Freeport-IL/Manufacturing-Quality-Intern_REQ-020098</id>
     <title>Zurn Elkay Water Solutions: Manufacturing Quality Intern</title>
     <link href="https://elkay.wd1.myworkdayjobs.com/Elkay_External/job/Freeport-IL/Manufacturing-Quality-Intern_REQ-020098"/>
     <updated>2026-11-11T01:16:34Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Freeport, IL · $20–$25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1</id>
+    <title>Northrop Grumman: 2027 Operations Manufacturing Engineering Intern 🇺🇸</title>
+    <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1"/>
+    <updated>2026-11-11T01:16:34Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · United States-Florida-Saint Augustine · $18.5–$33.5/hr · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:tsys:/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068</id>
+    <title>Global Payments: CyberSecurity Intern 🛂</title>
+    <link href="https://tsys.wd1.myworkdayjobs.com/TSYS/job/COLUMBUS-GEORGIA/CyberSecurity-Intern_R0077068"/>
+    <updated>2026-11-11T01:16:34Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · COLUMBUS, GEORGIA · AWS, GCP · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:parspec:aa7b7f63-b31f-47fa-a711-b76d93028e56</id>
@@ -782,29 +806,5 @@
     <updated>2026-11-06T20:54:41Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · US-IA-CEDAR RAPIDS-131 ~ 5450 C Ave NE ~ BLDG 131 · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:globusmedical:/job/Methuen-MA/Software-COOP_JR108063</id>
-    <title>Globus Medical: Software COOP</title>
-    <link href="https://globusmedical.wd5.myworkdayjobs.com/GMED_Careers/job/Methuen-MA/Software-COOP_JR108063"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Methuen, MA · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:godirect:/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386</id>
-    <title>Voya Financial: Summer Intern – Renewable Energy Infrastructure Debt</title>
-    <link href="https://godirect.wd5.myworkdayjobs.com/voya_jobs/job/New-York-NY/Summer-Intern---Renewable-Energy-Infrastructure-Debt_JR0033386"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York, NY · $23/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:kla:/job/Milpitas-CA/Software-Intern_2642954-1</id>
-    <title>KLA: Software Intern</title>
-    <link href="https://kla.wd1.myworkdayjobs.com/Search/job/Milpitas-CA/Software-Intern_2642954-1"/>
-    <updated>2026-11-06T20:54:41Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Milpitas, CA · $37–$49/hr · Python, Java, C++, C#, Docker · H-1B track record: ~369 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

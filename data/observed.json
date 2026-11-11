@@ -4444,6 +4444,18 @@
     }
    }
   },
+  "minitab": {
+   "name": "Minitab",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-10",
+     "role_ids": [
+      "greenhouse:minitab:8200356003"
+     ],
+     "count": 1
+    }
+   }
+  },
   "mks instruments": {
    "name": "MKS Instruments",
    "cycles": {
@@ -4853,7 +4865,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 98,
+     "count": 99,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4903,6 +4915,7 @@
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Industrial-Engineering-Intern_R10253047",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10253688",
       "workday:ngc:/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378",
+      "workday:ngc:/job/United-States-Florida-Saint-Augustine/XMLNAME-2027-Operations-Manufacturing-Engineering-Intern_R10260120-1",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Software-Engineer-Intern---Tampa-FL_R10249530",
       "workday:ngc:/job/United-States-Florida-Tampa/XMLNAME-2027-Cyber-Systems-Engineer-Intern-Tampa-FL_R10249196",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Embedded-Software-Engineer-Intern---Rolling-Meadows-IL_R10252790",
@@ -6522,9 +6535,10 @@
       "ashby:skydio:8a237302-3fe8-4403-b32b-7690f333ba52",
       "ashby:skydio:8f4f62b0-a2ea-498d-b78f-6f661b724a3c",
       "ashby:skydio:ae4a6f7d-a240-4fa2-8c8e-04cc906e4ef9",
+      "ashby:skydio:c85af510-9fe4-4167-a914-c3ab344bef03",
       "ashby:skydio:ec82eb16-a5b4-46e7-827a-326b33d7d2cb"
      ],
-     "count": 9
+     "count": 10
     }
    }
   },
@@ -7677,12 +7691,13 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-28",
-     "count": 4,
+     "count": 5,
      "role_ids": [
       "smartrecruiters:WesternDigital:744000134646158",
       "smartrecruiters:WesternDigital:744000134646354",
       "smartrecruiters:WesternDigital:744000138727213",
-      "smartrecruiters:WesternDigital:744000143171017"
+      "smartrecruiters:WesternDigital:744000143171017",
+      "smartrecruiters:WesternDigital:744000160975819"
      ]
     }
    }
@@ -8008,5 +8023,5 @@
    }
   }
  },
- "updated_at": "2026-11-10T20:33:10Z"
+ "updated_at": "2026-11-11T01:16:34Z"
 }

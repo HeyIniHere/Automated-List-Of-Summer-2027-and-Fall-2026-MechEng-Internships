@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-11T09:13:16Z",
+ "generated_at": "2026-11-11T17:55:16Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -980,7 +980,7 @@
    "expected": "2026-08-27",
    "days_until": -76,
    "status": "open",
-   "url": "https://jobs.ashbyhq.com/shield/661d7ac4-51df-454d-82c8-2a0d94852036",
+   "url": "https://jobs.ashbyhq.com/shield/043c739e-ff80-4faa-b2be-5d1e96768dfa",
    "note": ""
   },
   {
@@ -1204,7 +1204,7 @@
    "expected": "2026-09-01",
    "days_until": -71,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Data-Scaling--Embodied-AI_JR-202622132",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
    "note": ""
   },
   {
@@ -1596,7 +1596,7 @@
    "expected": "2026-09-07",
    "days_until": -65,
    "status": "open",
-   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--Software-Developer--Reston--VA-_R2603002",
+   "url": "https://icf.wd5.myworkdayjobs.com/ICFExternal_Career_Site/job/Reston-VA/XMLNAME-2027-Summer-Intern--AI-Engineer--Reston--VA-_R2603312-1",
    "note": ""
   },
   {
@@ -2496,20 +2496,6 @@
    "note": ""
   },
   {
-   "company": "Viking Global",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-21",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/vikingglobalinvestors/jobs/6202755004",
-   "note": ""
-  },
-  {
    "company": "Astranis",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -3123,20 +3109,6 @@
    "days_until": -33,
    "status": "open",
    "url": "https://workday.wd5.myworkdayjobs.com/Workday_Early_Career/job/USA-CA-Pleasanton/Cybersecurity-Engineer-Intern_JR-0110809",
-   "note": ""
-  },
-  {
-   "company": "ADT",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-12",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-12",
-   "days_until": -30,
-   "status": "open",
-   "url": "https://fa-erqb-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/3022387",
    "note": ""
   },
   {
@@ -4078,6 +4050,20 @@
    "note": ""
   },
   {
+   "company": "Formulary Financial",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-08",
+   "days_until": -3,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/formulary/bbc4fef5-3cff-4879-89bc-65aba1214b04",
+   "note": ""
+  },
+  {
    "company": "Badger Meter",
    "last_cycle_posted": "",
    "posted_on": "2026-11-09",
@@ -4201,6 +4187,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/minitab/jobs/8200356003",
+   "note": ""
+  },
+  {
+   "company": "Brex",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
+   "note": ""
+  },
+  {
+   "company": "Huron",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-11",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://huron.wd1.myworkdayjobs.com/huroncareers/job/Washington-DC---1800-M-Street-NW/Internal-Audit-and-Risk-Management---Data-Analytics---AI--Summer-2027-Internship-_JR-0017165",
    "note": ""
   },
   {
@@ -6010,6 +6024,20 @@
    "note": ""
   },
   {
+   "company": "Viking Global",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-21",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Grow Therapy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-22",
@@ -6402,6 +6430,20 @@
    "note": ""
   },
   {
+   "company": "ADT",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-12",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-12",
+   "days_until": -30,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Rhombus",
    "last_cycle_posted": "",
    "posted_on": "2026-10-13",
@@ -6682,5 +6724,5 @@
    "note": ""
   }
  ],
- "count": 477
+ "count": 480
 }

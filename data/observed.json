@@ -486,6 +486,18 @@
     }
    }
   },
+  "american electric power": {
+   "name": "American Electric Power",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:aep:/job/Columbus-OH/Cybersecurity-Intern---Summer-2027_R21158"
+     ],
+     "count": 1
+    }
+   }
+  },
   "american express": {
    "name": "American Express",
    "cycles": {
@@ -813,13 +825,14 @@
     "Summer 2027": {
      "first_posted": "2026-10-30",
      "role_ids": [
+      "workday:astrazeneca:/job/US---Boston---MA/Summer-2027-Innovation-and-AI-Transformation-Intern_R-264282-1",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Digital-and-AI-Intern_R-263647",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Sciences--Validation-Engineer-Intern_R-264093",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/Manufacturing-Solutions---Innovation-Intern_R-263167",
       "workday:astrazeneca:/job/US---Gaithersburg---MD/US-Medical-Affairs--AI---Knowledge-Experience-Intern_R-263260",
       "workday:astrazeneca:/job/US---Rockville---MD/Manufacturing-Analyst-Intern_R-264060"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -1381,6 +1394,7 @@
       "workday:caci:/job/Danbury-CT-US/Manufacturing-Engineering-Intern---Summer-2027_333189-1",
       "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
       "workday:caci:/job/Denver-CO-US/DevOps-Software-Engineering-Intern---Summer-2027_331798",
+      "workday:caci:/job/Denver-CO-US/Embedded-Software-Development-Intern---Summer-2027_333147",
       "workday:caci:/job/Denver-CO-US/Software-Engineering-Intern---Summer-2027_331543-1",
       "workday:caci:/job/Dulles-VA-US/Mechanical-Engineering-Intern---Summer-2027_333564",
       "workday:caci:/job/Florham-Park-NJ-US/Software-Engineering-Intern---Summer-2027_332543",
@@ -1395,7 +1409,7 @@
       "workday:caci:/job/Sterling-VA-US/Cyber-Security-Intern---Summer-2027_334812",
       "workday:caci:/job/Ypsilanti-MI-US/Software-Engineer-Intern---Summer-2027_331648"
      ],
-     "count": 23
+     "count": 24
     }
    }
   },
@@ -2319,12 +2333,15 @@
      "first_posted": "2026-11-10",
      "role_ids": [
       "workday:entegris:/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1",
+      "workday:entegris:/job/Aurora-IL/Power-Platform---Copilot-Studio-Intern---AI---Summer-Intern_REQ-15841",
       "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
       "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
       "workday:entegris:/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
-      "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871"
+      "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
+      "workday:entegris:/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
+      "workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"
      ],
-     "count": 5
+     "count": 8
     }
    }
   },
@@ -3703,9 +3720,10 @@
       "workday:jabil:/job/Austin-TX/AI-Transformation-Intern_J2466044",
       "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
+      "workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
       "workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -4072,10 +4090,11 @@
      "first_posted": "2026-11-11",
      "role_ids": [
       "greenhouse:lightmatter:5473871008",
+      "greenhouse:lightmatter:5474807008",
       "greenhouse:lightmatter:5479596008",
       "greenhouse:lightmatter:5479684008"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -4739,9 +4758,10 @@
       "greenhouse:muonspace:5252680007",
       "greenhouse:muonspace:5253474007",
       "greenhouse:muonspace:5256284007",
-      "greenhouse:muonspace:5266679007"
+      "greenhouse:muonspace:5266679007",
+      "greenhouse:muonspace:5293973007"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4966,7 +4986,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 107,
+     "count": 108,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4998,6 +5018,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Mechanical-Engineer-Intern---San-Diego-CA_R10252139",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
@@ -6755,9 +6776,10 @@
      "first_posted": "2026-09-01",
      "role_ids": [
       "workday:sbdinc:/job/Towson-MD-United-States/Embedded-Engineering-Summer-Intern-2027_REQ-1000052019",
+      "workday:sbdinc:/job/Towson-MD-United-States/Intern--Data-Analyst---BI--Summer-2027_REQ-1000052481",
       "workday:sbdinc:/job/Towson-MD-United-States/Mechanical-Engineering-Intern-Summer-2027_REQ-1000052017"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -7205,6 +7227,7 @@
       "workday:ttc:/job/Frederick-CO/Cloud-Software-Development-Intern---The-Toro-Company_JR17498",
       "workday:ttc:/job/Frederick-CO/Robotics-System-Test-Intern---The-Toro-Company_JR17004",
       "workday:ttc:/job/Lake-Mills-WI/Manufacturing-Engineering-Intern---HammerHead_JR17635",
+      "workday:ttc:/job/Lake-Mills-WI/Mechanical-Engineering-Intern---HammerHead_JR17392",
       "workday:ttc:/job/Perry-OK/Hardware-and-Software-Engineering-Intern---Ditch-Witch_JR17183",
       "workday:ttc:/job/Perry-OK/Manufacturing-Engineer-Intern---Ditch-Witch_JR17449",
       "workday:ttc:/job/Perry-OK/Mechanical-Engineering-Intern---Ditch-Witch_JR17098",
@@ -7213,7 +7236,7 @@
       "workday:ttc:/job/Tomah-WI/Manufacturing-Engineering-Intern--Tomah--WI----The-Toro-Company_JR17636",
       "workday:ttc:/job/Windom-MN/Manufacturing-Engineer-Intern---The-Toro-Company_JR17578"
      ],
-     "count": 20
+     "count": 21
     }
    }
   },
@@ -8144,5 +8167,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T17:36:29Z"
+ "updated_at": "2026-11-12T23:30:15Z"
 }

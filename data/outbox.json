@@ -1,23 +1,3 @@
 {
-  "pending": [
-    "workday:argonne:/job/Lemont-IL-USA/Intern---Business-Information-Systems--Enterprise-Software-Solutions_423702",
-    "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
-    "workday:entegris:/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
-    "workday:entegris:/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1",
-    "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Agentic-AI-Analytics-Co-op_R0277797",
-    "workday:greyco:/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145",
-    "workday:greyco:/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144",
-    "workday:imeg:/job/Ontario-California/Structural-Engineering-Intern---Ontario--CA_R-16906",
-    "workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046",
-    "workday:marmon:/job/Bellows-Falls-VT/Intern---Manufacturing-Engineer_JR0000047001",
-    "workday:martinmarietta:/job/Salisbury-NC/Intern--Continuous--Improvement-Industrial-Engineering--Summer-2027-_JR023610",
-    "workday:martinmarietta:/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
-    "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385",
-    "workday:ptc:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
-    "smartrecruiters:BoschGroup:744000161339309",
-    "greenhouse:sharkninjaoperatingllc:4727539006",
-    "workday:snc:/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
-    "lever:tri:4f1efb39-385b-4ff9-8e82-1459a6b22628",
-    "smartrecruiters:Wabtec:3743990016822316"
-  ]
+  "pending": []
 }

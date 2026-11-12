@@ -2318,10 +2318,13 @@
     "Summer 2027": {
      "first_posted": "2026-11-10",
      "role_ids": [
+      "workday:entegris:/job/Aurora-IL/Manufacturing-Engineering-Intern---Summer-2027_REQ-15835-1",
       "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
-      "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834"
+      "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
+      "workday:entegris:/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
+      "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871"
      ],
-     "count": 2
+     "count": 5
     }
    }
   },
@@ -2995,6 +2998,19 @@
     }
    }
   },
+  "greystone": {
+   "name": "Greystone",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "workday:greyco:/job/New-York-NY/Summer-2027---Salesforce-Developer-Intern_JR0000144",
+      "workday:greyco:/job/Warrenton-VA/Summer-2027---Full-Stack-Engineer-Internship_JR0000145"
+     ],
+     "count": 2
+    }
+   }
+  },
   "grow therapy": {
    "name": "Grow Therapy",
    "cycles": {
@@ -3462,6 +3478,7 @@
       "workday:imeg:/job/Minneapolis-MN/Structural-Engineering-Intern---Minneapolis--MN_R-16483",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16451",
       "workday:imeg:/job/Naperville-IL/Mechanical-Engineering-Intern---Naperville--IL_R-16471",
+      "workday:imeg:/job/Ontario-California/Structural-Engineering-Intern---Ontario--CA_R-16906",
       "workday:imeg:/job/Philadelphia-PA/Mechanical-Engineering-Co-op---Philadelphia--PA_R-16908",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16366",
       "workday:imeg:/job/Rock-Island-IL/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
@@ -3469,7 +3486,7 @@
       "workday:imeg:/job/Urbandale-IA/Mechanical-Engineering-Intern---Rock-Island--IL_R-16375",
       "workday:imeg:/job/Washington-DC/Structural-Intern---Fairfax--VA_R-16618"
      ],
-     "count": 18
+     "count": 19
     }
    }
   },
@@ -3733,6 +3750,18 @@
      "first_posted": "2026-08-27",
      "role_ids": [
       "workday:jm:/job/Denver-CO-WHQ/Product-Management-Intern--Summer-2027_R26_1432"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "johnson controls": {
+   "name": "Johnson Controls",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-12",
+     "role_ids": [
+      "workday:jci:/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046"
      ],
      "count": 1
     }
@@ -4236,6 +4265,19 @@
       "workday:mars:/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1"
      ],
      "count": 3
+    }
+   }
+  },
+  "martin marietta": {
+   "name": "Martin Marietta",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-22",
+     "role_ids": [
+      "workday:martinmarietta:/job/Raleigh-NC/Intern--IS-Infrastructure_JR023723",
+      "workday:martinmarietta:/job/Salisbury-NC/Intern--Continuous--Improvement-Industrial-Engineering--Summer-2027-_JR023610"
+     ],
+     "count": 2
     }
    }
   },
@@ -4924,7 +4966,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 106,
+     "count": 107,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4983,6 +5025,7 @@
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Digital-Intern---Rolling-Meadows-IL_R10252812",
       "workday:ngc:/job/United-States-Illinois-Rolling-Meadows/XMLNAME-2027-Software-Engineer-Intern---Rolling-Meadows-IL_R10253772",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-H-W-Mechanical-Engineering-Intern---Annapolis-MD_R10254668",
+      "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Manufacturing-Engineering-Intern---Annapolis-MD_R10260385",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10251185",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-Mechanical-Engineer-Intern---Annapolis-MD_R10254985",
       "workday:ngc:/job/United-States-Maryland-Annapolis/XMLNAME-2027-S-W-Cybersecurity-Intern---Annapolis-MD_R10254705",
@@ -5608,9 +5651,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-26",
      "role_ids": [
+      "workday:ptc:/job/Boston-MA-USA/Onshape-Site-Reliability-Engineering-Intern--Summer-2027-_JR112926",
       "workday:ptc:/job/Boston-MA-USA/Software-Engineer-Intern--Summer-2027-_JR112943"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -6417,9 +6461,10 @@
      "role_ids": [
       "greenhouse:sharkninjaoperatingllc:4713808006",
       "greenhouse:sharkninjaoperatingllc:4713812006",
-      "greenhouse:sharkninjaoperatingllc:4718812006"
+      "greenhouse:sharkninjaoperatingllc:4718812006",
+      "greenhouse:sharkninjaoperatingllc:4727539006"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -6531,11 +6576,12 @@
       "workday:snc:/job/Colorado-Springs-CO/Mechanical-Engineer-I--For-2026-Interns-Only-_R0030590",
       "workday:snc:/job/Dayton-OH/Software-Engineer-I--For-2026-Interns-Only-_R0030889",
       "workday:snc:/job/Lone-Tree-CO/Aerospace-Engineer-I--For-2026-Interns-Only-_R0030592",
+      "workday:snc:/job/Lone-Tree-CO/Software-Engineer-I--For-2026-Interns-Only-_R0031346",
       "workday:snc:/job/Lone-Tree-CO/Systems-Security-Engineer-I--For-2026-Interns-Only-_R0030608",
       "workday:snc:/job/Plano-TX/Mechanical-Engineer-II--For-2026-Interns-Only-_R0031204",
       "workday:snc:/job/Plano-TX/Software-Engineer-I--For-2026-Interns-Only-_R0030584"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -8098,5 +8144,5 @@
    }
   }
  },
- "updated_at": "2026-11-12T08:14:53Z"
+ "updated_at": "2026-11-12T17:36:29Z"
 }

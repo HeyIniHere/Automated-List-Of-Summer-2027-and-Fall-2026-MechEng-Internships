@@ -2500,13 +2500,14 @@
     "Summer 2027": {
      "first_posted": "2026-09-08",
      "role_ids": [
+      "greenhouse:formlabsinternships:8161818",
       "greenhouse:formlabsinternships:8186604",
       "greenhouse:formlabsinternships:8199928",
       "greenhouse:formlabsinternships:8222268",
       "greenhouse:formlabsinternships:8223362",
       "greenhouse:formlabsinternships:8256076"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4034,6 +4035,20 @@
     }
    }
   },
+  "lightmatter": {
+   "name": "Lightmatter",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-11",
+     "role_ids": [
+      "greenhouse:lightmatter:5473871008",
+      "greenhouse:lightmatter:5479596008",
+      "greenhouse:lightmatter:5479684008"
+     ],
+     "count": 3
+    }
+   }
+  },
   "linkedin": {
    "name": "LinkedIn",
    "cycles": {
@@ -4216,9 +4231,10 @@
      "first_posted": "2026-09-28",
      "role_ids": [
       "workday:mars:/job/USA-Arkansas-Ft-Smith/Summer-2027-Mars-Petcare-Manufacturing-Internship_R168212-1",
+      "workday:mars:/job/USA-Pennsylvania-Elizabethtown/Summer-2027-Mars-Snacking-Manufacturing-Internship---Muncy--PA_R172446-1",
       "workday:mars:/job/USA-Tennessee-Franklin/Summer-2027-Mars-Snacking-Manufacturing-Internship---Jackson--TN_R172450-1"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4503,9 +4519,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-11",
      "role_ids": [
+      "workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610",
       "workday:mksinst:/job/Milpitas-CA/XMLNAME-2027-Summer-Mechanical-Automation-Engineering-Intern_R20744"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -4906,7 +4923,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 100,
+     "count": 106,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -4973,6 +4990,8 @@
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Embedded-Software-Engineer-Intern---Baltimore-MD_R10251464",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Aerospace-Engineer-Intern---Baltimore-MD_R10255003",
       "workday:ngc:/job/United-States-Maryland-Baltimore/XMLNAME-2027-Mechanical-Engineer-Intern---Baltimore-MD_R10251088",
+      "workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314",
+      "workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Manufacturing-Engineering-Intern---Elkridge-MD_R10260318",
       "workday:ngc:/job/United-States-Maryland-Hanover/XMLNAME-2027-Thermal-Mechanical-Engineer-Internship---Hanover-MD_R10258425",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Aerospace-Engineering-Internship---Linthicum-MD_R10256786",
       "workday:ngc:/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910",
@@ -5002,6 +5021,10 @@
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Software-Test-Engineering-Intern--Roy-UT_R10258276-1",
       "workday:ngc:/job/United-States-Utah-Roy/XMLNAME-2027-Structural-Engineering-Intern--Roy-UT_R10258270",
       "workday:ngc:/job/United-States-Virginia-Chantilly/XMLNAME-2027-Software-Developer-Intern--Chantilly-VA_R10254863-1",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260251",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260260",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Charlottesville-VA_R10260268-1",
+      "workday:ngc:/job/United-States-Virginia-Charlottesville/XMLNAME-2027-Manufacturing-Engineering-Intern---Waynesboro-VA_R10260271",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Integration-and-Test--Electronics-Mechanical--Technical-Intern---Dulles-VA_R10259321",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Analysis-Intern---Dulles-VA_R10256105",
       "workday:ngc:/job/United-States-Virginia-Dulles/XMLNAME-2027-Mechanical-Propulsion-Engineer-Internship---Dulles-VA_R10256657",
@@ -6067,6 +6090,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01865875",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01877155",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-137--855-35Th-St-NE--BLDG-137/Software-Engineering-Intern--Summer-2027-_01878083",
+      "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-143--855-35Th-St-NE--BLDG-143/Software-Engineering-Intern--Summer-2027-_01888055",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Cyber-Research-Internship--Summer-2027----Onsite_01872177",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Co-op---Embedded-Linux--Spring-Summer-2027-_01876384",
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-166--855-35Th-St-NE--BLDG-166/Software-Engineering-Intern--Summer-2027-_01872878",
@@ -6077,7 +6101,7 @@
       "workday:globalhr:/job/US-IA-CEDAR-RAPIDS-193--1120-Collins-Rd-NE--BLDG193/Flight-Control-Software-Engineering-Intern--Summer-2027-_01871084",
       "workday:globalhr:/job/US-OK-OKLAHOMA-CITY-8120SC--8120-S-Air-Depot-Blvd--SUSTAINMENT-CTR-Dock-18/Mechanical-Design---Hot-Section-Engineering-Intern--Summer-2027---Onsite-_01871721"
      ],
-     "count": 73
+     "count": 74
     }
    }
   },
@@ -7901,9 +7925,10 @@
       "oracle:emit.fa.ca3.oraclecloud.com:98774",
       "oracle:emit.fa.ca3.oraclecloud.com:98934",
       "oracle:emit.fa.ca3.oraclecloud.com:98938",
-      "oracle:emit.fa.ca3.oraclecloud.com:98940"
+      "oracle:emit.fa.ca3.oraclecloud.com:98940",
+      "oracle:emit.fa.ca3.oraclecloud.com:99140"
      ],
-     "count": 59
+     "count": 60
     }
    }
   },
@@ -8072,5 +8097,5 @@
    }
   }
  },
- "updated_at": "2026-11-11T17:55:10Z"
+ "updated_at": "2026-11-12T00:27:22Z"
 }

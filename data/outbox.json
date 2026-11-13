@@ -1,3 +1,29 @@
 {
-  "pending": []
+  "pending": [
+    "amazon:amazon:10604778",
+    "greenhouse:arcesiumllc:5257251007",
+    "workday:asml:/job/Austin-TX-USA/Internship---EUV-Data-Science-and-Analytics_J-00357717",
+    "ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335",
+    "ashby:aurora-operations-inc:8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
+    "workday:brunswick:/job/Fond-du-Lac-WI/Mercury-Marine--Manufacturing-Engineering-Co-op_JR-051444",
+    "smartrecruiters:Carlisle:3743990016774046",
+    "workday:dtna:/job/Mount-Holly-NC-US/IT-Developer-Analyst-Intern_DT-20681",
+    "workday:dtna:/job/High-Point-NC-US/Manufacturing-Engineering-Intern---Thomas-Built-Bus_DT-20682",
+    "workday:entegris:/job/Bloomington-MN/Mechanical-Engineering-Intern_REQ-15847",
+    "workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519",
+    "workday:jabil:/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
+    "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
+    "ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b",
+    "ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
+    "ashby:reliable-robotics:cbd31c94-5a83-4d1e-8252-de67a5e594ed",
+    "workday:quickenloans:/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832",
+    "greenhouse:samsungsemiconductor:8202927003",
+    "greenhouse:samsungsemiconductor:8203052003",
+    "greenhouse:samsungsemiconductor:8203058003",
+    "smartrecruiters:ServiceNow:744000161550869",
+    "smartrecruiters:ServiceNow:744000161548289",
+    "greenhouse:sharkninjaoperatingllc:4719580006",
+    "lever:tri:6c9002a1-6ed1-42b7-829c-5ba6661446ac",
+    "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:5184"
+  ]
 }

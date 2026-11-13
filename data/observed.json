@@ -430,7 +430,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 23,
+     "count": 24,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -454,7 +454,8 @@
       "amazon:amazon:10591833",
       "amazon:amazon:10593054",
       "amazon:amazon:10593521",
-      "amazon:amazon:10597379"
+      "amazon:amazon:10597379",
+      "amazon:amazon:10604778"
      ]
     }
    }
@@ -2350,11 +2351,12 @@
       "workday:entegris:/job/Bedford-MA/Manufacturing-Engineer-Intern_REQ-15886-1",
       "workday:entegris:/job/Billerica-MA/Mechanical-Engineering-Intern_REQ-15834",
       "workday:entegris:/job/Bloomington-MN/Embedded-Software-Engineering-Intern_REQ-15870",
+      "workday:entegris:/job/Bloomington-MN/Mechanical-Engineering-Intern_REQ-15847",
       "workday:entegris:/job/Colorado-Springs-CO/Manufacturing-Engineer-Intern_REQ-15871",
       "workday:entegris:/job/Rockrimmon-Colorado-Springs-CO/Product-Management-Intern_REQ-15838",
       "workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"
      ],
-     "count": 8
+     "count": 9
     }
    }
   },
@@ -3734,9 +3736,10 @@
       "workday:jabil:/job/Austin-TX/Mechanical-System-Architect-Intern_J2469350",
       "workday:jabil:/job/Elmira-NY/Manufacturing-Engineering-Co-op---January-4--2027-July-6--2027_J2464367",
       "workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
+      "workday:jabil:/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
       "workday:jabil:/job/St-PetersburgTampa-FL/Mechanical-Engineering-Intern_J2470824-1"
      ],
-     "count": 5
+     "count": 6
     }
    }
   },
@@ -4999,7 +5002,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-07-08",
-     "count": 108,
+     "count": 109,
      "role_ids": [
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Manufacturing-Operations-and-Planning-Intern---Huntsville-AL_R10253263",
       "workday:ngc:/job/United-States-Alabama-Huntsville/XMLNAME-2027-Software-Engineering-Intern--Huntsville-AL_R10247486",
@@ -5032,6 +5035,7 @@
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Software-Engineer-Intern---San-Diego-CA_R10252150",
       "workday:ngc:/job/United-States-California-San-Diego/XMLNAME-2027-Structural-Engineer-Intern---San-Diego-CA_R10256968-1",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Aeronautical-Engineering-Intern---Sunnyvale-CA_R10260488",
+      "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Manufacturing-Engineering-Intern---Sunnyvale-CA_R10260394",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Materials-Engineer-Intern---Sunnyvale-CA_R10255084",
       "workday:ngc:/job/United-States-California-Sunnyvale/XMLNAME-2027-Mechanical-Engineer-Intern---Sunnyvale-CA_R10251428",
       "workday:ngc:/job/United-States-California-Woodland-Hills/XMLNAME-2027-Mechanical-Engineer-Intern---Woodland-Hills-CA_R10249483",
@@ -5892,6 +5896,15 @@
      "role_ids": [
       "ashby:reliable-robotics:c4968e8a-a901-4ec1-9a9d-bb5cd96efc4f"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8",
+      "ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b",
+      "ashby:reliable-robotics:cbd31c94-5a83-4d1e-8252-de67a5e594ed"
+     ],
+     "count": 3
     }
    }
   },
@@ -6054,6 +6067,18 @@
       "greenhouse:roboforce:5470001008"
      ],
      "count": 3
+    }
+   }
+  },
+  "rocket companies": {
+   "name": "Rocket Companies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "workday:quickenloans:/job/Detroit-MI/Data-Analyst-Intern---Summer-2027_R-083832"
+     ],
+     "count": 1
     }
    }
   },
@@ -6497,9 +6522,10 @@
       "greenhouse:sharkninjaoperatingllc:4713808006",
       "greenhouse:sharkninjaoperatingllc:4713812006",
       "greenhouse:sharkninjaoperatingllc:4718812006",
+      "greenhouse:sharkninjaoperatingllc:4719580006",
       "greenhouse:sharkninjaoperatingllc:4727539006"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -7506,9 +7532,10 @@
     "Summer 2027": {
      "first_posted": "2026-08-26",
      "role_ids": [
-      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682"
+      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:4682",
+      "oracle:fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com:5184"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -8189,5 +8216,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T14:37:26Z"
+ "updated_at": "2026-11-13T21:31:48Z"
 }

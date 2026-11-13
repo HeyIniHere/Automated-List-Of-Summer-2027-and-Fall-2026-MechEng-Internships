@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-13T06:08:06Z",
+ "generated_at": "2026-11-13T14:37:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -560,7 +560,7 @@
    "expected": "2026-08-14",
    "days_until": -91,
    "status": "open",
-   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Software-Engineering-Intern---Summer-2027_R68388",
+   "url": "https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
    "note": ""
   },
   {
@@ -2650,20 +2650,6 @@
    "note": ""
   },
   {
-   "company": "Sherwin-Williams",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -45,
-   "status": "open",
-   "url": "https://ejhp.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/2627789",
-   "note": ""
-  },
-  {
    "company": "Allison Transmission",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -2758,7 +2744,7 @@
    "expected": "2026-10-02",
    "days_until": -42,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
    "note": ""
   },
   {
@@ -3514,7 +3500,7 @@
    "expected": "2026-10-26",
    "days_until": -18,
    "status": "open",
-   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/AI---Decision-Science-Intern_JR105095",
+   "url": "https://jmfamily.wd1.myworkdayjobs.com/jmfamily_external/job/Florida---Deerfield-Beach/Software-Engineer-Intern_JR105199",
    "note": ""
   },
   {
@@ -4159,6 +4145,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jci.wd5.myworkdayjobs.com/JCI/job/Waynesboro-Pennsylvania-United-States-of-America/Computer-Science-CAD-Intern_WD30285046",
+   "note": ""
+  },
+  {
+   "company": "State Street",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-13",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-13",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://statestreet.wd1.myworkdayjobs.com/Global/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091",
    "note": ""
   },
   {
@@ -6178,6 +6178,20 @@
    "note": ""
   },
   {
+   "company": "Sherwin-Williams",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -45,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Dandy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -6808,5 +6822,5 @@
    "note": ""
   }
  ],
- "count": 486
+ "count": 487
 }

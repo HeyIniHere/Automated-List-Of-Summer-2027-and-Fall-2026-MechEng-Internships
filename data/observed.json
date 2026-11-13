@@ -6890,6 +6890,13 @@
      "role_ids": [
       "workday:statestreet:/job/Quincy-Massachusetts/BestX-AI-Engineer--Full-time-Internship--July---Dec-2026-_R-784548"
      ]
+    },
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "workday:statestreet:/job/Quincy-Massachusetts/Cyber-Security-Operations-Center-Analyst--Full-time-Internship--Jan---June-2027-_R-801091"
+     ],
+     "count": 1
     }
    }
   },
@@ -8182,5 +8189,5 @@
    }
   }
  },
- "updated_at": "2026-11-13T06:08:00Z"
+ "updated_at": "2026-11-13T14:37:26Z"
 }

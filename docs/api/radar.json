@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T10:05:29Z",
+ "generated_at": "2026-11-14T16:39:58Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -466,20 +466,6 @@
    "note": ""
   },
   {
-   "company": "MKS Instruments",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-11",
-   "days_until": -95,
-   "status": "open",
-   "url": "https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610",
-   "note": ""
-  },
-  {
    "company": "RTX",
    "last_cycle_posted": "",
    "posted_on": "2026-08-12",
@@ -729,20 +715,6 @@
    "days_until": -82,
    "status": "open",
    "url": "https://brunswick.wd1.myworkdayjobs.com/search/job/Brownsburg-IN/Mercury-Marine--Industrial-Engineer-Intern_JR-051584",
-   "note": ""
-  },
-  {
-   "company": "Sage",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-24",
-   "days_until": -82,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/sage49/jobs/6131185004",
    "note": ""
   },
   {
@@ -2044,7 +2016,7 @@
    "expected": "2026-09-11",
    "days_until": -64,
    "status": "open",
-   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027",
+   "url": "https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894",
    "note": ""
   },
   {
@@ -2101,6 +2073,20 @@
    "days_until": -61,
    "status": "open",
    "url": "https://jobs.ashbyhq.com/cyvl/8bfc4116-b0bb-47f8-bca1-7069a37db328",
+   "note": ""
+  },
+  {
+   "company": "CoStar Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-14",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-14",
+   "days_until": -61,
+   "status": "open",
+   "url": "https://costar.wd1.myworkdayjobs.com/Costar_Campus/job/US-VA-Arlington/Security-Engineer-Intern---Arlington--VA_R39727",
    "note": ""
   },
   {
@@ -2521,20 +2507,6 @@
    "days_until": -51,
    "status": "open",
    "url": "https://irhythmtech.wd5.myworkdayjobs.com/irhythm/job/San-Francisco-CA/Embedded-SDET-Co-Op-Full-Time-Intern-January-June-2027_JR1758",
-   "note": ""
-  },
-  {
-   "company": "ZOLL Medical Corporation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/Chelmsford-MA/Mechanical-Engineering-Intern_R20310",
    "note": ""
   },
   {
@@ -4848,6 +4820,20 @@
    "note": ""
   },
   {
+   "company": "MKS Instruments",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-11",
+   "days_until": -95,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "American Express",
    "last_cycle_posted": "",
    "posted_on": "2026-08-13",
@@ -5059,6 +5045,20 @@
   },
   {
    "company": "Freddie Mac",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-24",
+   "days_until": -82,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Sage",
    "last_cycle_posted": "",
    "posted_on": "2026-08-24",
    "precision": "day",
@@ -5716,20 +5716,6 @@
    "note": ""
   },
   {
-   "company": "CoStar Group",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-14",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-14",
-   "days_until": -61,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Genworth Financial",
    "last_cycle_posted": "",
    "posted_on": "2026-09-14",
@@ -6095,6 +6081,20 @@
   },
   {
    "company": "Aurora Innovation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -51,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "ZOLL Medical Corporation",
    "last_cycle_posted": "",
    "posted_on": "2026-09-24",
    "precision": "day",

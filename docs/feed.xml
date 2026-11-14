@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-14T10:05:29Z</updated>
+  <updated>2026-11-14T16:39:58Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1</id>
+    <title>Martin Marietta: Intern, Data Scientist</title>
+    <link href="https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1"/>
+    <updated>2026-11-14T16:39:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, SQL, LLMs, AWS, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146</id>
+    <title>Martin Marietta: Intern, Software Data Integration Engineer</title>
+    <link href="https://martinmarietta.wd5.myworkdayjobs.com/Martin_Marietta_Careers/job/Raleigh-NC/Intern--Software-Data-Integration-Engineer_JR024146"/>
+    <updated>2026-11-14T16:39:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, Java, C#, JavaScript, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179</id>
+    <title>Motorola: Software Engineering Intern - 2027 Summer Internship</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179"/>
+    <updated>2026-11-14T16:39:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Schaumburg, IL · Python, C++, Docker, Linux, Git · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511</id>
+    <title>Motorola: Software System Technologist Intern (Summer 2027 Internship) 🇺🇸</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511"/>
+    <updated>2026-11-14T16:39:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Allen, TX (TX139) · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10605132</id>
     <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast</title>
@@ -216,14 +248,6 @@
     <summary>Summer 2027 · Hardware · Bloomington, MN · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:freseniusmedicalcare:/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519</id>
-    <title>Fresenius Medical Care: Analytics and AI Business Analyst Co-op</title>
-    <link href="https://freseniusmedicalcare.wd3.myworkdayjobs.com/fme/job/Lawrence-MA-USA/Analytics-and-AI-Business-Analyst-Co-op_R0277519"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Lawrence, MA, USA</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:jabil:/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894</id>
     <title>Jabil: Industrial Engineering Intern</title>
     <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/St-PetersburgTampa-FL/Industrial-Engineering-Intern_J2470894"/>
@@ -366,22 +390,6 @@
     <updated>2026-11-12T23:30:15Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Rockrimmon, Colorado Springs, CO · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:entegris:/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866</id>
-    <title>Entegris: Mechanical Engineering Intern - Summer 2027</title>
-    <link href="https://entegris.wd1.myworkdayjobs.com/entegriscareers/job/San-Luis-Obispo-CA/Mechanical-Engineering-Intern---Summer-2027_REQ-15866"/>
-    <updated>2026-11-12T23:30:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · San Luis Obispo, CA · $20–$30/hr · H-1B track record: ~60 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:jabil:/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027</id>
-    <title>Jabil: Manufacturing Engineering Intern - Medical Device Manufacturing</title>
-    <link href="https://jabil.wd5.myworkdayjobs.com/Jabil_Careers/job/Monument-CO/Manufacturing-Engineering-Intern---Medical-Device-Manufacturing_J2469027"/>
-    <updated>2026-11-12T23:30:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Monument, CO · Python, SQL · H-1B track record: ~69 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:leidos:/job/Tucson-AZ/Junior-Software-Engineer---Data-Scientist-Intern_R-00196510</id>
@@ -728,14 +736,6 @@
     <summary>Summer 2027 · Hardware · USA-Pennsylvania-Elizabethtown</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:mksinst:/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610</id>
-    <title>MKS Instruments: 2027 Summer Software Engineer Co-op 🇺🇸</title>
-    <link href="https://mksinst.wd1.myworkdayjobs.com/MKSCareersUniversity/job/Andover-MA/XMLNAME-2027-Summer-Software-Engineer-Co-op_R20610"/>
-    <updated>2026-11-12T00:27:22Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Andover, MA · $23–$31/hr · Python, C++ · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:ngc:/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314</id>
     <title>Northrop Grumman: 2027 Industrial Engineering Intern - Elkridge MD 🇺🇸</title>
     <link href="https://ngc.wd1.myworkdayjobs.com/Northrop_Grumman_External_Site/job/United-States-Maryland-Elkridge/XMLNAME-2027-Industrial-Engineering-Intern---Elkridge-MD_R10260314"/>
@@ -805,6 +805,6 @@
     <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
     <updated>2026-11-11T17:55:10Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Seattle, Washington</summary>
+    <summary>Summer 2027 · Hardware · Seattle, WA, US</summary>
   </entry>
 </feed>

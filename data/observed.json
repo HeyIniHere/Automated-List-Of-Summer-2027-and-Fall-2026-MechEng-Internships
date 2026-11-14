@@ -4745,6 +4745,7 @@
     "Summer 2027": {
      "first_posted": "2026-08-14",
      "role_ids": [
+      "workday:motorolasolutions:/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511",
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R67740",
       "workday:motorolasolutions:/job/Chicago-IL/Android-Applications-Developer-Intern---Summer-2027_R69313",
       "workday:motorolasolutions:/job/Chicago-IL/Cyber-Security---2027-Summer-Internship--Chicago-Hybrid-_R68369",
@@ -4760,9 +4761,10 @@
       "workday:motorolasolutions:/job/Plantation-FL/XMLNAME-2027-Software-Engineering-Summer-Internship_R68125",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mechanical-Engineering-Intern---Summer-2027_R69727",
       "workday:motorolasolutions:/job/Schaumburg-IL/Mission-Critical-Networks-Software-Engineer---2027-Co-op_R67782",
+      "workday:motorolasolutions:/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179",
       "workday:motorolasolutions:/job/Westminster-CO/Software-Engineer---Summer-2027-Internship_R68997"
      ],
-     "count": 16
+     "count": 18
     }
    }
   },
@@ -8218,5 +8220,5 @@
    }
   }
  },
- "updated_at": "2026-11-14T10:05:23Z"
+ "updated_at": "2026-11-14T16:39:50Z"
 }

@@ -5,16 +5,8 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-14T02:10:53Z</updated>
+  <updated>2026-11-14T10:05:29Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10605141</id>
-    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
-    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
-    <updated>2026-11-14T02:10:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10605132</id>
     <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - West Coast</title>
@@ -24,12 +16,20 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Umatilla, Oregon, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
-    <title>ASML: Internship - Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
+    <id>urn:intern-engine:amazon:amazon:10605141</id>
+    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
+    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
+    <updated>2026-11-14T02:10:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
+    <title>ServiceNow: Security Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
     <updated>2026-11-14T02:10:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wilton, CT, USA · $18–$48/hr · MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161594249</id>
@@ -40,12 +40,12 @@
     <summary>Not stated · Data &amp; ML/AI · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
-    <title>ServiceNow: Security Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
+    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
+    <title>ASML: Internship - Mechatronics Engineer</title>
+    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
     <updated>2026-11-14T02:10:45Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
+    <summary>Not stated · Hardware · Wilton, CT, USA · $18–$48/hr · MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10604778</id>
@@ -278,14 +278,6 @@
     <updated>2026-11-13T14:37:26Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Troy, MI · Python, C++, Linux · H-1B track record: ~72 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:06daa269-c02b-43a4-88b8-b57a3ba335ef</id>
-    <title>Aurora Innovation: Software Engineer Intern, Vehicle Platforms</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef"/>
-    <updated>2026-11-13T06:08:00Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA · $52/hr · Python, C++, Linux, ROS · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:zoox:0f42ac76-3821-4805-8b59-446477d1e1db</id>
@@ -806,5 +798,13 @@
     <updated>2026-11-11T17:55:10Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Dallas, TX, US</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33</id>
+    <title>Shield AI: Summer 2027 - Mechanical Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/shield/38ba128e-815b-4a14-b4d2-446ffc190a33"/>
+    <updated>2026-11-11T17:55:10Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Seattle, Washington</summary>
   </entry>
 </feed>

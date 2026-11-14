@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14T02:10:53Z",
+ "generated_at": "2026-11-14T10:05:29Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2493,20 +2493,6 @@
    "days_until": -52,
    "status": "open",
    "url": "https://generac.wd5.myworkdayjobs.com/external/job/Waukesha-WI---USA/Mechanical-Engineering-Intern---Transfer-Switch---Summer-2027_JR17048",
-   "note": ""
-  },
-  {
-   "company": "Aurora Innovation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-24",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-24",
-   "days_until": -51,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/06daa269-c02b-43a4-88b8-b57a3ba335ef",
    "note": ""
   },
   {
@@ -6103,6 +6089,20 @@
    "source": "engine",
    "expected": "2026-09-22",
    "days_until": -53,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Aurora Innovation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-24",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-24",
+   "days_until": -51,
    "status": "dropped",
    "url": "",
    "note": ""

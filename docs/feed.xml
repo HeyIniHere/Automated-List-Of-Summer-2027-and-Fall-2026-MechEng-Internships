@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-14T16:39:58Z</updated>
+  <updated>2026-11-14T21:20:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:workday:martinmarietta:/job/Raleigh-NC/Intern--Data-Scientist_JR024144-1</id>
@@ -24,20 +24,20 @@
     <summary>Not stated · Data &amp; ML/AI · Raleigh, NC · Python, Java, C#, JavaScript, SQL</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179</id>
-    <title>Motorola: Software Engineering Intern - 2027 Summer Internship</title>
-    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179"/>
-    <updated>2026-11-14T16:39:50Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Schaumburg, IL · Python, C++, Docker, Linux, Git · H-1B track record: ~191 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:workday:motorolasolutions:/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511</id>
     <title>Motorola: Software System Technologist Intern (Summer 2027 Internship) 🇺🇸</title>
     <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Allen-TX-TX139/Software-System-Technologist-Intern--Summer-2027-Internship-_R70511"/>
     <updated>2026-11-14T16:39:50Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Allen, TX (TX139) · sponsorship: citizens-only · H-1B track record: ~191 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:motorolasolutions:/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179</id>
+    <title>Motorola: Software Engineering Intern - 2027 Summer Internship</title>
+    <link href="https://motorolasolutions.wd5.myworkdayjobs.com/Careers/job/Schaumburg-IL/Software-Engineering-Intern---2027-Summer-Internship_R70179"/>
+    <updated>2026-11-14T16:39:50Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Schaumburg, IL · Python, C++, Docker, Linux, Git · H-1B track record: ~191 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10605132</id>

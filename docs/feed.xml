@@ -5,7 +5,7 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-15T16:59:58Z</updated>
+  <updated>2026-11-15T21:42:40Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
@@ -19,14 +19,6 @@
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507664009</id>
     <title>Fanatics: Summer 2027 Internship - Manufacturing and Business Operations Summer 2027 Intern</title>
     <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507664009"/>
-    <updated>2026-11-15T16:59:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507793009</id>
-    <title>Fanatics: Summer 2027 Internship - Manufacturing Automation &amp; Controls Intern</title>
-    <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009"/>
     <updated>2026-11-15T16:59:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
@@ -48,20 +40,20 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507793009</id>
+    <title>Fanatics: Summer 2027 Internship - Manufacturing Automation &amp; Controls Intern</title>
+    <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507793009"/>
+    <updated>2026-11-15T16:59:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Sunnyvale, TX, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507819009</id>
     <title>Fanatics: Summer 2027 Internship - Product Management Intern</title>
     <link href="https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507819009"/>
     <updated>2026-11-15T16:59:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Seattle, WA, United States · H-1B track record: ~42 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:raft:6240555004</id>
-    <title>Raft: AI/ML Intern - Summer 2027 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/raft/jobs/6240555004"/>
-    <updated>2026-11-15T16:59:53Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · McLean, Virginia, United States · $30–$40/hr · PyTorch · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:raft:6239819004</id>
@@ -78,6 +70,14 @@
     <updated>2026-11-15T16:59:53Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · McLean, Virginia · $20–$24/hr · Python, Java, Go, TypeScript, JavaScript · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:raft:6240555004</id>
+    <title>Raft: AI/ML Intern - Summer 2027 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/raft/jobs/6240555004"/>
+    <updated>2026-11-15T16:59:53Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · McLean, Virginia, United States · $30–$40/hr · PyTorch · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:eppr.fa.us2.oraclecloud.com:203746</id>

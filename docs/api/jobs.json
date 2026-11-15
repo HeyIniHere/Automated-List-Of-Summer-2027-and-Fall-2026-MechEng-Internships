@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-14T21:20:30Z",
+ "generated_at": "2026-11-15T01:47:20Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1583,
+ "count": 1580,
  "jobs": [
   {
    "id": "amazon:amazon:10605132",
@@ -14445,29 +14445,6 @@
    "remote": false
   },
   {
-   "id": "workday:cbrands:/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-   "company": "Constellation Brands",
-   "title": "Intern, AI Enablement",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Rochester, New York",
-   "url": "https://cbrands.wd5.myworkdayjobs.com/CBI_External_Careers/job/Rochester-New-York/Intern--AI-Enablement_R-41526",
-   "posted_at": "2026-10-20T00:00:00Z",
-   "posted_at_source": "date_only",
-   "first_seen_at": "2026-10-20T16:47:14Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "LLMs"
-   ],
-   "source": "workday",
-   "h1b_approvals": 7,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:foxfactory:/job/US-MI-Coldwater/Manufacturing-Engineering-Intern_JR113146",
    "company": "FOX",
    "title": "Manufacturing Engineering Intern",
@@ -21265,52 +21242,6 @@
    ],
    "source": "ashby",
    "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:base-power:717274d7-09dc-4176-b307-07301074b87f",
-   "company": "Base Power",
-   "title": "Mechanical Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Hardware",
-   "location": "Austin, TX",
-   "url": "https://jobs.ashbyhq.com/base-power/717274d7-09dc-4176-b307-07301074b87f",
-   "posted_at": "2026-09-30T21:34:37.852+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-30T23:06:16Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [],
-   "source": "ashby",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:genscript:5253581007",
-   "company": "GenScript",
-   "title": "AI Intern, Enterprise Agent Development",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "Piscataway, New Jersey, United States",
-   "url": "https://job-boards.greenhouse.io/genscript/jobs/5253581007",
-   "posted_at": "2026-09-30T17:36:33-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-09-30T23:06:16Z",
-   "sponsorship": "unknown",
-   "salary": "$30–$40/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "LLMs"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 11,
    "program": "Internship",
    "remote": false
   },

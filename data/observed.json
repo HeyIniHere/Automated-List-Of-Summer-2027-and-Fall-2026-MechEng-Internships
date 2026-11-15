@@ -2401,6 +2401,23 @@
     }
    }
   },
+  "fanatics": {
+   "name": "Fanatics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-15",
+     "role_ids": [
+      "greenhouse:fanaticscollectibles:4507650009",
+      "greenhouse:fanaticscollectibles:4507664009",
+      "greenhouse:fanaticscollectibles:4507781009",
+      "greenhouse:fanaticscollectibles:4507789009",
+      "greenhouse:fanaticscollectibles:4507793009",
+      "greenhouse:fanaticscollectibles:4507819009"
+     ],
+     "count": 6
+    }
+   }
+  },
   "fannie mae": {
    "name": "Fannie Mae",
    "cycles": {
@@ -5817,6 +5834,20 @@
     }
    }
   },
+  "raft": {
+   "name": "Raft",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:raft:6239819004",
+      "greenhouse:raft:6240549004",
+      "greenhouse:raft:6240555004"
+     ],
+     "count": 3
+    }
+   }
+  },
   "ralliant": {
    "name": "Ralliant",
    "cycles": {
@@ -8220,5 +8251,5 @@
    }
   }
  },
- "updated_at": "2026-11-15T09:09:10Z"
+ "updated_at": "2026-11-15T16:59:53Z"
 }

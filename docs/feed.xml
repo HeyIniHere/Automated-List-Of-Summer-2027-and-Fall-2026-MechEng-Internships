@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-15T21:42:40Z</updated>
+  <updated>2026-11-16T01:49:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1</id>
+    <title>Viavi Solutions: Software Engineering Co-op</title>
+    <link href="https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1"/>
+    <updated>2026-11-16T01:49:50Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Germantown, MD USA · Python, C++, Linux, Git · H-1B track record: ~29 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:fanaticscollectibles:4507650009</id>
     <title>Fanatics: Summer 2027 Internship - Industrial Engineering Intern</title>
@@ -174,14 +182,6 @@
     <updated>2026-11-13T21:31:48Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Washington D.C. · $100K – $150K • Prorated for the duration of the internship. · Python, Rust, TypeScript, LLMs, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:aurora-operations-inc:8bd8b0b9-143a-400d-97d0-b3f70d9ee868</id>
-    <title>Aurora Innovation: Embedded Software Engineer Intern — Lidar</title>
-    <link href="https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Bozeman, MT · $52/hr · Python, C++, Pandas, Linux, Git · H-1B track record: ~163 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8</id>

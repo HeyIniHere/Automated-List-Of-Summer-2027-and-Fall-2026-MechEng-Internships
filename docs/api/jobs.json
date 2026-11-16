@@ -1,9 +1,35 @@
 {
- "generated_at": "2026-11-15T21:42:40Z",
+ "generated_at": "2026-11-16T01:49:56Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1583,
+ "count": 1581,
  "jobs": [
+  {
+   "id": "workday:viavisolutions:/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
+   "company": "Viavi Solutions",
+   "title": "Software Engineering Co-op",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Germantown, MD USA",
+   "url": "https://viavisolutions.wd1.myworkdayjobs.com/careers/job/Germantown-MD-USA/Software-Engineering-Co-op_260005308-1",
+   "posted_at": "2026-11-15T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-11-16T01:49:50Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "Python",
+    "C++",
+    "Linux",
+    "Git"
+   ],
+   "source": "workday",
+   "h1b_approvals": 29,
+   "program": "Co-op",
+   "remote": false
+  },
   {
    "id": "greenhouse:fanaticscollectibles:4507650009",
    "company": "Fanatics",
@@ -20387,33 +20413,6 @@
    "remote": false
   },
   {
-   "id": "ashby:aurora-operations-inc:8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
-   "company": "Aurora Innovation",
-   "title": "Embedded Software Engineer Intern — Lidar",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "Bozeman, MT",
-   "url": "https://jobs.ashbyhq.com/aurora-operations-inc/8bd8b0b9-143a-400d-97d0-b3f70d9ee868",
-   "posted_at": "2026-10-01T22:24:38.149+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-11-13T21:31:48Z",
-   "sponsorship": "unknown",
-   "salary": "$52/hr",
-   "skills": [
-    "Python",
-    "C++",
-    "Pandas",
-    "Linux",
-    "Git"
-   ],
-   "source": "ashby",
-   "h1b_approvals": 163,
-   "program": "Internship",
-   "remote": false
-  },
-  {
    "id": "workday:rb:/job/Chicago-IL/Summer-2027-Intern-Data-Science-and-Business-Analytics_R-0000033609",
    "company": "The Federal Reserve System",
    "title": "Summer 2027 Intern-Data Science and Business Analytics",
@@ -20518,33 +20517,6 @@
    "salary": null,
    "skills": [],
    "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "ashby:range:5fe3697d-b5b3-4772-9de4-1551cb726718",
-   "company": "Range",
-   "title": "Software Engineering Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Software",
-   "location": "McLean, VA",
-   "url": "https://jobs.ashbyhq.com/range/5fe3697d-b5b3-4772-9de4-1551cb726718",
-   "posted_at": "2026-10-01T23:50:30.689+00:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-02T15:44:20Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "TypeScript",
-    "JavaScript",
-    "React",
-    "Node.js",
-    "AWS"
-   ],
-   "source": "ashby",
    "h1b_approvals": null,
    "program": "Internship",
    "remote": false
@@ -20832,29 +20804,6 @@
    ],
    "source": "greenhouse",
    "h1b_approvals": 343,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:stripe:8194291",
-   "company": "Stripe",
-   "title": "Data Analyst, Intern",
-   "season": "Not stated",
-   "seasons": null,
-   "season_inferred": true,
-   "category": "Data & ML/AI",
-   "location": "New York, Seattle, South San Francisco HQ",
-   "url": "https://stripe.com/jobs/search?gh_jid=8194291",
-   "posted_at": "2026-10-01T11:05:29-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-10-01T17:08:46Z",
-   "sponsorship": "unknown",
-   "salary": null,
-   "skills": [
-    "SQL"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": 441,
    "program": "Internship",
    "remote": false
   },

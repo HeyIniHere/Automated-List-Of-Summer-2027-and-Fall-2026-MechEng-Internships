@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T09:28:48Z",
+ "generated_at": "2026-11-16T20:19:31Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3098,6 +3098,20 @@
    "note": ""
   },
   {
+   "company": "Quest Analytics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -32,
+   "status": "open",
+   "url": "https://jobs.lever.co/questanalytics/8e5758b7-6945-4c22-9f89-3d029ca9716f",
+   "note": ""
+  },
+  {
    "company": "RESPEC",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -4173,6 +4187,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/fanaticscollectibles/jobs/4507650009",
+   "note": ""
+  },
+  {
+   "company": "Nokia",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-16",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://fa-evmr-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/41816",
    "note": ""
   },
   {
@@ -6878,5 +6906,5 @@
    "note": ""
   }
  ],
- "count": 491
+ "count": 493
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-16T01:49:56Z",
+ "generated_at": "2026-11-16T09:28:48Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3756,20 +3756,6 @@
    "note": ""
   },
   {
-   "company": "Nex",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-03",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-03",
-   "days_until": -13,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/nex/jobs/5421056008",
-   "note": ""
-  },
-  {
    "company": "Samsung Research America",
    "last_cycle_posted": "",
    "posted_on": "2026-11-03",
@@ -6803,6 +6789,20 @@
    "source": "engine",
    "expected": "2026-11-02",
    "days_until": -14,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Nex",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-03",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-03",
+   "days_until": -13,
    "status": "dropped",
    "url": "",
    "note": ""

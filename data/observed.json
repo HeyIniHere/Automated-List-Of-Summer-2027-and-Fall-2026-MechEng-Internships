@@ -859,9 +859,10 @@
      "first_posted": "2026-10-05",
      "role_ids": [
       "greenhouse:astronicscorporation:4430399009",
-      "greenhouse:astronicscorporation:4431835009"
+      "greenhouse:astronicscorporation:4431835009",
+      "greenhouse:astronicscorporation:4508864009"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -4141,9 +4142,10 @@
      "first_posted": "2026-10-20",
      "role_ids": [
       "smartrecruiters:LinkedIn3:744000156616169",
-      "smartrecruiters:LinkedIn3:744000158394370"
+      "smartrecruiters:LinkedIn3:744000158394370",
+      "smartrecruiters:LinkedIn3:744000161930950"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -8279,5 +8281,5 @@
    }
   }
  },
- "updated_at": "2026-11-16T20:19:23Z"
+ "updated_at": "2026-11-17T03:44:21Z"
 }

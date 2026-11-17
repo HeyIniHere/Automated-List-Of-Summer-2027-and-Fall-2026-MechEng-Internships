@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-17T13:08:12Z",
+ "generated_at": "2026-11-17T21:46:07Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -168,7 +168,7 @@
    "expected": "2026-07-13",
    "days_until": -127,
    "status": "open",
-   "url": "https://www.akunacapital.com/careers/job/8018856/?gh_jid=8018856",
+   "url": "https://www.akunacapital.com/careers/job/8018853/?gh_jid=8018853",
    "note": "opens ~Aug-Sep"
   },
   {
@@ -2636,6 +2636,20 @@
    "note": ""
   },
   {
+   "company": "DLR Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-01",
+   "days_until": -47,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/dlrgroup/jobs/5441876008",
+   "note": ""
+  },
+  {
    "company": "Pinterest",
    "last_cycle_posted": "",
    "posted_on": "2026-10-01",
@@ -2688,7 +2702,7 @@
    "expected": "2026-10-02",
    "days_until": -46,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
    "note": ""
   },
   {
@@ -3280,6 +3294,20 @@
    "note": ""
   },
   {
+   "company": "Uber",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -28,
+   "status": "open",
+   "url": "https://iaziqy.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/304983",
+   "note": "opens late summer, rolling"
+  },
+  {
    "company": "Allstate Insurance Company",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -3305,6 +3333,20 @@
    "days_until": -27,
    "status": "open",
    "url": "https://jobs.lever.co/analyticpartners/006928a3-9a6d-49a3-be4f-46d77f0bb302",
+   "note": ""
+  },
+  {
+   "company": "Crusoe",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-21",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-21",
+   "days_until": -27,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/Crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5",
    "note": ""
   },
   {
@@ -4190,6 +4232,20 @@
    "note": ""
   },
   {
+   "company": "Oracle",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-17",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-17",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://eeho.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/350821",
+   "note": ""
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4201,6 +4257,20 @@
    "days_until": null,
    "status": "open",
    "url": "https://ats.rippling.com/apexanalytix-careers/jobs/0cfde729-9d23-4186-91a7-464a4b87af53",
+   "note": ""
+  },
+  {
+   "company": "Bound",
+   "last_cycle_posted": "",
+   "posted_on": "",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "",
+   "days_until": null,
+   "status": "open",
+   "url": "https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316",
    "note": ""
   },
   {
@@ -6654,34 +6724,6 @@
    "note": ""
   },
   {
-   "company": "Uber",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -28,
-   "status": "dropped",
-   "url": "",
-   "note": "opens late summer, rolling"
-  },
-  {
-   "company": "Crusoe",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-21",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-21",
-   "days_until": -27,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "DP World",
    "last_cycle_posted": "",
    "posted_on": "2026-10-21",
@@ -6920,5 +6962,5 @@
    "note": ""
   }
  ],
- "count": 494
+ "count": 497
 }

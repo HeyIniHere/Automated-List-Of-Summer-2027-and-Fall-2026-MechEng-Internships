@@ -660,7 +660,7 @@
    "cycles": {
     "Summer 2027": {
      "first_posted": "2026-06-10",
-     "count": 8,
+     "count": 9,
      "role_ids": [
       "greenhouse:andurilindustries:5148079007",
       "greenhouse:andurilindustries:5153187007",
@@ -669,7 +669,8 @@
       "greenhouse:andurilindustries:5239083007",
       "greenhouse:andurilindustries:5255593007",
       "greenhouse:andurilindustries:5265158007",
-      "greenhouse:andurilindustries:5269977007"
+      "greenhouse:andurilindustries:5269977007",
+      "greenhouse:andurilindustries:5274037007"
      ]
     }
    }
@@ -2106,6 +2107,32 @@
       "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"
      ],
      "count": 1
+    }
+   }
+  },
+  "dlr group": {
+   "name": "DLR Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-01",
+     "role_ids": [
+      "greenhouse:dlrgroup:5441008008",
+      "greenhouse:dlrgroup:5441148008",
+      "greenhouse:dlrgroup:5441213008",
+      "greenhouse:dlrgroup:5441262008",
+      "greenhouse:dlrgroup:5441300008",
+      "greenhouse:dlrgroup:5441370008",
+      "greenhouse:dlrgroup:5441384008",
+      "greenhouse:dlrgroup:5441778008",
+      "greenhouse:dlrgroup:5441805008",
+      "greenhouse:dlrgroup:5441813008",
+      "greenhouse:dlrgroup:5441865008",
+      "greenhouse:dlrgroup:5441869008",
+      "greenhouse:dlrgroup:5441876008",
+      "greenhouse:dlrgroup:5441878008",
+      "greenhouse:dlrgroup:5441879008"
+     ],
+     "count": 15
     }
    }
   },
@@ -5395,6 +5422,18 @@
     }
    }
   },
+  "oracle": {
+   "name": "Oracle",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-17",
+     "role_ids": [
+      "oracle:eeho.fa.us2.oraclecloud.com:350821"
+     ],
+     "count": 1
+    }
+   }
+  },
   "oshkosh": {
    "name": "Oshkosh",
    "cycles": {
@@ -7479,9 +7518,10 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
-      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922"
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:303922",
+      "oracle:iaziqy.fa.ocs.oraclecloud.com:304983"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -8281,5 +8321,5 @@
    }
   }
  },
- "updated_at": "2026-11-17T13:08:04Z"
+ "updated_at": "2026-11-17T21:46:02Z"
 }

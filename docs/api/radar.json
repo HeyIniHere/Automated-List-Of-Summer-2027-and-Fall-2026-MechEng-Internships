@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T12:58:25Z",
+ "generated_at": "2026-11-18T21:17:14Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -686,7 +686,7 @@
    "expected": "2026-08-20",
    "days_until": -90,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
    "note": ""
   },
   {
@@ -1386,7 +1386,7 @@
    "expected": "2026-09-03",
    "days_until": -76,
    "status": "open",
-   "url": "https://careers.withwaymo.com/jobs?gh_jid=8198218",
+   "url": "https://careers.withwaymo.com/jobs?gh_jid=8350832",
    "note": ""
   },
   {
@@ -3126,6 +3126,20 @@
    "note": ""
   },
   {
+   "company": "Jasperholdings",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-16",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-16",
+   "days_until": -33,
+   "status": "open",
+   "url": "https://jasperholdings.wd504.myworkdayjobs.com/jet_careers/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859",
+   "note": ""
+  },
+  {
    "company": "Ryan",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -3658,6 +3672,20 @@
    "note": ""
   },
   {
+   "company": "Pyrotek",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-30",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-30",
+   "days_until": -19,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/Pyrotek3/744000162385949",
+   "note": ""
+  },
+  {
    "company": "Stratolaunch",
    "last_cycle_posted": "",
    "posted_on": "2026-10-30",
@@ -3879,6 +3907,20 @@
    "days_until": -13,
    "status": "open",
    "url": "https://wd5.myworkdaysite.com/recruiting/westernalliancebank/WAB/job/Columbus-OH/Summer-2027-Internship---Columbus--OH---Platform-Engineering_R14024",
+   "note": ""
+  },
+  {
+   "company": "Galaxy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-06",
+   "days_until": -12,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
    "note": ""
   },
   {
@@ -4230,6 +4272,20 @@
    "status": "open",
    "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
    "note": "opens ~Sep"
+  },
+  {
+   "company": "Mission Critical Group",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016936456",
+   "note": ""
   },
   {
    "company": "APEX Analytix",
@@ -6850,20 +6906,6 @@
    "note": ""
   },
   {
-   "company": "Pyrotek",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-30",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-30",
-   "days_until": -19,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "KnowBe",
    "last_cycle_posted": "",
    "posted_on": "2026-11-01",
@@ -6920,20 +6962,6 @@
    "note": ""
   },
   {
-   "company": "Galaxy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-06",
-   "days_until": -12,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Marmon Holdings",
    "last_cycle_posted": "",
    "posted_on": "2026-11-06",
@@ -6976,5 +7004,5 @@
    "note": ""
   }
  ],
- "count": 498
+ "count": 500
 }

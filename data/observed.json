@@ -2142,9 +2142,11 @@
       "greenhouse:dlrgroup:5441869008",
       "greenhouse:dlrgroup:5441876008",
       "greenhouse:dlrgroup:5441878008",
-      "greenhouse:dlrgroup:5441879008"
+      "greenhouse:dlrgroup:5441879008",
+      "greenhouse:dlrgroup:5486592008",
+      "greenhouse:dlrgroup:5486642008"
      ],
-     "count": 15
+     "count": 17
     }
    }
   },
@@ -2242,10 +2244,12 @@
     "Summer 2027": {
      "first_posted": "2026-10-20",
      "role_ids": [
+      "ashby:drivewealth:85147395-3dfa-4c16-880f-8c7522a538ec",
       "ashby:drivewealth:a214dd6c-e3ac-481e-8308-bf74c2032b8a",
-      "ashby:drivewealth:b11409e6-a86d-4504-b4da-36636f888c16"
+      "ashby:drivewealth:b11409e6-a86d-4504-b4da-36636f888c16",
+      "ashby:drivewealth:ec17ef99-dea9-4150-b935-5f74750d7b87"
      ],
-     "count": 2
+     "count": 4
     }
    }
   },
@@ -2735,9 +2739,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-06",
      "role_ids": [
-      "greenhouse:galaxydigitalservices:6250002004"
+      "greenhouse:galaxydigitalservices:6250002004",
+      "greenhouse:galaxydigitalservices:6265138004"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -3829,6 +3834,19 @@
     }
    }
   },
+  "jasperholdings": {
+   "name": "Jasperholdings",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-16",
+     "role_ids": [
+      "workday:jasperholdings:/job/Jasper-IN/Advanced-Manufacturing-Technician-Internship--Summer-2027_R-100859",
+      "workday:jasperholdings:/job/Jasper-IN/IT-Full-Stack-Developer-Internship--Summer-2027_R-100857"
+     ],
+     "count": 2
+    }
+   }
+  },
   "jm family": {
    "name": "JM Family",
    "cycles": {
@@ -4662,6 +4680,19 @@
       "greenhouse:minitab:8200356003"
      ],
      "count": 1
+    }
+   }
+  },
+  "mission critical group": {
+   "name": "Mission Critical Group",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-18",
+     "role_ids": [
+      "smartrecruiters:MissionCriticalGroup:3743990016934722",
+      "smartrecruiters:MissionCriticalGroup:3743990016936456"
+     ],
+     "count": 2
     }
    }
   },
@@ -5819,9 +5850,10 @@
      "first_posted": "2026-10-30",
      "role_ids": [
       "smartrecruiters:Pyrotek3:744000158830479",
-      "smartrecruiters:Pyrotek3:744000160635163"
+      "smartrecruiters:Pyrotek3:744000160635163",
+      "smartrecruiters:Pyrotek3:744000162385949"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -8346,5 +8378,5 @@
    }
   }
  },
- "updated_at": "2026-11-18T12:58:18Z"
+ "updated_at": "2026-11-18T21:17:08Z"
 }

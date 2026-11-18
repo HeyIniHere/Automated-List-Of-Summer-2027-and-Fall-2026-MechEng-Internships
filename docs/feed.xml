@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-18T03:39:42Z</updated>
+  <updated>2026-11-18T12:58:25Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:airbnb:8360478</id>
+    <title>Airbnb: Software Engineering Intern (BS/MS)</title>
+    <link href="https://careers.airbnb.com/positions/8360478?gh_jid=8360478"/>
+    <updated>2026-11-18T12:58:18Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California · Java, C++, JavaScript, SQL, Swift · H-1B track record: ~317 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729</id>
+    <title>Lumentum: Internship - SW Developer Support - Program Management Office</title>
+    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---SW-Developer-Support---Program-Management-Office_20261729"/>
+    <updated>2026-11-18T12:58:18Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · USA - CA - San Jose (Ridder) · H-1B track record: ~31 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:drivewealth:a214dd6c-e3ac-481e-8308-bf74c2032b8a</id>
     <title>DriveWealth: AI Consulting Associate Program (AI CAP) Engineering Intern - Summer 2027 🛂</title>
@@ -790,21 +806,5 @@
     <updated>2026-11-13T06:08:00Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Wilton, CT, USA · $18–$48/hr · Python, C++, MATLAB, LLMs, Computer Vision · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:philips:/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012</id>
-    <title>Philips: Intern - AI &amp; Analytics Analyst - Nashville, TN - Summer 2027</title>
-    <link href="https://philips.wd3.myworkdayjobs.com/jobs-and-careers/job/Nashville-Tennessee-United-States/Intern---AI---Analytics-Analyst---Nashville--TN---Spring-2027_593012"/>
-    <updated>2026-11-13T06:08:00Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Nashville, Tennessee, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lightmatter:5474807008</id>
-    <title>Lightmatter: Data &amp; AI Platform, Intern - Summer 2027</title>
-    <link href="https://boards.greenhouse.io/lightmatter/jobs/5474807008?gh_jid=5474807008"/>
-    <updated>2026-11-12T23:30:15Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Boston, MA · Python, SQL</summary>
   </entry>
 </feed>

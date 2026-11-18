@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T03:39:42Z",
+ "generated_at": "2026-11-18T12:58:25Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2688,7 +2688,7 @@
    "expected": "2026-10-02",
    "days_until": -47,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/affirm/jobs/8008645003",
+   "url": "https://job-boards.greenhouse.io/affirm/jobs/8011590003",
    "note": ""
   },
   {
@@ -4218,6 +4218,20 @@
    "note": ""
   },
   {
+   "company": "Airbnb",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-18",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-18",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://careers.airbnb.com/positions/8360478?gh_jid=8360478",
+   "note": "opens ~Sep"
+  },
+  {
    "company": "APEX Analytix",
    "last_cycle_posted": "",
    "posted_on": "",
@@ -4426,20 +4440,6 @@
    "status": "waiting",
    "url": "",
    "note": "Sep-Oct main window"
-  },
-  {
-   "company": "Airbnb",
-   "last_cycle_posted": "",
-   "posted_on": "",
-   "precision": "month",
-   "rolling": false,
-   "confidence": "window",
-   "source": "known",
-   "expected": "2026-09-01",
-   "days_until": -78,
-   "status": "waiting",
-   "url": "",
-   "note": "opens ~Sep"
   },
   {
    "company": "Bloomberg",

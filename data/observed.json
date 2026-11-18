@@ -238,6 +238,18 @@
     }
    }
   },
+  "airbnb": {
+   "name": "Airbnb",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-18",
+     "role_ids": [
+      "greenhouse:airbnb:8360478"
+     ],
+     "count": 1
+    }
+   }
+  },
   "airbus": {
    "name": "Airbus",
    "cycles": {
@@ -8334,5 +8346,5 @@
    }
   }
  },
- "updated_at": "2026-11-18T03:39:36Z"
+ "updated_at": "2026-11-18T12:58:18Z"
 }

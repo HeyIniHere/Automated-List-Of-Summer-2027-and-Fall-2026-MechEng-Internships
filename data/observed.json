@@ -2224,6 +2224,19 @@
     }
    }
   },
+  "drivewealth": {
+   "name": "DriveWealth",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-10-20",
+     "role_ids": [
+      "ashby:drivewealth:a214dd6c-e3ac-481e-8308-bf74c2032b8a",
+      "ashby:drivewealth:b11409e6-a86d-4504-b4da-36636f888c16"
+     ],
+     "count": 2
+    }
+   }
+  },
   "dropbox": {
    "name": "Dropbox",
    "cycles": {
@@ -8321,5 +8334,5 @@
    }
   }
  },
- "updated_at": "2026-11-17T21:46:02Z"
+ "updated_at": "2026-11-18T03:39:36Z"
 }

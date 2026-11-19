@@ -1,12 +1,3 @@
 {
-  "pending": [
-    "greenhouse:heartflowinc:6263395004",
-    "greenhouse:mongodb:8346138",
-    "oracle:ibwujb.fa.ocs.oraclecloud.com:11153",
-    "greenhouse:scoutspace:5489231008",
-    "greenhouse:scoutspace:5489232008",
-    "greenhouse:scoutspace:5489237008",
-    "oracle:edbz.fa.us2.oraclecloud.com:25016336",
-    "smartrecruiters:VeoliaEnvironnementSA:744000162593839"
-  ]
+  "pending": []
 }

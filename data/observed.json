@@ -4312,6 +4312,19 @@
     }
    }
   },
+  "lucid": {
+   "name": "Lucid",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-18",
+     "role_ids": [
+      "greenhouse:lucidsoftware:6239814004",
+      "greenhouse:lucidsoftware:6239818004"
+     ],
+     "count": 2
+    }
+   }
+  },
   "lumbermen s": {
    "name": "Lumbermen's",
    "cycles": {
@@ -7497,11 +7510,12 @@
      "first_posted": "2026-10-26",
      "role_ids": [
       "lever:tri:016bbb58-857a-4367-b1aa-0cdc9f818478",
+      "lever:tri:4cac9569-cc90-4dcd-96b8-d9777c35c943",
       "lever:tri:6f60ff79-c902-466a-912c-7ab849ce6424",
       "lever:tri:be41a03c-460e-4ff7-b817-f012aa1c4b37",
       "lever:tri:d4184c04-b963-489a-9a0b-91bc57d6267e"
      ],
-     "count": 4
+     "count": 5
     }
    }
   },
@@ -8378,5 +8392,5 @@
    }
   }
  },
- "updated_at": "2026-11-18T21:17:08Z"
+ "updated_at": "2026-11-19T03:07:08Z"
 }

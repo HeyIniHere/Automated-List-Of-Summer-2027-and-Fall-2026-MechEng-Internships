@@ -5,8 +5,72 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-19T12:49:38Z</updated>
+  <updated>2026-11-19T21:19:32Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:heartflowinc:6263395004</id>
+    <title>HeartFlow: Platform Engineering Intern (Summer 2027)</title>
+    <link href="https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, California · Kubernetes, Docker, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:mongodb:8346138</id>
+    <title>MongoDB: 2027 - AI and People Transformation Intern, NYC</title>
+    <link href="https://www.mongodb.com/careers/job/?gh_jid=8346138"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York City · AWS, GCP, Azure, MongoDB · H-1B track record: ~106 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11153</id>
+    <title>Ralliant: Software Engineering Intern (Summer 2027)</title>
+    <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Beaverton, OR, United States · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489231008</id>
+    <title>Scout Space: Computer Vision (AI/ML) Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489231008"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Reston, VA - Remote · $30/hr · Python, Computer Vision · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489232008</id>
+    <title>Scout Space: Embedded Firmware Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489232008"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Reston, VA - Remote · $30/hr · Python, C++, Computer Vision, Linux, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:scoutspace:5489237008</id>
+    <title>Scout Space: Mechanical Engineering Intern 🇺🇸</title>
+    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489237008"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Reston, VA · $30/hr · Python, MATLAB · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:edbz.fa.us2.oraclecloud.com:25016336</id>
+    <title>Texas Instruments: Systems Engineering Intern (Robotics and AI) at Kilby Labs</title>
+    <link href="https://edbz.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/25016336"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Dallas, TX, United States · Python, PyTorch · H-1B track record: ~234 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000162593839</id>
+    <title>Veolia: Manufacturing Software Engineer Intern</title>
+    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839"/>
+    <updated>2026-11-19T21:19:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Boulder, CO, United States · Python, Java, C#, SQL, Git</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:workday:swib:/job/Madison-Wisconsin/Information-Security-Intern_R-001332</id>
     <title>State of Wisconsin Investment Board: Information Security Intern</title>
@@ -501,7 +565,7 @@
     <link href="https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395"/>
     <updated>2026-11-17T03:44:21Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Clarksburg, MD</summary>
+    <summary>Summer 2027 · Software · East Palo Alto, CA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:LinkedIn3:744000161930950</id>
@@ -742,69 +806,5 @@
     <updated>2026-11-14T02:10:45Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Umatilla, Oregon, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10605141</id>
-    <title>Amazon: Data Center Infrastructure Engineer Intern, Summer 2027 - East</title>
-    <link href="https://www.amazon.jobs/en/jobs/10605141/data-center-infrastructure-engineer-intern-summer-2027-east"/>
-    <updated>2026-11-14T02:10:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Herndon, Virginia, USA · AWS · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161592679</id>
-    <title>ServiceNow: Security Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161592679"/>
-    <updated>2026-11-14T02:10:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:ServiceNow:744000161594249</id>
-    <title>ServiceNow: AI Identity Intern</title>
-    <link href="https://jobs.smartrecruiters.com/ServiceNow/744000161594249"/>
-    <updated>2026-11-14T02:10:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Kirkland, Washington, United States · $58.96/hr · H-1B track record: ~849 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:asml:/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697</id>
-    <title>ASML: Internship - Mechatronics Engineer</title>
-    <link href="https://asml.wd3.myworkdayjobs.com/asmlext1/job/Wilton-CT-USA/Internship---Mechatronics-Engineer_J-00356697"/>
-    <updated>2026-11-14T02:10:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Wilton, CT, USA · $18–$48/hr · MATLAB · H-1B track record: ~384 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:amazon:amazon:10604778</id>
-    <title>Amazon: 2027 Applied Science Internship - Robotics - United States</title>
-    <link href="https://www.amazon.jobs/en/jobs/10604778/2027-applied-science-internship-robotics-united-states"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · North Reading, Massachusetts, USA · Python, C++, PyTorch, LLMs, Computer Vision · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:atalanta:52011b21-df9a-4304-81a9-005a79f55335</id>
-    <title>Atalanta: Software Engineer Intern 🇺🇸</title>
-    <link href="https://jobs.ashbyhq.com/atalanta/52011b21-df9a-4304-81a9-005a79f55335"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Washington D.C. · $100K – $150K • Prorated for the duration of the internship. · Python, Rust, TypeScript, LLMs, React · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:1085bdf8-f023-4cf6-90ed-93a2f4f6ded8</id>
-    <title>Reliable Robotics: Manufacturing Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/1085bdf8-f023-4cf6-90ed-93a2f4f6ded8"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mountain View, CA · $105K</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:4aa17839-d94c-478f-9ce9-9974df00314b</id>
-    <title>Reliable Robotics: Mechanical Engineering Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/4aa17839-d94c-478f-9ce9-9974df00314b"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Mountain View, CA · $105K</summary>
   </entry>
 </feed>

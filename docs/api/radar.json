@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T12:49:39Z",
+ "generated_at": "2026-11-19T21:19:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2580,6 +2580,20 @@
    "note": ""
   },
   {
+   "company": "Ralliant",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -51,
+   "status": "open",
+   "url": "https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153",
+   "note": ""
+  },
+  {
    "company": "Allison Transmission",
    "last_cycle_posted": "",
    "posted_on": "2026-09-30",
@@ -3892,7 +3906,7 @@
    "expected": "2026-11-06",
    "days_until": -13,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6265138004",
+   "url": "https://job-boards.greenhouse.io/galaxydigitalservices/jobs/6250002004",
    "note": ""
   },
   {
@@ -4257,6 +4271,20 @@
    "days_until": -1,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/MissionCriticalGroup/3743990016934722",
+   "note": ""
+  },
+  {
+   "company": "HeartFlow",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-19",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004",
    "note": ""
   },
   {
@@ -6346,20 +6374,6 @@
    "note": ""
   },
   {
-   "company": "Ralliant",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -51,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Sherwin-Williams",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -7018,5 +7032,5 @@
    "note": ""
   }
  ],
- "count": 501
+ "count": 502
 }

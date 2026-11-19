@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-19T03:07:15Z",
+ "generated_at": "2026-11-19T12:49:39Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -1177,20 +1177,6 @@
    "days_until": -79,
    "status": "open",
    "url": "https://jj.wd5.myworkdayjobs.com/JJ/job/Athens-Georgia-United-States-of-America/Athens-Manufacturing-Plant-2027-Co-Op_R-097654-1",
-   "note": ""
-  },
-  {
-   "company": "Michael Baker International",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-01",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-01",
-   "days_until": -79,
-   "status": "open",
-   "url": "https://ebxs.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2/job/310162",
    "note": ""
   },
   {
@@ -3262,7 +3248,7 @@
    "expected": "2026-10-20",
    "days_until": -30,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000158394370",
+   "url": "https://jobs.smartrecruiters.com/LinkedIn3/744000161930950",
    "note": ""
   },
   {
@@ -4256,7 +4242,7 @@
    "expected": "2026-11-18",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004",
+   "url": "https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004",
    "note": ""
   },
   {
@@ -5409,6 +5395,20 @@
   },
   {
    "company": "K2 Space",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-01",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-01",
+   "days_until": -79,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Michael Baker International",
    "last_cycle_posted": "",
    "posted_on": "2026-09-01",
    "precision": "day",

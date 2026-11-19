@@ -5,15 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-19T03:07:15Z</updated>
+  <updated>2026-11-19T12:49:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:lucidsoftware:6239818004</id>
-    <title>Lucid: Product Management Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"/>
+    <id>urn:intern-engine:workday:swib:/job/Madison-Wisconsin/Information-Security-Intern_R-001332</id>
+    <title>State of Wisconsin Investment Board: Information Security Intern</title>
+    <link href="https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332"/>
+    <updated>2026-11-19T12:49:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Madison Wisconsin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
+    <title>REGENT: Manufacturing Engineering Intern</title>
+    <link href="https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7"/>
     <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · LLMs</summary>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · North Kingstown, Rhode Island, USA</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:lucidsoftware:6239814004</id>
@@ -24,12 +32,12 @@
     <summary>Summer 2027 · Software · Salt Lake City, UT · LLMs</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
-    <title>REGENT: Manufacturing Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7"/>
+    <id>urn:intern-engine:greenhouse:lucidsoftware:6239818004</id>
+    <title>Lucid: Product Management Internship - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"/>
     <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · North Kingstown, Rhode Island, USA</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · LLMs</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:samsungsemiconductor:8208600003</id>
@@ -798,13 +806,5 @@
     <updated>2026-11-13T21:31:48Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Mountain View, CA · $105K</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:reliable-robotics:cbd31c94-5a83-4d1e-8252-de67a5e594ed</id>
-    <title>Reliable Robotics: Flight Software Engineer Intern (Summer 2027)</title>
-    <link href="https://jobs.ashbyhq.com/reliable-robotics/cbd31c94-5a83-4d1e-8252-de67a5e594ed"/>
-    <updated>2026-11-13T21:31:48Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA · $128K · C++</summary>
   </entry>
 </feed>

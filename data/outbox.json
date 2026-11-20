@@ -1,3 +1,26 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:ejko.fa.us2.oraclecloud.com:15160",
+    "smartrecruiters:LLNL:3743990016985261",
+    "smartrecruiters:LLNL:3743990016985486",
+    "smartrecruiters:LLNL:3743990016985026",
+    "smartrecruiters:LLNL:3743990016984696",
+    "smartrecruiters:LinkedIn3:744000162628808",
+    "smartrecruiters:llnl:3743990016985261",
+    "smartrecruiters:llnl:3743990016985486",
+    "smartrecruiters:llnl:3743990016985026",
+    "smartrecruiters:llnl:3743990016984696",
+    "greenhouse:lucidmotors:5290919007",
+    "greenhouse:lucidmotors:5290800007",
+    "greenhouse:lucidmotors:5290904007",
+    "greenhouse:lucidmotors:5290921007",
+    "greenhouse:lucidmotors:5290947007",
+    "greenhouse:lucidmotors:5290911007",
+    "greenhouse:lucidmotors:5290925007",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:11167",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:11266",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:11231",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1008995",
+    "oracle:edbz.fa.us2.oraclecloud.com:25016339"
+  ]
 }

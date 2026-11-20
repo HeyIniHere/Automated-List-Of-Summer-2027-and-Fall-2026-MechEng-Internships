@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T11:15:32Z",
+ "generated_at": "2026-11-20T19:53:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -2212,7 +2212,7 @@
    "expected": "2026-09-16",
    "days_until": -65,
    "status": "open",
-   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/260943",
+   "url": "https://fa-exvu-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/261197",
    "note": ""
   },
   {
@@ -3994,20 +3994,6 @@
    "note": ""
   },
   {
-   "company": "Legrand",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-10",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-10",
-   "days_until": -10,
-   "status": "open",
-   "url": "https://iadugs.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/1837",
-   "note": ""
-  },
-  {
    "company": "Minitab",
    "last_cycle_posted": "",
    "posted_on": "2026-11-10",
@@ -4257,6 +4243,34 @@
    "days_until": -1,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+   "note": ""
+  },
+  {
+   "company": "iCapital Network",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002",
+   "note": ""
+  },
+  {
+   "company": "Renesas Electronics",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-20",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.smartrecruiters.com/RenesasElectronics/744000162784555",
    "note": ""
   },
   {
@@ -7046,6 +7060,20 @@
    "note": ""
   },
   {
+   "company": "Legrand",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-10",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-10",
+   "days_until": -10,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oracle",
    "last_cycle_posted": "",
    "posted_on": "2026-11-17",
@@ -7060,5 +7088,5 @@
    "note": ""
   }
  ],
- "count": 504
+ "count": 506
 }

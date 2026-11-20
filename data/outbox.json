@@ -1,3 +1,13 @@
 {
-  "pending": []
+  "pending": [
+    "oracle:edmn.fa.us2.oraclecloud.com:92118",
+    "oracle:edmn.fa.us2.oraclecloud.com:92135",
+    "greenhouse:icapitalnetwork:8944694002",
+    "greenhouse:lucidmotors:5290923007",
+    "greenhouse:method:8207585003",
+    "workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1",
+    "greenhouse:pacificfusion:4515017009",
+    "oracle:ibwujb.fa.ocs.oraclecloud.com:11324",
+    "smartrecruiters:RenesasElectronics:744000162784555"
+  ]
 }

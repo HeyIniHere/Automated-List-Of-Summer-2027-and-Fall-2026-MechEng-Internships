@@ -3528,6 +3528,18 @@
     }
    }
   },
+  "icapital network": {
+   "name": "iCapital Network",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-20",
+     "role_ids": [
+      "greenhouse:icapitalnetwork:8944694002"
+     ],
+     "count": 1
+    }
+   }
+  },
   "icf": {
    "name": "ICF",
    "cycles": {
@@ -4358,10 +4370,11 @@
       "greenhouse:lucidmotors:5290911007",
       "greenhouse:lucidmotors:5290919007",
       "greenhouse:lucidmotors:5290921007",
+      "greenhouse:lucidmotors:5290923007",
       "greenhouse:lucidmotors:5290925007",
       "greenhouse:lucidmotors:5290947007"
      ],
-     "count": 7
+     "count": 8
     }
    }
   },
@@ -5415,9 +5428,10 @@
      "first_posted": "2026-10-12",
      "role_ids": [
       "workday:oatey:/job/Cleveland-OH-Manufacturing/Materials-Intern---Cleveland-Manufacturing_R7196",
+      "workday:oatey:/job/Omaha-NE-Manufacturing/Mechanical-Engineering-Intern_R7306-1",
       "workday:oatey:/job/Shakopee-MN-Manufacturing/Engineering-Intern--Manufacturing---Automation_R7258"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -5580,9 +5594,10 @@
       "greenhouse:pacificfusion:4398388009",
       "greenhouse:pacificfusion:4505668009",
       "greenhouse:pacificfusion:4505884009",
-      "greenhouse:pacificfusion:4505980009"
+      "greenhouse:pacificfusion:4505980009",
+      "greenhouse:pacificfusion:4515017009"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -6039,9 +6054,10 @@
       "oracle:ibwujb.fa.ocs.oraclecloud.com:11153",
       "oracle:ibwujb.fa.ocs.oraclecloud.com:11167",
       "oracle:ibwujb.fa.ocs.oraclecloud.com:11231",
-      "oracle:ibwujb.fa.ocs.oraclecloud.com:11266"
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:11266",
+      "oracle:ibwujb.fa.ocs.oraclecloud.com:11324"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -6147,6 +6163,18 @@
       "greenhouse:rendezvousrobotics:4408601009"
      ],
      "count": 3
+    }
+   }
+  },
+  "renesas electronics": {
+   "name": "Renesas Electronics",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-20",
+     "role_ids": [
+      "smartrecruiters:RenesasElectronics:744000162784555"
+     ],
+     "count": 1
     }
    }
   },
@@ -8452,5 +8480,5 @@
    }
   }
  },
- "updated_at": "2026-11-20T11:15:26Z"
+ "updated_at": "2026-11-20T19:53:07Z"
 }

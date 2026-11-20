@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20T02:56:23Z",
+ "generated_at": "2026-11-20T11:15:32Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -672,7 +672,7 @@
    "expected": "2026-08-20",
    "days_until": -92,
    "status": "open",
-   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/94617",
+   "url": "https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/95758",
    "note": ""
   },
   {
@@ -1708,7 +1708,7 @@
    "expected": "2026-09-09",
    "days_until": -72,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/LLNL/3743990015127766",
+   "url": "https://jobs.smartrecruiters.com/LLNL/3743990015289136",
    "note": ""
   },
   {
@@ -1722,7 +1722,7 @@
    "expected": "2026-09-09",
    "days_until": -72,
    "status": "open",
-   "url": "https://jobs.smartrecruiters.com/llnl/3743990015127766",
+   "url": "https://jobs.smartrecruiters.com/llnl/3743990015289136",
    "note": ""
   },
   {
@@ -3168,20 +3168,6 @@
    "note": ""
   },
   {
-   "company": "DriveWealth",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-20",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-20",
-   "days_until": -31,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/drivewealth/a214dd6c-e3ac-481e-8308-bf74c2032b8a",
-   "note": ""
-  },
-  {
    "company": "GoFundMe",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
@@ -4256,7 +4242,7 @@
    "expected": "2026-11-19",
    "days_until": -1,
    "status": "open",
-   "url": "https://lucidmotors.com/careers/search/5290919007?gh_jid=5290919007",
+   "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
    "note": ""
   },
   {
@@ -6767,6 +6753,20 @@
   },
   {
    "company": "Berkshire Hathaway Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-20",
+   "days_until": -31,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "DriveWealth",
    "last_cycle_posted": "",
    "posted_on": "2026-10-20",
    "precision": "day",

@@ -5,8 +5,40 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-21T17:25:53Z</updated>
+  <updated>2026-11-21T22:58:56Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workday:firstpremier:/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1</id>
+    <title>First PREMIER Bank: PREMIER Information Security Intern</title>
+    <link href="https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Sioux Falls, SD</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
+    <title>Neros Technologies: Mechanical Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Torrance, California, United States · $55/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:rhoda-ai:2de33083-782f-489e-9b91-f40761a36bf4</id>
+    <title>Rhoda AI: Software Engineer Intern, Inference</title>
+    <link href="https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, CA · Python, C++, PyTorch, CUDA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:rhoda-ai:9a57c8ff-dd2b-4547-a46a-44658a699ba5</id>
+    <title>Rhoda AI: Software Engineer Intern, Rhoda Platform</title>
+    <link href="https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, CA · $40 – $50 per hour · Python, C++, Go, Rust, AWS</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:biohub:8400682</id>
     <title>Biohub: AI Research Scientist Intern 🛂</title>
@@ -32,12 +64,12 @@
     <summary>Summer 2027 · Data &amp; ML/AI · Torrance CA · $25/hr · Python, SQL, LLMs, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302</id>
-    <title>Intel: Signal integrity AI enabling intern</title>
-    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302"/>
+    <id>urn:intern-engine:lever:momsmeals:77331b7f-4efc-488d-a6af-584788e3d1b0</id>
+    <title>Mom's Meals: Software Quality Assurance (QA) Intern</title>
+    <link href="https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0"/>
     <updated>2026-11-21T17:25:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · US, Arizona, Phoenix · MATLAB, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+    <summary>Not stated · Software · Ankeny, IA · SQL</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:lever:momsmeals:ff278459-9abf-43af-9898-2d16cfb0ac74</id>
@@ -48,12 +80,12 @@
     <summary>Not stated · Hardware · Oklahoma City, OK</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:lever:momsmeals:77331b7f-4efc-488d-a6af-584788e3d1b0</id>
-    <title>Mom's Meals: Software Quality Assurance (QA) Intern</title>
-    <link href="https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0"/>
+    <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302</id>
+    <title>Intel: Signal integrity AI enabling intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302"/>
     <updated>2026-11-21T17:25:48Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Software · Ankeny, IA · SQL</summary>
+    <summary>Not stated · Data &amp; ML/AI · US, Arizona, Phoenix · MATLAB, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:99351</id>
@@ -774,37 +806,5 @@
     <updated>2026-11-17T03:44:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Redmond, Washington, United States · $30/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:minitab:8200708003</id>
-    <title>Minitab: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/minitab/jobs/8200708003"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · State College, Pennsylvania, United States · Python, C++, C#, JavaScript, React</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:lever:tri:c6569529-4b6b-4229-b2c9-f97467c26cd3</id>
-    <title>Toyota Research Institute: Robotics Intern, World Models, Multimodal Sensing</title>
-    <link href="https://jobs.lever.co/tri/c6569529-4b6b-4229-b2c9-f97467c26cd3"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Cambridge, MA · $58/hr · Python, PyTorch, LLMs · H-1B track record: ~10 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:forterra:74bf4d28-aea6-4323-aee2-c5bded201e9d</id>
-    <title>Forterra: 2027 Intern - Mechanical Engineer</title>
-    <link href="https://ats.rippling.com/forterra/jobs/74bf4d28-aea6-4323-aee2-c5bded201e9d"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Clarksburg, MD</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:forterra:988bc637-2b57-4e15-b594-b2bb4b545395</id>
-    <title>Forterra: 2027 Intern - Software</title>
-    <link href="https://ats.rippling.com/forterra/jobs/988bc637-2b57-4e15-b594-b2bb4b545395"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · East Palo Alto, CA</summary>
   </entry>
 </feed>

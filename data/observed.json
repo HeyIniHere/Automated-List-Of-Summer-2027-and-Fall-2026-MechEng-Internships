@@ -5072,6 +5072,18 @@
     }
    }
   },
+  "neros technologies": {
+   "name": "Neros Technologies",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-21",
+     "role_ids": [
+      "greenhouse:nerostechnologies:4648209007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "netflix": {
    "name": "Netflix",
    "cycles": {
@@ -8507,5 +8519,5 @@
    }
   }
  },
- "updated_at": "2026-11-21T17:25:48Z"
+ "updated_at": "2026-11-21T22:58:49Z"
 }

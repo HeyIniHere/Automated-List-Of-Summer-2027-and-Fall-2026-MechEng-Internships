@@ -5,8 +5,56 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-21T09:30:16Z</updated>
+  <updated>2026-11-21T17:25:53Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:biohub:8400682</id>
+    <title>Biohub: AI Research Scientist Intern 🛂</title>
+    <link href="https://job-boards.greenhouse.io/biohub/jobs/8400682"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · New York, NY (Hybrid); Redwood City, CA (Hybrid) · $64.42–$88.32/hr · PyTorch · sponsorship: no-sponsorship</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:epwealth:6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9</id>
+    <title>EP Wealth Advisors: Cybersecurity Intern</title>
+    <link href="https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Torrance CA · $25/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:epwealth:b9b8ce36-70e5-495e-8ec2-f06456b5851b</id>
+    <title>EP Wealth Advisors: Data AI Engineering Intern</title>
+    <link href="https://jobs.lever.co/epwealth/b9b8ce36-70e5-495e-8ec2-f06456b5851b"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Torrance CA · $25/hr · Python, SQL, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:intel:/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302</id>
+    <title>Intel: Signal integrity AI enabling intern</title>
+    <link href="https://intel.wd1.myworkdayjobs.com/external/job/US-Arizona-Phoenix/Signal-integrity-AI-enabling-intern_JR0289302"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · US, Arizona, Phoenix · MATLAB, LLMs · H-1B track record: ~4.8k approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:momsmeals:ff278459-9abf-43af-9898-2d16cfb0ac74</id>
+    <title>Mom's Meals: Production Intern (Mechanical Engineering)</title>
+    <link href="https://jobs.lever.co/momsmeals/ff278459-9abf-43af-9898-2d16cfb0ac74"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Oklahoma City, OK</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:momsmeals:77331b7f-4efc-488d-a6af-584788e3d1b0</id>
+    <title>Mom's Meals: Software Quality Assurance (QA) Intern</title>
+    <link href="https://jobs.lever.co/momsmeals/77331b7f-4efc-488d-a6af-584788e3d1b0"/>
+    <updated>2026-11-21T17:25:48Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Ankeny, IA · SQL</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:oracle:emit.fa.ca3.oraclecloud.com:99351</id>
     <title>WSP: Mechanical Engineering Intern - Summer 2027</title>
@@ -758,53 +806,5 @@
     <updated>2026-11-17T03:44:21Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · East Palo Alto, CA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:LinkedIn3:744000161930950</id>
-    <title>LinkedIn: Systems &amp; Infrastructure Engineer Intern, Masters - Summer 2027 (Mountain View, CA)</title>
-    <link href="https://jobs.smartrecruiters.com/LinkedIn3/744000161930950"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Mountain View, CA, United States · Python, Java, C++, C#, Kafka · H-1B track record: ~1.6k approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1</id>
-    <title>Gorbel: Manufacturing Engineer Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2371-1"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA, New York, Victor · $23–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1</id>
-    <title>Gorbel: Manufacturing Engineer Co-Op</title>
-    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Manufacturing-Engineer-Co-Op_REQ-2026-2372-1"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · USA, New York, Victor · $23–$25/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:lumentum:/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771</id>
-    <title>Lumentum: Internship - Data Science &amp; Analytics</title>
-    <link href="https://lumentum.wd5.myworkdayjobs.com/LITE/job/USA---CA---San-Jose-Ridder/Internship---Data-Science---Analytics_20261771"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · USA - CA - San Jose (Ridder) · $27.75–$54.3/hr · Python, C++, SQL, MATLAB, Tableau · H-1B track record: ~31 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:thekineticgroup:/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982</id>
-    <title>The Kinetic Group: Manufacturing Engineering Internship - Remington</title>
-    <link href="https://thekineticgroup.wd1.myworkdayjobs.com/EXTERNAL_TKG/job/Lonoke-AR/Manufacturing-Engineering-Internship---Remington_R0012982"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Lonoke, AR</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:addepar1:8910324002</id>
-    <title>Addepar: Technical Product Management Intern (ADX) - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/addepar1/jobs/8910324002"/>
-    <updated>2026-11-16T20:19:23Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · New York, NY · $39/hr · H-1B track record: ~37 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

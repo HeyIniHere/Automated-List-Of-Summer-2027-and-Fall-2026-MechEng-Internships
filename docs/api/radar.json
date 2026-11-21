@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-21T09:30:16Z",
+ "generated_at": "2026-11-21T17:25:53Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3994,6 +3994,20 @@
    "note": ""
   },
   {
+   "company": "EP Wealth Advisors",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-11",
+   "days_until": -10,
+   "status": "open",
+   "url": "https://jobs.lever.co/epwealth/6f92e3ad-ab55-44bf-b2d6-395cdd4dc7a9",
+   "note": ""
+  },
+  {
    "company": "Huron",
    "last_cycle_posted": "",
    "posted_on": "2026-11-11",
@@ -4215,6 +4229,20 @@
    "days_until": -2,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/scoutspace/jobs/5489231008",
+   "note": ""
+  },
+  {
+   "company": "Biohub",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-20",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-20",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/biohub/jobs/8400682",
    "note": ""
   },
   {
@@ -7088,5 +7116,5 @@
    "note": ""
   }
  ],
- "count": 506
+ "count": 508
 }

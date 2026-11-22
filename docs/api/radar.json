@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T02:59:42Z",
+ "generated_at": "2026-11-22T11:05:13Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -827,20 +827,6 @@
    "days_until": -88,
    "status": "open",
    "url": "https://qtsdatacenters.wd5.myworkdayjobs.com/qts/job/Irving-TX/Summer-2027-Internship--Internal-Data-Center-Infrastructure-Projects_R2026-1906",
-   "note": ""
-  },
-  {
-   "company": "Verisk",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-26",
-   "days_until": -88,
-   "status": "open",
-   "url": "https://fa-ewmy-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/5184",
    "note": ""
   },
   {
@@ -5249,6 +5235,20 @@
    "source": "engine",
    "expected": "2026-08-25",
    "days_until": -89,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Verisk",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-26",
+   "days_until": -88,
    "status": "dropped",
    "url": "",
    "note": ""

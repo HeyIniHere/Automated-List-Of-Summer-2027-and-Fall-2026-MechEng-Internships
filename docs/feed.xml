@@ -5,23 +5,23 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-21T22:58:56Z</updated>
+  <updated>2026-11-22T02:59:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workday:firstpremier:/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1</id>
-    <title>First PREMIER Bank: PREMIER Information Security Intern</title>
-    <link href="https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1"/>
-    <updated>2026-11-21T22:58:49Z</updated>
+    <id>urn:intern-engine:workday:gorbel:/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1</id>
+    <title>Gorbel: Front-End Web Developer Co-Op</title>
+    <link href="https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1"/>
+    <updated>2026-11-22T02:59:34Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Security · Sioux Falls, SD</summary>
+    <summary>Not stated · Software · USA, New York, Victor · $23–$25/hr · JavaScript, .NET</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
-    <title>Neros Technologies: Mechanical Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007"/>
-    <updated>2026-11-21T22:58:49Z</updated>
+    <id>urn:intern-engine:greenhouse:nerostechnologies:5278981007</id>
+    <title>Neros Technologies: Firmware/Embedded Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007"/>
+    <updated>2026-11-22T02:59:34Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Torrance, California, United States · $55/hr</summary>
+    <summary>Summer 2027 · Hardware · Torrance, California, United States · $55/hr · Python, C++, Linux, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:rhoda-ai:2de33083-782f-489e-9b91-f40761a36bf4</id>
@@ -38,6 +38,22 @@
     <updated>2026-11-21T22:58:49Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Sunnyvale, CA · $40 – $50 per hour · Python, C++, Go, Rust, AWS</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:nerostechnologies:4648209007</id>
+    <title>Neros Technologies: Mechanical Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Torrance, California, United States · $55/hr</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:firstpremier:/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1</id>
+    <title>First PREMIER Bank: PREMIER Information Security Intern</title>
+    <link href="https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1"/>
+    <updated>2026-11-21T22:58:49Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Sioux Falls, SD</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:biohub:8400682</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-17T21:46:02Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Farmington Hills, MI, United States · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:clera:42992916-9ca1-48ca-9378-f4a13ea3733d</id>
-    <title>Clera: Full-Stack Software Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/Clera/42992916-9ca1-48ca-9378-f4a13ea3733d"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · New York · $50/hr</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:astronicscorporation:4508864009</id>
-    <title>Astronics: Manufacturing Engineering Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/astronicscorporation/jobs/4508864009"/>
-    <updated>2026-11-17T03:44:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Redmond, Washington, United States · $30/hr</summary>
   </entry>
 </feed>

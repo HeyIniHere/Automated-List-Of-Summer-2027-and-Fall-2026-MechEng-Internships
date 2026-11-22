@@ -1,8 +1,8 @@
 {
- "generated_at": "2026-11-22T11:05:13Z",
+ "generated_at": "2026-11-22T19:21:18Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1631,
+ "count": 1632,
  "jobs": [
   {
    "id": "greenhouse:nerostechnologies:5278981007",
@@ -35805,6 +35805,27 @@
    ],
    "source": "smartrecruiters",
    "h1b_approvals": 303,
+   "program": "Internship",
+   "remote": false
+  },
+  {
+   "id": "oracle:ehzq.fa.us2.oraclecloud.com:115637",
+   "company": "Grant Thornton",
+   "title": "Cybersecurity and Privacy Intern - Summer 2027",
+   "season": "Summer 2027",
+   "seasons": null,
+   "season_inferred": false,
+   "category": "Security",
+   "location": "New York, NY, United States",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
+   "posted_at": "2026-08-25",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-08-25T20:40:58Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$40/hr",
+   "skills": [],
+   "source": "oracle",
+   "h1b_approvals": 118,
    "program": "Internship",
    "remote": false
   },

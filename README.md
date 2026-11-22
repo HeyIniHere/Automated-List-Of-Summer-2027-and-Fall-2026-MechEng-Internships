@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1631 open roles (613 listed below) · 131 new this week
+### 1632 open roles (613 listed below) · 122 new this week
 
-5,072 employers tracked · updated Nov 22, 2026 at 11:05 UTC
+5,074 employers tracked · updated Nov 22, 2026 at 19:21 UTC
 
-_1162 have a cycle the employer stated · 469 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_1163 have a cycle the employer stated · 469 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -36,7 +36,7 @@ This is an engine, not a hand-kept list. It polls company career feeds several t
 - **A date on nearly every role** - taken from the job portal itself where the portal states one, so newest-first actually means newest. The exact coverage figure is printed at the bottom of this page every run.
 - **Skill tags + pay, extracted** - every posting's text is scanned for the stack it wants (Python, C++, PyTorch, ...) and the pay it states - searchable on the [dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/), included in the CSV and API.
 - **Alerts your way** - [email digests](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe) or [RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml) (point any reader, or a Slack/Discord RSS integration, at it) - plus a [live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/) with search, filters, and a saved-roles list that never leaves your browser.
-- **An engine, not a spreadsheet** - 5,248 job-board endpoints (5,072 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
+- **An engine, not a spreadsheet** - 5,250 job-board endpoints (5,074 distinct employers; some run more than one board) polled every hour across 12 ATS platforms, full source and tests in this repo.
 
 ## Scope
 
@@ -761,7 +761,6 @@ _Why each one left is in the last column, because the two reasons carry differen
 | Crusoe | Software Engineering Intern, Summer 2027 | Summer 2027 | 2026-11-21 | gone from feed |
 | DLR Group | Structural Engineering Intern / Summer 2027 | Summer 2027 | 2026-11-21 | gone from feed |
 | Lightmatter | Laser Firmware Intern - Summer 2027 | Summer 2027 | 2026-11-21 | gone from feed |
-| Grant Thornton | Cybersecurity and Privacy Intern - Summer 2027 | Summer 2027 | 2026-11-21 | gone from feed |
 | Western Alliance | Summer 2027 Internship - Dallas, TX - Platform Engineering | Summer 2027 | 2026-11-21 | gone from feed |
 | GM financial | Intern - Software Development Engineer | Summer 2027 | 2026-11-20 | gone from feed |
 | Legrand | Product Management Intern | Summer 2027 | 2026-11-20 | gone from feed |
@@ -792,6 +791,7 @@ _Why each one left is in the last column, because the two reasons carry differen
 | The New York Times | Android Engineering Intern | Summer 2027 | 2026-11-19 | gone from feed |
 | The New York Times | iOS Engineering Intern | Summer 2027 | 2026-11-19 | gone from feed |
 | Oracle | OCI Intern Conversion - Undergrad Software Engineer Full-Time  - Nashville, TN - February 2027 | Summer 2027 | 2026-11-19 | gone from feed |
+| CapTech Consulting | Consulting Internship: Software Engineering (Summer 2027) | Summer 2027 | 2026-11-19 | gone from feed |
 
 </details>
 
@@ -810,7 +810,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,226 of 5,248 registered boards returned successfully across 12 ATS platforms (96% of boards attempted, 61% of the full registry) · completed in 119.4s · 29 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,228 of 5,250 registered boards returned successfully across 12 ATS platforms (93% of boards attempted, 61% of the full registry) · completed in 258.3s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

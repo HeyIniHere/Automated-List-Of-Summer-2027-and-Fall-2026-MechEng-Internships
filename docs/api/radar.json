@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22T11:05:13Z",
+ "generated_at": "2026-11-22T19:21:18Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -729,6 +729,20 @@
    "days_until": -89,
    "status": "open",
    "url": "https://jobs.smartrecruiters.com/AECOM2/744000145517564",
+   "note": ""
+  },
+  {
+   "company": "Grant Thornton",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-25",
+   "days_until": -89,
+   "status": "open",
+   "url": "https://ehzq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/115637",
    "note": ""
   },
   {
@@ -5213,20 +5227,6 @@
   },
   {
    "company": "DTCC",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-25",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-25",
-   "days_until": -89,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Grant Thornton",
    "last_cycle_posted": "",
    "posted_on": "2026-08-25",
    "precision": "day",

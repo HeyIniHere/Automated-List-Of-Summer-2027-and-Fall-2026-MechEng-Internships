@@ -443,7 +443,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 26,
+     "count": 27,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -470,7 +470,8 @@
       "amazon:amazon:10597379",
       "amazon:amazon:10604778",
       "amazon:amazon:10605132",
-      "amazon:amazon:10605141"
+      "amazon:amazon:10605141",
+      "amazon:amazon:10606968"
      ]
     }
    }
@@ -1116,6 +1117,18 @@
      "first_posted": "2026-08-04",
      "role_ids": [
       "lever:belvederetrading:10746b3d-1760-4573-9b63-b93f5a5e4fc0"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "benchling": {
+   "name": "Benchling",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-23",
+     "role_ids": [
+      "ashby:benchling:96370d1b-d35e-446b-8e26-dce088860099"
      ],
      "count": 1
     }
@@ -6630,9 +6643,10 @@
      "first_posted": "2026-11-03",
      "role_ids": [
       "greenhouse:samsungresearchamericainternship:8926019002",
-      "greenhouse:samsungresearchamericainternship:8927216002"
+      "greenhouse:samsungresearchamericainternship:8927216002",
+      "greenhouse:samsungresearchamericainternship:8955802002"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6861,6 +6875,7 @@
       "ashby:shield:a28e047a-ee12-452c-883b-ecd995d1b6b2",
       "ashby:shield:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
+      "ashby:shield:f96617c2-a120-4b3b-844d-790fcda42503",
       "ashby:shieldai:043c739e-ff80-4faa-b2be-5d1e96768dfa",
       "ashby:shieldai:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shieldai:621d736b-5ae1-4d62-8f05-088753318d29",
@@ -6877,7 +6892,7 @@
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
       "lever:shieldai:db8fc063-8856-4404-991c-f287712de949"
      ],
-     "count": 28
+     "count": 29
     }
    }
   },
@@ -7190,9 +7205,10 @@
       "oracle:hdhl.fa.us6.oraclecloud.com:1008570",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008571",
       "oracle:hdhl.fa.us6.oraclecloud.com:1008822",
-      "oracle:hdhl.fa.us6.oraclecloud.com:1008995"
+      "oracle:hdhl.fa.us6.oraclecloud.com:1008995",
+      "oracle:hdhl.fa.us6.oraclecloud.com:1009005"
      ],
-     "count": 52
+     "count": 53
     }
    }
   },
@@ -8428,9 +8444,10 @@
       "workday:zebra:/job/Holtsville-New-York/XMLNAME-2027-Summer-Internship--US----Software-Engineer_JR103657",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----AI_JR103639",
       "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Data-Scientist_JR103610",
-      "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652"
+      "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103652",
+      "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660"
      ],
-     "count": 11
+     "count": 12
     }
    }
   },
@@ -8520,5 +8537,5 @@
    }
   }
  },
- "updated_at": "2026-11-23T08:48:15Z"
+ "updated_at": "2026-11-23T21:06:21Z"
 }

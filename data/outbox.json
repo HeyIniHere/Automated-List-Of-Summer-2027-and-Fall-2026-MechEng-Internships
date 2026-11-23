@@ -1,3 +1,20 @@
 {
-  "pending": []
+  "pending": [
+    "amazon:amazon:10606968",
+    "greenhouse:artefactnoram:8958081002",
+    "greenhouse:artefactnoram:8958076002",
+    "greenhouse:artefactnoram:8958073002",
+    "ashby:benchling:96370d1b-d35e-446b-8e26-dce088860099",
+    "oracle:fa-ewub-saasfaprod1.fa.ocs.oraclecloud.com:1456",
+    "lever:exowatt:944f1678-7a96-41f2-93ac-5971097279ac",
+    "lever:exowatt:d31ed418-2635-4c70-a82d-b851dda2a844",
+    "lever:exowatt:86589116-72a5-44f1-893a-1c688d15f2cf",
+    "oracle:iadugs.fa.ocs.oraclecloud.com:1983",
+    "greenhouse:oscar:8407472",
+    "greenhouse:samsungresearchamericainternship:8955802002",
+    "smartrecruiters:SeniorPlc1:3743990017044886",
+    "ashby:shield:f96617c2-a120-4b3b-844d-790fcda42503",
+    "oracle:hdhl.fa.us6.oraclecloud.com:1009005",
+    "workday:zebra:/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660"
+  ]
 }

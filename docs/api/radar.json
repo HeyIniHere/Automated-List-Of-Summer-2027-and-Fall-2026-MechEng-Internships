@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T08:48:23Z",
+ "generated_at": "2026-11-23T21:06:26Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -3042,6 +3042,20 @@
    "note": ""
   },
   {
+   "company": "Fortive",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -39,
+   "status": "open",
+   "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826",
+   "note": ""
+  },
+  {
    "company": "Quest Analytics",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -3151,6 +3165,20 @@
    "days_until": -35,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/thealleninstitute/jobs/8293641",
+   "note": ""
+  },
+  {
+   "company": "Zebra Technologies",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-19",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-19",
+   "days_until": -35,
+   "status": "open",
+   "url": "https://zebra.wd501.myworkdayjobs.com/Zebra_careers/job/Lincolnshire-Illinois/XMLNAME-2027-Summer-Internship--US----Product-Management_JR103660",
    "note": ""
   },
   {
@@ -3966,20 +3994,6 @@
    "note": ""
   },
   {
-   "company": "Brex",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-11",
-   "days_until": -12,
-   "status": "open",
-   "url": "https://www.brex.com/careers/8936403002?gh_jid=8936403002",
-   "note": ""
-  },
-  {
    "company": "EP Wealth Advisors",
    "last_cycle_posted": "",
    "posted_on": "2026-11-11",
@@ -4271,6 +4285,20 @@
    "days_until": -2,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007",
+   "note": ""
+  },
+  {
+   "company": "Benchling",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-23",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-23",
+   "days_until": 0,
+   "status": "open",
+   "url": "https://jobs.ashbyhq.com/benchling/96370d1b-d35e-446b-8e26-dce088860099",
    "note": ""
   },
   {
@@ -6738,20 +6766,6 @@
    "note": ""
   },
   {
-   "company": "Fortive",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -39,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "Pattern",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -6761,20 +6775,6 @@
    "source": "engine",
    "expected": "2026-10-16",
    "days_until": -38,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
-   "company": "Zebra Technologies",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-19",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-19",
-   "days_until": -35,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -7116,6 +7116,20 @@
    "note": ""
   },
   {
+   "company": "Brex",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-11",
+   "days_until": -12,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Oracle",
    "last_cycle_posted": "",
    "posted_on": "2026-11-17",
@@ -7130,5 +7144,5 @@
    "note": ""
   }
  ],
- "count": 509
+ "count": 510
 }

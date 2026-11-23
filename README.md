@@ -6,9 +6,9 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1631 open roles (612 listed below) · 124 new this week
+### 1631 open roles (612 listed below) · 123 new this week
 
-5,074 employers tracked · updated Nov 23, 2026 at 00:42 UTC
+5,074 employers tracked · updated Nov 23, 2026 at 08:48 UTC
 
 _1163 have a cycle the employer stated · 468 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -78,8 +78,8 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Neros Technologies | Firmware/Embedded Software Engineer Intern - Summer 2027 🆕 | Hardware | Torrance, California, United States | Nov 21, 2026 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/5278981007) |
 | Neros Technologies | Mechanical Engineer Intern - Summer 2027 🆕 | Hardware | Torrance, California, United States | Nov 21, 2026 | [Apply](https://job-boards.greenhouse.io/nerostechnologies/jobs/4648209007) |
 | Biohub | AI Research Scientist Intern 🛂 🆕 | Data & ML/AI | New York +3 more | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/biohub/jobs/8400682) |
-| WSP | Mechanical Engineering Intern - Summer 2027 🆕 | Hardware | Greenville, SC, United States | Nov 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351) |
-| Ralliant | Software Design Engineer Intern (Summer 2027) 🆕 | Software | Beaverton, OR, United States | Nov 20, 2026 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) |
+| WSP | Mechanical Engineering Intern - Summer 2027 | Hardware | Greenville, SC, United States | Nov 20, 2026 | [Apply](https://emit.fa.ca3.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/99351) |
+| Ralliant | Software Design Engineer Intern (Summer 2027) | Software | Beaverton, OR, United States | Nov 20, 2026 | [Apply](https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11154) |
 | iCapital Network ✓ | Product Management - Summer 2027 Intern 🛂 | Software | New York, New York, United States | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/icapitalnetwork/jobs/8944694002) |
 | Lucid Motors | Intern, AI/ML, Vehicle Infotainment, Summer 2027 | Data & ML/AI | Newark, CA | Nov 20, 2026 | [Apply](https://lucidmotors.com/careers/search/5290923007?gh_jid=5290923007) |
 | Pacific Fusion | Summer 2027 Mechanical Engineering - Precision Positioning and Alignment Internship 🇺🇸 | Hardware | San Leandro, CA | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/pacificfusion/jobs/4515017009) |
@@ -372,9 +372,9 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Databricks ✓ | Data Science Intern (2027 Start) | Data & ML/AI | Mountain View +3 more | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6866538002) |
 | Databricks ✓ | Product Management Intern (Summer 2027) | Software | Bellevue +5 more | Aug 17, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6883068002) |
 | Databricks ✓ | Software Engineering Intern (2027) | Software | Bellevue +7 more | Aug 04, 2023 | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865687002) |
-| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | Software | San Francisco, CA | — | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) |
+| Rippling | Software Engineer Intern - Backend Focused - Summer 2027 | Software | Seattle, WA | — | [Apply](https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba) |
 | Rippling | Data Science Intern - Summer 2027 | Data & ML/AI | San Francisco, CA | — | [Apply](https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8) |
-| Rippling | Full Stack Software Engineer Intern - Summer 2027 | Software | San Francisco, CA | — | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) |
+| Rippling | Full Stack Software Engineer Intern - Summer 2027 | Software | New York, NY | — | [Apply](https://ats.rippling.com/rippling/jobs/f64b6158-9534-4bab-9457-45556166b262) |
 
 ## Fall 2026  (27 employer-stated)
 
@@ -414,12 +414,12 @@ These postings never name a cycle — not in the title, not in the posting text 
 
 | Company | Role | Category | Location | Posted | Apply |
 |---|---|---|---|---|---|
-| Artefact | AI Adoption Intern 🆕 | Data & ML/AI | 135 W 26th Street, New York, NY 10001 | Nov 22, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) |
-| Artefact | AI Engineering Intern 🆕 | Data & ML/AI | 135 W 26th Street, New York, NY 10001 | Nov 22, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) |
 | Artefact | AI Strategy Intern 🆕 | Data & ML/AI | 135 W 26th Street, New York, NY 10001 | Nov 22, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002) |
+| Artefact | AI Engineering Intern 🆕 | Data & ML/AI | 135 W 26th Street, New York, NY 10001 | Nov 22, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002) |
+| Artefact | AI Adoption Intern 🆕 | Data & ML/AI | 135 W 26th Street, New York, NY 10001 | Nov 22, 2026 | [Apply](https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002) |
 | Gorbel | Front-End Web Developer Co-Op 🆕 | Software | USA, New York, Victor | Nov 20, 2026 | [Apply](https://gorbel.wd501.myworkdayjobs.com/gorbelcareers/job/USA-New-York-Victor/Front-End-Web-Developer-Co-Op_REQ-2026-2375-1) |
 | First PREMIER Bank | PREMIER Information Security Intern 🆕 | Security | Sioux Falls, SD | Nov 20, 2026 | [Apply](https://firstpremier.wd503.myworkdayjobs.com/PREMIER_Careers/job/Sioux-Falls-SD/PREMIER-Information-Security-Intern_R-549-1) |
-| ServiceNow ✓ | Security Software Engineer Intern 🆕 | Security | Kirkland, Washington, United States | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
+| ServiceNow ✓ | Security Software Engineer Intern | Security | Kirkland, Washington, United States | Nov 20, 2026 | [Apply](https://jobs.smartrecruiters.com/ServiceNow/744000162827365) |
 | Method | Residency Internship Program - Product Management 🏠 | Software | Charlotte +4 more | Nov 20, 2026 | [Apply](https://job-boards.greenhouse.io/method/jobs/8207585003) |
 | Caesars Entertainment | SOC Cybersecurity Intern (Las Vegas) | Security | Las Vegas, NV, United States | Nov 20, 2026 | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92118) |
 | Caesars Entertainment | IAM Cybersecurity Intern (Las Vegas) | Security | Las Vegas, NV, United States | Nov 20, 2026 | [Apply](https://edmn.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/92135) |
@@ -809,7 +809,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,217 of 5,250 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 61% of the full registry) · completed in 143.0s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,232 of 5,250 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 61% of the full registry) · completed in 110.6s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

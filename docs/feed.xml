@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-22T19:21:18Z</updated>
+  <updated>2026-11-23T00:42:47Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:artefactlinkedin:8958079002</id>
+    <title>Artefact: AI Adoption Intern</title>
+    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958079002"/>
+    <updated>2026-11-23T00:42:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 135 W 26th Street, New York, NY 10001 · $45k–$55k/yr · Python, SQL</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:artefactlinkedin:8958074002</id>
+    <title>Artefact: AI Engineering Intern</title>
+    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958074002"/>
+    <updated>2026-11-23T00:42:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 135 W 26th Street, New York, NY 10001 · $45k–$55k/yr · Python, LLMs, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:artefactlinkedin:8958071002</id>
+    <title>Artefact: AI Strategy Intern</title>
+    <link href="https://job-boards.greenhouse.io/artefactlinkedin/jobs/8958071002"/>
+    <updated>2026-11-23T00:42:42Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · 135 W 26th Street, New York, NY 10001 · $45k–$55k/yr · Python</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:nerostechnologies:5278981007</id>
     <title>Neros Technologies: Firmware/Embedded Software Engineer Intern - Summer 2027</title>
@@ -752,14 +776,6 @@
     <summary>Summer 2027 · Hardware · Washington, D.C. · sponsorship: no-sponsorship</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:hexarmor:8206200003</id>
-    <title>HexArmor: Software Engineering Intern</title>
-    <link href="https://job-boards.greenhouse.io/hexarmor/jobs/8206200003"/>
-    <updated>2026-11-17T21:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Atlanta, Georgia, United States · JavaScript, SQL, React, AWS, Azure</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:lever:exowatt:ec23e694-6716-450d-bfbb-276ca8da3d1c</id>
     <title>Exowatt: Robotics &amp; Physical AI Spring Intern (Miami)</title>
     <link href="https://jobs.lever.co/exowatt/ec23e694-6716-450d-bfbb-276ca8da3d1c"/>
@@ -790,21 +806,5 @@
     <updated>2026-11-17T21:46:02Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Greensboro, NC · H-1B track record: ~24 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:rippling:bound:40a62113-cdcc-4fad-a3e6-008597702316</id>
-    <title>Bound: Product Management Intern (Summer 2027)</title>
-    <link href="https://ats.rippling.com/bound/jobs/40a62113-cdcc-4fad-a3e6-008597702316"/>
-    <updated>2026-11-17T21:46:02Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Ames, IA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:BoschGroup:744000162076254</id>
-    <title>Bosch: AI Application Intern (8 months/40 hours per week)</title>
-    <link href="https://jobs.smartrecruiters.com/BoschGroup/744000162076254"/>
-    <updated>2026-11-17T21:46:02Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Farmington Hills, MI, United States · Python, Git</summary>
   </entry>
 </feed>

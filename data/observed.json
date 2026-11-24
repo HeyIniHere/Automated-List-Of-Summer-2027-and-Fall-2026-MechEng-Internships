@@ -3613,9 +3613,12 @@
     "Summer 2027": {
      "first_posted": "2026-11-09",
      "role_ids": [
-      "ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e"
+      "ashby:illumio:2bcba5c3-c6e7-407c-92b2-73027594789e",
+      "ashby:illumio:37c87203-d74b-40f9-8ce6-30559f1594af",
+      "ashby:illumio:78a9e57d-c213-405b-9cf3-6e68109a4ce7",
+      "ashby:illumio:96759634-4161-4931-9cf3-5933035be101"
      ],
-     "count": 1
+     "count": 4
     }
    }
   },
@@ -4479,9 +4482,10 @@
     "Summer 2027": {
      "first_posted": "2026-11-06",
      "role_ids": [
-      "workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903"
+      "workday:marmon:/job/Chicago-IL/Intern---AI-Technology-Solutions_JR0000046903",
+      "workday:marmon:/job/Mt-Juliet-TN/Mechanical-Engineer-Co-op--Summer-2027-_JR0000047210-1"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -6837,9 +6841,11 @@
       "greenhouse:sharkninjaoperatingllc:4713812006",
       "greenhouse:sharkninjaoperatingllc:4718812006",
       "greenhouse:sharkninjaoperatingllc:4719580006",
+      "greenhouse:sharkninjaoperatingllc:4721682006",
+      "greenhouse:sharkninjaoperatingllc:4725867006",
       "greenhouse:sharkninjaoperatingllc:4727539006"
      ],
-     "count": 5
+     "count": 7
     }
    }
   },
@@ -7827,9 +7833,10 @@
     "Summer 2027": {
      "first_posted": "2026-09-18",
      "role_ids": [
-      "smartrecruiters:VeoliaEnvironnementSA:744000150460339"
+      "smartrecruiters:VeoliaEnvironnementSA:744000150460339",
+      "smartrecruiters:VeoliaEnvironnementSA:744000163377969"
      ],
-     "count": 1
+     "count": 2
     }
    }
   },
@@ -8537,5 +8544,5 @@
    }
   }
  },
- "updated_at": "2026-11-23T21:06:21Z"
+ "updated_at": "2026-11-24T05:51:08Z"
 }

@@ -2509,9 +2509,10 @@
       "greenhouse:fanaticscollectibles:4507781009",
       "greenhouse:fanaticscollectibles:4507789009",
       "greenhouse:fanaticscollectibles:4507793009",
-      "greenhouse:fanaticscollectibles:4507819009"
+      "greenhouse:fanaticscollectibles:4507819009",
+      "greenhouse:fanaticscollectibles:4519886009"
      ],
-     "count": 6
+     "count": 7
     }
    }
   },
@@ -6879,6 +6880,7 @@
       "ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shield:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:shield:a28e047a-ee12-452c-883b-ecd995d1b6b2",
+      "ashby:shield:d5931c9e-b020-46f1-9344-9ea17768fad8",
       "ashby:shield:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:shield:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shield:f96617c2-a120-4b3b-844d-790fcda42503",
@@ -6898,7 +6900,7 @@
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
       "lever:shieldai:db8fc063-8856-4404-991c-f287712de949"
      ],
-     "count": 29
+     "count": 30
     }
    }
   },
@@ -8544,5 +8546,5 @@
    }
   }
  },
- "updated_at": "2026-11-24T05:51:08Z"
+ "updated_at": "2026-11-24T17:21:59Z"
 }

@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-24T05:51:15Z",
+ "generated_at": "2026-11-24T17:22:06Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -924,7 +924,7 @@
    "expected": "2026-08-28",
    "days_until": -88,
    "status": "open",
-   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1008995",
+   "url": "https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005",
    "note": ""
   },
   {
@@ -1569,6 +1569,20 @@
    "days_until": -77,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
+   "note": ""
+  },
+  {
+   "company": "RF-SMART",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -77,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
    "note": ""
   },
   {
@@ -2465,20 +2479,6 @@
    "days_until": -57,
    "status": "open",
    "url": "https://veteransunited.wd1.myworkdayjobs.com/VUHL/job/Remote-MO/Intern---Software-Engineer---Summer-2027_R6249",
-   "note": ""
-  },
-  {
-   "company": "Helion Energy",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-29",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-29",
-   "days_until": -56,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/helion/56636c72-2c72-4f4f-8334-3b233a235c8d",
    "note": ""
   },
   {
@@ -3406,20 +3406,6 @@
    "note": ""
   },
   {
-   "company": "Parallel Systems",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-26",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-26",
-   "days_until": -29,
-   "status": "open",
-   "url": "https://boards.greenhouse.io/parallel/jobs/5275660007?gh_jid=5275660007",
-   "note": ""
-  },
-  {
    "company": "PTC",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
@@ -4158,7 +4144,7 @@
    "expected": "2026-11-19",
    "days_until": -5,
    "status": "open",
-   "url": "https://lucidmotors.com/careers/search/5290800007?gh_jid=5290800007",
+   "url": "https://lucidmotors.com/careers/search/5290904007?gh_jid=5290904007",
    "note": ""
   },
   {
@@ -5702,20 +5688,6 @@
    "note": ""
   },
   {
-   "company": "RF-SMART",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -77,
-   "status": "dropped",
-   "url": "",
-   "note": ""
-  },
-  {
    "company": "U.S. Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
@@ -6346,6 +6318,20 @@
    "note": ""
   },
   {
+   "company": "Helion Energy",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-29",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-29",
+   "days_until": -56,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Howmet Aerospace",
    "last_cycle_posted": "",
    "posted_on": "2026-09-29",
@@ -6879,6 +6865,20 @@
   },
   {
    "company": "JM Family",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-26",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-26",
+   "days_until": -29,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Parallel Systems",
    "last_cycle_posted": "",
    "posted_on": "2026-10-26",
    "precision": "day",

@@ -443,7 +443,7 @@
     },
     "Summer 2027": {
      "first_posted": "2026-05-13",
-     "count": 27,
+     "count": 28,
      "role_ids": [
       "amazon:amazon:10418355",
       "amazon:amazon:10456239",
@@ -471,7 +471,8 @@
       "amazon:amazon:10604778",
       "amazon:amazon:10605132",
       "amazon:amazon:10605141",
-      "amazon:amazon:10606968"
+      "amazon:amazon:10606968",
+      "amazon:amazon:10609992"
      ]
     }
    }
@@ -1042,6 +1043,24 @@
       "workday:badgermeter:/job/US---WI---Milwaukee-HQ/Product-Management-Intern_4676"
      ],
      "count": 1
+    }
+   }
+  },
+  "bandwidth": {
+   "name": "Bandwidth",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-24",
+     "role_ids": [
+      "greenhouse:bandwidth:8414426",
+      "greenhouse:bandwidth:8414430",
+      "greenhouse:bandwidth:8414436",
+      "greenhouse:bandwidth:8414440",
+      "greenhouse:bandwidth:8414444",
+      "greenhouse:bandwidth:8414448",
+      "greenhouse:bandwidth:8414452"
+     ],
+     "count": 7
     }
    }
   },
@@ -2471,6 +2490,18 @@
     }
    }
   },
+  "esri": {
+   "name": "Esri",
+   "cycles": {
+    "Fall 2026": {
+     "first_posted": "2026-11-05",
+     "role_ids": [
+      "greenhouse:studentprogram:5286753007"
+     ],
+     "count": 1
+    }
+   }
+  },
   "eurofins": {
    "name": "Eurofins",
    "cycles": {
@@ -2915,6 +2946,7 @@
      "role_ids": [
       "workday:generalmotors:/job/Kansas-City-Kansas-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Tool-and-Die_JR-202619470",
       "workday:generalmotors:/job/Lake-Orion-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Weld-Engineer_JR-202619474",
+      "workday:generalmotors:/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1",
       "workday:generalmotors:/job/Milford-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Motorsports-Aero-Thermal-Engineering_JR-202619861",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508",
@@ -2929,6 +2961,7 @@
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--Onboard-Autonomy--Embodied-AI_JR-202622135",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI--Masters-_JR-202622537",
       "workday:generalmotors:/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern--SEAM--Embodied-AI_JR-202622143",
+      "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Global-Manufacturing-Electrical---SDV_JR-202619352",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Body-Center_JR-202619475",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Manufacturing-Engineering---Global-Artisan-Innovation-Center_JR-202619920",
@@ -2941,7 +2974,7 @@
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539",
       "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778"
      ],
-     "count": 27
+     "count": 29
     }
    }
   },
@@ -5059,9 +5092,10 @@
      "first_posted": "2026-11-05",
      "role_ids": [
       "smartrecruiters:NBCUniversal3:744000159947792",
-      "smartrecruiters:NBCUniversal3:744000160689930"
+      "smartrecruiters:NBCUniversal3:744000160689930",
+      "smartrecruiters:NBCUniversal3:744000163583264"
      ],
-     "count": 2
+     "count": 3
     }
    }
   },
@@ -6877,6 +6911,7 @@
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:db04c516-d21a-449c-8bfd-1cf830eafb5a",
       "ashby:f7d8749a-72d6-407c-bf98-292ea630c73a:ebdcc6cf-04da-47a7-971d-17e43f64c37c",
       "ashby:shield:043c739e-ff80-4faa-b2be-5d1e96768dfa",
+      "ashby:shield:2d4c1eef-2569-46e1-9924-23588d5c5e86",
       "ashby:shield:38ba128e-815b-4a14-b4d2-446ffc190a33",
       "ashby:shield:661d7ac4-51df-454d-82c8-2a0d94852036",
       "ashby:shield:a28e047a-ee12-452c-883b-ecd995d1b6b2",
@@ -6900,7 +6935,7 @@
       "lever:shieldai:da54c482-fe62-4f60-98b1-55ac0b82b3bc",
       "lever:shieldai:db8fc063-8856-4404-991c-f287712de949"
      ],
-     "count": 30
+     "count": 31
     }
    }
   },
@@ -8546,5 +8581,5 @@
    }
   }
  },
- "updated_at": "2026-11-24T17:21:59Z"
+ "updated_at": "2026-11-25T02:16:45Z"
 }

@@ -1,3 +1,25 @@
 {
-  "pending": []
+  "pending": [
+    "amazon:amazon:10609992",
+    "greenhouse:bandwidth:8414452",
+    "greenhouse:bandwidth:8414448",
+    "greenhouse:bandwidth:8414444",
+    "greenhouse:bandwidth:8414440",
+    "greenhouse:bandwidth:8414436",
+    "greenhouse:bandwidth:8414430",
+    "greenhouse:bandwidth:8414426",
+    "smartrecruiters:BEUMERGroup1:744000163483739",
+    "greenhouse:studentprogram:5286753007",
+    "workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606",
+    "workday:generalmotors:/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1",
+    "smartrecruiters:Intuitive:744000163546809",
+    "greenhouse:studentinternships:4456494009",
+    "greenhouse:studentinternships:4455645009",
+    "greenhouse:studentinternships:4454673009",
+    "greenhouse:studentinternships:4455610009",
+    "smartrecruiters:NBCUniversal3:744000163583264",
+    "ashby:shield:2d4c1eef-2569-46e1-9924-23588d5c5e86",
+    "workday:trekbikes:/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1",
+    "workday:trekbikes:/job/Waterloo-Wisconsin/AI-QA-Engineer-Internship_Trek116020"
+  ]
 }

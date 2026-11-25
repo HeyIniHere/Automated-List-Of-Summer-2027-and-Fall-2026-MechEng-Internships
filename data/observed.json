@@ -5093,9 +5093,10 @@
      "role_ids": [
       "smartrecruiters:NBCUniversal3:744000159947792",
       "smartrecruiters:NBCUniversal3:744000160689930",
-      "smartrecruiters:NBCUniversal3:744000163583264"
+      "smartrecruiters:NBCUniversal3:744000163583264",
+      "smartrecruiters:NBCUniversal3:744000163602429"
      ],
-     "count": 3
+     "count": 4
     }
    }
   },
@@ -8581,5 +8582,5 @@
    }
   }
  },
- "updated_at": "2026-11-25T02:16:45Z"
+ "updated_at": "2026-11-25T12:27:30Z"
 }

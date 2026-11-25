@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T02:16:51Z",
+ "generated_at": "2026-11-25T12:27:38Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -844,20 +844,6 @@
    "note": ""
   },
   {
-   "company": "AnaVation",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-27",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-27",
-   "days_until": -90,
-   "status": "open",
-   "url": "https://jobs.lever.co/anavationllc/4a82ae00-30f0-410c-bf3c-f1cdd18739e7",
-   "note": ""
-  },
-  {
    "company": "Booz Allen",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -1078,7 +1064,7 @@
    "expected": "2026-09-01",
    "days_until": -85,
    "status": "open",
-   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439",
+   "url": "https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1",
    "note": ""
   },
   {
@@ -1555,20 +1541,6 @@
    "days_until": -78,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/quberesearchandtechnologies/jobs/8777760002",
-   "note": ""
-  },
-  {
-   "company": "RF-SMART",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-08",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-08",
-   "days_until": -78,
-   "status": "open",
-   "url": "https://job-boards.greenhouse.io/rfsmart/jobs/5446867008",
    "note": ""
   },
   {
@@ -2986,20 +2958,6 @@
    "note": ""
   },
   {
-   "company": "Fortive",
-   "last_cycle_posted": "",
-   "posted_on": "2026-10-15",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-10-15",
-   "days_until": -41,
-   "status": "open",
-   "url": "https://ejta.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/10826",
-   "note": ""
-  },
-  {
    "company": "Quest Analytics",
    "last_cycle_posted": "",
    "posted_on": "2026-10-15",
@@ -3585,20 +3543,6 @@
    "days_until": -25,
    "status": "open",
    "url": "https://jobs.lever.co/tevora/4e3b7ae3-cb18-4c76-815c-0014e3c7598c",
-   "note": ""
-  },
-  {
-   "company": "Intuitive Surgical",
-   "last_cycle_posted": "",
-   "posted_on": "2026-11-02",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-11-02",
-   "days_until": -23,
-   "status": "open",
-   "url": "https://jobs.smartrecruiters.com/Intuitive/744000159218439",
    "note": ""
   },
   {
@@ -4200,7 +4144,7 @@
    "expected": "2026-11-24",
    "days_until": -1,
    "status": "open",
-   "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414452",
+   "url": "https://job-boards.greenhouse.io/bandwidth/jobs/8414426",
    "note": ""
   },
   {
@@ -4270,7 +4214,7 @@
    "expected": "",
    "days_until": null,
    "status": "open",
-   "url": "https://ats.rippling.com/rippling/jobs/a07e4e46-3721-4934-b57b-0d58412e22ba",
+   "url": "https://ats.rippling.com/rippling/jobs/f255bf03-9173-4c0a-8a18-7cc43c27ded8",
    "note": ""
   },
   {
@@ -5240,6 +5184,20 @@
    "note": ""
   },
   {
+   "company": "AnaVation",
+   "last_cycle_posted": "",
+   "posted_on": "2026-08-27",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-08-27",
+   "days_until": -90,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Johns Manville (JM)",
    "last_cycle_posted": "",
    "posted_on": "2026-08-27",
@@ -5675,6 +5633,20 @@
   },
   {
    "company": "Meijer",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-08",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-08",
+   "days_until": -78,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "RF-SMART",
    "last_cycle_posted": "",
    "posted_on": "2026-09-08",
    "precision": "day",
@@ -6724,6 +6696,20 @@
    "note": ""
   },
   {
+   "company": "Fortive",
+   "last_cycle_posted": "",
+   "posted_on": "2026-10-15",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-10-15",
+   "days_until": -41,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "Pattern",
    "last_cycle_posted": "",
    "posted_on": "2026-10-16",
@@ -6999,6 +6985,20 @@
    "source": "engine",
    "expected": "2026-11-01",
    "days_until": -24,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Intuitive Surgical",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-02",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-02",
+   "days_until": -23,
    "status": "dropped",
    "url": "",
    "note": ""

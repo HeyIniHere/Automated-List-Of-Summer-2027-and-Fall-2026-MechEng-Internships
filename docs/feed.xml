@@ -5,8 +5,24 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-25T02:16:51Z</updated>
+  <updated>2026-11-25T12:27:38Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:workable:connectprep:9F465A2E1A</id>
+    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
+    <link href="https://apply.workable.com/connectprep/j/9F465A2E1A/"/>
+    <updated>2026-11-25T12:27:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000163602429</id>
+    <title>NBCUniversal: Universal Studios Hollywood, Finance &amp; Strategy, Business Analytics &amp; Industrial Engineering Internship – Summer 2027</title>
+    <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000163602429"/>
+    <updated>2026-11-25T12:27:30Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Universal City, CALIFORNIA, United States · $22–$25/hr · H-1B track record: ~105 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10609992</id>
     <title>Amazon: Front-End Engineer Internship – 2027 (US)</title>
@@ -16,52 +32,12 @@
     <summary>Summer 2027 · Software · Seattle, Washington, USA · Python, C#, JavaScript, React, Angular · H-1B track record: ~23.1k approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414452</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414452"/>
+    <id>urn:intern-engine:ashby:shield:2d4c1eef-2569-46e1-9924-23588d5c5e86</id>
+    <title>Shield AI: 2027 Summer Intern - Software Test Automation - 5796</title>
+    <link href="https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86"/>
     <updated>2026-11-25T02:16:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Java, SQL, AWS, Terraform, Git · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414448</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414448"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, TypeScript, JavaScript, React · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414444</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414444"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS, Git · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414440</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414440"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS, Kubernetes · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414436</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414436"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · H-1B track record: ~18 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:bandwidth:8414430</id>
-    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414430"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Dallas, TX, US · $35 – $75 per hour · Python, C++, Git</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:bandwidth:8414426</id>
@@ -72,60 +48,52 @@
     <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS, Docker, Terraform · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:BEUMERGroup1:744000163483739</id>
-    <title>BEUMER Group: AI Development Intern</title>
-    <link href="https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Somerset, New Jersey, United States · $25/hr · Python, SQL, LLMs, Azure, Kubernetes</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:studentprogram:5286753007</id>
-    <title>Esri: Software Development Engineer Internship - St. Louis, MO</title>
-    <link href="https://job-boards.greenhouse.io/studentprogram/jobs/5286753007"/>
-    <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Fall 2026"/>
-    <summary>Fall 2026 · Software · St. Louis, MO · Python, Java, C++, C#, TypeScript</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606</id>
-    <title>General Motors: 2027 Summer Intern - Cybersecurity Education &amp; Awareness Program Intern</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606"/>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414430</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414430"/>
     <updated>2026-11-25T02:16:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Security · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:generalmotors:/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1</id>
-    <title>General Motors: 2027 Manufacturing Intern - University of Buffalo</title>
-    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1"/>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414436</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414436"/>
     <updated>2026-11-25T02:16:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Lockport, New York, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
+    <summary>Summer 2027 · Software · Raleigh, NC · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:smartrecruiters:Intuitive:744000163546809</id>
-    <title>Intuitive Surgical: Product Management MBA Intern</title>
-    <link href="https://jobs.smartrecruiters.com/Intuitive/744000163546809"/>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414440</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414440"/>
     <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Sunnyvale, CA, United States · $143.52k/yr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS, Kubernetes · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:studentinternships:4456494009</id>
-    <title>ISO New England: Student Internship - AI Assisted Modeling of Energy Storage 🛂</title>
-    <link href="https://job-boards.greenhouse.io/studentinternships/jobs/4456494009"/>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414444</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414444"/>
     <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Holyoke, Massachusetts, United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Java, AWS, Git · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:greenhouse:studentinternships:4455645009</id>
-    <title>ISO New England: Student Internship - Cyber Adversary Defense Optimization 🛂</title>
-    <link href="https://job-boards.greenhouse.io/studentinternships/jobs/4455645009"/>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414448</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414448"/>
     <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Holyoke, Massachusetts, United States · Python · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Python, Java, TypeScript, JavaScript, React · H-1B track record: ~18 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:bandwidth:8414452</id>
+    <title>Bandwidth: Software Engineer Intern - Summer 2027</title>
+    <link href="https://job-boards.greenhouse.io/bandwidth/jobs/8414452"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Raleigh, NC · Java, SQL, AWS, Terraform, Git · H-1B track record: ~18 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:studentinternships:4454673009</id>
@@ -144,6 +112,46 @@
     <summary>Not stated · Software · Holyoke, Massachusetts, United States · Python, C#, SQL, MATLAB · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
+    <id>urn:intern-engine:greenhouse:studentinternships:4455645009</id>
+    <title>ISO New England: Student Internship - Cyber Adversary Defense Optimization 🛂</title>
+    <link href="https://job-boards.greenhouse.io/studentinternships/jobs/4455645009"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Security · Holyoke, Massachusetts, United States · Python · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:studentinternships:4456494009</id>
+    <title>ISO New England: Student Internship - AI Assisted Modeling of Energy Storage 🛂</title>
+    <link href="https://job-boards.greenhouse.io/studentinternships/jobs/4456494009"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Holyoke, Massachusetts, United States · Python, PyTorch, TensorFlow, scikit-learn, Pandas · sponsorship: no-sponsorship · H-1B track record: ~10 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:studentprogram:5286753007</id>
+    <title>Esri: Software Development Engineer Internship - St. Louis, MO</title>
+    <link href="https://job-boards.greenhouse.io/studentprogram/jobs/5286753007"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Fall 2026"/>
+    <summary>Fall 2026 · Software · St. Louis, MO · Python, Java, C++, C#, TypeScript</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:BEUMERGroup1:744000163483739</id>
+    <title>BEUMER Group: AI Development Intern</title>
+    <link href="https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Somerset, New Jersey, United States · $25/hr · Python, SQL, LLMs, Azure, Kubernetes</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:smartrecruiters:Intuitive:744000163546809</id>
+    <title>Intuitive Surgical: Product Management MBA Intern</title>
+    <link href="https://jobs.smartrecruiters.com/Intuitive/744000163546809"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Sunnyvale, CA, United States · $143.52k/yr · H-1B track record: ~14 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000163583264</id>
     <title>NBCUniversal: Universal Studios Hollywood, Technical Services, Mechanical Engineering Internship – Summer 2027</title>
     <link href="https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264"/>
@@ -152,20 +160,20 @@
     <summary>Summer 2027 · Hardware · Universal City, CALIFORNIA, United States · $22–$25/hr · AWS · H-1B track record: ~105 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:ashby:shield:2d4c1eef-2569-46e1-9924-23588d5c5e86</id>
-    <title>Shield AI: 2027 Summer Intern - Software Test Automation - 5796</title>
-    <link href="https://jobs.ashbyhq.com/shield/2d4c1eef-2569-46e1-9924-23588d5c5e86"/>
+    <id>urn:intern-engine:workday:generalmotors:/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1</id>
+    <title>General Motors: 2027 Manufacturing Intern - University of Buffalo</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Lockport-New-York-United-States-of-America/XMLNAME-2027-Manufacturing-Intern---University-of-Buffalo_JR-202623880-1"/>
     <updated>2026-11-25T02:16:45Z</updated>
     <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Dallas, TX, US · $35 – $75 per hour · Python, C++, Git</summary>
+    <summary>Summer 2027 · Hardware · Lockport, New York, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1</id>
-    <title>TREK: Mobile QA Engineer Internship</title>
-    <link href="https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1"/>
+    <id>urn:intern-engine:workday:generalmotors:/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606</id>
+    <title>General Motors: 2027 Summer Intern - Cybersecurity Education &amp; Awareness Program Intern</title>
+    <link href="https://generalmotors.wd5.myworkdayjobs.com/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern---Cybersecurity-Education---Awareness-Program-Intern_JR-202624606"/>
     <updated>2026-11-25T02:16:45Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Software · Waterloo, Wisconsin · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Warren, Michigan, United States of America · H-1B track record: ~928 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/AI-QA-Engineer-Internship_Trek116020</id>
@@ -174,6 +182,14 @@
     <updated>2026-11-25T02:16:45Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Data &amp; ML/AI · Waterloo, Wisconsin · H-1B track record: ~15 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:trekbikes:/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1</id>
+    <title>TREK: Mobile QA Engineer Internship</title>
+    <link href="https://trekbikes.wd1.myworkdayjobs.com/TREK/job/Waterloo-Wisconsin/Mobile-QA-Engineer-Internship_Trek116019-1"/>
+    <updated>2026-11-25T02:16:45Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Waterloo, Wisconsin · H-1B track record: ~15 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:shield:d5931c9e-b020-46f1-9344-9ea17768fad8</id>
@@ -790,21 +806,5 @@
     <updated>2026-11-19T03:07:08Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Raleigh, NC · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8208600003</id>
-    <title>Samsung: Intern, Architecture Research Engineer (Agentic AI Workload Characterization)</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208600003"/>
-    <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · San Jose, California, United States · PyTorch, LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:samsungsemiconductor:8208662003</id>
-    <title>Samsung: Intern, SSD Firmware Engineer</title>
-    <link href="https://job-boards.greenhouse.io/samsungsemiconductor/jobs/8208662003"/>
-    <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · San Jose, California, United States · Python, C++, JavaScript</summary>
   </entry>
 </feed>

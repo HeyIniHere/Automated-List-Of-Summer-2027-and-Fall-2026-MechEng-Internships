@@ -5,15 +5,47 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-25T12:27:38Z</updated>
+  <updated>2026-11-25T22:21:42Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:workable:connectprep:9F465A2E1A</id>
-    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
-    <link href="https://apply.workable.com/connectprep/j/9F465A2E1A/"/>
-    <updated>2026-11-25T12:27:30Z</updated>
+    <id>urn:intern-engine:greenhouse:coinbase:8415869</id>
+    <title>Coinbase: Security Engineer Intern</title>
+    <link href="https://www.coinbase.com/careers/positions/8415869?gh_jid=8415869"/>
+    <updated>2026-11-25T22:21:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Security · Hybrid - New York, NY · Python, LLMs, AWS, Git · H-1B track record: ~291 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:lightmatter:5492829008</id>
+    <title>Lightmatter: Firmware Intern – Summer 2027</title>
+    <link href="https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008"/>
+    <updated>2026-11-25T22:21:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Boston, MA · Python, C++, Linux, Git</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:patientpointinviteonly:4755910005</id>
+    <title>PatientPoint: Data Engineer Intern</title>
+    <link href="https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005"/>
+    <updated>2026-11-25T22:21:37Z</updated>
     <category term="Not stated"/>
-    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
+    <summary>Not stated · Data &amp; ML/AI · Cincinnati, Ohio, United States · SQL, AWS, Docker, Git, Airflow</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1009026</id>
+    <title>Stantec: Mechanical Engineering Intern - Buildings (Summer 2027)</title>
+    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009026"/>
+    <updated>2026-11-25T22:21:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Hardware · Seattle, WA, United States · H-1B track record: ~96 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workday:vrtx:/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1</id>
+    <title>Vertex Pharmaceuticals: Summer Intern 2027, Digital Pathology and AI Validation 🛂</title>
+    <link href="https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1"/>
+    <updated>2026-11-25T22:21:37Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Data &amp; ML/AI · Boston, MA · sponsorship: no-sponsorship · H-1B track record: ~171 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:smartrecruiters:NBCUniversal3:744000163602429</id>
@@ -22,6 +54,14 @@
     <updated>2026-11-25T12:27:30Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Universal City, CALIFORNIA, United States · $22–$25/hr · H-1B track record: ~105 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:connectprep:9F465A2E1A</id>
+    <title>ConnectPrep: Data Analyst Internship 🇺🇸</title>
+    <link href="https://apply.workable.com/connectprep/j/9F465A2E1A/"/>
+    <updated>2026-11-25T12:27:30Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Data &amp; ML/AI · Washington, District of Columbia, United States (Remote) · Python, SQL, Pandas, Tableau · sponsorship: citizens-only</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:amazon:amazon:10609992</id>
@@ -766,45 +806,5 @@
     <updated>2026-11-19T21:19:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Software · Beaverton, OR, United States · Python, C++, Linux, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:VeoliaEnvironnementSA:744000162593839</id>
-    <title>Veolia: Manufacturing Software Engineer Intern</title>
-    <link href="https://jobs.smartrecruiters.com/VeoliaEnvironnementSA/744000162593839"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · Boulder, CO, United States · Python, Java, C#, SQL, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workday:swib:/job/Madison-Wisconsin/Information-Security-Intern_R-001332</id>
-    <title>State of Wisconsin Investment Board: Information Security Intern</title>
-    <link href="https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332"/>
-    <updated>2026-11-19T12:49:30Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Security · Madison Wisconsin · Python, Git</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:ashby:regent:6e880bc1-e111-47ce-962e-8253767a58e7</id>
-    <title>REGENT: Manufacturing Engineering Intern</title>
-    <link href="https://jobs.ashbyhq.com/REGENT/6e880bc1-e111-47ce-962e-8253767a58e7"/>
-    <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Not stated"/>
-    <summary>Not stated · Hardware · North Kingstown, Rhode Island, USA</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lucidsoftware:6239814004</id>
-    <title>Lucid: Product Management Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/lucidsoftware/jobs/6239814004"/>
-    <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Salt Lake City, UT · LLMs</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:lucidsoftware:6239818004</id>
-    <title>Lucid: Product Management Internship - Summer 2027</title>
-    <link href="https://job-boards.greenhouse.io/lucidsoftware/jobs/6239818004"/>
-    <updated>2026-11-19T03:07:08Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Raleigh, NC · LLMs</summary>
   </entry>
 </feed>

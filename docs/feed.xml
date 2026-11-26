@@ -5,8 +5,32 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-25T22:21:42Z</updated>
+  <updated>2026-11-26T04:52:02Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:queracomputinginc:5495037008</id>
+    <title>QuEra Computing: Internship – Technical Product Management</title>
+    <link href="https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008"/>
+    <updated>2026-11-26T04:51:57Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Boston, MA, USA</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:veeva:4738ae75-9f7b-4082-b129-69fb82f6d7b2</id>
+    <title>Veeva Systems: Intern Software Engineer (Summer 2027) 🛂</title>
+    <link href="https://jobs.lever.co/veeva/4738ae75-9f7b-4082-b129-69fb82f6d7b2"/>
+    <updated>2026-11-26T04:51:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Massachusetts - Boston · $35/hr · Python, Java, Rust, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~86 approvals (FY2022–2023)</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:lever:veeva:f277bc52-1dd6-4447-ac3b-a6127e625ec7</id>
+    <title>Veeva Systems: Intern Software Engineer (Summer 2027) 🛂</title>
+    <link href="https://jobs.lever.co/veeva/f277bc52-1dd6-4447-ac3b-a6127e625ec7"/>
+    <updated>2026-11-26T04:51:57Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · California - Pleasanton · $40/hr · Python, Java, Rust, TypeScript, JavaScript · sponsorship: no-sponsorship · H-1B track record: ~86 approvals (FY2022–2023)</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:coinbase:8415869</id>
     <title>Coinbase: Security Engineer Intern</title>
@@ -782,29 +806,5 @@
     <updated>2026-11-19T21:19:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · Reston, VA - Remote · $30/hr · Python, Computer Vision · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:scoutspace:5489232008</id>
-    <title>Scout Space: Embedded Firmware Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489232008"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Reston, VA - Remote · $30/hr · Python, C++, Computer Vision, Linux, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:scoutspace:5489237008</id>
-    <title>Scout Space: Mechanical Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489237008"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Reston, VA · $30/hr · Python, MATLAB · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11153</id>
-    <title>Ralliant: Software Engineering Intern (Summer 2027)</title>
-    <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11153"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Beaverton, OR, United States · Python, C++, Linux, Git</summary>
   </entry>
 </feed>

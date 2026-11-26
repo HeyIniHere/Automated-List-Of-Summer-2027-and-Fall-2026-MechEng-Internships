@@ -5,8 +5,16 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-26T04:52:02Z</updated>
+  <updated>2026-11-26T14:55:05Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:ashby:clera:dc18d62b-baf7-4cc1-8bda-7f8985fe10de</id>
+    <title>Clera: Product Engineer Intern, Mobile</title>
+    <link href="https://jobs.ashbyhq.com/Clera/dc18d62b-baf7-4cc1-8bda-7f8985fe10de"/>
+    <updated>2026-11-26T14:54:59Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · United States · TypeScript, Swift, Kotlin</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:greenhouse:queracomputinginc:5495037008</id>
     <title>QuEra Computing: Internship – Technical Product Management</title>
@@ -798,13 +806,5 @@
     <updated>2026-11-19T21:19:24Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Data &amp; ML/AI · New York City · AWS, GCP, Azure, MongoDB · H-1B track record: ~106 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:scoutspace:5489231008</id>
-    <title>Scout Space: Computer Vision (AI/ML) Engineering Intern (Summer 2027) 🇺🇸</title>
-    <link href="https://job-boards.greenhouse.io/scoutspace/jobs/5489231008"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · Reston, VA - Remote · $30/hr · Python, Computer Vision · sponsorship: citizens-only</summary>
   </entry>
 </feed>

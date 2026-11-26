@@ -1,9 +1,34 @@
 {
- "generated_at": "2026-11-26T04:52:02Z",
+ "generated_at": "2026-11-26T14:55:06Z",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "h1b_window": "FY2022–2023",
- "count": 1649,
+ "count": 1650,
  "jobs": [
+  {
+   "id": "ashby:clera:dc18d62b-baf7-4cc1-8bda-7f8985fe10de",
+   "company": "Clera",
+   "title": "Product Engineer Intern, Mobile",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "United States",
+   "url": "https://jobs.ashbyhq.com/Clera/dc18d62b-baf7-4cc1-8bda-7f8985fe10de",
+   "posted_at": "2026-11-26T14:02:34.751+00:00",
+   "posted_at_source": "exact",
+   "first_seen_at": "2026-11-26T14:54:59Z",
+   "sponsorship": "unknown",
+   "salary": null,
+   "skills": [
+    "TypeScript",
+    "Swift",
+    "Kotlin"
+   ],
+   "source": "ashby",
+   "h1b_approvals": null,
+   "program": "Internship",
+   "remote": false
+  },
   {
    "id": "greenhouse:queracomputinginc:5495037008",
    "company": "QuEra Computing",
@@ -19658,6 +19683,32 @@
    "remote": false
   },
   {
+   "id": "workday:cboe:/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+   "company": "Cboe",
+   "title": "Software Engineer Intern (C++)",
+   "season": "Not stated",
+   "seasons": null,
+   "season_inferred": true,
+   "category": "Software",
+   "location": "Kansas City, MO",
+   "url": "https://cboe.wd1.myworkdayjobs.com/External_Career_CBOE/job/Kansas-City-MO/Software-Engineer-Intern--C---_R-4726",
+   "posted_at": "2026-10-12T00:00:00Z",
+   "posted_at_source": "date_only",
+   "first_seen_at": "2026-10-17T19:16:02Z",
+   "sponsorship": "no-sponsorship",
+   "salary": "$22–$42/hr",
+   "skills": [
+    "Python",
+    "C++",
+    "SQL",
+    "Linux"
+   ],
+   "source": "workday",
+   "h1b_approvals": 24,
+   "program": "Internship",
+   "remote": false
+  },
+  {
    "id": "workday:caci:/job/Danbury-CT-US/Software-Engineering-Co-op---Summer---Fall-2027_331354",
    "company": "CACI",
    "title": "Software Engineering Co-op - Summer & Fall 2027",
@@ -35145,31 +35196,6 @@
    "salary": "$45–$51/hr",
    "skills": [
     "LLMs"
-   ],
-   "source": "greenhouse",
-   "h1b_approvals": null,
-   "program": "Internship",
-   "remote": false
-  },
-  {
-   "id": "greenhouse:hpiq:6116398004",
-   "company": "HP IQ",
-   "title": "Software Engineering Intern, Security Intern (Summer 2027)",
-   "season": "Summer 2027",
-   "seasons": null,
-   "season_inferred": false,
-   "category": "Security",
-   "location": "San Francisco, CA",
-   "url": "https://job-boards.greenhouse.io/hpiq/jobs/6116398004",
-   "posted_at": "2026-08-31T15:22:01-04:00",
-   "posted_at_source": "exact",
-   "first_seen_at": "2026-08-31T21:59:51Z",
-   "sponsorship": "unknown",
-   "salary": "$45–$51/hr",
-   "skills": [
-    "Python",
-    "Java",
-    "C++"
    ],
    "source": "greenhouse",
    "h1b_approvals": null,

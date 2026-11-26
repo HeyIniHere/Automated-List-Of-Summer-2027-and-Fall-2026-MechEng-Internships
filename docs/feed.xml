@@ -5,8 +5,48 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-26T14:55:05Z</updated>
+  <updated>2026-11-26T23:40:30Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cssmerge:8963704002</id>
+    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:atoms:8356100002</id>
+    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
+    <link href="https://job-boards.greenhouse.io/atoms/jobs/8356100002"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:digital-control:AB9A181560</id>
+    <title>Digital Control: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/digital-control/j/AB9A181560/"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Kent, Washington, United States · $27/hr · Python, C++, Linux</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:xona-space:4bf79312-d4c4-4ae2-bdfc-85c9e63937ad</id>
+    <title>Xona Space Systems: Mechanical Engineering Co-op 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/xona-space/4bf79312-d4c4-4ae2-bdfc-85c9e63937ad"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Burlingame, California · $30 – $45 per hour · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:ashby:xona-space:d3549244-52e2-4894-87f9-99fc8cbe26ab</id>
+    <title>Xona Space Systems: Software Engineering (Engineering Productivity) Intern 🇺🇸</title>
+    <link href="https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Software · Burlingame, California · $40 – $45 per hour · Python, C++, Rust, Git · sponsorship: citizens-only</summary>
+  </entry>
   <entry>
     <id>urn:intern-engine:ashby:clera:dc18d62b-baf7-4cc1-8bda-7f8985fe10de</id>
     <title>Clera: Product Engineer Intern, Mobile</title>
@@ -688,14 +728,6 @@
     <summary>Summer 2027 · Software · Newark, CA · MATLAB, Git</summary>
   </entry>
   <entry>
-    <id>urn:intern-engine:oracle:ejko.fa.us2.oraclecloud.com:15160</id>
-    <title>Blue Cross Blue Shield of Michigan: Summer 2027 Intern - Object Oriented Programming</title>
-    <link href="https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160"/>
-    <updated>2026-11-20T02:56:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Detroit, MI, United States · C#, SQL · H-1B track record: ~85 approvals (FY2022–2023)</summary>
-  </entry>
-  <entry>
     <id>urn:intern-engine:oracle:ibwujb.fa.ocs.oraclecloud.com:11167</id>
     <title>Ralliant: Software Engineering Intern (Summer 2027)</title>
     <link href="https://ibwujb.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/11167"/>
@@ -774,37 +806,5 @@
     <updated>2026-11-20T02:56:16Z</updated>
     <category term="Summer 2027"/>
     <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016985261</id>
-    <title>LLNL: Materials Engineering Division (MED): Graduate Intern - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016985261"/>
-    <updated>2026-11-20T02:56:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Hardware · Livermore, CA, United States · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:smartrecruiters:llnl:3743990016985486</id>
-    <title>LLNL: Computing Undergraduate Student Intern: DevOps Internship Program - Summer 2027 🇺🇸</title>
-    <link href="https://jobs.smartrecruiters.com/llnl/3743990016985486"/>
-    <updated>2026-11-20T02:56:16Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Livermore, CA, United States · LLMs, Kubernetes, Git · sponsorship: citizens-only</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:heartflowinc:6263395004</id>
-    <title>HeartFlow: Platform Engineering Intern (Summer 2027)</title>
-    <link href="https://job-boards.greenhouse.io/heartflowinc/jobs/6263395004"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, California · Kubernetes, Docker, Linux</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:mongodb:8346138</id>
-    <title>MongoDB: 2027 - AI and People Transformation Intern, NYC</title>
-    <link href="https://www.mongodb.com/careers/job/?gh_jid=8346138"/>
-    <updated>2026-11-19T21:19:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · New York City · AWS, GCP, Azure, MongoDB · H-1B track record: ~106 approvals (FY2022–2023)</summary>
   </entry>
 </feed>

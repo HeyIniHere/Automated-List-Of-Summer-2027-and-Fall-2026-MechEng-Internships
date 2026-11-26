@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-26T14:55:06Z",
+ "generated_at": "2026-11-26T23:40:30Z",
  "cycle": "Summer 2027",
  "source": "https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships",
  "companies": [
@@ -29,6 +29,20 @@
    "days_until": -1171,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/perpay/jobs/4076988007",
+   "note": ""
+  },
+  {
+   "company": "Atoms",
+   "last_cycle_posted": "",
+   "posted_on": "2026-01-06",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-01-06",
+   "days_until": -324,
+   "status": "open",
+   "url": "https://job-boards.greenhouse.io/cssmerge/jobs/8963704002",
    "note": ""
   },
   {
@@ -1894,20 +1908,6 @@
    "note": ""
   },
   {
-   "company": "MegazoneCloud",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-11",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-11",
-   "days_until": -76,
-   "status": "open",
-   "url": "https://jobs.ashbyhq.com/megazone/fde09888-986f-4207-88fe-3ff5b921a1fa",
-   "note": ""
-  },
-  {
    "company": "Xcimer Energy",
    "last_cycle_posted": "",
    "posted_on": "2026-09-11",
@@ -2395,20 +2395,6 @@
    "days_until": -62,
    "status": "open",
    "url": "https://job-boards.greenhouse.io/machindustries/jobs/4420611009",
-   "note": ""
-  },
-  {
-   "company": "Blue Cross Blue Shield of Michigan",
-   "last_cycle_posted": "",
-   "posted_on": "2026-09-28",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-09-28",
-   "days_until": -59,
-   "status": "open",
-   "url": "https://ejko.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_3/job/15160",
    "note": ""
   },
   {
@@ -4176,6 +4162,20 @@
    "note": ""
   },
   {
+   "company": "Digital Control",
+   "last_cycle_posted": "",
+   "posted_on": "2026-11-25",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-11-25",
+   "days_until": -1,
+   "status": "open",
+   "url": "https://apply.workable.com/digital-control/j/AB9A181560/",
+   "note": ""
+  },
+  {
    "company": "Vertex Pharmaceuticals",
    "last_cycle_posted": "",
    "posted_on": "2026-11-25",
@@ -4832,20 +4832,6 @@
    "status": "dropped",
    "url": "",
    "note": "opens fall for next summer"
-  },
-  {
-   "company": "Atoms",
-   "last_cycle_posted": "",
-   "posted_on": "2026-08-06",
-   "precision": "day",
-   "rolling": false,
-   "confidence": "verified",
-   "source": "engine",
-   "expected": "2026-08-06",
-   "days_until": -112,
-   "status": "dropped",
-   "url": "",
-   "note": ""
   },
   {
    "company": "Duke Energy",
@@ -5884,6 +5870,20 @@
    "note": ""
   },
   {
+   "company": "MegazoneCloud",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-11",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-11",
+   "days_until": -76,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
    "company": "TD Bank",
    "last_cycle_posted": "",
    "posted_on": "2026-09-13",
@@ -6327,6 +6327,20 @@
    "source": "engine",
    "expected": "2026-09-25",
    "days_until": -62,
+   "status": "dropped",
+   "url": "",
+   "note": ""
+  },
+  {
+   "company": "Blue Cross Blue Shield of Michigan",
+   "last_cycle_posted": "",
+   "posted_on": "2026-09-28",
+   "precision": "day",
+   "rolling": false,
+   "confidence": "verified",
+   "source": "engine",
+   "expected": "2026-09-28",
+   "days_until": -59,
    "status": "dropped",
    "url": "",
    "note": ""
@@ -7186,5 +7200,5 @@
    "note": ""
   }
  ],
- "count": 513
+ "count": 514
 }

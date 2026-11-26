@@ -915,11 +915,13 @@
    "name": "Atoms",
    "cycles": {
     "Summer 2027": {
-     "first_posted": "2026-08-06",
+     "first_posted": "2026-01-06",
      "role_ids": [
-      "greenhouse:cssmerge:8687896002"
+      "greenhouse:atoms:8356100002",
+      "greenhouse:cssmerge:8687896002",
+      "greenhouse:cssmerge:8963704002"
      ],
-     "count": 1
+     "count": 3
     }
    }
   },
@@ -2163,6 +2165,18 @@
      "first_posted": "2026-09-08",
      "role_ids": [
       "workday:devonenergy:/job/Oklahoma-City-OK/Cyber-Security-Intern-2027_R26303-1"
+     ],
+     "count": 1
+    }
+   }
+  },
+  "digital control": {
+   "name": "Digital Control",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-25",
+     "role_ids": [
+      "workable:digital-control:AB9A181560"
      ],
      "count": 1
     }
@@ -8605,5 +8619,5 @@
    }
   }
  },
- "updated_at": "2026-11-26T14:54:59Z"
+ "updated_at": "2026-11-26T23:40:24Z"
 }

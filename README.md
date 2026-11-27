@@ -8,7 +8,7 @@
 
 ### 1650 open roles (621 listed below) · 84 new this week
 
-5,111 employers tracked · updated Nov 27, 2026 at 07:46 UTC
+5,111 employers tracked · updated Nov 27, 2026 at 18:01 UTC
 
 _1175 have a cycle the employer stated · 475 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
@@ -81,7 +81,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Lightmatter | Firmware Intern – Summer 2027 🆕 | Hardware | Boston, MA | Nov 25, 2026 | [Apply](https://boards.greenhouse.io/lightmatter/jobs/5492829008?gh_jid=5492829008) |
 | Stantec ✓ | Mechanical Engineering Intern - Buildings (Summer 2027) 🆕 | Hardware | Seattle, WA, United States | Nov 25, 2026 | [Apply](https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009026) |
 | Vertex Pharmaceuticals ✓ | Summer Intern 2027, Digital Pathology and AI Validation 🛂 🆕 | Data & ML/AI | Boston, MA | Nov 25, 2026 | [Apply](https://vrtx.wd501.myworkdayjobs.com/vertex_careers/job/Boston-MA/Summer-Intern-2027--Digital-Pathology-and-AI-Validation_REQ-31421-1) |
-| NBCUniversal ✓ | Universal Studios Hollywood, Finance & Strategy, Business Analytics & Industrial Engineering Internship – Summer 2027 🆕 | Data & ML/AI | Universal City +2 more | Nov 25, 2026 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163602429) |
+| NBCUniversal ✓ | Universal Studios Hollywood, Finance & Strategy, Business Analytics & Industrial Engineering Internship – Summer 2027 | Data & ML/AI | Universal City +2 more | Nov 25, 2026 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163602429) |
 | NBCUniversal ✓ | Universal Studios Hollywood, Technical Services, Mechanical Engineering Internship – Summer 2027 | Hardware | Universal City +2 more | Nov 25, 2026 | [Apply](https://jobs.smartrecruiters.com/NBCUniversal3/744000163583264) |
 | Bandwidth ✓ | Software Engineer Intern - Summer 2027 | Software | Raleigh, NC | Nov 24, 2026 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414426) |
 | Bandwidth ✓ | Software Engineer Intern - Summer 2027 | Software | Raleigh, NC | Nov 24, 2026 | [Apply](https://job-boards.greenhouse.io/bandwidth/jobs/8414430) |
@@ -419,7 +419,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Clera | Product Engineer Intern, Mobile 🆕 | Software | United States | Nov 26, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/dc18d62b-baf7-4cc1-8bda-7f8985fe10de) |
 | Xona Space Systems | Software Engineering (Engineering Productivity) Intern 🇺🇸 🆕 | Software | Burlingame, California | Nov 25, 2026 | [Apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab) |
 | QuEra Computing | Internship – Technical Product Management 🆕 | Software | Boston, MA, USA | Nov 25, 2026 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
-| ConnectPrep | Data Analyst Internship 🇺🇸 🏠 🆕 | Data & ML/AI | Washington +2 more | Nov 25, 2026 | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/) |
+| ConnectPrep | Data Analyst Internship 🇺🇸 🏠 | Data & ML/AI | Washington +2 more | Nov 25, 2026 | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/) |
 | PatientPoint | Data Engineer Intern 🆕 | Data & ML/AI | Cincinnati, Ohio, United States | Nov 24, 2026 | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | BEUMER Group | AI Development Intern | Data & ML/AI | Somerset, New Jersey, United States | Nov 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
 | Intuitive Surgical ✓ | Product Management MBA Intern | Software | Sunnyvale, CA, United States | Nov 24, 2026 | [Apply](https://jobs.smartrecruiters.com/Intuitive/744000163546809) |
@@ -818,7 +818,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,280 of 5,290 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 62% of the full registry) · completed in 192.3s · 31 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,269 of 5,290 registered boards returned successfully across 12 ATS platforms (94% of boards attempted, 61% of the full registry) · completed in 143.6s · 30 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

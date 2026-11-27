@@ -5,31 +5,15 @@
   <subtitle>Auto-detected internships, newest finds first.</subtitle>
   <link href="https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml" rel="self"/>
   <link href="https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships"/>
-  <updated>2026-11-26T23:40:30Z</updated>
+  <updated>2026-11-27T07:46:50Z</updated>
   <author><name>Internship Engine</name><uri>https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships</uri></author>
   <entry>
-    <id>urn:intern-engine:greenhouse:cssmerge:8963704002</id>
-    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
-    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"/>
-    <updated>2026-11-26T23:40:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:greenhouse:atoms:8356100002</id>
-    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
-    <link href="https://job-boards.greenhouse.io/atoms/jobs/8356100002"/>
-    <updated>2026-11-26T23:40:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:workable:digital-control:AB9A181560</id>
-    <title>Digital Control: Software Engineering Intern</title>
-    <link href="https://apply.workable.com/digital-control/j/AB9A181560/"/>
-    <updated>2026-11-26T23:40:24Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Software · Kent, Washington, United States · $27/hr · Python, C++, Linux</summary>
+    <id>urn:intern-engine:workday:tranetechnologies:/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-20529</id>
+    <title>Tranetechnologies: Manufacturing Engineering Intern</title>
+    <link href="https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-20529"/>
+    <updated>2026-11-27T07:46:46Z</updated>
+    <category term="Not stated"/>
+    <summary>Not stated · Hardware · Grand Rapids, Michigan</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:xona-space:4bf79312-d4c4-4ae2-bdfc-85c9e63937ad</id>
@@ -46,6 +30,30 @@
     <updated>2026-11-26T23:40:24Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Software · Burlingame, California · $40 – $45 per hour · Python, C++, Rust, Git · sponsorship: citizens-only</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:atoms:8356100002</id>
+    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
+    <link href="https://job-boards.greenhouse.io/atoms/jobs/8356100002"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:greenhouse:cssmerge:8963704002</id>
+    <title>Atoms: Software Engineering Intern - 2027 Summer Term</title>
+    <link href="https://job-boards.greenhouse.io/cssmerge/jobs/8963704002"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · San Francisco, CA · $70/hr · Python, Java, C++, Kotlin</summary>
+  </entry>
+  <entry>
+    <id>urn:intern-engine:workable:digital-control:AB9A181560</id>
+    <title>Digital Control: Software Engineering Intern</title>
+    <link href="https://apply.workable.com/digital-control/j/AB9A181560/"/>
+    <updated>2026-11-26T23:40:24Z</updated>
+    <category term="Summer 2027"/>
+    <summary>Summer 2027 · Software · Kent, Washington, United States · $27/hr · Python, C++, Linux</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:ashby:clera:dc18d62b-baf7-4cc1-8bda-7f8985fe10de</id>
@@ -486,14 +494,6 @@
     <updated>2026-11-23T21:06:21Z</updated>
     <category term="Not stated"/>
     <summary>Not stated · Hardware · Fairburn, GA, United States</summary>
-  </entry>
-  <entry>
-    <id>urn:intern-engine:oracle:hdhl.fa.us6.oraclecloud.com:1009005</id>
-    <title>Stantec: Data Scientist Intern - Water (Summer 2027)</title>
-    <link href="https://hdhl.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/1009005"/>
-    <updated>2026-11-23T21:06:21Z</updated>
-    <category term="Summer 2027"/>
-    <summary>Summer 2027 · Data &amp; ML/AI · San Diego, CA, United States · Python, SQL, PyTorch, TensorFlow, scikit-learn · H-1B track record: ~96 approvals (FY2022–2023)</summary>
   </entry>
   <entry>
     <id>urn:intern-engine:oracle:iadugs.fa.ocs.oraclecloud.com:1983</id>

@@ -6,11 +6,11 @@
 
 [![CI](https://img.shields.io/github/actions/workflow/status/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/ci.yml?branch=main&label=tests&style=flat-square&color=3fb950)](https://github.com/HeyIniHere/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/actions/workflows/ci.yml)&nbsp;[![Open roles](https://img.shields.io/badge/dynamic/json?label=open%20roles&query=open_total&url=https%3A%2F%2Fheyinihere.github.io%2FAutomated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships%2Fapi%2Fstats.json&color=2f81f7&style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)&nbsp;![Updates](https://img.shields.io/badge/updates-every%20hour-3fb950?style=flat-square)&nbsp;[![RSS](https://img.shields.io/badge/RSS-subscribe-e67e22?style=flat-square)](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)
 
-### 1651 open roles (620 listed below) · 77 new this week
+### 1651 open roles (618 listed below) · 77 new this week
 
-5,114 employers tracked · updated Nov 28, 2026 at 01:24 UTC
+5,114 employers tracked · updated Nov 28, 2026 at 10:11 UTC
 
-_1177 have a cycle the employer stated · 474 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
+_1179 have a cycle the employer stated · 472 are recent postings whose cycle isn't stated (listed separately, never mixed in)._
 
 **[🖥️ Live dashboard](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/)** · **[📡 RSS](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/feed.xml)** · **[⚙️ JSON API](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/api/jobs.json)** · **[✉️ Email alerts](https://heyinihere.github.io/Automated-List-Of-Summer-2027-and-Fall-2026-MechEng-Internships/#subscribe)**
 
@@ -409,7 +409,7 @@ I'm building this in the open and adding to it as it grows. Recently shipped: **
 | Alloy Enterprises | Co-Op, Thermal Test Engineer, Fall 2026 (July-December) 🇺🇸 | Hardware | Burlington, MA | Mar 25, 2026 | [Apply](https://jobs.ashbyhq.com/alloyenterprises/946e7ae1-d2ac-4889-a72a-268b0aeda9bd) |
 | Amazon ✓ | Robotics - Hardware Development Engineer Intern/Co-op - 2026 (Robotics, Mechanical, Electrical, Hardware Test, Reliability, Failure Analysis, Operations, and more) | Hardware | Westboro, Massachusetts, USA | Dec 17, 2025 | [Apply](https://www.amazon.jobs/en/jobs/3145033/robotics-hardware-development-engineer-intern-co-op-2026-robotics-mechanical-electrical-hardware-test-reliability-failure-analysis-operations-and-more) |
 
-## Recently posted — cycle not stated  (293 roles)
+## Recently posted — cycle not stated  (291 roles)
 
 These postings never name a cycle — not in the title, not in the posting text — so neither do we. They're recent tech internships (posted within the last few weeks), often exactly the early drops worth applying to first; we just can't tell you which cycle they're for, and we'd rather say so than guess. The moment a posting's own text states a cycle, the role moves up into that section automatically.
 
@@ -418,7 +418,7 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Tranetechnologies | Manufacturing Engineering Intern 🆕 | Hardware | Grand Rapids, Michigan | Nov 26, 2026 | [Apply](https://tranetechnologies.wd12.myworkdayjobs.com/trane_technologies_careers/job/Grand-Rapids-Michigan/Manufacturing-Engineering-Intern_JR-20529) |
 | Clera | Product Engineer Intern, Mobile 🆕 | Software | United States | Nov 26, 2026 | [Apply](https://jobs.ashbyhq.com/Clera/dc18d62b-baf7-4cc1-8bda-7f8985fe10de) |
 | Xona Space Systems | Software Engineering (Engineering Productivity) Intern 🇺🇸 🆕 | Software | Burlingame, California | Nov 25, 2026 | [Apply](https://jobs.ashbyhq.com/xona-space/d3549244-52e2-4894-87f9-99fc8cbe26ab) |
-| QuEra Computing | Internship – Technical Product Management 🆕 | Software | Boston, MA, USA | Nov 25, 2026 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
+| QuEra Computing | Internship – Technical Product Management | Software | Boston, MA, USA | Nov 25, 2026 | [Apply](https://job-boards.greenhouse.io/queracomputinginc/jobs/5495037008) |
 | ConnectPrep | Data Analyst Internship 🇺🇸 🏠 | Data & ML/AI | Washington +2 more | Nov 25, 2026 | [Apply](https://apply.workable.com/connectprep/j/9F465A2E1A/) |
 | PatientPoint | Data Engineer Intern | Data & ML/AI | Cincinnati, Ohio, United States | Nov 24, 2026 | [Apply](https://job-boards.greenhouse.io/patientpointinviteonly/jobs/4755910005) |
 | BEUMER Group | AI Development Intern | Data & ML/AI | Somerset, New Jersey, United States | Nov 24, 2026 | [Apply](https://jobs.smartrecruiters.com/BEUMERGroup1/744000163483739) |
@@ -460,7 +460,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Castelion | Intern, PCBA Manufacturing 🇺🇸 | Hardware | Torrance, CA | Nov 17, 2026 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4509752009) |
 | Castelion | Intern, Harness Manufacturing 🇺🇸 | Hardware | Torrance, CA | Nov 17, 2026 | [Apply](https://job-boards.greenhouse.io/castelioncorporation/jobs/4509759009) |
 | Toyota Research Institute ✓ | Robotics Intern, Agentic Robotics | Hardware | Cambridge, MA | Nov 17, 2026 | [Apply](https://jobs.lever.co/tri/7f676d3c-6a86-4b00-a9fd-c1009035fe49) |
-| Emerson Electric | Software Engineering Intern | Software | Austin, TX, United States | Nov 17, 2026 | [Apply](https://hdjq.fa.us2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1/job/26013632) |
 | Bosch | AI Application Intern (8 months/40 hours per week) | Data & ML/AI | Farmington Hills, MI, United States | Nov 17, 2026 | [Apply](https://jobs.smartrecruiters.com/BoschGroup/744000162076254) |
 | State of Wisconsin Investment Board | Information Security Intern | Security | Madison Wisconsin | Nov 16, 2026 | [Apply](https://swib.wd12.myworkdayjobs.com/ext/job/Madison-Wisconsin/Information-Security-Intern_R-001332) |
 | Minitab | Software Engineering Intern | Software | State College +2 more | Nov 16, 2026 | [Apply](https://job-boards.greenhouse.io/minitab/jobs/8200708003) |
@@ -621,7 +620,6 @@ These postings never name a cycle — not in the title, not in the posting text 
 | Trimble ✓ | People Development AI & Digital Learning Intern | Data & ML/AI | US - CO, Westminster | Oct 22, 2026 | [Apply](https://trimble.wd1.myworkdayjobs.com/TrimbleCareers/job/US---CO-Westminster/People-Development-AI---Digital-Learning-Intern_R57819) |
 | ZOLL Medical Corporation | Manufacturing Engineering Intern | Hardware | US CA San Jose | Oct 22, 2026 | [Apply](https://zoll.wd5.myworkdayjobs.com/ZOLLMedicalCorp/job/US-CA-San-Jose/Manufacturing-Engineering-Intern_R20618) |
 | OpenArt AI | Early Adopter & Product Builder Intern, Creative AI | Data & ML/AI | San Carlos, California, USA | Oct 22, 2026 | [Apply](https://jobs.ashbyhq.com/openart/8dd52ba6-a5b6-40b1-95fe-50de352fa254) |
-| Teledyne | Mechanical Engineering Intern - CW | Hardware | US - Wilsonville, OR | Oct 22, 2026 | [Apply](https://flir.wd1.myworkdayjobs.com/flircareers/job/US---Wilsonville-OR/Mechanical-Engineering-Intern---CW_REQ37514) |
 | Rhoda AI | Software Engineer Intern, Inference | Software | Sunnyvale, CA | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/rhoda-ai/2de33083-782f-489e-9b91-f40761a36bf4) |
 | Rhoda AI | Software Engineer Intern, Rhoda Platform | Software | Sunnyvale, CA | Oct 21, 2026 | [Apply](https://jobs.ashbyhq.com/rhoda-ai/9a57c8ff-dd2b-4547-a46a-44658a699ba5) |
 | Whataburger | Data Scientist Intern | Data & ML/AI | 300 Concord Plaza Dr San Antonio TX 782… | Oct 21, 2026 | [Apply](https://whataburger.wd5.myworkdayjobs.com/WAB_CAREERS/job/300-Concord-Plaza-Dr-San-Antonio-TX-78216-6903/Data-Scientist-Intern_JR10014201) |
@@ -817,7 +815,7 @@ Internships posted per week, from each role's real published date - redrawn auto
 
 A small Python engine reads public company hiring feeds directly, keeps the roles that match the scope above, de-duplicates across sources, records each role's published date once (so it never shifts), and regenerates this page through GitHub Actions. It polls every company concurrently (async) with retry/backoff and per-host rate limits. The full source is in this repo.
 
-_Engine (last run): 3,250 of 5,294 registered boards returned successfully across 12 ATS platforms (97% of boards attempted, 61% of the full registry) · completed in 126.8s · 28 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
+_Engine (last run): 3,299 of 5,294 registered boards returned successfully across 12 ATS platforms (72% of boards attempted, 62% of the full registry) · completed in 630.0s · 29 board(s) returned a capped result set, so their roles were not eligible to be closed this run · employer or source-derived date on 99% of open roles._
 
 ## How this list is built
 

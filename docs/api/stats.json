@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-28T01:24:04Z",
- "duration_seconds": 126.8,
+ "generated_at": "2026-11-28T10:11:33Z",
+ "duration_seconds": 630.0,
  "companies_total": 5294,
  "companies_by_source": {
   "greenhouse": 1241,
@@ -16,24 +16,25 @@
   "breezy": 20,
   "eightfold": 1
  },
- "quarantined": 1947,
- "fetched_ok": 3250,
- "fetch_errors": 97,
+ "quarantined": 717,
+ "fetched_ok": 3299,
+ "fetch_errors": 1278,
  "errors_by_source": {
-  "workday": 88,
-  "ashby": 2,
-  "workable": 5,
-  "lever": 1,
-  "greenhouse": 1
+  "recruitee": 1,
+  "workday": 1185,
+  "lever": 4,
+  "greenhouse": 12,
+  "ashby": 10,
+  "workable": 66
  },
- "fetch_success_rate": 0.971,
- "fetch_success_rate_registry": 0.614,
- "snapshots_complete": 3222,
- "snapshots_partial": 28,
- "roles_matched": 634,
- "dropped_no_year_in_title": 478,
- "dropped_offcycle_by_text": 112,
- "roles_cycle_inferred": 474,
+ "fetch_success_rate": 0.721,
+ "fetch_success_rate_registry": 0.623,
+ "snapshots_complete": 3270,
+ "snapshots_partial": 29,
+ "roles_matched": 663,
+ "dropped_no_year_in_title": 493,
+ "dropped_offcycle_by_text": 125,
+ "roles_cycle_inferred": 472,
  "roles_by_source": {
   "amazon": 22,
   "ashby": 103,
@@ -41,31 +42,31 @@
   "eightfold": 1,
   "greenhouse": 305,
   "lever": 88,
-  "oracle": 21,
+  "oracle": 20,
   "rippling": 12,
   "smartrecruiters": 151,
   "workable": 18,
-  "workday": 928
+  "workday": 929
  },
  "roles_by_cycle": {
-  "Summer 2027": 1142,
+  "Summer 2027": 1144,
   "Fall 2026": 36,
-  "Not stated": 474
+  "Not stated": 472
  },
  "roles_by_region": {
   "US": 1651
  },
  "sponsorship_counts": {
-  "unknown": 1046,
+  "unknown": 1045,
   "citizens-only": 442,
-  "no-sponsorship": 152,
+  "no-sponsorship": 153,
   "offers": 11
  },
  "posted_date_coverage": 0.993,
- "enriched_this_run": 1,
- "enrichment_detail_fetches": 1,
- "purged_this_run": 1,
- "new_this_run": 1,
+ "enriched_this_run": 0,
+ "enrichment_detail_fetches": 0,
+ "purged_this_run": 0,
+ "new_this_run": 0,
  "open_total": 1651,
  "detection_latency": {
   "median_minutes": 156.1,

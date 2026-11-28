@@ -3643,6 +3643,18 @@
     }
    }
   },
+  "iconiq capital": {
+   "name": "ICONIQ Capital",
+   "cycles": {
+    "Summer 2027": {
+     "first_posted": "2026-11-13",
+     "role_ids": [
+      "greenhouse:iconiqhandshake:8386455"
+     ],
+     "count": 1
+    }
+   }
+  },
   "id me": {
    "name": "ID.me",
    "cycles": {
@@ -8619,5 +8631,5 @@
    }
   }
  },
- "updated_at": "2026-11-27T18:01:18Z"
+ "updated_at": "2026-11-28T01:24:04Z"
 }
